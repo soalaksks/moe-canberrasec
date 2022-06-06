@@ -2,6 +2,7 @@ collections:
   discover-canberra:
     output: true
     order:
+      - Our Cohorts/Sec Four & Five.md
       - Our Cohorts/Sec One.md
       - Our Cohorts/.keep
       - Learning for Life (LLP).md
