@@ -2,6 +2,7 @@ collections:
   our-canberra:
     output: true
     order:
+      - Canberra at a Glance/Mission and Vision.md
       - Canberra at a Glance/School Logo.md
       - Canberra at a Glance/School Song.md
       - Canberra at a Glance/.keep
