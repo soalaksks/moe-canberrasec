@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Webinar Resources/Webinar Resources.md
       - Webinar Resources/.keep
       - Personal Learning Device.md
       - PLD Information Kit.md
