@@ -2,6 +2,7 @@ collections:
   discover-canberra:
     output: true
     order:
+      - Our Cohorts/Sec Two.md
       - Our Cohorts/Sec Three.md
       - Our Cohorts/Sec Four & Five.md
       - Our Cohorts/Sec One.md
