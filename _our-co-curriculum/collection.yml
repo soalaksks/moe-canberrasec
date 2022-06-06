@@ -2,7 +2,7 @@ collections:
   our-co-curriculum:
     output: true
     order:
-      - Uniformed Groups/Example Title.md
+      - Uniformed Groups/National Cadet Corps (SEA).md
       - Uniformed Groups/.keep
       - Uniformed Groups/National Police Cadet Corp (NPCC).md
       - Uniformed Groups/National Civil Defence Cadet Corps (NCDCC).md
