@@ -2,4 +2,5 @@ collections:
   partners-of-canberra:
     output: true
     order:
+      - Canberran Alumni.md
       - Friends of Canberra.md
