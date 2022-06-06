@@ -60,19 +60,6 @@ links:
         url: /students/class-exam-time-table/
       - title: Quick Links
         url: /students/quick-links
-  - title: Teachers
-    url: /teachers/quick-links
-  - title: Contact Us
-    url: /contact-us/
-  - title: Portal
-    url: /permalink
-    sublinks:
-      - title: Students
-        url: /students/student-leadership-n-recognition
-      - title: Parents
-        url: /permalink
-      - title: Teachers
-        url: /teachers/quick-links
   - title: Parents
     url: /parents/letter-to-parents
     sublinks:
@@ -94,3 +81,5 @@ links:
         url: /parents/dsa/direct-school-admission-dsa
       - title: Quick Links
         url: /parents/quick-links
+  - title: Teachers
+    url: /teachers/quick-links
