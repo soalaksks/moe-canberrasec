@@ -6,8 +6,12 @@ description: ""
 <table width="100%">
 <tbody>
 <tr>
-<td bgcolor="#EEEEEE"><strong>Date</strong></td>
-<td bgcolor="#EEEEEE"><strong>Event</strong></td>
+<td bgcolor="#EEEEEE">
+<p><strong>Date</strong></p>
+</td>
+<td bgcolor="#EEEEEE">
+<p><strong>Event</strong></p>
+</td>
 </tr>
 <tr>
 <td>
