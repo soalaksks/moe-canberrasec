@@ -2,7 +2,6 @@ collections:
   discover-canberra:
     output: true
     order:
-      - Our Co Curriculum.md
       - Our Cohorts/.keep
       - Our Cohorts/Sec One.md
       - Our Cohorts/Sec Two.md
