@@ -2,5 +2,6 @@ collections:
   parents:
     output: true
     order:
+      - DSA/Applied learning Programme.md
       - DSA/.keep
       - Quick Links.md
