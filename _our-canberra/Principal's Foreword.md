@@ -130,10 +130,6 @@ description: ""
 <p>We cannot achieve this&nbsp;<span style="color: #ff6600;"><strong>GRC</strong>&nbsp;</span>Vision alone. Whether you are an educator, student, parent, senior, resident or community partner, we invite you to join us to be the spark that will ignite the fire of&nbsp;<span style="color: #ff6600;"><strong>GRC</strong>&nbsp;</span>spirit in Sembawang GRC by 2024.</p>
 <p>Please join us to&nbsp;<strong>Make The Difference</strong>.</p>
 <p>Thank you.</p>
-</div>
-</div>
-<div>
-<div>
 <p><strong>Mr Ng Tiong Nam<br /></strong><strong>Principal<br /></strong><strong>Canberra Secondary School</strong></p>
 </div>
 </div>
