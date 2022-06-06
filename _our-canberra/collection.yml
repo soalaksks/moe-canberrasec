@@ -2,6 +2,7 @@ collections:
   our-canberra:
     output: true
     order:
+      - Principal's Foreword.md
       - Canberra at a Glance/.keep
       - Canberra at a Glance/School Song.md
       - Canberra at a Glance/School Logo.md
@@ -9,4 +10,3 @@ collections:
       - Our Highlights.md
       - Our Staff.md
       - Yearbook 2021.md
-      - Principal's Foreword.md
