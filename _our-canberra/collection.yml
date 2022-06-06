@@ -1,4 +1,5 @@
 collections:
   our-canberra:
     output: true
-    order: []
+    order:
+      - Principal's Foreword.md
