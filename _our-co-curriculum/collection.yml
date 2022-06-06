@@ -2,6 +2,7 @@ collections:
   our-co-curriculum:
     output: true
     order:
+      - Uniformed Groups/National Police Cadet Corp (NPCC).md
       - Uniformed Groups/National Civil Defence Cadet Corps (NCDCC).md
       - Uniformed Groups/Boy's Brigade.md
       - Uniformed Groups/.keep
