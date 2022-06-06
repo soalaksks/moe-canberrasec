@@ -2,9 +2,9 @@ collections:
   parents:
     output: true
     order:
-      - Webinar Resources/2021 Sec 1 Webinar.md
-      - Webinar Resources/Webinar Resources.md
       - Webinar Resources/.keep
+      - Webinar Resources/Webinar Resources.md
+      - Webinar Resources/2021 Sec 1 Webinar.md
       - Personal Learning Device.md
       - PLD Information Kit.md
       - Cyberwellness Guides.md
