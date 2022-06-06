@@ -13,5 +13,16 @@ links:
         url: /our-canberra/our-staff
       - title: Yearbook 2021
         url: /our-canberra/yearbook-2021
+  - title: Partners of Canberra
+    url: /partners-of-canberra/school-advisory-committee
+    sublinks:
+      - title: School Advisory Committee
+        url: /partners-of-canberra/school-advisory-committee
+      - title: Parent Support Group
+        url: /partners-of-canberra/parent-support-group
+      - title: Canberran Alumni
+        url: /partners-of-canberra/canberran-alumni
+      - title: Friends of Canberra
+        url: /partners-of-canberra/friends-of-canberra
   - title: Contact Us
     url: /contact-us/
