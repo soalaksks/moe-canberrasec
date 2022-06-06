@@ -2,5 +2,6 @@ collections:
   partners-of-canberra:
     output: true
     order:
+      - Parent Support Group.md
       - Canberran Alumni.md
       - Friends of Canberra.md
