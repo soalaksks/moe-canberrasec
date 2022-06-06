@@ -2,5 +2,6 @@ collections:
   our-co-curriculum:
     output: true
     order:
+      - Sports/.keep
       - Badminton.md
       - Volleyball.md
