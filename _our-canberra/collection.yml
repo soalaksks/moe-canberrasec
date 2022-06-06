@@ -1,0 +1,4 @@
+collections:
+  our-canberra:
+    output: true
+    order: []
