@@ -39,6 +39,27 @@ links:
         url: /discover-canberra/applied-learning-alp
       - title: Leadership & Recognition
         url: /discover-canberra/student-leadership-n-recognition
+  - title: Students
+    url: /students/student-leadership-n-recognition
+    sublinks:
+      - title: Leadership & Recognition
+        url: /students/student-leadership-n-recognition
+      - title: Student Suggestion Scheme (3S)
+        url: /students/student-suggestion-scheme-3s
+      - title: PLD Acceptable Use Policy
+        url: https://canberrasec.moe.edu.sg/qql/slot/u150/2021/Students/PLD%20Acceptable%20Use%20Policy/AUP_22%20Apr%2021.pdf
+      - title: e-Student Handbook
+        url: /students/e-student-handbook
+      - title: Student ICON Onboarding Guide
+        url: https://canberrasec.moe.edu.sg/qql/slot/u150/2021/Students/Student%20ICON/Student%20iCON%20Onboarding%20Guide.pdf
+      - title: Uniform and Booklist for 2022
+        url: /students/uniform-and-booklist-for-year-2022
+      - title: Library OPAC
+        url: https://schoolibrary.moe.edu.sg/canberrasec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
+      - title: Class & Exam Timetable
+        url: /students/class-exam-time-table/
+      - title: Quick Links
+        url: /students/quick-links
   - title: Contact Us
     url: /contact-us/
   - title: Portal
