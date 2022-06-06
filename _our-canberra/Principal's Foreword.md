@@ -74,3 +74,47 @@ description: ""
 </div>
 
 ![](/images/PF2.png)
+	<p style="text-align: center;">Grateful for the partnership with Constituency directors of Canberra and Sembawang Central as well as CEO of Blossom Seeds</p>
+	<p>When&nbsp;<strong><span style="color: #d13438;">GRC&nbsp;</span></strong>@Sembawang GRC Vision 2024 is realised, three things will happen. There will be :</p>
+<div>
+<ol>
+<li>
+<p><strong>No more abandoned parents&nbsp;</strong>(elderly abandoned by their children either physically or emotionally),</p>
+</li>
+<li>
+<p><strong>No more abused people&nbsp;</strong>(like wheelchair-bound Uncle David beaten by others or the domestic helper who was abused to death) and</p>
+</li>
+</ol>
+</div>
+<div>
+<div style="float: left">
+<img src="/images/PF3.png" 
+     style="width:85%">
+</div>
+<div style="float: right">
+<img src="/images/PF4.png" 
+     style="width:90%">
+</div>
+</div>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%; text-align: center;">
+<p>Mr Ng models the way for our Student Leaders by celebrating the life of Uncle David</p>
+</td>
+<td style="width: 50%; text-align: center;">
+<p>No more abused or lonely people : A lifelong friendship with those in need</p>
+</td>
+</tr>
+</tbody>
+</table>
+<ol>
+<ol>
+<li><strong>No more lonely people&nbsp;</strong>(like the elderly lady who died in her home but her death was discovered only after two years).</li>
+</ol>
+</ol>
+
+![](/images/PF5.png)
+<p style="text-align: center;">It takes two to tango: Youth and Seniors forge a special friendship</p>
+
+![](/images/PF6.png)
