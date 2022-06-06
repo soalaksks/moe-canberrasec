@@ -1,6 +1,17 @@
 logo: /images/logo.png
 links:
+  - title: Our Canberra
+    url: /our-canberra/principals-foreword
+    sublinks:
+      - title: Principal's Foreword
+        url: /our-canberra/principals-foreword
+      - title: Canberra at a Glance
+        url: /our-canberra/canberra-at-a-glance/school-song
+      - title: Our Highlights
+        url: /our-canberra/our-highlights
+      - title: Our Staff
+        url: /our-canberra/our-staff
+      - title: Yearbook 2021
+        url: /our-canberra/yearbook-2021
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
