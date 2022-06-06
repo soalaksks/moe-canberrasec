@@ -2,4 +2,5 @@ collections:
   students:
     output: true
     order:
+      - Quick Links.md
       - Student Leadership & Recognition.md
