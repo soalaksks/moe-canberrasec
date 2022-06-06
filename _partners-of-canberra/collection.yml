@@ -2,6 +2,7 @@ collections:
   partners-of-canberra:
     output: true
     order:
+      - School Advisory Committee.md
       - Parent Support Group.md
       - Canberran Alumni.md
       - Friends of Canberra.md
