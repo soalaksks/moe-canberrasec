@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Student Leadership & Recognition.md
       - Student Suggestion Scheme (3S).md
       - PLD Acceptable Use Policy.md
       - eStudent Handbook.md
@@ -10,4 +11,3 @@ collections:
       - Class & Exam Timetable.md
       - Library Online Public Access Catalogue (OPAC).md
       - Quick Links.md
-      - Student Leadership & Recognition.md
