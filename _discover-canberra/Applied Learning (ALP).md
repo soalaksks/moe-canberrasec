@@ -3,7 +3,6 @@ title: Applied Learning (ALP)
 permalink: /discover-canberra/applied-learning-alp
 description: ""
 ---
-
 <div id="_ptoo_61259" class="pageblock_box ">
 <h3 id="_ptoh_61259" class="ive_editable ive_ptoh"><strong>Introduction</strong></h3>
 <div id="_ptod_61259" class="ive_editable ive_ptod ive_content">
