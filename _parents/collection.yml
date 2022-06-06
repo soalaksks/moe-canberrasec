@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - DSA/Direct School Admission (DSA).md
       - DSA/Applied learning Programme.md
       - DSA/.keep
       - Quick Links.md
