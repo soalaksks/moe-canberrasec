@@ -18,4 +18,37 @@ description: ""
 <div id="_ptod_61260" class="ive_editable ive_ptod ive_content">
 <p><strong>Art and ICT lesson &ndash; Students trying to apply Art knowledge using DSLR camera and editing software to edit the photographs taken.</strong></p>
 </div>
+</div
+	
+![](/images/2016-alp-11.jpg)
+<p><strong>Art and ICT lesson &ndash; Art critique during Art lesson</strong></p>
+
+![](/images/2016-alp-12.jpg)
+<p><strong>Art and ICT lesson: Students trying out editing software to edit their photographs taken earlier.&nbsp;</strong></p>
+
+![](/images/2016-alp-13.jpg)
+<p><strong>Art and ICT lesson: Trying out photography techniques learnt during ICT lesson.</strong></p>
+
+<div>
+<h3><strong>Digital Media in Visual Arts (DMA) Club</strong></h3>
+<div>
+<p>The Digital Media in Visual Arts Club serves as an avenue for students to pursue their interest in digital media such as photography and videography as a CCA.</p>
+<p>In Canberra Secondary school, we organise Photography competition once a year and this is open to other schools which is known as &ldquo;National Young Shutterbug&rdquo;. The objective of this event is to impart Digital Media skills to all primary schools (Cluster/National) in the area of digital photography. It is also to promote National Education values through cultural sites explorations and appreciation of the uniqueness in racial harmony within a multi-cultural society. Lastly we also want to promote Self-Directed learning and Collaborative Learning.</p>
+<p>Students from DMA club will apply their skills to guide the participants to understand the inter-relationships between different disciplines of digital media design, to develop social cohesiveness and awareness on the importance of racial harmony and gaining knowledge in the rich cultural heritage that Singapore possessed. It will also help to develop self-directed and collaborative learning through setting of goals and finding the right tools and strategies to achieve them.</p>
+<p>The programme benefited students because this experience will level-up their skills and competency in digital media design through better understanding of equipment controls, techniques with timely feedback by trainers. It also help students to apply the relevant skills and competency acquired immediately into practice in their role as student-trainers for each group.</p>
+<p>Through DMA club, talented students will be further developed in their knowledge of digital media productions and will be sent for participations in the various competitions such as the Singapore Digital Media Awards (SDMA). This is aligned to specialist track under the tier two programme.</p>
 </div>
+</div>
+<div>
+<div>
+<p><strong>One of the photography competitions that DMA had participated in Amazing photo race event.</strong></p>
+</div>
+</div>
+
+![](/images/2016-alp-23.jpg)
+<p><strong>DMA students conducted photo workshop with their peers after attending Singapore photo conference student workshop.</strong></p>
+
+![](/images/2016-alp-22.jpg)
+<p>The setup for &ldquo;National Young Shutterbug&rdquo; showcase at the Woodlands Regional library.</p>
+
+![](/images/2016-alp-21.jpg)
