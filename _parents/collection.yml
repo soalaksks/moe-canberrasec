@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Webinar Resources/.keep
-      - Webinar Resources.md
       - Personal Learning Device.md
       - PLD Information Kit.md
       - Cyberwellness Guides.md
