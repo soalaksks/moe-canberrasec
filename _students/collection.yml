@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Student ICON Onboarding Guide.md
       - Uniform and Booklist for Year 2022.md
       - Class & Exam Timetable.md
       - Library Online Public Access Catalogue (OPAC).md
