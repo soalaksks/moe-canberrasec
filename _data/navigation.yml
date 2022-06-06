@@ -24,8 +24,6 @@ links:
         url: /partners-of-canberra/canberran-alumni
       - title: Friends of Canberra
         url: /partners-of-canberra/friends-of-canberra
-  - title: Contact Us
-    url: /contact-us/
   - title: Discover Canberra
     url: /discover-canberra/our-curriculum
     sublinks:
@@ -41,3 +39,14 @@ links:
         url: /discover-canberra/applied-learning-alp
       - title: Leadership & Recognition
         url: /discover-canberra/student-leadership-n-recognition
+  - title: Contact Us
+    url: /contact-us/
+  - title: Portal
+    url: /permalink
+    sublinks:
+      - title: Students
+        url: /students/student-leadership-n-recognition
+      - title: Parents
+        url: /permalink
+      - title: Teachers
+        url: /teachers/quick-links
