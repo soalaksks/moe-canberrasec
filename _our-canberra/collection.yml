@@ -2,4 +2,5 @@ collections:
   our-canberra:
     output: true
     order:
+      - Yearbook 2021.md
       - Principal's Foreword.md
