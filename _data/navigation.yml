@@ -73,3 +73,24 @@ links:
         url: /permalink
       - title: Teachers
         url: /teachers/quick-links
+  - title: Parents
+    url: /parents/letter-to-parents
+    sublinks:
+      - title: Letters to Parents
+        url: /parents/letter-to-parents
+      - title: Webinar Resources
+        url: /parents/webinar-resources
+      - title: Personal Learning Device
+        url: /parents/personal-learning-device-pld-initiative
+      - title: PLD Information Kit
+        url: https://canberrasec.moe.edu.sg/qql/slot/u150/2021/Parents/2021/PDLP%20Student%20Device%20Information%20Kit.pdf
+      - title: Cyberwellness Guides
+        url: https://beta.moe.gov.sg/programmes/cyber-wellness/
+      - title: Parent Handbook (I)
+        url: https://canberrasec.moe.edu.sg/qql/slot/u150/2021/Parents/2021/Parent%20Handbook%20I%20on%20Learning%20with%20a%20Personal%20Learning%20Device.pdf
+      - title: Parent Handbook (II)
+        url: https://canberrasec.moe.edu.sg/qql/slot/u150/2021/Parents/2021/Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf
+      - title: DSA
+        url: /parents/dsa/direct-school-admission-dsa
+      - title: Quick Links
+        url: /parents/quick-links
