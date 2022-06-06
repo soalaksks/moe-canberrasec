@@ -2,5 +2,6 @@ collections:
   discover-canberra:
     output: true
     order:
+      - Learning for Life (LLP).md
       - Applied Learning (ALP).md
       - Student Leadership & Recognition.md
