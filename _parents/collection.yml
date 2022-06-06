@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - School Family Education (SFE).md
       - Parent Handbook (I) on Learning with a Personal Learning Device.md
       - Parent Handbook (II) on Learning with a Personal Learning Device.md
       - DSA/.keep
