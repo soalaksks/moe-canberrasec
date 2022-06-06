@@ -48,7 +48,29 @@ description: ""
 </div>
 <p>They leverage on one another&rsquo;s strengths as evident in&nbsp;</p>
 <blockquote>
-<div><strong>Y</strong>outh with&nbsp;<strong>E</strong>nergy<br /><strong>E</strong>ducators with&nbsp;<strong>E</strong>xpertise<br /><strong>S</strong>eniors with&nbsp;<strong>E</strong>xperience</div>
+<p><strong>Y</strong>outh with&nbsp;<strong>E</strong>nergy<br /><strong>E</strong>ducators with&nbsp;<strong>E</strong>xpertise<br /><strong>S</strong>eniors with&nbsp;<strong>E</strong>xperience</p>
 </blockquote>
+</p>
+<div>
+<div style="float: left">
+<img src="/images/PF1.png" />
+</div>
+<div>
+<p>3G volunteerism : Our senior from Blossom Seed taught our students paper quilling. These quills were then used to make a gift of appreciation for our healthcare workers.</p>
 </div>
 </div>
+<div>
+<h3>Our GRC Vision 2040</h3>
+<div>
+<p>We have a Vision that by 2040,&nbsp;<span style="color: #ff0000;"><strong>GRC</strong>&nbsp;</span>will replace 3K's to become Singapore's DNA :</p>
+<p>Instead of&nbsp;<strong>&ldquo;KiaBo&rdquo; (fear of lacking),<br /></strong>Singaporeans are&nbsp;<span style="color: #ff0000;"><strong>Grateful</strong>&nbsp;</span>that we are already enjoying one of the world&rsquo;s top 20% of healthcare, food, living condition, transport, and education in Singapore.</p>
+<p>Instead of&nbsp;<strong>&ldquo;KiaSu&rdquo; (fear of losing),<br /></strong>Singaporeans win others over by being&nbsp;<span style="color: #ff0000;"><strong>Respectful</strong></span>.</p>
+<p>Instead of&nbsp;<strong>&ldquo;KiaSi&rdquo; (fear of dying),<br /></strong>By meeting the real needs of the community, Singaporeans make the difference in the lives of others with our&nbsp;<span style="color: #ff0000;"><strong>Compassionate</strong>&nbsp;</span>hearts.</p>
+<div>
+<h3>Vision 2024 : GRC@Sembawang GRC</h3>
+<div>
+<p>While we Dream Big, we will Start Small, right from our sphere of influence &ndash; Sembawang &ndash; where the school is located. We aspire to work with our strategic partners to make&nbsp;<span style="color: #ff0000;"><strong>GRC</strong>&nbsp;</span><strong>the DNA of Sembawang GRC by 2024</strong>.</p>
+</div>
+</div>
+
+![](/images/PF2.png)
