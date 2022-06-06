@@ -70,7 +70,9 @@ description: ""
 </ul>
 <p><br />If you wish to appeal for your child for a transfer in to Canberra Secondary School, you may do so using the following link:&nbsp;<a href="https://go.gov.sg/cbs-s1-appeal">https://go.gov.sg/cbs-s1-appeal</a>. You may also scan the QR Code below.</p>
 
-![](/images/LIFE%20Curriculum%20(QR%20Code).png)
+<img src="/images/appeal-qr.jpg" 
+     style="width:35%">
+
 
 <p>Please note that :</p>
 <ul>
