@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Student Suggestion Scheme (3S).md
       - PLD Acceptable Use Policy.md
       - eStudent Handbook.md
       - Student ICON Onboarding Guide.md
