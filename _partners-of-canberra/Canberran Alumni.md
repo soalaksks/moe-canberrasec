@@ -5,16 +5,11 @@ description: ""
 ---
 <img src="/images/calogo.jpg" 
      style="width:60%">
-<div>
-<div>
-<div>
+
 <p>Canberran Alumni plays an important role in enhancing the overall quality of education in Canberra Secondary School. The school collaborates with Canberran Alumni in order to leverage on their resources to create more opportunities to develop the potential of our students.</p>
 <p>The Alumni members have been very supportive of the school activities. They provided great support to Sports Fest and Good Health, Great Living @ Canberra as game officials and participants. The Alumni members had organised the Prom Night 2015 for the graduating students and were involved in major school events, such as Lunar New Year celebrations, Sports Fest and Canberran Nights.</p>
 <p>The Alumni members have also been actively reaching out to graduates so as to tap on them to boost the strength of the Alumni. The aim is to instil a sense of belonging and pride in Canberra.</p>
-</div>
-</div>
-<div>
-	<h4><strong>GRC Quotes from Canberra Alumni</strong></h4>
+<h4><strong>GRC Quotes from Canberra Alumni</strong></h4>
 <div>
 <table>
 <tbody>
