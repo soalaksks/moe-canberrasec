@@ -26,3 +26,18 @@ links:
         url: /partners-of-canberra/friends-of-canberra
   - title: Contact Us
     url: /contact-us/
+  - title: Discover Canberra
+    url: /discover-canberra/our-curriculum
+    sublinks:
+      - title: Our Curriculum
+        url: /discover-canberra/our-curriculum
+      - title: Our Co-Curriculum
+        url: /discover-canberra/our-co-curriculum
+      - title: Our Cohorts
+        url: /discover-canberra/our-cohorts/sec-one
+      - title: Learning for Life (LLP)
+        url: /discover-canberra/learning-for-life-llp
+      - title: Applied Learning (ALP)
+        url: /discover-canberra/applied-learning-alp
+      - title: Leadership & Recognition
+        url: /discover-canberra/student-leadership-n-recognition
