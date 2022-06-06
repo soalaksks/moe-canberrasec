@@ -1,4 +1,5 @@
 collections:
   discover-canberra:
     output: true
-    order: []
+    order:
+      - Student Leadership & Recognition.md
