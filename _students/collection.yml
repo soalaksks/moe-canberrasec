@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Class & Exam Time Table/Class & Exam Timetable.md
       - Class & Exam Time Table/.keep
       - Quick Links.md
       - Student Leadership & Recognition.md
