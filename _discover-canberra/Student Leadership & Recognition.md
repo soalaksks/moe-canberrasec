@@ -82,3 +82,32 @@ description: ""
 <div>
 <p class="item-page"><strong>LEARNING OUTCOMES OF STUDENT LEADERS</strong></p>
 </div>
+<table>
+<tbody>
+<tr>
+<td><strong>Level</strong></td>
+<td><strong>Skills</strong></td>
+<td><strong>Attributes</strong></td>
+</tr>
+<tr>
+<td>&nbsp;Secondary 1: Self-Leadership</td>
+<td>&nbsp;To be a Responsible and self-directed learner, with Integrity</td>
+<td>Self-discipline Personal responsibility<br />Integrity</td>
+</tr>
+<tr>
+<td>Secondary 2: Peer Leadership</td>
+<td>Be a Confident student leader of Exemplary character who challenges their potential Exemplary character;</td>
+<td>Confident Teamwork</td>
+</tr>
+<tr>
+<td>&nbsp;Secondary 3: Project Leadership&nbsp;</td>
+<td> Be a Resilient leader who can act as the voice of the student body and conquer their aspirations to contribute to the school&nbsp;</td>
+<td>Resilience<br />Task and people management skills </td>
+</tr>
+<tr>
+<td>&nbsp;Secondary 4/5: Team development&nbsp;</td>
+<td> Be a passionate mentor who can Serve the student body with distinction; and in turn contribute to society</td>
+<td>&nbsp;Servant leadership influencing and mentoring skills</td>
+</tr>
+</tbody>
+</table>
