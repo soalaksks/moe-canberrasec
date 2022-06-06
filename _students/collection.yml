@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - PLD Acceptable Use Policy.md
       - eStudent Handbook.md
       - Student ICON Onboarding Guide.md
       - Uniform and Booklist for Year 2022.md
