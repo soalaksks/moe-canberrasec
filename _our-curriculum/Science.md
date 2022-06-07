@@ -53,3 +53,15 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p>In 2020, due to the COVID-19 situation, the competition had gone virtual this year, and the participants had to submit a video for judging. Seven teams represented our school for the audition round and three teams emerged as finalists. These three teams had worked tirelessly to create their videos and had a great time showcasing their learning. The enthusiasm and creativity they had demonstrated in their entries impressed the judges and they were selected from among 18 finalists in the secondary school category.</p>
+<p>One team of our students were also featured in Lianhe Zaobao student segment: zbCOMMA are our Lower Secondary students, Joash, Jayden and Jun Wei, whose interesting competition entry caught the eye of the media.</p>
+<p>In the article, the students shared about their experiences of the Science Buskers Festival as well as the Masterclass Workshop hosted by Science Made Simple&rsquo;s David Price via Zoom. Learn more about their interview&amp;&nbsp;<a href="https://zbschools.sg/news/local/stories-16671" target="_blank" rel="noopener">here&nbsp;</a>.</p>
+
+![](/images/science1.jpg)
+
+<ol>
+<li>
+<p><strong>Singapore Young Physicist Tournament</strong></p>
+<p>The pinnacle of physics competition in secondary school is the Singapore Young Physicist Tournament. The student participants are required to investigate complex, real world problems through independent research. A Team of three students from class 4E2 spent time doing literature reviews, conducting experiments and simulations, before presenting their finding in front of expert judges and defend their presentation. They did the school proud by qualifying for the finals held on 2 Feb 2020. The team received a commendation award for their performance in the competition.</p>
+</li>
+</ol>
