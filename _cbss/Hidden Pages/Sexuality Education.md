@@ -633,4 +633,74 @@ third_nav_title: Hidden Pages
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+
+<div>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="width: 681.188px;" colspan="4"><strong>SECONDARY 5</strong></td>
+</tr>
+<tr>
+<td style="width: 177.188px;"><strong>UNIT</strong></td>
+<td style="width: 134px;"><strong>LESSONS / DURATION</strong></td>
+<td style="width: 241px;"><strong>LESSON OBJECTIVES&nbsp;<br /></strong><strong>At the end of the lesson, students will be able to:</strong></td>
+<td style="width: 123px;"><strong>TIME PERIOD<br />(e.g. Term 1 Week 2)</strong></td>
+</tr>
+<tr>
+<td style="width: 177.188px;">Lessons&nbsp;about&nbsp;Love&nbsp;(Part 5)</td>
+<td style="width: 134px; text-align: center;">1&nbsp;<br />(60 mins)</td>
+<td style="width: 241px;">
+<ul>
+<li>Reflect on the qualities of a healthy romantic relationship</li>
+<li>Evaluate one&rsquo;s readiness for a romantic relationship, leading to marriage</li>
+<li>Recognise that intimacy in a relationship need not be limited to physical intimacy</li>
+<li>Recognise that break ups can allow one to understand oneself better</li>
+</ul>
+</td>
+<td style="width: 123px;">Term 2&nbsp;<br />Week 1</td>
+</tr>
+<tr>
+<td style="width: 177.188px;">NA</td>
+<td style="text-align: center; width: 134px;">
+<div>2&nbsp;</div>
+<div>(60 mins)</div>
+</td>
+<td style="width: 241px;">
+<p>Description of the Main Task:</p>
+<ul>
+<li>
+<p>Teacher can conduct a dialogue session with the class and engage in a discussion on the following:</p>
+</li>
+<ul>
+<li>
+<p>My ideal life partner</p>
+</li>
+<li>
+<p>My future (How do they envision their future to be like &ndash; in terms of their career, family etc.)</p>
+</li>
+<li>
+<p>Potential obstacles (What are the potential incidents that may prevent them from reaching their life goals? &ndash; distraction from studies, break ups, teenage pregnancy etc.)</p>
+</li>
+<li>
+<p>My pillars of support (identify the pillars of support they can have to guide them to the desired future)</p>
+</li>
+</ul>
+<li>
+<p>The purpose of this dialogue session is to surface some of the values that students may have with regard to relationships. Where appropriate, teachers could provide relevant feedback to guide students. &middot;</p>
+</li>
+<li>
+<p>Teachers can make use of different methods to check students&rsquo; understanding, either by asking them to sketch or jot down a few points on a personal whiteboard or post-its.&nbsp;</p>
+</li>
+<li>
+<p>&nbsp;After the dialogue session, students are to assess and reflect upon their own learning using a reflection form.</p>
+</li>
+</ul>
+</td>
+<td style="width: 123px;">
+<p>Term 3</p>
+<p>Week 4</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
