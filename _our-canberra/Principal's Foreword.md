@@ -3,17 +3,16 @@ title: Principal's Foreword
 permalink: /our-canberra/principals-foreword
 description: ""
 ---
-
 <div>
-<h3>The current predicament</h3>
+<h3><strong>The current predicament</strong></h3>
 <div>
 <p>Since 2020, the rampant spread of Covid-19 around the world has led to the tragic deaths of millions worldwide. This pandemic has accentuated the profound negative impact that a small minority of people who are&nbsp;<strong><u>U</u>ngrateful,&nbsp;<u>D</u>isrespectful and&nbsp;<u>I</u>ndifferent (UDI)</strong> can have on society as a whole. This is manifested in the increase in domestic violence, online or verbal abuse, and blatant disregard for the safe distancing measures.</p>
 <p>When we examine the UDI virus further, we definitely can discern the far wider implication of the UDI virus than the current pandemic situation. This UDI virus is present in all strata of society &ndash; whether rich or poor, young or old. It exists in our every word of complaint and every thoughtless action. It has directly or indirectly caused the deaths by traffic accidents, starvation, and global warming at an unprecedented level.</p>
 </div>
 </div>
-<h3>What can we do to fight the UDI virus?</h3>
+<h3><strong>What can we do to fight the UDI virus?</strong></h3>
 <p>We believe that&nbsp;<strong><span style="color: #ff0000;">GRC</span>&nbsp;education</strong> is the best vaccine for UDI virus.</p>
-<h3>What is GRC education?</h3>
+<h3><strong>What is GRC education?</strong></h3>
 <div>
 <div>
 <p><span style="color: #ff0000;"><strong>GRC</strong></span>&nbsp;<strong>education</strong>&nbsp;is a school-based curriculum designed to inculcate in our youth the timeless values of&nbsp;<span style="color: #ff0000;"><strong>Gratitude, Respect and Compassion</strong>.</span> Through a four-year developmental&nbsp;<span style="color: #ff0000;"><strong>GRC</strong>&nbsp;</span><strong>GEMS</strong>&nbsp;total curriculum, we empower our youth to dare to challenge and conquer the three mega trends or as we call them,&nbsp;<strong>the three monsters</strong>. These monsters refer to :</p>
@@ -61,21 +60,22 @@ description: ""
 </div>
 </div>
 <div>
-<h3>Our GRC Vision 2040</h3>
+<h3><strong>Our GRC Vision 2040</strong></h3>
 <div>
 <p>We have a Vision that by 2040,&nbsp;<span style="color: #ff0000;"><strong>GRC</strong>&nbsp;</span>will replace 3K's to become Singapore's DNA :</p>
 <p>Instead of&nbsp;<strong>&ldquo;KiaBo&rdquo; (fear of lacking),<br /></strong>Singaporeans are&nbsp;<span style="color: #ff0000;"><strong>Grateful</strong>&nbsp;</span>that we are already enjoying one of the world&rsquo;s top 20% of healthcare, food, living condition, transport, and education in Singapore.</p>
 <p>Instead of&nbsp;<strong>&ldquo;KiaSu&rdquo; (fear of losing),<br /></strong>Singaporeans win others over by being&nbsp;<span style="color: #ff0000;"><strong>Respectful</strong></span>.</p>
 <p>Instead of&nbsp;<strong>&ldquo;KiaSi&rdquo; (fear of dying),<br /></strong>By meeting the real needs of the community, Singaporeans make the difference in the lives of others with our&nbsp;<span style="color: #ff0000;"><strong>Compassionate</strong>&nbsp;</span>hearts.</p>
 <div>
-<h3>Vision 2024 : GRC@Sembawang GRC</h3>
+<h3><strong>Vision 2024 : GRC@Sembawang GRC</strong></h3>
 <div>
 <p>While we Dream Big, we will Start Small, right from our sphere of influence &ndash; Sembawang &ndash; where the school is located. We aspire to work with our strategic partners to make&nbsp;<span style="color: #ff0000;"><strong>GRC</strong>&nbsp;</span><strong>the DNA of Sembawang GRC by 2024</strong>.</p>
 </div>
 </div>
 
 ![](/images/PF2.png)
-	<p style="text-align: center;">Grateful for the partnership with Constituency directors of Canberra and Sembawang Central as well as CEO of Blossom Seeds</p>
+	
+<p style="text-align: center;">Grateful for the partnership with Constituency directors of Canberra and Sembawang Central as well as CEO of Blossom Seeds</p>
 	<p>When&nbsp;<strong><span style="color: #d13438;">GRC&nbsp;</span></strong>@Sembawang GRC Vision 2024 is realised, three things will happen. There will be :</p>
 <div>
 <ol>
@@ -87,28 +87,9 @@ description: ""
 </li>
 </ol>
 </div>
-<div>
-<div style="float: left">
-<img src="/images/PF3.png" 
-     style="width:85%">
-</div>
-<div style="float: right">
-<img src="/images/PF4.png" 
-     style="width:90%">
-</div>
-</div>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%; text-align: center;">
-<p>Mr Ng models the way for our Student Leaders by celebrating the life of Uncle David</p>
-</td>
-<td style="width: 50%; text-align: center;">
-<p>No more abused or lonely people : A lifelong friendship with those in need</p>
-</td>
-</tr>
-</tbody>
-</table>
+
+![](/images/pfpf.png)
+	
 <ol>
 <ol>
 <li><strong>No more lonely people&nbsp;</strong>(like the elderly lady who died in her home but her death was discovered only after two years).</li>
@@ -121,7 +102,7 @@ description: ""
 ![](/images/PF6.png)
 <p style="text-align: center;">No more lonely people : Youth find joy in befriending the elderly</p>
 	
-<h3>We need you</h3>
+<h3><strong>We need you</strong></h3>
 	
 ![](/images/PF7.png)
 	
