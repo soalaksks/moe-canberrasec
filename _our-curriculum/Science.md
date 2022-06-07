@@ -61,7 +61,6 @@ description: ""
 
 <ol>
 <li>
-<p><strong>Singapore Young Physicist Tournament</strong></p>
-<p>The pinnacle of physics competition in secondary school is the Singapore Young Physicist Tournament. The student participants are required to investigate complex, real world problems through independent research. A Team of three students from class 4E2 spent time doing literature reviews, conducting experiments and simulations, before presenting their finding in front of expert judges and defend their presentation. They did the school proud by qualifying for the finals held on 2 Feb 2020. The team received a commendation award for their performance in the competition.</p>
+<p><strong>Singapore Young Physicist Tournament<br/></strong>The pinnacle of physics competition in secondary school is the Singapore Young Physicist Tournament. The student participants are required to investigate complex, real world problems through independent research. A Team of three students from class 4E2 spent time doing literature reviews, conducting experiments and simulations, before presenting their finding in front of expert judges and defend their presentation. They did the school proud by qualifying for the finals held on 2 Feb 2020. The team received a commendation award for their performance in the competition.</p>
 </li>
 </ol>
