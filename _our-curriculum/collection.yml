@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Craft & Technology/Design and Technology.md
       - Craft & Technology/Music.md
       - Craft & Technology/Nutrition and Food Science.md
       - Craft & Technology/Craft & Technology.md
