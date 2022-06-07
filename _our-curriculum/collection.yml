@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Craft n Technology/.keep
-      - Craft & Technology.md
       - Mother Tongue.md
       - Humanities.md
       - Science.md
