@@ -3,7 +3,6 @@ title: Canberran Alumni
 permalink: /partners-of-canberra/canberran-alumni
 description: ""
 ---
-
 <img src="/images/calogo.jpg" 
      style="width:60%">
 
@@ -78,6 +77,3 @@ description: ""
 </tr>
 </tbody>
 </table>
-</div>
-</div>
-</div>
