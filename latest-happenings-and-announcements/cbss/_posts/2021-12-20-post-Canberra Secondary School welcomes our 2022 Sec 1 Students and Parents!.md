@@ -5,17 +5,12 @@ date: 2021-12-20
 layout: post
 description: ""
 ---
-
 <p>Congratulations on your posting to Canberra Secondary to commence your secondary school education. It will be a new phase of your development and we are happy to welcome you to the Canberran family!<br /><br />When you receive your posting to Canberra, you&nbsp;<strong>do not need</strong>&nbsp;to physically report to our school the next day as we will be conducting our Sec 1 Registration Exercise online.</p>
 <p><strong><u>1. Online Registration</u></strong><br />Please ensure that you have your Parents Gateway app to complete the Sec 1 Online Registration.&nbsp;<strong><em>Canberra Secondary School</em></strong>&nbsp;will be automatically reflected on Parents Gateway once you have received your school posting.<br /><br /></p>
 <ol type="1">
 <ol type="1">
 <li>Login to Parents Gateway.</li>
 <li>You should receive notifications on the Parents Gateway app to complete the Sec 1 registration. Please respond to the notification.&nbsp;<strong><em>(More details will be made available on 22nd December 2021 on Parents Gateway)</em></strong></li>
-</ol>
-</ol>
-<p>&nbsp;</p>
-<ol type="1">
 <li>Selected students posted to the Normal (Academic) and Normal (Technical) streams will be able to take English Language, Mathematics, Science and Mother Tongue Language, at a more demanding level when they enter Secondary 1 based on their performance in these subjects at the PSLE. Students and parents will need to attend a short subject-based banding (SBB) Briefing via a webinar on 23rd December 2021.&nbsp;<strong><em>(More details will be made available on 22nd December 2021 on Parents Gateway)</em></strong></li>
 </ol>
 <p><strong><u>2. Purchase of Books and Sale of Uniforms</u></strong><br /><br />Parents are to make your order for books and uniforms online. You will then select the date and time that you will collect the order physically in school. Please note that only 1 adult can accompany the student to collect the books physically in school. Alternatively, you can arrange for the books to be delivered to your homes. The details for the books and uniform purchase can be found in the documents found below:</p>
