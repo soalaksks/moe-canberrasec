@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Computer Applications.md
       - Information & Communications Technology.md
       - Physical Education.md
       - Craft & Technology/.keep
