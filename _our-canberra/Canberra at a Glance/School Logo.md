@@ -8,7 +8,6 @@ third_nav_title: Canberra at a Glance
      style="width:50%">
 
 
-<p>Our logo consists of the 3 Cs:</p>
-<p><strong>Challenge</strong>,&nbsp;<strong>Conquer</strong>&nbsp;and <strong>Contribute</strong></p>
+<p>Our logo consists of the 3 Cs:<br><strong>Challenge</strong>,&nbsp;<strong>Conquer</strong>&nbsp;and <strong>Contribute</strong></p>
 <p>There's also the letter 'i' which stands for Information Technology and Innovation</p>
 <p>The pupil (red dot) is going through different paths (3 Cs) to reach for global achievement (green dot).</p>
