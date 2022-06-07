@@ -2,5 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Mathematics.md
       - English Language & Literature.md
       - Our Curriculum.md
