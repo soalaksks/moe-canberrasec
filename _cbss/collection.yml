@@ -2,4 +2,6 @@ collections:
   cbss:
     output: true
     order:
+      - Canberra Secondary School welcomes our 2022 Sec 1 Students and
+        Parents!.md
       - 2022 Sec 1 Webinar.md
