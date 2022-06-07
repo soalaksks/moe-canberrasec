@@ -26,11 +26,11 @@ description: ""
 </div>
 <div>
 <div>
-<ol>
+<ul>
 <li>
 <p><strong>Singapore Science Buskers Festival<br /></strong>Canberra Secondary School has participated in the Science Buskers Festival since 2016 and have achieved accolades in 2016, 2017 and 2020. Below is the list of their achievements and the links to their project presentations:</p>
 </li>
-</ol>
+</ul>
 </div>
 </div>
 <table border="1" width="80%" cellspacing="1" cellpadding="0">
@@ -59,8 +59,27 @@ description: ""
 
 ![](/images/science1.jpg)
 
-<ol>
+<ul>
 <li>
 <p><strong>Singapore Young Physicist Tournament<br/></strong>The pinnacle of physics competition in secondary school is the Singapore Young Physicist Tournament. The student participants are required to investigate complex, real world problems through independent research. A Team of three students from class 4E2 spent time doing literature reviews, conducting experiments and simulations, before presenting their finding in front of expert judges and defend their presentation. They did the school proud by qualifying for the finals held on 2 Feb 2020. The team received a commendation award for their performance in the competition.</p>
 </li>
-</ol>
+</ul>
+
+![](/images/science2.jpg)
+
+<ul>
+<li>
+<p><strong>Singapore Junior Physics Olympiad<br /></strong>For upper secondary students looking for a challenge, some of them participated in Singapore Junior Physics Olympiad. The competition tested topics beyond the syllabus, and required the students to engage their physics, mathematics and logic capabilities to solve authentic problems. In 2019, Joon Hin from class 4E2 managed to enter the finals, and secured a Bronze award; while many other was accorded special mention.</p>
+</li>
+<li>
+<p><strong>A Flight Science Workshop&nbsp;</strong>was conducted where students learn the scientific concept, appreciate and respect the design principles behind the working of an aircraft.</p>
+</li>
+</ul>
+
+![](/images/science3.png)
+
+![](/images/science4.png)
+
+<img src="/images/science5.png" 
+     style="width:50%">
+
