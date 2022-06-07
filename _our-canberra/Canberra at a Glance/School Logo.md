@@ -4,9 +4,8 @@ permalink: /our-canberra/canberra-at-a-glance/school-logo
 description: ""
 third_nav_title: Canberra at a Glance
 ---
-
 <img src="/images/css-logo.png" 
-     style="width:75%">
+     style="width:50%">
 
 
 <p>Our logo consists of the 3 Cs:</p>
