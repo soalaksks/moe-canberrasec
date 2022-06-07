@@ -2,6 +2,7 @@ collections:
   cbss:
     output: true
     order:
+      - SLS Support for Home based Learning.md
       - Cancellation of PSG Welcome Dinner on 14 Feb 2020.md
       - Updates on 2019 Novel Coronavirus.md
       - May Excellence Programme for Sec 4E, 4N & 5N.md
