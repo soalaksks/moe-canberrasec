@@ -82,4 +82,3 @@ description: ""
 
 <img src="/images/science5.png" 
      style="width:50%">
-
