@@ -32,3 +32,15 @@ third_nav_title: Hidden Pages
 <p>View the embedded image gallery online at:<br /><a title="GLOBAL CANBERRAN PROGRAMME (GCP)" href="http://canberrasec.moe.edu.sg/global-canberran-programme#sigProGalleriae446ff4f75">http://canberrasec.moe.edu.sg/global-canberran-programme#sigProGalleriae446ff4f75</a></p>
 <p>The training was quite tiring for me. I realised that some of my peers are stronger than me, so I must train harder. I made friends during the training sessions and friendly matches. I have improved my badminton skill, but I need more practice. I gained experience from friendly games. After the trip, I know Singapore is really small, but I love my country very much.</p>
 <p><strong>Badminton trip to West Malaysia, Hah Chie Phang, 3E1 </strong>&nbsp;</p>
+
+<img src="/images/gcp4.png" 
+     style="width:35%">
+		
+<p>View the embedded image gallery online at:<br /><a title="GLOBAL CANBERRAN PROGRAMME (GCP)" href="http://canberrasec.moe.edu.sg/global-canberran-programme#sigProGalleria0e27048fc2">http://canberrasec.moe.edu.sg/global-canberran-programme#sigProGalleria0e27048fc2</a></p>
+<p>31st May till 4th June 2010 was one of the most memorable trips in my secondary life. It has been a challenging climb up to the peak of Mount Kinabalu but the view from the top was breath-taking and all the exhaustion paid off. Climbing down was fun, especially when your teachers and friends were right beside you, keeping your spirits up and having fun with you. Along the way, I' learnt many interesting things about nature and life. The climb may be challenging at first but, when you reach the peak of the mountain, the tiredness went away. In life there are ups and downs. You must always believe that when you are having a problem, happiness is waiting for you at the end of the road. Not to forget, team work is crucial. In a team, Together Everyone Achieves More. Even though not everyone in the group reached the peak, I am sure all of us had tried our best. I also believe that everyone in the team had a great experience just like I did .</p>
+<p><strong>Overseas Outdoor Expedition to Mt Kinabalu, Sabah, Ahmad Danial, 3E2</strong></p>
+
+<img src="/images/gcp5.png" 
+     style="width:35%">
+
+<p>View the embedded image gallery online at:<br /><a title="GLOBAL CANBERRAN PROGRAMME (GCP)" href="http://canberrasec.moe.edu.sg/global-canberran-programme#sigProGalleriae8cced6210">http://canberrasec.moe.edu.sg/global-canberran-programme#sigProGalleriae8cced6210</a></p>
