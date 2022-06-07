@@ -137,7 +137,8 @@ third_nav_title: Hidden Pages
 </tr>
 <tr>
 <td style="text-align: center; width: 106px;">5 &ndash; Part 2<br />Main Task <br />(30 mins)</td>
-<td style="width: 339px;">Description of the Main Task:
+<td style="width: 339px;">
+<p>Description of the Main Task:</p>
 <ul>
 <li>Students are to work on the main task in groups of 4 or 5</li>
 <li>Groups will describe how the media can influence relationships (with self, peers, and the opposite sex)</li>
@@ -150,3 +151,191 @@ third_nav_title: Hidden Pages
 </tbody>
 </table>
 </div>
+
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="width: 681px;" colspan="4"><strong>SECONDARY 2</strong></td>
+</tr>
+<tr>
+<td style="width: 98px;"><strong>UNIT</strong></td>
+<td style="width: 98px;"><strong>LESSONS / DURATION</strong></td>
+<td style="width: 371px;">
+<div><strong>LESSON OBJECTIVES<br />At the end of the lesson, students will be able to:</strong></div>
+</td>
+<td style="width: 108px;">
+<div><strong>TIME PERIOD</strong></div>
+<div><strong>(e.g. Term 1 Week 2)</strong></div>
+</td>
+</tr>
+<tr>
+<td style="width: 98px;" rowspan="3">Lessons about Love (Part 2)</td>
+<td style="width: 98px;">
+<div style="text-align: center;">6&nbsp;</div>
+<div style="text-align: center;">(60 mins)</div>
+</td>
+<td style="width: 371px;">
+<ul>
+<li>
+<p>Identify why relationships break down</p>
+</li>
+<li>
+<p>Identify the emotions that accompany the breakdown of a relationship</p>
+</li>
+<li>
+<p>Know healthy ways of coping with rejections and breakups</p>
+</li>
+<li>
+<p>Recognise the need to be respectful and responsible in ending a relationship</p>
+</li>
+<li>
+<p>Know ways to seek support when going through a breakdown of relationship and offer support for those going through the same</p>
+</li>
+</ul>
+</td>
+<td style="width: 108px;">
+<div>Term 1</div>
+<div>Week 9</div>
+</td>
+</tr>
+<tr>
+<td style="width: 98px;">
+<div style="text-align: center;">7&nbsp;</div>
+<div style="text-align: center;">(60 mins)&nbsp;</div>
+<div style="text-align: center;">&amp;</div>
+<div style="text-align: center;">8 &ndash; Part 1&nbsp;</div>
+<div style="text-align: center;">(30 mins)</div>
+</td>
+<td style="width: 371px;">
+<ul>
+<li>
+<p>Recognise the sources of temptation and situations that lead to pre-marital sex</p>
+</li>
+<li>
+<p>Resist pressure to engage in sexual activities</p>
+</li>
+<li>
+<p>Know the consequences of engaging in pre-marital sex</p>
+</li>
+<li>
+<p>Recognise that respect and responsible decision making are important in relationships</p>
+</li>
+<li>
+<p>Recognise the value of sexual abstinence</p>
+</li>
+<li>
+<p>Identify sources to seek help and support when faced with teenage pregnancy</p>
+</li>
+</ul>
+</td>
+<td style="width: 108px;">
+<div>Term 3</div>
+<div>Week 2</div>
+</td>
+</tr>
+<tr>
+<td style="width: 98px;">
+<div style="text-align: center;">8 &ndash; Part 2&nbsp;</div>
+<div style="text-align: center;">Main Task&nbsp;</div>
+<div style="text-align: center;">(30 mins)</div>
+</td>
+<td style="width: 371px;">
+<p>Description of the Main Task:</p>
+<ul>
+<li>
+<p>In groups, students will choose 1 out of 3 given scenarios.</p>
+</li>
+<li>
+<p>Through the chosen scenario, students will share</p>
+<ul>
+<li>
+<p>The consequences of pre-marital sex</p>
+</li>
+<li>
+<p>The value of abstinence before marriage</p>
+</li>
+<li>
+<p>Skills to say &lsquo;no&rsquo; to temptations or pressure to have sex</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Depending on the scenario chosen, groups can present the above through a short skit/presentation, song lyrics/poem, or a comic strip/poster, or other preferred modes.</p>
+</li>
+<li>
+<p>At the end of all the presentations, students are to assess and reflect upon their own learning using a reflection form.</p>
+</li>
+</ul>
+</td>
+<td style="width: 108px;">
+<div>Term 3</div>
+<div>Week 5</div>
+</td>
+</tr>
+<tr>
+<td style="width: 98px;" rowspan="2">
+<div>At the Crossroads&nbsp;</div>
+<div>(Part 1)</div>
+</td>
+<td style="width: 98px;">
+<div style="text-align: center;">9</div>
+<div style="text-align: center;">(60 mins)</div>
+</td>
+<td style="width: 371px;">
+<ul>
+<li>
+<p>Describe what pornography is, and why people view pornographic materials</p>
+</li>
+<li>
+<p>Examine the effects of pornography on self and others</p>
+</li>
+<li>
+<p>Know what masturbation is, and its relation to pornography</p>
+</li>
+<li>
+<p>Recognise the harmful consequences of excessive masturbation</p>
+</li>
+<li>
+<p>Recognise that they are able to make responsible decisions to manage their sexual desires</p>
+</li>
+<li>
+<p>Know appropriate sources to obtain accurate information about sex</p>
+</li>
+</ul>
+</td>
+<td style="width: 108px;">
+<div>Term 3</div>
+<div>Week 8</div>
+</td>
+</tr>
+<tr>
+<td style="width: 98px;">
+<div style="text-align: center;">10</div>
+<div style="text-align: center;">(60 mins)</div>
+</td>
+<td style="width: 371px;">
+<ul>
+<li>
+<p>Know/define what gender role is&nbsp;</p>
+</li>
+<li>
+<p>Know the influence of family, culture and society on one&rsquo;s perception of his/her gender role</p>
+</li>
+<li>
+<p>Appreciate/ affirm one&rsquo;s own unique qualities and characteristics as a male or female.&nbsp;</p>
+</li>
+<li>
+<p>Know/define what sexual orientation (heterosexuality and homosexuality) is</p>
+</li>
+<li>
+<p>Recognise the need to treat people with respect regardless of their sexual orientation</p>
+</li>
+</ul>
+</td>
+<td style="width: 108px;">
+<div>Term 4</div>
+<div>Week 1</div>
+</td>
+</tr>
+</tbody>
+</table>
