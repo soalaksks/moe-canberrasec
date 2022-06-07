@@ -339,3 +339,152 @@ third_nav_title: Hidden Pages
 </tr>
 </tbody>
 </table>
+
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="width: 683px;" colspan="4"><strong>SECONDARY 3</strong></td>
+</tr>
+<tr>
+<td style="width: 95.2656px;"><strong>UNIT</strong></td>
+<td style="width: 99.6406px;"><strong>LESSONS / DURATION</strong></td>
+<td style="width: 342.031px;"><strong>LESSON OBJECTIVES<br />At the end of the lesson, pupils will be able to:</strong></td>
+<td style="width: 140.062px;"><strong>TIME PERIOD<br />(e.g. Term 1 Week 2)</strong></td>
+</tr>
+<tr>
+<td style="width: 95.2656px;" rowspan="4">Lessons about Love (Part 3)</td>
+<td style="text-align: center; width: 99.6406px;">
+<div>1&nbsp;</div>
+<div>(60 mins)</div>
+</td>
+<td style="width: 342.031px;">
+<ul>
+<li>
+<p>Recognise what constitutes responsible dating</p>
+</li>
+<li>
+<p>Evaluate if a dating relationship is healthy or unhealthy</p>
+</li>
+<li>
+<p>Demonstrate competencies in managing emotions in dating and romantic relationships</p>
+</li>
+</ul>
+</td>
+<td style="width: 140.062px;">
+<div>Term 1<br />Week 8</div>
+</td>
+</tr>
+<tr>
+<td style="text-align: center; width: 99.6406px;">
+<p>2<br />(60 mins)</p>
+</td>
+<td style="width: 342.031px;">
+<ul>
+<li>
+<p>Recognise differences in perspectives of dating and romantic relationships</p>
+</li>
+<li>
+<p>Evaluate one&rsquo;s readiness for romantic relationships</p>
+</li>
+<li>
+<p>Recognise challenges that occur in the context of a relationship</p>
+</li>
+<li>
+<p>Examine how our response to emotions can affect relationships positively or negatively</p>
+</li>
+</ul>
+</td>
+<td style="width: 140.062px;">Term 2 Week 1<br />(3E1 - E4)<br /><br />Term 2 Week 2<br />(3N1 - N2 &amp; T1</td>
+</tr>
+<tr>
+<td style="text-align: center; width: 99.6406px;">
+<div>3&nbsp;</div>
+<div>(60 mins)</div>
+</td>
+<td style="width: 342.031px;">
+<ul>
+<li>
+<p>Recognise the different levels of physical intimacy in a relationship</p>
+</li>
+<li>
+<p>Know the progressive nature of actions that lead to sexual arousal and intercourse</p>
+</li>
+<li>
+<p>Recognise that one may unintentionally invite sexual intimacy through one&rsquo;s verbal and non-verbal behaviour</p>
+</li>
+</ul>
+</td>
+<td style="width: 140.062px;">
+<div>Term 2 Week 5<br />(3E4, N1 - N2 &amp; T1)<br /><br />Term 3 Week 1<br />(3E1 &ndash; E3)</div>
+</td>
+</tr>
+<tr>
+<td style="text-align: center; width: 99.6406px;">
+<div>4&nbsp;</div>
+<div>(60 mins)</div>
+</td>
+<td style="width: 342.031px;">
+<div>
+<ul>
+<li>Evaluate the norms of acceptability for public display of affection</li>
+<li>Recognise how new media has shaped public perception of acceptability of public display of affection</li>
+<li>Identify the strengths and limitations of new media in allowing people to develop serious relationships</li>
+<li>Recognise how new media has influenced relationship building both positively and negatively</li>
+<li>Appreciate the value of face-to-face relationships</li>
+</ul>
+</div>
+</td>
+<td style="width: 140.062px;">
+<div>Term 3 Week 7<br />(3T1)<br /><br />Term 3 Week 8<br />(3E1-E4 &amp; N1 - N2)</div>
+</td>
+</tr>
+<tr>
+<td style="width: 95.2656px;" rowspan="2">
+<div>The Real&nbsp;Self&nbsp;</div>
+(Part 2)</td>
+<td style="text-align: center; width: 99.6406px;">
+<div>5 &ndash; Part 1&nbsp;</div>
+<div>(30 mins)</div>
+</td>
+<td style="width: 342.031px;">
+<ul>
+<li>Recognise the importance of having healthy self-esteem that is not affected by external influences &middot; </li>
+<li>Demonstrate strategies to identify and evaluate sources that contribute towards healthy self-esteem&nbsp;</li>
+<li>Recognise the importance of self-esteem in building friendships Identity and healthy relationships</li>
+</ul>
+</td>
+<td style="width: 140.062px;">
+<div>Term 3</div>
+<div>Week 9</div>
+</td>
+</tr>
+<tr>
+<td style="text-align: center; width: 99.6406px;">
+<div>5 &ndash; Part 2&nbsp;</div>
+<div>(30 mins)</div>
+</td>
+<td style="width: 342.031px;">
+<p>Description of the Main Task:</p>
+<ul>
+<li>
+<p>Students are to work in groups of 4 or 5.&nbsp;</p>
+</li>
+<li>
+<p>Each group will present the positive and negative messages about self-image received from a chosen source (peers, teachers, families or the media) and share tips on managing the negative messages.</p>
+</li>
+<li>
+<p>Groups can represent their learning through a blog, a poster presentation, an article for a teenage magazine, a role-play, a letter of response from Aunt Agony, a pamphlet or other preferred modes.&nbsp;</p>
+</li>
+<li>
+<p>At the end of all the presentations, students are to assess and reflect upon their own learning using a reflection form.</p>
+</li>
+</ul>
+</td>
+<td style="width: 140.062px;">
+<div>Term 3</div>
+<div>Week 9</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
