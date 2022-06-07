@@ -487,4 +487,150 @@ third_nav_title: Hidden Pages
 </tr>
 </tbody>
 </table>
+
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="width: 681px;" colspan="4"><strong>SECONDARY 4</strong></td>
+</tr>
+<tr>
+<td style="width: 97px;"><strong>UNIT</strong></td>
+<td style="width: 99px;"><strong>LESSONS / DURATION</strong></td>
+<td style="width: 330px;"><strong>LESSON OBJECTIVES<br />At the end of the lesson, students will be able to:</strong></td>
+<td style="width: 149px;"><strong>TIME PERIOD<br />(e.g. Term 1 Week 2)</strong></td>
+</tr>
+<tr>
+<td style="width: 97px;">
+<div>Lessons about Love (Part 4a)</div>
+</td>
+<td style="text-align: center; width: 99px;">
+<div>6&nbsp;</div>
+<div>(60 mins)</div>
+</td>
+<td style="width: 330px;">
+<ul>
+<li>
+<p>Explain the process of grief and loss that people experience when a relationship breaks down</p>
+</li>
+<li>
+<p>Exercise sensitivity and empathy when communicating break-ups</p>
+</li>
+<li>
+<p>Recognise that one can emerge stronger after a break-up</p>
+</li>
+</ul>
+</td>
+<td style="width: 149px;">
+<div>Term 1 Week 8<br />(4E1 &ndash; E4)<br /><br />Term 2 Week 1<br />(4N1 &ndash; N2, T1)</div>
+</td>
+</tr>
+<tr>
+<td style="width: 97px;">
+<div>&ldquo;Familiar&rdquo; Strangers Alert<br />(Part 2)</div>
+</td>
+<td style="text-align: center; width: 99px;">
+<div>7&nbsp;</div>
+<div>(60 mins)</div>
+</td>
+<td style="width: 330px;">
+<ul>
+<li>
+<p>Know what is considered pornographic material on the Internet under the Internet code of practice</p>
+</li>
+<li>
+<p>Reflect on the legal consequences of sexual behaviour and include these considerations in their decision-making pertaining to pornography</p>
+</li>
+</ul>
+</td>
+<td style="width: 149px;">
+<div>Term 2 Week 2<br />(4E1 &ndash; E4)<br /><br />Term 2 Week 5&nbsp;</div>
+<div>(4N1 &ndash; N2, T1)</div>
+</td>
+</tr>
+<tr>
+<td style="width: 97px;">
+<div>At the Crossroads<br />(Part 2)</div>
+</td>
+<td style="text-align: center; width: 99px;">
+<div>8<br />(30 mins)</div>
+</td>
+<td style="width: 330px;">
+<ul>
+<li>
+<p>Distinguish between biologically-based and socially-conditioned gender characteristics</p>
+</li>
+<li>
+<p>Evaluate views towards self and others, with regard to gender differences and stereotypes</p>
+</li>
+</ul>
+</td>
+<td style="width: 149px;">
+<div>Term 2 Week 5</div>
+<div>(4E1 &ndash; E4)</div>
+<div>Term 3 Week 1</div>
+<div>(4N1 &ndash; N2, T1)</div>
+</td>
+</tr>
+<tr>
+<td style="width: 97px;">
+<div>Lessons about Love<br />(Part 4b)</div>
+</td>
+<td style="text-align: center; width: 99px;">
+<div>9<br />(60 mins)</div>
+</td>
+<td style="width: 330px;">
+<ul>
+<li>
+<p>Recognise that commitment is a necessary ingredient for success in a marriage</p>
+</li>
+<li>
+<p>Identify responsibilities involved and the challenges faced in marriages</p>
+</li>
+</ul>
+</td>
+<td style="width: 149px;">
+<div>Term 3 Week 5</div>
+<div>(4E1 &ndash; E4)&nbsp;</div>
+<div>Term 3 Week 7</div>
+<div>(4N1 &ndash; N2, T1)</div>
+</td>
+</tr>
+<tr>
+<td style="width: 97px;">NA</td>
+<td style="text-align: center; width: 99px;">
+<div>10&nbsp;</div>
+<div>(60 mins)</div>
+</td>
+<td style="width: 330px;">
+<p>Description of the Main Task:</p>
+<ul>
+<li>
+<p>This main task will capture the culmination of learning in Secondary 4 level.&nbsp;</p>
+</li>
+<li>
+<p>Students are to work on the main task in groups of 4 or 5.&nbsp;</p>
+</li>
+<li>
+<p>Each group is to take on a topic of interest from the following: rejections and broken relationships, pornography, gender identity or marriage, cohabitation and divorce.</p>
+</li>
+<li>
+<p>Groups can share their learning for the chosen topic in the form of a debate, a mini-teach, the depiction and discussion of case scenarios, a discussion of consequences that follows after the viewing of a video or a live-chat, or any preferred mode.</p>
+</li>
+<li>
+<p>At the end of all the presentations, students are to assess and reflect upon their own learning using a reflection form.&nbsp;</p>
+</li>
+<li>
+<p>Teacher to round up by summarizing key learning outcomes for each topic, emphasizing on the key values and attitudes</p>
+</li>
+</ul>
+</td>
+<td style="width: 149px;">
+<div>Term 3 Week 7</div>
+<div>(4E1 &ndash; E4)&nbsp;</div>
+<div>Term 3 Week 8</div>
+<div>(4N1 &ndash; N2, T1)</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>&nbsp;</p>
