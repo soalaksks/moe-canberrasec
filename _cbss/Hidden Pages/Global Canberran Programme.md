@@ -20,4 +20,15 @@ third_nav_title: Hidden Pages
 <p>View the embedded image gallery online at:<br /><a title="GLOBAL CANBERRAN PROGRAMME (GCP)" href="http://canberrasec.moe.edu.sg/global-canberran-programme#sigProGalleria962804a2bd">http://canberrasec.moe.edu.sg/global-canberran-programme#sigProGalleria962804a2bd</a></p>
 <p>In Singapore, the places are clean but people are quite rude. In Taiwan, the places and buildings are cluttered together yet the people are kind and warm. There are three good aspects that I have learned in Taiwan: <br />1. When people are crossing the road, the drivers would not honk at us but simply patiently wait for us to cross the road.&nbsp;<br />2. There are no rubbish bins in every place. Nonetheless, I was shocked that there was no rubbish in the middle of the road or path. Taiwanese have a strong pride for cleanliness.&nbsp;<br />3. The people would give way to the people who walked first. They would simply wait for the people to pass through first&nbsp;.<br /><br /><strong>Cultural Immersion to Taiwan, Natalie Woo, 2E1 </strong>&nbsp;</p>
 
-![](/images/gcp2.png)
+<img src="/images/gcp2.png" 
+     style="width:35%">
+
+<p class="sigProPrintMessage">View the embedded image gallery online at:<br /><a title="GLOBAL CANBERRAN PROGRAMME (GCP)" href="http://canberrasec.moe.edu.sg/global-canberran-programme#sigProGalleria5dc70b178b">http://canberrasec.moe.edu.sg/global-canberran-programme#sigProGalleria5dc70b178b</a></p>
+<p class="sigProPrintMessage">We gained more knowledge from the trip. We did community work at an orphanage during our homestay. We also gained new experience while staying in a kampong house at the village and did activities that we hardly do in Singapore like gardening. Even though we are also Malays, the villagers have a different accent and sometimes it was difficult for us to understand what they were trying to say. The villagers were friendly. We also learnt a lot about Langkawi's history through stories such as the Legend of Mahsuri. We also learnt how to do batik painting and plant paddy. In conclusion, the trip was fun and enjoyable as we gained more knowledge throughout the trip&nbsp;.<br /><br /><strong>Malay Lang Dept Cultural Enrichment to Langkawi, Nur Haifah Edris, 3N1 </strong>&nbsp;</p>
+
+<img src="/images/gcp3.png" 
+     style="width:35%">
+
+<p>View the embedded image gallery online at:<br /><a title="GLOBAL CANBERRAN PROGRAMME (GCP)" href="http://canberrasec.moe.edu.sg/global-canberran-programme#sigProGalleriae446ff4f75">http://canberrasec.moe.edu.sg/global-canberran-programme#sigProGalleriae446ff4f75</a></p>
+<p>The training was quite tiring for me. I realised that some of my peers are stronger than me, so I must train harder. I made friends during the training sessions and friendly matches. I have improved my badminton skill, but I need more practice. I gained experience from friendly games. After the trip, I know Singapore is really small, but I love my country very much.</p>
+<p><strong>Badminton trip to West Malaysia, Hah Chie Phang, 3E1 </strong>&nbsp;</p>
