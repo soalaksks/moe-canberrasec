@@ -83,3 +83,6 @@ links:
         url: /parents/quick-links
   - title: Teachers
     url: /teachers/quick-links
+    sublinks:
+      - title: Quick Links
+        url: /teachers/quick-links
