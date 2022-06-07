@@ -64,30 +64,30 @@ third_nav_title: Hidden Pages
 <table border="1" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td colspan="4"><strong>SECONDARY 1</strong></td>
+<td style="width: 681px;" colspan="4"><strong>SECONDARY 1</strong></td>
 </tr>
 <tr>
-<td width="90"><strong>UNIT</strong></td>
-<td width="80"><strong>LESSONS / DURATION</strong></td>
-<td width="400"><strong>LESSON OBJECTIVES</strong><br /><strong>At the end of the lesson, students will be able to:</strong></td>
-<td width="140"><strong>TIME PERIOD&nbsp;</strong><strong>(e.g. Term 1 Week 2)</strong></td>
+<td style="width: 92px;"><strong>UNIT</strong></td>
+<td style="width: 106px;"><strong>LESSONS / DURATION</strong></td>
+<td style="width: 339px;"><strong>LESSON OBJECTIVES</strong><br /><strong>At the end of the lesson, students will be able to:</strong></td>
+<td style="width: 138px;"><strong>TIME PERIOD&nbsp;<br /></strong><strong>(e.g. Term 1 Week 2)</strong></td>
 </tr>
 <tr>
-<td width="101">The Real Self<br />(Part 1)</td>
-<td style="text-align: center;" width="114">1<br />(60 mins)</td>
-<td width="447">
+<td style="width: 92px;">The Real Self<br />(Part 1)</td>
+<td style="text-align: center; width: 106px;">1<br />(60 mins)</td>
+<td style="width: 339px;">
 <ul>
 <li>Know how one&rsquo;s perception of his body is linked to personal experiences and the sources of information that are taken in</li>
 <li>Recognise that one&rsquo;s self-perception is influenced by his perception of his body</li>
 <li>Know strategies to develop healthy/positive perception of one&rsquo;s body.</li>
 </ul>
 </td>
-<td width="128">Term 1 Week 8</td>
+<td style="width: 138px;">Term 1 Week 8</td>
 </tr>
 <tr>
-<td rowspan="2" width="101">Lessons about Love<br />(Part 1)</td>
-<td style="text-align: center;" width="114">2<br />(60 mins)</td>
-<td width="447">
+<td style="width: 92px;" rowspan="2">Lessons about Love<br />(Part 1)</td>
+<td style="text-align: center; width: 106px;">2<br />(60 mins)</td>
+<td style="width: 339px;">
 <ul>
 <li>Recognise the importance of cultivating friendships with members of the same and opposite sex</li>
 <li>Recognise what constitutes healthy and unhealthy relationships</li>
@@ -96,11 +96,11 @@ third_nav_title: Hidden Pages
 <li>Know that the underlying value for healthy relationships is respect</li>
 </ul>
 </td>
-<td width="128">Term 3 Week 1</td>
+<td style="width: 138px;">Term 3 Week 1</td>
 </tr>
 <tr>
-<td style="text-align: center;" width="114">3<br />(60 mins)</td>
-<td width="447">
+<td style="text-align: center; width: 106px;">3<br />(60 mins)</td>
+<td style="width: 339px;">
 <ul>
 <li>Recognise the importance of developing a friendship before committing to a romantic relationship</li>
 <li>Recognise what dating involves</li>
@@ -109,12 +109,12 @@ third_nav_title: Hidden Pages
 <li>Recognise that it is important to seek their family&rsquo;s views, beliefs and expectations with regard to dating and romantic relationships in teenage years</li>
 </ul>
 </td>
-<td width="128">Term 3 Week 5</td>
+<td style="width: 138px;">Term 3 Week 5</td>
 </tr>
 <tr>
-<td rowspan="3" width="101">"Familiar" Strangers Alert<br />(Part 1)</td>
-<td style="text-align: center;" width="114">4<br />(60 mins)</td>
-<td width="447">
+<td style="width: 92px;" rowspan="3">"Familiar" Strangers Alert<br />(Part 1)</td>
+<td style="text-align: center; width: 106px;">4<br />(60 mins)</td>
+<td style="width: 339px;">
 <ul>
 <li>Reflect on the reasons for people to use social networking sites to make friends or to engage their existing friends</li>
 <li>Know the usefulness and dangers of making friends over social networking platforms</li>
@@ -122,22 +122,22 @@ third_nav_title: Hidden Pages
 <li>Identify ways to protect themselves from negative influences from the media</li>
 </ul>
 </td>
-<td width="128">Term 3 Week 7</td>
+<td style="width: 138px;">Term 3 Week 7</td>
 </tr>
 <tr>
-<td style="text-align: center;" width="114">5 &ndash; Part 1<br />(30 mins)</td>
-<td width="447">
+<td style="text-align: center; width: 106px;">5 &ndash; Part 1<br />(30 mins)</td>
+<td style="width: 339px;">
 <ul>
 <li>Know the physiological, psychological and social impact of sexual abuse on the individual</li>
 <li>Recognise the provision of Singapore laws that serves to protect teenagers from sexual perpetrators and persecute those who have committed such crimes</li>
 <li>Identify sources to seek help and support</li>
 </ul>
 </td>
-<td width="128">Term 4 Week 1</td>
+<td style="width: 138px;">Term 4 Week 1</td>
 </tr>
 <tr>
-<td style="text-align: center;" width="114">5 &ndash; Part 2<br />Main Task <br />(30 mins)</td>
-<td width="447">Description of the Main Task:
+<td style="text-align: center; width: 106px;">5 &ndash; Part 2<br />Main Task <br />(30 mins)</td>
+<td style="width: 339px;">Description of the Main Task:
 <ul>
 <li>Students are to work on the main task in groups of 4 or 5</li>
 <li>Groups will describe how the media can influence relationships (with self, peers, and the opposite sex)</li>
@@ -145,7 +145,7 @@ third_nav_title: Hidden Pages
 <li>To assess learning, teachers may want students to submit a short write up to describe their work or a personal reflection after the main task.</li>
 </ul>
 </td>
-<td width="128">Term 4 Week 1</td>
+<td style="width: 138px;">Term 4 Week 1</td>
 </tr>
 </tbody>
 </table>
