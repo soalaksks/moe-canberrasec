@@ -59,7 +59,7 @@ description: ""
 <p>Students are assessed during authentic game situations, and they receive feedback on their areas for growth. Through this assessment, the students are better able to understand the different concepts and skills taught through the modules. This allows them improved gameplay and the opportunity to have a more enjoyable time playing the different games that they have been taught.</p>
 </div>
 </div>
-	
+
 ![](/images/pe1.png)
 	
 ![](/images/pe2.png)
