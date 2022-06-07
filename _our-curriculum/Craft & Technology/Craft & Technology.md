@@ -13,7 +13,7 @@ third_nav_title: Craft & Technology
 <div style="float: left">
 <p><a href="https://moe-canberrasec-staging.netlify.app/discover-canberra/our-curriculum/craft-n-technology/art">
 <img src="/images/button-art.jpg" 
-     style="width:100%">
+     style="width:75%">
 </a></p>
 </div>
 <div>
@@ -28,7 +28,7 @@ third_nav_title: Craft & Technology
 <div style="float: left">
 <p><a href="https://moe-canberrasec-staging.netlify.app/discover-canberra/our-curriculum/craft-n-technology/music">
 <img src="/images/button-music.jpg" 
-     style="width:100%">
+     style="width:75%">
 </a></p>
 </div>
 <div>
