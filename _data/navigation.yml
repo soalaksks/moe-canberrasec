@@ -13,17 +13,6 @@ links:
         url: /our-canberra/our-staff
       - title: Yearbook 2021
         url: https://online.fliphtml5.com/obrr/zfnn/#p=1
-  - title: Partners of Canberra
-    url: /partners-of-canberra/school-advisory-committee
-    sublinks:
-      - title: School Advisory Committee
-        url: /partners-of-canberra/school-advisory-committee
-      - title: Parent Support Group
-        url: /partners-of-canberra/parent-support-group
-      - title: Canberran Alumni
-        url: /partners-of-canberra/canberran-alumni
-      - title: Friends of Canberra
-        url: /partners-of-canberra/friends-of-canberra
   - title: Discover Canberra
     url: /discover-canberra/our-curriculum
     sublinks:
@@ -39,6 +28,17 @@ links:
         url: /discover-canberra/applied-learning-alp
       - title: Leadership & Recognition
         url: /discover-canberra/student-leadership-n-recognition
+  - title: Partners of Canberra
+    url: /partners-of-canberra/school-advisory-committee
+    sublinks:
+      - title: School Advisory Committee
+        url: /partners-of-canberra/school-advisory-committee
+      - title: Parent Support Group
+        url: /partners-of-canberra/parent-support-group
+      - title: Canberran Alumni
+        url: /partners-of-canberra/canberran-alumni
+      - title: Friends of Canberra
+        url: /partners-of-canberra/friends-of-canberra
   - title: Students
     url: /students/student-leadership-n-recognition
     sublinks:
