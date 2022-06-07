@@ -704,3 +704,47 @@ third_nav_title: Hidden Pages
 </tbody>
 </table>
 </div>
+
+<p class="item-page" style="text-align: left;"><strong><u><em><span style="font-family: arial, sans-serif;">eTeens</span></em><span style="font-family: arial, sans-serif;"> Programme:</span></u></strong></p>
+<div align="center">
+<p style="text-align: left;"><span style="font-family: arial, sans-serif;">8.&nbsp;<em>eTeens</em>&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective.&nbsp;<em>eTeens</em>&nbsp;is conducted in two segments &ndash; a mass talk segment and a classroom-based programme.</span></p>
+<p style="text-align: left;"><span style="font-family: arial, sans-serif;">9. Students are taught skills such as decision-making, assertiveness and negotiation to say &ldquo;no&rdquo; to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the&nbsp;<em>eTeens</em>&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.&nbsp;</span></p>
+<div>&nbsp;</div>
+<div><strong><span style="font-family: arial, sans-serif;">At Canberra Secondary School, the eTeens programme will be implemented as follows in 2019:</span></strong></div>
+<div>&nbsp;</div>
+<table border="1" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<th style="width: 193px;" scope="col"><span style="font-family: arial, sans-serif;">Topics/Lessons</span></th>
+<th style="width: 403px;" scope="col"><span style="font-family: arial, sans-serif;">Programme Learning Objectives</span></th>
+<th style="width: 81px;" scope="col"><span style="font-family: arial, sans-serif;">Time Period</span></th>
+</tr>
+<tr>
+<td style="width: 193px;"><span style="font-family: arial, sans-serif;">Mass Talk by HPB appointed vendor</span></td>
+<td style="width: 403px;">
+<ul>
+<li><span style="font-family: arial, sans-serif;">Awareness of the different STIs and HIV/ AIDS</span></li>
+<li><span style="font-family: arial, sans-serif;">Modes of transmission</span></li>
+<li><span style="font-family: arial, sans-serif;">Modes of protection, specifically on how the condom is used</span></li>
+<li><span style="font-family: arial, sans-serif;">Consequences and impact of STIs/HIV</span></li>
+</ul>
+</td>
+<td style="width: 81px;"><span style="font-family: arial, sans-serif;">Term 3<br /></span><span style="font-family: arial, sans-serif;">Week 4</span></td>
+</tr>
+<tr>
+<td style="width: 193px;"><span style="font-family: arial, sans-serif;">Classroom-based Lesson</span></td>
+<td style="width: 403px;">
+<ul>
+<li><span style="font-family: arial, sans-serif;">Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</span></li>
+</ul>
+</td>
+<td style="width: 81px;"><span style="font-family: arial, sans-serif;">Term 3<br /></span><span style="font-family: arial, sans-serif;">Week 5</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p class="item-page"><strong><br /></strong><strong><span style="font-family: arial, sans-serif;">INFORMATION FOR PARENTS&nbsp;</span><br /></strong><span style="font-family: arial, sans-serif;">10. Parents may opt their children out of Growing Years,&nbsp;<em>eTeens</em>&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.&nbsp;</span></p>
+<p class="item-page"><span style="font-family: arial, sans-serif;">11.&nbsp;Parents who wish to opt their children out of the Growing Years (GY) programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="https://canberrasec.moe.edu.sg/qql/slot/u150/images/2019/AnnexA.pdf" target="">here</a>. A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 25/01/2019.</span></p>
+<p class="item-page"><span style="font-family: arial, sans-serif;">12.&nbsp;Parents who wish to opt their children out of the&nbsp;<em>eTeens</em>&nbsp;programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="https://canberrasec.moe.edu.sg/qql/slot/u150/images/2019/AnnexB.pdf" target="">here</a>.&nbsp; A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 25/01/2019.</span></p>
+<p class="item-page"><span style="font-family: arial, sans-serif;">13. Parents can contact the school at 6758 5070 or&nbsp;<span id="cloak32402"><a href="mailto:canberra_ss@moe.edu.sg">canberra_ss@moe.edu.sg&nbsp;</a></span>for discussion or to seek clarification about the school&rsquo;s sexuality education programme.</span>&nbsp;</p>
+<p class="item-page"><span style="font-family: arial, sans-serif;">14. Parents, who wish to attend the school sexuality education programmes, should also contact the school to make the necessary arrangements.&nbsp;</span></p>
