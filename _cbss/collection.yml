@@ -2,6 +2,7 @@ collections:
   cbss:
     output: true
     order:
+      - Total Defence Day.md
       - GCE N Level Results.md
       - SLS Support for Home Based Learning.md
       - Cancellation of PSG Welcome Dinner on 14 Feb 2020.md
