@@ -2,12 +2,12 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Craft & Technology/.keep
+      - Craft & Technology/Craft & Technology.md
       - Craft & Technology/Arts.md
       - Craft & Technology/Design and Technology.md
       - Craft & Technology/Music.md
       - Craft & Technology/Nutrition and Food Science.md
-      - Craft & Technology/Craft & Technology.md
-      - Craft & Technology/.keep
       - Mother Tongue.md
       - Humanities.md
       - Science.md
