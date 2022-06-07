@@ -2,6 +2,7 @@ collections:
   cbss:
     output: true
     order:
+      - Hidden Pages/.keep
       - Sec 2.md
       - Custom Error Page.md
       - International Friendship Day 2019.md
