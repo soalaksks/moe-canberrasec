@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - National Day Celebrations.md
+      - Hidden Pages/Global Canberran Programme.md
       - Hidden Pages/.keep
       - Sec 2.md
       - Custom Error Page.md
