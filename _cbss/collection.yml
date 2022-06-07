@@ -2,10 +2,11 @@ collections:
   cbss:
     output: true
     order:
+      - 2022 Sec 1 Webinar.md
       - National Day Celebrations.md
+      - Hidden Pages/.keep
       - Hidden Pages/Sexuality Education.md
       - Hidden Pages/Global Canberran Programme.md
-      - Hidden Pages/.keep
       - Sec 2.md
       - Custom Error Page.md
       - International Friendship Day 2019.md
@@ -26,4 +27,3 @@ collections:
       - Academic Programmes for Sec 4&5 in June.md
       - Canberra Secondary School welcomes our 2022 Sec 1 Students and
         Parents!.md
-      - 2022 Sec 1 Webinar.md
