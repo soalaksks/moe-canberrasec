@@ -14,3 +14,4 @@ description: ""
 <li>Students to practice good personal hygiene and continue wipe-down routine after use of the venue.</li>
 </ol>
 <p>We look forward to supporting our students but seek the help of all to keep our students and staff safe during this period.</p>
+<p>Thank You.</p>
