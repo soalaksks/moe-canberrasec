@@ -10,5 +10,4 @@ description: ""
 <p>The MTL Department also believes that for a child to appreciate his Mother Tongue Language, the best approach is through cultural exposure. Activities such as performing arts and cultural games are organised for Secondary one students as part of post-exam activities. Under the Cultural Performance Exposure Scheme (文化随意门计划), our students enjoy watching Chinese language-related cultural performances staged at public performing arts venue. In addition, the Malay Language Unit was invited to put up an exhibition in conjunction with Bulan Bahasa 2018, with the theme; &lsquo;Pantang Nenek Moyang Aku&rsquo;. The main objective of this exhibition is to increase understanding and expose the public to tips and taboos that exist in the Malay Community. We used different platforms such as information boards, videos and interactive game and quiz to share the information with the public. Our school ambassadors had an enriching and fulfilling experience interaction with the public.</p>
 
 ![](/images/mt1.png)
-
 ![](/images/mt2.png)
