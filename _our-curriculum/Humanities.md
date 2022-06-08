@@ -29,4 +29,6 @@ description: ""
 <p>1) Written paper (60%)<br>2) Coursework (40%)</p>
 </div>
 
-![](/images/humanities3.png)
+<img src="/images/humanities3.png" 
+     style="width:75%">
+
