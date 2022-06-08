@@ -50,7 +50,6 @@ description: ""
 <blockquote>
 <p><strong>Y</strong>outh with&nbsp;<strong>E</strong>nergy<br /><strong>E</strong>ducators with&nbsp;<strong>E</strong>xpertise<br /><strong>S</strong>eniors with&nbsp;<strong>E</strong>xperience</p>
 </blockquote>
-</p>
 <div>
 <div style="float: left">
 <img src="/images/PF1.png" />
@@ -58,8 +57,6 @@ description: ""
 <div>
 <p>3G volunteerism : Our senior from Blossom Seed taught our students paper quilling. These quills were then used to make a gift of appreciation for our healthcare workers.</p>
 </div>
-</div>
-<div>
 <h3><strong>Our GRC Vision 2040</strong></h3>
 <div>
 <p>We have a Vision that by 2040,&nbsp;<span style="color: #ff0000;"><strong>GRC</strong>&nbsp;</span>will replace 3K's to become Singapore's DNA :</p>
