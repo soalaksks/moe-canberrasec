@@ -57,8 +57,6 @@ description: ""
 <div>
 <p>In line with our Mission to equip our students with sports knowledge and skills, we have incorporated meaningful assessment of the Sports and Games that are taught.</p>
 <p>Students are assessed during authentic game situations, and they receive feedback on their areas for growth. Through this assessment, the students are better able to understand the different concepts and skills taught through the modules. This allows them improved gameplay and the opportunity to have a more enjoyable time playing the different games that they have been taught.</p>
-</div>
-</div>
 
 ![](/images/pe1.png)
 
