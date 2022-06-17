@@ -4,7 +4,7 @@ permalink: /cbss/hidden-pages/global-canberran-programme
 description: ""
 third_nav_title: Hidden Pages
 ---
-<h3 class="contentheading"><span style="text-decoration: underline;"><strong><a href="https://canberrasec.moe.edu.sg/global-canberran-programme">GLOBAL CANBERRAN PROGRAMME (GCP</a>)</strong></span></h3>
+<h3 class="contentheading"><span style="text-decoration: underline;"><strong><a href="https://canberrasec.moe.edu.sg/global-canberran-programme">GLOBAL CANBERRAN PROGRAMME (GCP)</a></strong></span></h3>
 <p>As part of our academic and character development, we have the Global Canberran Programme (GCP) for our students to facilitate this internationalisation process. The GCP educational travel has enabled our students to learn beyond classroom walls. Students who participate in educational travel benefit from exposure to new people, experiences, and cultures. Along with a better understanding of subject material, the GCP educational travel has also provided opportunities for students to grow in self-confidence and independence.</p>
 <p>The GCP educational travel has enabled our students to learn beyond classroom walls. Students who participate in educational travel benefit from exposure to new people, experiences, and cultures. Along with a better understanding of subject material, the GCP educational travel has also provided opportunities for students to grow in self-confidence and independence.</p>
 <p>The following reflections by our students attest to the benefits and results of the GCP:</p>
