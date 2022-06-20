@@ -3,7 +3,7 @@ title: Student Leadership & Recognition
 permalink: /discover-canberra/student-leadership-n-recognition
 description: ""
 ---
-<p><strong>STUDENT LEADERSHIP DEVELOPMENT FRAMEWORK</strong
+<p><strong>STUDENT LEADERSHIP DEVELOPMENT FRAMEWORK</strong>
 </p>
 <p><strong>Introduction</strong></p>
 <p>We, in Canberra Secondary School believe that it is vital to nurture students as growing leaders for their holistic development. The Student Leadership Committee aims to offer platforms for students across the levels to develop their leadership skills and potential progressively.</p>
