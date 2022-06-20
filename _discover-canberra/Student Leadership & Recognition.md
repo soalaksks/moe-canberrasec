@@ -22,9 +22,7 @@ description: ""
 <li>To improve the status of student leaders in the school by providing more recognition of student leaders among the student population.</li>
 </ul>
 <p><strong>SL FRAMEWORK</strong></p>
-
-![](/images/sl-framework.png)
-
+<p><img style="width: 75%;" src="/images/sl-framework.png" />
 <p>A framework, in the form of a concentric circle, provides the structure for leadership development. This framework assumes that every student has leadership potential, and opportunities and training in leadership will be provided for each Canberran. All the student leaders will be involved in leadership development activities which centre about the ethos of shared leadership and servant leadership. It also comprises of the leadership skills and attributes that they will develop gradually.</p>
 <p>Right in the centre is the Beginning Leaders &ndash; this comprises the Secondary One students and PSLs who will embrace self-leadership skills. This will enable students to appreciate that integrity, personal responsibility and self-discipline are vital to becoming an effective leader. At this stage, they would learn to take up a supportive role to the school.</p>
 <p>From the centre, the next circle is the Peer Leaders &ndash; this comprises the Secondary Two students and councillors. This segment focuses on peer leadership, whereby students understand the importance of teamwork and build up confidence to lead small teams. At Secondary Two, the student leaders would then challenge their potential to become a confident leader who can assist their team leaders in the planning and execution of events.</p>
