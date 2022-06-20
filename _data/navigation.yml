@@ -72,9 +72,9 @@ links:
       - title: Cyberwellness Guides
         url: https://beta.moe.gov.sg/programmes/cyber-wellness/
       - title: Parent Handbook (I)
-        url: https://canberrasec.moe.edu.sg/qql/slot/u150/2021/Parents/2021/Parent%20Handbook%20I%20on%20Learning%20with%20a%20Personal%20Learning%20Device.pdf
+        url: https://moe-canberrasec-staging.netlify.app/files/Parent%20Handbook%20I%20on%20Learning%20with%20a%20Personal%20Learning%20Device.pdf
       - title: Parent Handbook (II)
-        url: https://canberrasec.moe.edu.sg/qql/slot/u150/2021/Parents/2021/Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf
+        url: https://moe-canberrasec-staging.netlify.app/files/Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf
       - title: DSA
         url: /parents/dsa/direct-school-admission-dsa
       - title: Quick Links
