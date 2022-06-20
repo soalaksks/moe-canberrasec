@@ -3,13 +3,12 @@ title: Learning for Life (LLP)
 permalink: /discover-canberra/learning-for-life-llp
 description: ""
 ---
-
 ![](/images/LLP-1.jpg)
 
 
 <div>
 <div style="float: right">
-<br>Scan for video on the L.I.F.E curriculum</br>
+Scan for video on the L.I.F.E curriculum
 <img src="/images/LIFE%20Curriculum%20(QR%20Code).png" />
 </div>
 <div>
