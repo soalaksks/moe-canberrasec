@@ -3,75 +3,56 @@ title: 2022 Sec 1 Webinar
 permalink: /cbss/2022-sec-1-webinar
 description: ""
 ---
-<p style="text-align: center;"><strong>Webinar for Sec 1 Parent Induction Session</strong></p>
-<p>Dear Parent/Guardian</p>
-<p>Welcome to Canberra Secondary School! We would like to invite you to join us in the webinar on:</p>
-<p>Date: 8 Jan 2021 (Friday)</p>
-<p>Time: 6.00pm to 7.45pm</p>
-<p>The programme is as follows</p>
-<table width="100%">
+<center><strong>Webinar for Sec 1 Parent Induction Session</strong></center>
+<table border="0" width="90%" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td>
-<p><strong>Time</strong></p>
-</td>
-<td>
-<p><strong>Programme</strong></p>
-</td>
+<td align="left">Dear Parent/Guardian<br /><br />Welcome to Canberra Secondary School! We would like to invite you to join us in the webinar on:<br /><br />Date: 7 Jan 2022 (Friday)<br />Time: 6.00pm to 8.00pm<br /><br />The programme is as follows<br /><br />
+<table border="1" width="90%">
+<tbody>
+<tr>
+<td align="center"><strong>Time</strong></td>
+<td align="center"><strong>Programme</strong></td>
 </tr>
 <tr>
-<td>
-<p>5.45pm</p>
-</td>
-<td>
-<p>Webinar opens</p>
-</td>
+<td align="center">5.45pm</td>
+<td align="left">Webinar opens</td>
 </tr>
 <tr>
-<td>
-<p>6.00pm</p>
-</td>
-<td>
-<p>Welcome and Introduction by Year Head</p>
-</td>
+<td align="center">6.00pm</td>
+<td align="left">Welcome and Introduction by Year Head</td>
 </tr>
 <tr>
-<td>
-<p>6.15pm</p>
-</td>
-<td>
-<p>Sharing by Principal</p>
-</td>
+<td align="center">6.15pm</td>
+<td align="left">Sharing by Principal</td>
 </tr>
 <tr>
-<td>
-<p>6.45pm</p>
-</td>
-<td>
-<p>Question and Answer Session</p>
-</td>
+<td align="center">6.45pm</td>
+<td align="left">Question and Answer Session</td>
 </tr>
 <tr>
-<td>
-<p>7.45pm</p>
-</td>
-<td>
-<p>End of Programme</p>
-</td>
+<td align="center">7.15pm</td>
+<td align="left">Class Zoom Links Open</td>
+</tr>
+<tr>
+<td align="center">7.30pm</td>
+<td align="left">Sharing by Character Coaches</td>
+</tr>
+<tr>
+<td align="center">8.00pm</td>
+<td align="left">End of Programme</td>
 </tr>
 </tbody>
 </table>
-<div>
-<p>Before the webinar, you can find out more about our key school programmes by clicking these links:</p>
+<br /><br />Before the webinar, you can find out more about our key school programmes by clicking these links:<br />
 <ol>
-<ol>
-<li><a href="https://canberrasec.moe.edu.sg/qql/slot/u150/2021/Parents/Webinar%20Resources/2021%20Sec%201%20Webinar/1.%20Character%20Development%20Programme.pdf" target="_blank" rel="noopener">Character Development Programme</a></li>
-<li><a href="https://canberrasec.moe.edu.sg/qql/slot/u150/2021/Parents/Webinar%20Resources/2021%20Sec%201%20Webinar/2.%20Academic%20Programme.pdf" target="_blank" rel="noopener">Academic Programme</a></li>
-<li><a href="https://canberrasec.moe.edu.sg/qql/slot/u150/2021/Parents/Webinar%20Resources/2021%20Sec%201%20Webinar/3.%20CCA%20Progamme.pdf" target="_blank" rel="noopener">CCA Programme</a></li>
-<li><a href="https://canberrasec.moe.edu.sg/qql/slot/u150/2021/Parents/Webinar%20Resources/2021%20Sec%201%20Webinar/4.%20Canberran%20Enrichment%20Programme%20CEP.pdf" target="_blank" rel="noopener">Canberran Enrichment Programme</a></li>
-<li><a href="https://canberrasec.moe.edu.sg/qql/slot/u150/2021/Parents/Webinar%20Resources/2021%20Sec%201%20Webinar/5.%20National%20Digital%20Literacy%20Programme.pdf" target="_blank" rel="noopener">National Digital Literacy Programme</a></li>
-<li><a href="https://canberrasec.moe.edu.sg/qql/slot/u150/2021/Parents/Webinar%20Resources/2021%20Sec%201%20Webinar/6.%20Parent%20Support%20Group%20Programme.pdf" target="_blank" rel="noopener">Parent Support Group Programme</a></li>
+<li><a href="https://canberrasec.moe.edu.sg/qql/slot/u150/pld/ST1%20Sec%201%20Parent%20Induction%202022.pdf" target="_blank" rel="noopener">Character Development Programme</a></li>
+<li><a href="https://canberrasec.moe.edu.sg/qql/slot/u150/pld/ST2%20_Sec%201%20Parents%20Induction%202022.pdf" target="_blank" rel="noopener">Academic Programme</a></li>
+<li><a href="https://canberrasec.moe.edu.sg/qql/slot/u150/pld/2022%20CCA%20Presentation%20-%20Parents%20Briefing.pdf" target="_blank" rel="noopener">CCA Programme</a></li>
+<li><a href="https://canberrasec.moe.edu.sg/qql/slot/u150/pld/PLD%20Initiative%20and%20FAQ%20for%20webinar%20on%207%20Jan%2022.pdf" target="">Personal Learning Device Initiative</a></li>
+<li><a href="https://canberrasec.moe.edu.sg/qql/slot/u150/pld/PSG%207%20Jan%202022.pdf" target="_blank" rel="noopener">Parent Support Group Programme</a></li>
 </ol>
-</ol>
-<p>Please refer to our letter in your Parents Gateway for more information and we look forward to receiving you at the webinar!</p>
-</div>
+<br />&nbsp;Please refer to our letter in your Parents Gateway for more information and we look forward to receiving you at the webinar!</td>
+</tr>
+</tbody>
+</table>
