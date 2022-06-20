@@ -17,6 +17,7 @@ description: ""
 <p><strong>Art and ICT lesson: Students trying out editing software to edit their photographs taken earlier.&nbsp;</strong></p>
 <img src="/images/2016-alp-13.jpg">
 <p><strong>Art and ICT lesson: Trying out photography techniques learnt during ICT lesson.</strong></p>
+<img src="/images/2016-alp-14.jpg">
 <h3><strong>Digital Media in Visual Arts (DMA) Club</strong></h3>
 <p>The Digital Media in Visual Arts Club serves as an avenue for students to pursue their interest in digital media such as photography and videography as a CCA.</p>
 <p>In Canberra Secondary school, we organise Photography competition once a year and this is open to other schools which is known as &ldquo;National Young Shutterbug&rdquo;. The objective of this event is to impart Digital Media skills to all primary schools (Cluster/National) in the area of digital photography. It is also to promote National Education values through cultural sites explorations and appreciation of the uniqueness in racial harmony within a multi-cultural society. Lastly we also want to promote Self-Directed learning and Collaborative Learning.</p>
