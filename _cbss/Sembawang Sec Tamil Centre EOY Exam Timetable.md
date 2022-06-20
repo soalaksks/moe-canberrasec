@@ -4,4 +4,4 @@ permalink: /cbss/sembawang-sec-tamil-centre-eoy-exam-timetable
 description: ""
 ---
 <p>Tamil students attending lessons at Sembawang Sec Sch, pleases be reminded to be present for the End-of-Year Examination.&nbsp;&nbsp;Refer to the timetable for the specific date and time.</p>
-<p>Click&nbsp;<a href="https://canberrasec.moe.edu.sg/qql/slot/u150/notice/2020%20TL%20Centre_EOY_ExamTimetable.pdf" target="">here</a>&nbsp;for Tamil Centre EOY Exam Timetable</p>
+<p>Click&nbsp;<a href="https://moe-canberrasec-staging.netlify.app/files/2020%20TL%20Centre_EOY_ExamTimetable.pdf" target="">here</a>&nbsp;for Tamil Centre EOY Exam Timetable</p>
