@@ -69,9 +69,7 @@ description: ""
 <p>While we Dream Big, we will Start Small, right from our sphere of influence &ndash; Sembawang &ndash; where the school is located. We aspire to work with our strategic partners to make&nbsp;<span style="color: #ff0000;"><strong>GRC</strong>&nbsp;</span><strong>the DNA of Sembawang GRC by 2024</strong>.</p>
 </div>
 </div>
-
-![](/images/PF2.png)
-	
+<img src="/images/PF2.png">	
 <p style="text-align: center;">Grateful for the partnership with Constituency directors of Canberra and Sembawang Central as well as CEO of Blossom Seeds</p>
 	<p>When&nbsp;<strong><span style="color: #d13438;">GRC&nbsp;</span></strong>@Sembawang GRC Vision 2024 is realised, three things will happen. There will be :</p>
 <div>
@@ -84,25 +82,18 @@ description: ""
 </li>
 </ol>
 </div>
-
-![](/images/pfpf.png)
-	
+<img src="/images/pfpf.png">
 <ol>
 <ol>
 <li><strong>No more lonely people&nbsp;</strong>(like the elderly lady who died in her home but her death was discovered only after two years).</li>
 </ol>
 </ol>
-
-![](/images/PF5.png)
+<img src="/images/PF5.png">
 <p style="text-align: center;">It takes two to tango: Youth and Seniors forge a special friendship</p>
-
-![](/images/PF6.png)
+<img src="/images/PF6.png">
 <p style="text-align: center;">No more lonely people : Youth find joy in befriending the elderly</p>
-	
 <h3><strong>We need you</strong></h3>
-	
-![](/images/PF7.png)
-	
+<img src="/images/PF7.png">
 <p style="text-align: center;">Students, Educators, Partners form an ecosystem of caring: Volunteering @ HCA Hospice</p>
 <div>
 <div>
