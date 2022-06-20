@@ -171,13 +171,13 @@ description: ""
 <p><strong>Secondary 4</strong></p>
 </td>
 <td colspan="4">
-<p><a href="https://canberrasec.moe.edu.sg/qql/slot/u150/Students/2022/TT/4E5N%20MID%20YR%20EXAM%20TT.pdf" target="_blank" rel="noopener">4E/5N</a></p>
+<p><a href="https://moe-canberrasec-staging.netlify.app/files/4E5N%20MID%20YR%20EXAM%20TT.pdf" target="_blank" rel="noopener">4E/5N</a></p>
 </td>
 <td colspan="2">
-<p><a href="https://canberrasec.moe.edu.sg/qql/slot/u150/Students/2022/TT/4NA%20MID%20YR%20EXAM%20TT.pdf" target="_blank" rel="noopener">4N</a></p>
+<p><a href="https://moe-canberrasec-staging.netlify.app/files/4NA%20MID%20YR%20EXAM%20TT.pdf" target="_blank" rel="noopener">4N</a></p>
 </td>
 <td colspan="2">
-<p><a href="https://canberrasec.moe.edu.sg/qql/slot/u150/Students/2022/TT/4T%20MID%20YR%20EXAM%20TT.pdf" target="_blank" rel="noopener">4T</a></p>
+<p><a href="https://moe-canberrasec-staging.netlify.app/files/4T%20MID%20YR%20EXAM%20TT.pdf" target="_blank" rel="noopener">4T</a></p>
 </td>
 </tr>
 </tbody>
