@@ -3,7 +3,6 @@ title: Class & Exam Timetable
 permalink: /students/class-exam-time-table/
 description: ""
 ---
-
 <table border="0" width="672" cellspacing="0" cellpadding="5">
 <tbody>
 <tr>
