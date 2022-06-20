@@ -4,8 +4,6 @@ permalink: /parents/webinar-resources
 description: ""
 third_nav_title: Webinar Resources
 ---
-
-
 <table width="100%">
 <tbody>
 <tr>
@@ -21,7 +19,7 @@ third_nav_title: Webinar Resources
 <p>8 Jan 2021 (Fri)</p>
 </td>
 <td>
-<p><a href="https://canberrasec.moe.edu.sg/parents/webinar-resources/2021-sec-1-webinar" target="">2021 Sec 1 Webinar</a></p>
+<p><a href="https://moe-canberrasec-staging.netlify.app/parents/webinar-resources/2021-sec-1-webinar" target="">2021 Sec 1 Webinar</a></p>
 </td>
 </tr>
 <tr>
