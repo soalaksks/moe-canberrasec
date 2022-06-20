@@ -26,28 +26,28 @@ description: ""
 <p><strong>Secondary 1</strong></p>
 </td>
 <td>
-<p><a href="https://canberrasec.moe.edu.sg/qql/slot/u150/2021/Students/2022/TT/2022-Sem1-1E1.pdf" target="_blank" rel="noopener">1E1</a></p>
+<p><a href="https://moe-canberrasec-staging.netlify.app/files/2022-Sem1-1E1.pdf" target="_blank" rel="noopener">1E1</a></p>
 </td>
 <td>
-<p><a href="https://canberrasec.moe.edu.sg/qql/slot/u150/2021/Students/2022/TT/2022-Sem1-1E2.pdf" target="_blank" rel="noopener">1E2</a></p>
+<p><a href="https://moe-canberrasec-staging.netlify.app/files/2022-Sem1-1E2.pdf" target="_blank" rel="noopener">1E2</a></p>
 </td>
 <td>
-<p><a href="https://canberrasec.moe.edu.sg/qql/slot/u150/2021/Students/2022/TT/2022-Sem1-1E3.pdf" target="_blank" rel="noopener">1E3</a></p>
+<p><a href="https://moe-canberrasec-staging.netlify.app/files/2022-Sem1-1E3.pdf" target="_blank" rel="noopener">1E3</a></p>
 </td>
 <td>
-<p><a href="https://canberrasec.moe.edu.sg/qql/slot/u150/2021/Students/2022/TT/2022-Sem1-1E4.pdf" target="_blank" rel="noopener">1E4</a></p>
+<p><a href="https://moe-canberrasec-staging.netlify.app/files/2022-Sem1-1E4.pdf" target="_blank" rel="noopener">1E4</a></p>
 </td>
 <td>
-<p><a href="https://canberrasec.moe.edu.sg/qql/slot/u150/2021/Students/2022/TT/2022-Sem1-1N1.pdf" target="_blank" rel="noopener">1N1</a></p>
+<p><a href="https://moe-canberrasec-staging.netlify.app/files/2022-Sem1-1N1.pdf" target="_blank" rel="noopener">1N1</a></p>
 </td>
 <td>
-<p><a href="https://canberrasec.moe.edu.sg/qql/slot/u150/2021/Students/2022/TT/2022-Sem1-1N2.pdf" target="_blank" rel="noopener">1N2</a></p>
+<p><a href="https://moe-canberrasec-staging.netlify.app/files/2022-Sem1-1N2.pdf" target="_blank" rel="noopener">1N2</a></p>
 </td>
 <td>
-<p><a href="https://canberrasec.moe.edu.sg/qql/slot/u150/2021/Students/2022/TT/2022-Sem1-1T1.pdf" target="_blank" rel="noopener">1T1</a></p>
+<p><a href="https://moe-canberrasec-staging.netlify.app/files/2022-Sem1-1T1.pdf" target="_blank" rel="noopener">1T1</a></p>
 </td>
 <td>
-<p><a href="https://canberrasec.moe.edu.sg/qql/slot/u150/2021/Students/2022/TT/2022-Sem1-1T2.pdf" target="_blank" rel="noopener">1T2</a>&nbsp;</p>
+<p><a href="https://moe-canberrasec-staging.netlify.app/files/2022-Sem1-1T2.pdf" target="_blank" rel="noopener">1T2</a></p>
 </td>
 </tr>
 <tr>
