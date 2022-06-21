@@ -46,11 +46,11 @@ description: ""
 </table>
 <br /><br />Before the webinar, you can find out more about our key school programmes by clicking these links:<br />
 <ol>
-<li><a href="https://canberrasec.moe.edu.sg/qql/slot/u150/pld/ST1%20Sec%201%20Parent%20Induction%202022.pdf" target="_blank" rel="noopener">Character Development Programme</a></li>
-<li><a href="https://canberrasec.moe.edu.sg/qql/slot/u150/pld/ST2%20_Sec%201%20Parents%20Induction%202022.pdf" target="_blank" rel="noopener">Academic Programme</a></li>
-<li><a href="https://canberrasec.moe.edu.sg/qql/slot/u150/pld/2022%20CCA%20Presentation%20-%20Parents%20Briefing.pdf" target="_blank" rel="noopener">CCA Programme</a></li>
-<li><a href="https://canberrasec.moe.edu.sg/qql/slot/u150/pld/PLD%20Initiative%20and%20FAQ%20for%20webinar%20on%207%20Jan%2022.pdf" target="">Personal Learning Device Initiative</a></li>
-<li><a href="https://canberrasec.moe.edu.sg/qql/slot/u150/pld/PSG%207%20Jan%202022.pdf" target="_blank" rel="noopener">Parent Support Group Programme</a></li>
+<li><a href="https://moe-canberrasec-staging.netlify.app/files/1%20ST1%20Sec%201%20Parent%20Induction%202022_compressed.pdf" target="_blank" rel="noopener">Character Development Programme</a></li>
+<li><a href="https://moe-canberrasec-staging.netlify.app/files/2%20ST2%20_Sec%201%20Parents%20Induction%202022.pdf" target="_blank" rel="noopener">Academic Programme</a></li>
+<li><a href="https://moe-canberrasec-staging.netlify.app/files/3%202022%20CCA%20Presentation%20-%20Parents%20Briefing.pdf" target="_blank" rel="noopener">CCA Programme</a></li>
+<li><a href="https://moe-canberrasec-staging.netlify.app/files/4%20PLD%20Initiative%20and%20FAQ%20for%20webinar%20on%207%20Jan%2022.pdf" target="">Personal Learning Device Initiative</a></li>
+<li><a href="https://moe-canberrasec-staging.netlify.app/files/PSG%20recruitment%20form%202022.pdf" target="_blank" rel="noopener">Parent Support Group Programme</a></li>
 </ol>
 <br />&nbsp;Please refer to our letter in your Parents Gateway for more information and we look forward to receiving you at the webinar!</td>
 </tr>
