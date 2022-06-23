@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Quick Links/PLD Fault Reporting.md
       - Quick Links/Quick Links.md
       - Quick Links/.keep
       - Student Leadership & Recognition.md
