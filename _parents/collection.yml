@@ -2,8 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Quick Links/Quick Links.md
-      - Quick Links/.keep
       - Letters to Parents.md
       - Webinar Resources/.keep
       - Webinar Resources/Webinar Resources.md
@@ -16,3 +14,5 @@ collections:
       - DSA/.keep
       - DSA/Direct School Admission (DSA).md
       - DSA/Applied learning Programme.md
+      - Quick Links/.keep
+      - Quick Links/Quick Links.md
