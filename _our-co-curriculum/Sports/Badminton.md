@@ -1,11 +1,9 @@
 ---
 title: Badminton
-permalink: /discover-canberra/our-co-curriculum/sports/badminton
+permalink: /discover-canberra/our-co-curriculum/sports/badminton/
 description: ""
 third_nav_title: Sports
 ---
-
-
 <h4><strong>Vision</strong></h4>
 <p>The Badminton Team aims to inculcate values of respect, fair play and sportsmanship in our players and to enhance their resilience and tenacity so that these qualities will serve them well in future in all aspect of their lives. We also want our students to demonstrate the R3ICH (Resilience, Respect, Responsibility, Integrity, Care and Harmony) values, Olympic values (Friendship, Respect and&nbsp;Excellence) and discipline.</p>
 <h4><strong>Highlights and Achievements</strong></h4>
@@ -20,7 +18,6 @@ third_nav_title: Sports
 </td>
 <td width="280">
 <p>Mr Lok Chee How</p>
-<p>Mr Lam Peng Onn</p>
 <p>Ms Joann David</p>
 </td>
 </tr>
