@@ -1,6 +1,6 @@
 ---
 title: Boy's Brigade
-permalink: /discover-canberra/our-co-curriculum/uniformed-groups/boys-brigade
+permalink: /discover-canberra/our-co-curriculum/uniformed-groups/boys-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
@@ -15,7 +15,7 @@ third_nav_title: Uniformed Groups
 <p><strong>Teachers-In-Charge :</strong></p>
 </td>
 <td width="237">
-<p>Mr He Jiaen<br />Mr Jeremy Tng<br />Mr Seth Lim<br />Mrs Hee-Lim</p>
+<p>Mr He Jiaen<br />Mr Jeremy Tng<br />Mr Seth Lim
 </td>
 </tr>
 <tr>
