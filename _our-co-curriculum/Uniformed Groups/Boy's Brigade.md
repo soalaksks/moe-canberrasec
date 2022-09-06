@@ -10,6 +10,7 @@ third_nav_title: Uniformed Groups
 <p>For our efforts in the Assessment Year of 2017, we received the JM Fraser Award for Excellence (Silver). As in previous years, our Company also groomed outstanding Boys who have attained the highest rank (Warrant Officer). Warrant Officer Denny Yusoff B Zailani and Warrant Officer Jovan Tan Jia Wen were deserving recipients.</p>
 <table border="0" cellpadding="10">
 <tbody>
+	
 <tr>
 <td width="170">
 <p><strong>Teachers-In-Charge :</strong></p>
@@ -25,7 +26,8 @@ third_nav_title: Uniformed Groups
 <p><strong>Training Days / Time :</strong></p>
 <td width="237">
 <p>Saturday, 8.00am &ndash; 12.00pm</p>
-</td></td>
+</td>
+</td>
 
 </tbody>
 </table>
