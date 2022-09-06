@@ -1,6 +1,6 @@
 ---
 title: Dance Club
-permalink: /discover-canberra/our-co-curriculum/visual-and-performing-arts/dance-club
+permalink: /discover-canberra/our-co-curriculum/visual-and-performing-arts/dance-club/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
@@ -29,7 +29,6 @@ third_nav_title: Visual and Performing Arts
 <p>Mr Chen Jialiang</p>
 <p>Mdm Heryani</p>
 <p>Ms Shahani</p>
-<p>Mdm Uma</p>
 </td>
 </tr>
 <tr>
