@@ -1,6 +1,6 @@
 ---
 title: Concert Band
-permalink: /discover-canberra/our-co-curriculum/visual-and-performing-arts/concert-band
+permalink: /discover-canberra/our-co-curriculum/visual-and-performing-arts/concert-band/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
@@ -22,7 +22,6 @@ third_nav_title: Visual and Performing Arts
 <td>
 <p>Ms Kris Toh</p>
 <p>Ms Nur Diyana</p>
-<p>Mrs Bagchi</p>
 <p>Ms Yap Hui San</p>
 </td>
 </tr>
