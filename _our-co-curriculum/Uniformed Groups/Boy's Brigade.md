@@ -18,7 +18,6 @@ third_nav_title: Uniformed Groups
 <p>Mr He Jiaen</p>
 <p>Mr Jeremy Tng</p>
 <p>Mr Seth Lim</p>
-</tr>
 </td>
 <p><strong>Training Days / Time :</strong></p>
 <td>
