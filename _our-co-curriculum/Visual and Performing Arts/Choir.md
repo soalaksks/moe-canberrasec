@@ -1,6 +1,6 @@
 ---
 title: Choir
-permalink: /discover-canberra/our-co-curriculum/visual-and-performing-arts/choir
+permalink: /discover-canberra/our-co-curriculum/visual-and-performing-arts/choir/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
@@ -18,8 +18,8 @@ third_nav_title: Visual and Performing Arts
 <p><strong>Teachers-In-Charge</strong></p>
 </td>
 <td>
-<p>Mr Quek Yeow Chong</p>
 <p>Ms Josephine Lim</p>
+<p>Mrs Hee-Lim</p>
 </td>
 </tr>
 <tr>
