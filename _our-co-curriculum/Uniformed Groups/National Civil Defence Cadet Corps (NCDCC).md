@@ -1,6 +1,6 @@
 ---
 title: National Civil Defence Cadet Corps (NCDCC)
-permalink: /discover-canberra/our-co-curriculum/uniformed-groups/national-civil-defence-cadet-corps-ncdcc
+permalink: /discover-canberra/our-co-curriculum/uniformed-groups/national-civil-defence-cadet-corps-ncdcc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
@@ -17,10 +17,8 @@ third_nav_title: Uniformed Groups
 <td width="237">
 <p>Mr Asyraf Khalid</p>
 <p>Ms Ginny Teh</p>
-<p>Ms Filzah Nadiah</p>
 <p>Ms Teo Qi Wen</p>
 <p>Ms Yusra</p>
-<p>Ms Audrey Goh</p>
 </td>
 </tr>
 <tr>
