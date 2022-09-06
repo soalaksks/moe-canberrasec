@@ -19,13 +19,13 @@ third_nav_title: Uniformed Groups
 <p>Mr Jeremy Tng</p>
 <p>Mr Seth Lim</p>
 </tr>
-<tr>
+	<tr></tr>
 </td>
 <td>
 <p><strong>Training Days / Time :</strong></p>
 <td width="237">
 <p>Saturday, 8.00am &ndash; 12.00pm</p>
-</td>
+</td></td>
 </tr>
 </tbody>
 </table>
