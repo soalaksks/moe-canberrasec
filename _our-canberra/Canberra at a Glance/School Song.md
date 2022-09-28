@@ -1,6 +1,6 @@
 ---
 title: School Song
-permalink: /our-canberra/canberra-at-a-glance/school-song
+permalink: /our-canberra/canberra-at-a-glance/school-song/
 description: ""
 third_nav_title: Canberra at a Glance
 ---
@@ -13,5 +13,3 @@ third_nav_title: Canberra at a Glance
 <h4 style="text-align: center;"><strong>The hopes and future are in our hands</strong></h4>
 <h4 style="text-align: center;"><strong>we will never stop aspiring never stop believing</strong></h4>
 <h4 style="text-align: center;"><strong>For we take pride in Canberra Secondary School</strong></h4>
-
-Insert Audio
