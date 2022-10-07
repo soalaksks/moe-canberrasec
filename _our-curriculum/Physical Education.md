@@ -1,6 +1,6 @@
 ---
 title: Physical Education
-permalink: /discover-canberra/our-curriculum/physical-education
+permalink: /discover-canberra/our-curriculum/physical-education/
 description: ""
 ---
 <p><strong>Vision:<br /></strong>GRC Canberrans living an active and healthy lifestyle.</p>
@@ -10,9 +10,9 @@ description: ""
 <li>Ms Jenny Soh HOD PE/CCA/Aesthetics</li>
 <li>Mr Lok Chee How</li>
 <li>Mr Whelan Chen</li>
-<li>Mr Jack Chan</li>
-<li>Mr Tan Pang Lim</li>
-<li>Mr Khairul Anwar</li>
+<li>Ms Cassandra Tay</li>
+<li>Mr Ryan Wong</li>
+<li>Ms Julienne Pek</li>
 </ul>
 <p><strong>Teaching and Learning&nbsp;</strong>Our students go through the following sports and games throughout the year.</p>
 <table class="iveo_table ives_tab_simple3 ive_eobj_center" style="width: 688px;" cellspacing="0" cellpadding="0" align="center">
