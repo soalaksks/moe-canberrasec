@@ -1,6 +1,6 @@
 ---
 title: Principal's Foreword
-permalink: /our-canberra/principals-foreword
+permalink: /our-canberra/principals-foreword/
 description: ""
 ---
 <div>
@@ -57,7 +57,7 @@ description: ""
 <div>
 <p>3G volunteerism : Our senior from Blossom Seed taught our students paper quilling. These quills were then used to make a gift of appreciation for our healthcare workers.</p>
 </div>
-<h3><strong>Our GRC Vision 2040</strong></h3>
+<br/><h3><strong>Our GRC Vision 2040</strong></h3>
 <div>
 <p>We have a Vision that by 2040,&nbsp;<span style="color: #ff0000;"><strong>GRC</strong>&nbsp;</span>will replace 3K's to become Singapore's DNA :</p>
 <p>Instead of&nbsp;<strong>&ldquo;KiaBo&rdquo; (fear of lacking),<br /></strong>Singaporeans are&nbsp;<span style="color: #ff0000;"><strong>Grateful</strong>&nbsp;</span>that we are already enjoying one of the world&rsquo;s top 20% of healthcare, food, living condition, transport, and education in Singapore.</p>
