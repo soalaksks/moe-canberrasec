@@ -82,3 +82,12 @@ links:
     sublinks:
       - title: Quick Links
         url: /teachers/quick-links
+  - title: Portal
+    url: /permalink
+    sublinks:
+      - title: Students
+        url: /students/student-leadership-n-recognition
+      - title: Parents
+        url: /parents/letter-to-parents
+      - title: Teachers
+        url: /teachers/quick-links
