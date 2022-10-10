@@ -21,4 +21,5 @@ description: ""
 <p><a href="https://moe-canberrasec-staging.netlify.app/discover-canberra/our-co-curriculum/cca-schedule">
 <img src="/images/STUDENT_INITIATED_LEARNING.png">
 </a></p>
-<p style="text-align: center;"><strong>CCA Schedule</strong></p>
+<p style="text-align: center;"><strong>CCA Schedule</strong></p></td></tr>
+	</tbody></table>
