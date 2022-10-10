@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Canberra Secondary School
-description: Brief site description here
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -20,3 +20,4 @@ sections:
       title: Latest Happenings and Announcements
       button: MORE
 ---
+
