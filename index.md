@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       url: /contact-us/
-      background: /images/GRC Banner gif.gif
+      background: /images/Grateful-Respectful-and-Compassionate-Canberrans.jpg
   - infopic:
       title: Why Canberra?
       description: In Canberra, we offer holistic education that not only focuses on
