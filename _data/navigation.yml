@@ -83,7 +83,7 @@ links:
       - title: Quick Links
         url: /teachers/quick-links
   - title: Portal
-    url: /permalink
+    url: /portal
     sublinks:
       - title: Students
         url: /students/student-leadership-n-recognition
