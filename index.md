@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Grateful-Respectful-and-Compassionate-Canberrans.jpg
+      background: /images/GRC Banner gif.gif
       url: /contact-us/
   - infopic:
       title: Why Canberra?
@@ -20,4 +20,3 @@ sections:
       title: Latest Happenings and Announcements
       button: MORE
 ---
-
