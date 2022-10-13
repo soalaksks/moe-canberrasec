@@ -2,6 +2,7 @@ collections:
   cbss:
     output: true
     order:
+      - 2019/Updates on 2019 Novel Coronavirus.md
       - 2019/International Friendship Day 2019.md
       - 2019/.keep
       - 2022 Sec 1 Webinar.md
