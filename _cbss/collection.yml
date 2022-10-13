@@ -2,13 +2,13 @@ collections:
   cbss:
     output: true
     order:
-      - Hidden Pages/.keep
-      - Hidden Pages/Sexuality Education.md
-      - Hidden Pages/Global Canberran Programme.md
       - Release of GCE ‘O’ Level Results (12th January 2022).md
       - 2022 Sec 1 Webinar.md
       - Canberra Secondary School welcomes our 2022 Sec 1 Students and
         Parents!.md
+      - Hidden Pages/.keep
+      - Hidden Pages/Sexuality Education.md
+      - Hidden Pages/Global Canberran Programme.md
       - GCE N LEVEL EXAMINATONS RESULTS RELEASE ON FRIDAY 17 DECEMBER 2021 at
         230 PM.md
       - Academic Programmes for Sec 4&5 in June.md
