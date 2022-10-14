@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education
-permalink: /parents/quick-links/sexuality-education
+permalink: /parents/quick-links/sexuality-education/
 description: ""
 third_nav_title: Quick Links
 ---
@@ -25,11 +25,11 @@ third_nav_title: Quick Links
 <p>(ii) Build positive relationships based on love and respect (which are the foundation for strong families);</p>
 <p>(iii) Make responsible decisions for yourself, your family and society; and</p>
 <p>(iv) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
-<p>You may click&nbsp;<strong><a href="https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education">here</a></strong>&nbsp;for more information on MOE Sexuality Education.</p>
+<p>You may click&nbsp;<strong><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/overview">here</a></strong>&nbsp;for more information on MOE Sexuality Education.</p>
 <p><strong>OVERVIEW OF CANBERRA SECONDARY SCHOOL&rsquo;S SEXUALITY EDUCATION PROGRAMME FOR 2019</strong></p>
 <ol start="4">
 <li>
-<p>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and&nbsp;Law. You may click <strong><a href="https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education/scope-and-teaching-approach-of-sexuality-education-in-schools">here</a></strong>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.&nbsp;</p>
+<p>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and&nbsp;Law. You may click <strong><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach">here</a></strong>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.&nbsp;</p>
 </li>
 </ol>
 <ol start="5">
