@@ -8,7 +8,7 @@ description: ""
 <div>
 <table border="0" cellspacing="5" cellpadding="0">
 	<tbody>
-		<td width=30%>NCDCC</td>
+		<td width=30%>National Civil Defence Cadet Corps (NCDCC)</td>
 		<td width=70%><strong>NCDCC Precision Drill Challenge 2022<br /></strong>4th Place</td>
 	</tbody>
 	</table>
