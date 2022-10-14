@@ -31,3 +31,5 @@ third_nav_title: Uniformed Groups
 </tr>
 </tbody>
 </table>
+
+![](/images/ncdcc.png)
