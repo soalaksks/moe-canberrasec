@@ -18,5 +18,5 @@ sections:
       alt: Image alt text
   - resources:
       title: Latest Happenings and Announcements
-      button: MORE
+      button: VIEW MORE
 ---
