@@ -35,4 +35,4 @@ third_nav_title: Visual and Performing Arts
 </table>
 </div>
 
-![](/images/choir.jpg)
+![](/images/choir.png)
