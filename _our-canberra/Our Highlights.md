@@ -1,9 +1,8 @@
 ---
 title: Our Highlights
-permalink: /our-canberra/our-highlights
+permalink: /our-canberra/our-highlights/
 description: ""
 ---
-
 <div>
 <h3>2021</h3>
 <div>
@@ -11,7 +10,7 @@ description: ""
 <tbody>
 <tr>
 <td width="30%">Badminton</td>
-<td width="70%"><strong>NZSSSC<br /></strong>(Suspended due to COVID-19)<br />'C' Boys - Reached 2nd Round (Qtr-Finals)<br />'B' Boys - Reached 2nd Round (Qtr-Finals)<br />'C' Girls - Completed 1st Rd<br />'B' Girls - Reached 2nd Round (Qtr-Finals)<br /><strong>Victor Age-Group Championship at Temasek Club (Nov 2019)<br /></strong>(Not reflected in last year's nomination for Eagles)<br />U15 Boys' Singles - Semi-Finals (Sim Soon)<br />U15 Boys' Doubles - Champion (Sim Soon &amp; Partner)<br />U15 Boys' Doubles - Semi-Finals (Janson Chong &amp; Partner)</td>
+<td width="70%"><strong>NZSSSC<br /></strong>(Suspended due to COVID-19)<br />'C' Boys - Reached 2nd Round (Qtr-Finals)<br />'B' Boys - Reached 2nd Round (Qtr-Finals)<br />'C' Girls - Completed 1st Rd<br />'B' Girls - Reached 2nd Round (Qtr-Finals)<br /><br><strong>Victor Age-Group Championship at Temasek Club (Nov 2019)<br /></strong>(Not reflected in last year's nomination for Eagles)<br />U15 Boys' Singles - Semi-Finals (Sim Soon)<br />U15 Boys' Doubles - Champion (Sim Soon &amp; Partner)<br />U15 Boys' Doubles - Semi-Finals (Janson Chong &amp; Partner)</td>
 </tr>
 <tr>
 <td width="30%">Boys' Brigade</td>
@@ -42,13 +41,14 @@ description: ""
 </div>
 </div>
 <div>
+<br>
 <h3>2020</h3>
 <div>
 <table style="height: 873px;" border="0" cellspacing="5" cellpadding="0">
 <tbody>
 <tr style="height: 205px;">
 <td style="height: 205px; width: 199px;">Badminton</td>
-<td style="height: 205px; width: 467px;">NZSSSC 'C' Boys 2nd Position<br />NSG National Round - Top 8<br /><strong>Voltex Invitational Badminton Age Group<br /></strong>U15 Boy's Doubles - Champion (Sim Soon &amp; Partner)<br />U15 Boys' Singles - Joint 3rd (Jordon Oh and Janson Chong)<br />Victor Age-Group Championship at Temasek Club (Nov 2019)<br />U15 Boys' Singles - Semi-Finals (Sim Soon)<br />U15 Boys' Doubles - Champion (Sim Soon &amp; Partner)<br />U15 Boys' Doubles - Semi-Finals (Janson Chong &amp; Partner)</td>
+<td style="height: 205px; width: 467px;">NZSSSC 'C' Boys 2nd Position<br />NSG National Round - Top 8<br /><br><strong>Voltex Invitational Badminton Age Group<br /></strong>U15 Boy's Doubles - Champion (Sim Soon &amp; Partner)<br />U15 Boys' Singles - Joint 3rd (Jordon Oh and Janson Chong)<br />Victor Age-Group Championship at Temasek Club (Nov 2019)<br />U15 Boys' Singles - Semi-Finals (Sim Soon)<br />U15 Boys' Doubles - Champion (Sim Soon &amp; Partner)<br />U15 Boys' Doubles - Semi-Finals (Janson Chong &amp; Partner)</td>
 </tr>
 <tr style="height: 36px;">
 <td style="height: 36px; width: 199px;">Floorball</td>
@@ -107,6 +107,7 @@ description: ""
 </div>
 </div>
 <div>
+	<br>
 <h3>2019</h3>
 <div>
 <table border="0" cellspacing="5" cellpadding="0">
@@ -172,6 +173,7 @@ description: ""
 </div>
 </div>
 <div>
+	<br>
 <h3>2018</h3>
 <div>
 <table border="0" cellspacing="5" cellpadding="0">
@@ -221,6 +223,7 @@ description: ""
 </div>
 </div>
 <div>
+	<br>
 <h3>2017</h3>
 <div>
 <table border="0" cellspacing="5" cellpadding="0">
@@ -342,6 +345,7 @@ description: ""
 </div>
 </div>
 <div>
+	<br>
 <h3>2016</h3>
 <div>
 <table border="0" cellspacing="5" cellpadding="0">
