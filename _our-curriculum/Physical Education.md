@@ -14,7 +14,8 @@ description: ""
 <li>Mr Ryan Wong</li>
 <li>Ms Julienne Pek</li>
 </ul>
-<p><strong>Teaching and Learning&nbsp;</strong>Our students go through the following sports and games throughout the year.</p>
+<p><strong>Teaching and Learning&nbsp;</strong>
+<br>	Our students go through the following sports and games throughout the year.</p>
 <table class="iveo_table ives_tab_simple3 ive_eobj_center" style="width: 688px;" cellspacing="0" cellpadding="0" align="center">
 <tbody>
 <tr>
