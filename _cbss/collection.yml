@@ -2,6 +2,7 @@ collections:
   cbss:
     output: true
     order:
+      - 2021/Academic Programmes for Sec 4&5 in June.md
       - 2021/GCE N LEVEL EXAMINATONS RESULTS RELEASE ON FRIDAY 17 DECEMBER 2021
         at 230 PM.md
       - 2021/.keep
