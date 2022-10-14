@@ -2,19 +2,16 @@ collections:
   cbss:
     output: true
     order:
-      - 2021/SLS Support for Home Based Learning.md
-      - 2021/Academic Programmes for Sec 4&5 in June.md
-      - 2021/GCE N LEVEL EXAMINATONS RESULTS RELEASE ON FRIDAY 17 DECEMBER 2021
-        at 230 PM.md
-      - 2021/.keep
       - 2022/.keep
       - 2022/Release of GCE ‘O’ Level Results (12th January 2022).md
       - 2022/2022 Sec 1 Webinar.md
       - 2022/Canberra Secondary School welcomes our 2022 Sec 1 Students and
         Parents!.md
-      - Hidden Pages/.keep
-      - Hidden Pages/Sexuality Education.md
-      - Hidden Pages/Global Canberran Programme.md
+      - 2021/.keep
+      - 2021/SLS Support for Home Based Learning.md
+      - 2021/Academic Programmes for Sec 4&5 in June.md
+      - 2021/GCE N LEVEL EXAMINATONS RESULTS RELEASE ON FRIDAY 17 DECEMBER 2021
+        at 230 PM.md
       - 2020/.keep
       - 2020/May Excellence Programme for Sec 4E, 4N & 5N.md
       - 2020/Academic Support Programme (Graduating Class Students).md
@@ -30,4 +27,7 @@ collections:
       - 2019/Updates on 2019 Novel Coronavirus.md
       - 2019/International Friendship Day 2019.md
       - Sec 2 Streaming 2018.md
+      - Hidden Pages/.keep
+      - Hidden Pages/Sexuality Education.md
+      - Hidden Pages/Global Canberran Programme.md
       - Custom Error Page.md
