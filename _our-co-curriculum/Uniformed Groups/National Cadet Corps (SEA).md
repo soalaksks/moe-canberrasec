@@ -1,10 +1,9 @@
 ---
 title: National Cadet Corps (SEA)
-permalink: /discover-canberra/our-co-curriculum/uniformed-groups/national-cadet-corps-sea
+permalink: /discover-canberra/our-co-curriculum/uniformed-groups/national-cadet-corps-sea/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
 <h4><strong>Vision</strong></h4>
 <p>The National Cadet Corps&rsquo; mission is to develop resourceful, responsible, resilient, loyal leaders and team players through fun and challenging military-related activities. We use the &ldquo;Cadet Strong&rdquo; framework: An NCC Cadet is &ldquo;Cadet Strong&rdquo;, with a resilient mind, fit body and committed heart.</p>
 <p>Our activities include regular training, marksmanship, water activities like kayaking, adventure training as well as various competitions and programmes organised by NCC HQ.</p>
@@ -44,4 +43,4 @@ third_nav_title: Uniformed Groups
 </tbody>
 </table>
 
-![](/images/nccsea.jpg)
+![](/images/nccsea.png)
