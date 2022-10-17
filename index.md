@@ -14,7 +14,6 @@ sections:
       description: In Canberra, we offer holistic education that not only focuses on
         personal growth but one that encourages Gratitude, Respect and
         Compassion in our students.
-      image: /images/WhyCanberra.png
       alt: Image alt text
   - resources:
       title: Latest Happenings and Announcements
