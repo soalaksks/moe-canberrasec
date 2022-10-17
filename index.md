@@ -15,7 +15,7 @@ sections:
         personal growth but one that encourages Gratitude, Respect and
         Compassion in our students.
       alt: Image alt text
-      image: /images/homepage-3.png
+      image: /images/homepage_large_2.png
   - resources:
       title: Latest Happenings and Announcements
       button: VIEW MORE
