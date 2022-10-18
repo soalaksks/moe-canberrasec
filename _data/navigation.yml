@@ -39,49 +39,6 @@ links:
         url: /partners-of-canberra/canberran-alumni
       - title: Friends of Canberra
         url: /partners-of-canberra/friends-of-canberra
-  - title: Students
-    url: /students/student-leadership-n-recognition
-    sublinks:
-      - title: Leadership & Recognition
-        url: /students/student-leadership-n-recognition
-      - title: Student Suggestion Scheme (3S)
-        url: /students/student-suggestion-scheme-3s
-      - title: PLD Acceptable Use Policy
-        url: https://moe-canberrasec-staging.netlify.app/files/AUP_22%20Apr%2021.pdf
-      - title: Student ICON Onboarding Guide
-        url: https://moe-canberrasec-staging.netlify.app/files/Student%20iCON%20Onboarding%20Guide.pdf
-      - title: Uniform and Booklist for 2022
-        url: /students/uniform-and-booklist-for-year-2022
-      - title: Library OPAC
-        url: https://schoolibrary.moe.edu.sg/canberrasec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
-      - title: Class & Exam Timetable
-        url: /students/class-exam-time-table/
-      - title: Quick Links
-        url: /students/quick-links
-  - title: Parents
-    url: /parents/letter-to-parents
-    sublinks:
-      - title: Letters to Parents
-        url: /parents/letter-to-parents
-      - title: Webinar Resources
-        url: /parents/webinar-resources
-      - title: Personal Learning Device
-        url: /parents/personal-learning-device-pld-initiative
-      - title: Cyberwellness Guides
-        url: https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness
-      - title: Parent Handbook (I)
-        url: https://moe-canberrasec-staging.netlify.app/files/Parent%20Handbook%20I%20on%20Learning%20with%20a%20Personal%20Learning%20Device.pdf
-      - title: Parent Handbook (II)
-        url: https://moe-canberrasec-staging.netlify.app/files/Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf
-      - title: DSA
-        url: /parents/dsa/direct-school-admission-dsa
-      - title: Quick Links
-        url: /parents/quick-links
-  - title: Teachers
-    url: /teachers/quick-links
-    sublinks:
-      - title: Quick Links
-        url: /teachers/quick-links
   - title: Quick Links
     url: /portal
     sublinks:
