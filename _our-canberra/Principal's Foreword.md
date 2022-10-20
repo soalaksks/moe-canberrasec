@@ -52,7 +52,7 @@ description: ""
 </blockquote>
 <div>
 <div style="float: left">
-<img src="/images/PF1.png" style="width:50%" />
+<img src="/images/PF1.png" style="width:60%" />
 </div>
 <div>
 <p>3G volunteerism : Our senior from Blossom Seed taught our students paper quilling. These quills were then used to make a gift of appreciation for our healthcare workers.</p>
