@@ -9,7 +9,7 @@ description: ""
 Scan for video on 
 	<br>
 	the L.I.F.E curriculum
-<img src="/images/LIFE%20Curriculum%20(QR%20Code).png" width="10%" height="10%" />
+<img src="/images/LIFE%20Curriculum%20(QR%20Code).png" width="10px" height="10px" />
 </div>
 <div>
 <p><strong>The L.I.F.E Curriculum &ndash; 4 powerful life lessons</strong></p>
