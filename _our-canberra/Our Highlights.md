@@ -16,7 +16,7 @@ description: ""
 	</div>
 <br>
 <div>
-<h3>2021</h3>
+<h3>2020</h3>
 <div>
 <table border="0" cellspacing="5" cellpadding="0">
 <tbody>
@@ -53,71 +53,6 @@ description: ""
 </div>
 </div>
 <div>
-<br>
-<h3>2020</h3>
-<div>
-<table style="height: 873px;" border="0" cellspacing="5" cellpadding="0">
-<tbody>
-<tr style="height: 205px;">
-<td style="height: 205px; width: 199px;">Badminton</td>
-<td style="height: 205px; width: 467px;">NZSSSC 'C' Boys 2nd Position<br />NSG National Round - Top 8<br /><br><strong>Voltex Invitational Badminton Age Group<br /></strong>U15 Boy's Doubles - Champion (Sim Soon &amp; Partner)<br />U15 Boys' Singles - Joint 3rd (Jordon Oh and Janson Chong)<br />Victor Age-Group Championship at Temasek Club (Nov 2019)<br />U15 Boys' Singles - Semi-Finals (Sim Soon)<br />U15 Boys' Doubles - Champion (Sim Soon &amp; Partner)<br />U15 Boys' Doubles - Semi-Finals (Janson Chong &amp; Partner)</td>
-</tr>
-<tr style="height: 36px;">
-<td style="height: 36px; width: 199px;">Floorball</td>
-<td style="height: 36px; width: 467px;">Round 1 exit in SSSC National C Division Floorball Championships 2019 for both parts B &amp; C Div</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 199px;">Modern Dance</td>
-<td style="height: 18px; width: 467px;">SYF Certificate of Accomplishment</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 199px;">Malay Dance</td>
-<td style="height: 18px; width: 467px;">SYF Certificate of Accomplishment</td>
-</tr>
-<tr style="height: 36px;">
-<td style="height: 36px; width: 199px;">Symphonic Band</td>
-<td style="height: 36px; width: 467px;">SYF Certificate of Accomplishment -National Day Dinner performance@ Canberra CC</td>
-</tr>
-<tr style="height: 36px;">
-<td style="height: 36px; width: 199px;">Guzheng Ensemble</td>
-<td style="height: 36px; width: 467px;">SYF Certificate of Distinction -National Day Dinner performance@ Canberra CC</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 199px;">Choir</td>
-<td style="height: 18px; width: 467px;">SICF Silver award -Canberra Day @ Canberra Park</td>
-</tr>
-<tr style="height: 54px;">
-<td style="height: 54px; width: 199px;">Boys' Brigade</td>
-<td style="height: 54px; width: 467px;">2018 JM Fraser Award for Excellence - Silver Honour Roll<br />BB Blaze - Bronze Honour Roll<br />BB Character Quest - Bronze Honour Roll</td>
-</tr>
-<tr style="height: 36px;">
-<td style="height: 36px; width: 199px;">Girls' Brigade</td>
-<td style="height: 36px; width: 467px;">2018 Company Award - Gold 2. Low Guat Tin Challenge - 3 Bronze medals</td>
-</tr>
-<tr style="height: 90px;">
-<td style="height: 90px; width: 199px;">National Cadet Corps (NCC) Sea</td>
-<td style="height: 90px; width: 467px;">1. 2018 Unit Recognition Award - Distinction<br />2. 2019 Sea Challenge - Girls - 2nd<br />3. 2019 Road Relay - Sea District - Girls - 2nd<br />4. 2019 Fitness Challenge - Sea District - 1st<br />5. 2019 Annual Sea Competition - Doubles - Girls - 2nd</td>
-</tr>
-<tr style="height: 36px;">
-<td style="height: 36px; width: 199px;">National Police Cadet Corps (NPCC)</td>
-<td style="height: 36px; width: 467px;">2018 Unit Overall Proficiency Award - Certificate of Participation</td>
-</tr>
-<tr style="height: 36px;">
-<td style="height: 36px; width: 199px;">National Civil Defence Cadet Corps (NCDCC)</td>
-<td style="height: 36px; width: 467px;">SJBS - 2017 Corps Achievement Award - Silver</td>
-</tr>
-<tr style="height: 236px;">
-<td style="height: 236px; width: 199px;">Digital Media in Visual Arts (DMA)</td>
-<td style="height: 236px; width: 467px;">1. ACS (I) Singapore Young Photographers&rsquo; Convention (SYPC) 2019: 3rd Position Individual Award<br />2. SAFRA 14th Photographer of the year (Youth Challenge) 2019: National 1st, National 2nd and National 3rd Awards<br />3.ciNE65 V Film Competition 2019 &ndash; &lsquo;Echoes of 1965&rsquo;: National Best Editing Award &amp; National Most Favourite Film Awards; Screening at 54th National Day Pre-Parade Celebration<br />4. 12th Maris Stella High School Chinese Short Film Competition 2019 - 姐 sister: National 1st Award, Best Script Award, Best Female Lead Award<br />5.CNB Anti-Drug Video Competition 2019 &ndash; Kendall&rsquo;s Fulcrum: National 1st<br />6. Canon Film Five Festival 2019 - Redemption: National 1st Award</td>
-</tr>
-<tr style="height: 18px;">
-<td style="height: 18px; width: 199px;">Robotics</td>
-<td style="height: 18px; width: 467px;">Asia Pacific Youth Robotics Competition 1st Place in Sumo Event</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
 <div>
 	<br>
 <h3>2019</h3>
