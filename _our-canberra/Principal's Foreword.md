@@ -51,7 +51,7 @@ description: ""
 <p><strong>Y</strong>outh with&nbsp;<strong>E</strong>nergy<br /><strong>E</strong>ducators with&nbsp;<strong>E</strong>xpertise<br /><strong>S</strong>eniors with&nbsp;<strong>E</strong>xperience</p>
 </blockquote>
 <div>
-<div style="float: mid">
+<div style="float: left">
 <img src="/images/PF1.png" style="width:50%" />
 </div>
 <div>
