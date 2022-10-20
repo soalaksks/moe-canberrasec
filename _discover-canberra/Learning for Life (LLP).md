@@ -7,7 +7,7 @@ description: ""
 <div>
 <div style="float: right">
 Scan for video on the L.I.F.E curriculum
-<img src="/images/LIFE%20Curriculum%20(QR%20Code).png" width="50px" height="50px" />
+<img src="/images/LIFE%20Curriculum%20(QR%20Code).png" width="25px" height="25px" />
 </div>
 <div>
 <p><strong>The L.I.F.E Curriculum &ndash; 4 powerful life lessons</strong></p>
