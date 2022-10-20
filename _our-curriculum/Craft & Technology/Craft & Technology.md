@@ -28,13 +28,13 @@ third_nav_title: Craft & Technology
 <div style="float: left">
 <p><a href="https://moe-canberrasec-staging.netlify.app/discover-canberra/our-curriculum/craft-n-technology/music">
 <img src="/images/button-music.jpg" 
-     style="width:65%">
+     style="width:100px; height:100px">
 </a></p>
 </div>
 <div>
 <p><a href="https://moe-canberrasec-staging.netlify.app/discover-canberra/our-curriculum/craft-n-technology/nutrition-and-food-science">
 <img src="/images/button-nfs.jpg" 
-     style="width:35%">
+     style="width:100px; height:100px">
 </a></p>
 </div>
 </div>
