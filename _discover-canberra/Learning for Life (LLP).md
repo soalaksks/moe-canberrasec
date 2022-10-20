@@ -1,6 +1,6 @@
 ---
 title: Learning for Life (LLP)
-permalink: /discover-canberra/learning-for-life-llp
+permalink: /discover-canberra/learning-for-life-llp/
 description: ""
 ---
 <p><img style="width: 75%;" src="/images/LLP-1.jpg" />
@@ -58,7 +58,7 @@ Scan for video on the L.I.F.E curriculum
 </td>
 </tr>
 <tr>
-<td style="text-align: center;"><img src="/images/End-in-mind.png" /><em><strong>End-in-mind</strong><br /><br /></em></td>
+<td style="text-align: center;"><img src="/images/end-in-mind.png" /><em><strong>End-in-mind</strong><br /><br /></em></td>
 <td>
 <p>Gracefully they go</p>
 <p>As light shifts from night to dawn</p>
