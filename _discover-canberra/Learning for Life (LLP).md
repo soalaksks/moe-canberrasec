@@ -6,8 +6,10 @@ description: ""
 <p><img style="width: 75%;" src="/images/LLP-1.jpg" />
 <div>
 <div style="float: right">
-Scan for video on the L.I.F.E curriculum
-<img src="/images/LIFE%20Curriculum%20(QR%20Code).png" width="10" height="10" />
+Scan for video on 
+	<br>
+	the L.I.F.E curriculum
+<img src="/images/LIFE%20Curriculum%20(QR%20Code).png" width="10%" height="10%" />
 </div>
 <div>
 <p><strong>The L.I.F.E Curriculum &ndash; 4 powerful life lessons</strong></p>
