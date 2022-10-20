@@ -1,9 +1,8 @@
 ---
 title: Our Staff
-permalink: /our-canberra/our-staff
+permalink: /our-canberra/our-staff/
 description: ""
 ---
-
 <div>
 <h3>School Leaders</h3>
 <div>
@@ -33,6 +32,7 @@ description: ""
 </table>
 </div>
 </div>
+<br>
 <div>
 <h3>Key Personnel</h3>
 <div>
