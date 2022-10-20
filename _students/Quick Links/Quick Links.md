@@ -1,6 +1,6 @@
 ---
 title: Quick Links
-permalink: /students/quick-links
+permalink: /students/quick-links/
 description: ""
 third_nav_title: Quick Links
 ---
@@ -11,4 +11,5 @@ third_nav_title: Quick Links
 <li><a href="/files/SLS-Account-Management-Guide-for-Sec-Students.pdf" target="_blank" rel="noopener">Guide to SLS Account Management</a></li>
 <li><a href="/students/quick-links/pld-fault-reporting" target="_blank" rel="noopener">PLD Fault Reporting</a></li>
 <li><a href="https://form.gov.sg/61f10cae2ce86a00127ae6c3" target="_blank" rel="noopener">Student Website Feedback Form</a></li>
+	<li><a href="https://sites.google.com/moe.edu.sg/cbss-student-resources/home" target="_blank" rel="noopener">ICT Resource Site for Students</a></li>
 </ul>
