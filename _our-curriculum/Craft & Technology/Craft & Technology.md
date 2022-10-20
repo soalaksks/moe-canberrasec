@@ -19,7 +19,7 @@ third_nav_title: Craft & Technology
 <div>
 <p><a href="https://moe-canberrasec-staging.netlify.app/discover-canberra/our-curriculum/craft-n-technology/design-and-technology">
 <img src="/images/button-dt.jpg" 
-     style="width:35%; height:35%;">
+     style="width:20%; height:20%;">
 </a></p>
 </div>
 </div>
