@@ -6,9 +6,7 @@ description: ""
 <p><img style="width: 75%;" src="/images/LLP-1.jpg" />
 <div>
 <div style="float: right">
-Scan for video on the 
-<br>
-	L.I.F.E curriculum
+Scan for video on the L.I.F.E curriculum
 <img src="/images/LIFE%20Curriculum%20(QR%20Code).png" style="width: 50%; height: 50%" />
 </div>
 <div>
