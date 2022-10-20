@@ -1,6 +1,6 @@
 ---
 title: Craft & Technology
-permalink: /discover-canberra/our-curriculum/craft-n-technology
+permalink: /discover-canberra/our-curriculum/craft-n-technology/
 description: ""
 third_nav_title: Craft & Technology
 ---
@@ -13,7 +13,7 @@ third_nav_title: Craft & Technology
 <div style="float: left">
 <p><a href="https://moe-canberrasec-staging.netlify.app/discover-canberra/our-curriculum/craft-n-technology/art">
 <img src="/images/button-art.jpg" 
-     style="width:75%">
+     style="width:65%">
 </a></p>
 </div>
 <div>
