@@ -18,6 +18,9 @@ Scan for video on the L.I.F.E curriculum
 <table>
 <tbody>
 <tr>
+	<td>
+		<p></p>
+	</td>
 <td>
 <p><strong>Time of Our L.I.F.E</strong></p>
 </td>
