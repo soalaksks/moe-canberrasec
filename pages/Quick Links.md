@@ -1,11 +1,8 @@
 ---
 title: Quick Links
-permalink: /teachers/quick-links
+permalink: /teachers/quick-links/
 description: ""
 ---
-
-
-
 <ul>
 <li><a href="https://scmobile.moe.edu.sg/login" target="_blank" rel="noopener">SC Mobile</a></li>
 <li><a href="https://vle.learning.moe.edu.sg/login" target="_blank" rel="noopener">Student Learning Space (SLS)</a></li>
@@ -16,4 +13,5 @@ description: ""
 <li><a href="http://schoolcockpit.moe.gov.sg/" target="_blank" rel="noopener">School Cockpit</a></li>
 <li><a href="https://form.gov.sg/61e955db679496001461b485" target="_blank" rel="noopener">School Website Content Update Record Form</a></li>
 <li><a href="https://intranet.moe.gov.sg/" target="_blank" rel="noopener">MOE Intranet</a></li>
+	<li><a href="https://sites.google.com/moe.edu.sg/ict-staff-resources/home">ICT Resources for Staff</a></li>
 </ul>
