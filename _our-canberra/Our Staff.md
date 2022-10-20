@@ -32,7 +32,6 @@ description: ""
 </table>
 </div>
 </div>
-<br>
 <div>
 <h3>Key Personnel</h3>
 <div>
