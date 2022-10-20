@@ -9,13 +9,12 @@ description: ""
 Scan for video on the L.I.F.E curriculum
 <img src="/images/LIFE%20Curriculum%20(QR%20Code).png" width="25%" height="25%" />
 </div>
-	<br>
 <div>
 <p><strong>The L.I.F.E Curriculum &ndash; 4 powerful life lessons</strong></p>
 <p>At Canberra, students&rsquo; learning for life begins with learning about life through a series of specially-curated lessons and experiences about the 4 stages of one&rsquo;s life &ndash; namely; Life (birth), Infirmed, Frail and End-in-mind (Legacy mindset).</p>
 </div>
 </div>
-
+<br>
 <table>
 <tbody>
 <tr>
