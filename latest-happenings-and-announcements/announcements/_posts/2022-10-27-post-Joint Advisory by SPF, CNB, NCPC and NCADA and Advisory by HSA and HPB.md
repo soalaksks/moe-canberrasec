@@ -10,3 +10,4 @@ With the upcoming year-end school holidays, the Singapore Police Force (SPF), Ce
 
 Click [here](https://cms.isomer.gov.sg/sites/moe-canberrasec/media/files/mediaDirectory/files/editMediaSettings/Joint%20Advisory%20Year%20End%202022.pdf) for more details.
 
+[HSA & HPB advisory on vaping](https://cms.isomer.gov.sg/sites/moe-canberrasec/media/files/mediaDirectory/files/editMediaSettings/HPB%20HSA%20advisory%20on%20vaping.pdf)
