@@ -1,8 +1,9 @@
 ---
 title: Mother Tongue
-permalink: /discover-canberra/our-curriculum/mother-tongue
+permalink: /discover-canberra/our-curriculum/mother-tongue/
 description: ""
 ---
+
 <p><strong>Mission Statement:</strong><br>All students communicate competently and confidently in their Mother Tongue Languages</p>
 <p>The Mother Tongue Language Department hopes to nurture in our students a strong foundation and an enduring interest in the Mother Tongue Languages. We hope to impart in our students the love for language and an appreciation of the beauty of the Mother Tongue Languages. To achieve this, we organised several programmes and activities in conjunction with the MTL Fortnight, such as, Mass Story Book Borrowing with National Library Board, Chinese traditional art and crafts workshop, creative writing competition; Pena Emasku, Malay traditional arts like Boria and Dikir Barat, making Malay traditional delicacies like Roti Kirai, Epok-epok and Ondeh-ondeh and also learning how to eat communally by eating Nasi Ambeng together.</p>
 <p>We also expose our students to the different cultures of our ethnic groups through festive celebrations, such as Lunar New Year Celebrations, Hari Raya Celebrations and Mid-Autumn Festival.</p>

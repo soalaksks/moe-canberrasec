@@ -1,8 +1,9 @@
 ---
 title: Computer Applications
-permalink: /discover-canberra/our-curriculum/computer-applications
+permalink: /discover-canberra/our-curriculum/computer-applications/
 description: ""
 ---
+
 <div>
 <div>
 <p>The CPA unit aims to develop our students to acquire in-depth knowledge and understanding of computing concepts, enhance their proficiency in using a range of application software, strengthen their computational thinking and problem solving skills and educate them on the safe use of technology in everyday life.</p>

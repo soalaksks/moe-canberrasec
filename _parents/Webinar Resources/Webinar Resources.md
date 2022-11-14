@@ -1,9 +1,10 @@
 ---
 title: Webinar Resources
-permalink: /parents/webinar-resources
+permalink: /parents/webinar-resources/
 description: ""
 third_nav_title: Webinar Resources
 ---
+
 <table width="100%">
 <tbody>
 <tr>

@@ -1,8 +1,9 @@
 ---
 title: Mathematics
-permalink: /discover-canberra/our-curriculum/mathematics
+permalink: /discover-canberra/our-curriculum/mathematics/
 description: ""
 ---
+
 <p><strong>Department Vision:</strong> Every child a self-directed problem solver with a passion for Mathematics.</p>
 <h3><strong>About The Department:</strong></h3>
 <p><strong><em>"We can calculate but we are not calculative!"</em></strong></p>

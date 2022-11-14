@@ -1,10 +1,11 @@
 ---
 title: Canberra Secondary School welcomes our 2022 Sec 1 Students and Parents!
-permalink: /cbss/announcements/canberra-secondary-school-welcomes-our-2022-sec-1-students-and-parents
+permalink: /cbss/announcements/canberra-secondary-school-welcomes-our-2022-sec-1-students-and-parents/
 date: 2021-12-20
 layout: post
 description: ""
 ---
+
 <p>Congratulations on your posting to Canberra Secondary to commence your secondary school education. It will be a new phase of your development and we are happy to welcome you to the Canberran family!<br /><br />When you receive your posting to Canberra, you&nbsp;<strong>do not need</strong>&nbsp;to physically report to our school the next day as we will be conducting our Sec 1 Registration Exercise online.</p>
 <p><strong><u>1. Online Registration</u></strong><br />Please ensure that you have your Parents Gateway app to complete the Sec 1 Online Registration.&nbsp;<strong><em>Canberra Secondary School</em></strong>&nbsp;will be automatically reflected on Parents Gateway once you have received your school posting.<br /><br /></p>
 <ol type="1">
@@ -68,7 +69,6 @@ description: ""
 
 <img src="/images/appeal-qr.jpg" 
      style="width:35%">
-
 
 <p>Please note that :</p>
 <ul>

@@ -1,9 +1,10 @@
 ---
 title: Digital Media in Visual Arts Club (DMA)
-permalink: /discover-canberra/our-co-curriculum/visual-and-performing-arts/digital-media-in-visual-arts-club
+permalink: /discover-canberra/our-co-curriculum/visual-and-performing-arts/digital-media-in-visual-arts-club/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
+
 <p>Digital Media in Visual Arts Club&rsquo;s vision is &lsquo;To grow every Digital Media Designer to be a competent individual with a creative mind to create and appreciate art and to be a Life-long learner with a heart to serve the community.&rsquo; Digital Media in Visual Arts Club is part of the school&rsquo;s Applied Learning Programme. Dedicated to develop students in their artistic flair through the use of digital media, the club aims to enrich students using termly programmes run by professional trainers, student initiated/school based projects and competitions to widen their knowledge on visual arts and skills on digital media.</p>
 <h4><strong>Achievements</strong></h4>
 <p>DMA clinched National Second Place and the Audience Award for the production titled Duality in Anti-drug video competition organised by CNB. In the inaugural Canon Film Five Festival, DMA has achieved National First Place and the Audience Award for the production titled The Skye Chronicles: The Embrace.</p>

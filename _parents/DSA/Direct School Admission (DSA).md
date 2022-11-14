@@ -1,9 +1,10 @@
 ---
 title: Direct School Admission (DSA)
-permalink: /parents/dsa/direct-school-admission-dsa
+permalink: /parents/dsa/direct-school-admission-dsa/
 description: ""
 third_nav_title: DSA
 ---
+
 <h3 id="_ptoh_61341" class="ive_editable ive_ptoh"><strong>Introduction</strong></h3>
 <div id="_ptod_61341" class="ive_editable ive_ptod ive_content">
 <p>DSA-Sec is an admission exercise which provides students with the opportunity to seek admission to a secondary school, based on a diverse range of specific academic and non-academic achievements and talents that they can demonstrate beyond the Primary School Leaving Examination (PSLE). The objective of the DSA-Sec is to promote holistic education by giving participating schools greater flexibility in selecting students while holding on to the key principles of transparency and meritocracy. For students, the DSA provides them the opportunity to demonstrate a more diverse range of achievements and talents in seeking admission to secondary schools.</p>

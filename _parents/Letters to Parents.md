@@ -1,8 +1,9 @@
 ---
 title: Letters to Parents
-permalink: /parents/letter-to-parents
+permalink: /parents/letter-to-parents/
 description: ""
 ---
+
 <h3><strong>Year 2022</strong></h3>
 <ul>
 <li>

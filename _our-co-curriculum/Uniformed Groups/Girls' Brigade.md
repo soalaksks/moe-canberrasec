@@ -1,9 +1,10 @@
 ---
 title: Girls' Brigade
-permalink: /discover-canberra/our-co-curriculum/uniformed-groups/girls-brigade
+permalink: /discover-canberra/our-co-curriculum/uniformed-groups/girls-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+
 <h4><strong>Vision</strong></h4>
 <p>Canberra Secondary&rsquo;s Girls&rsquo; Brigade (GB) company seeks to develop every girl to her fullest potential by equipping, empowering, enabling &ldquo;Every girl a leader, every officer a servant leader&rdquo;. Activities are planned to enable our girls to develop meaningful friendships with one another and instil a strong sense of discipline, responsibility and compassion.</p>
 <h4><strong>Highlights and Achievements</strong></h4>

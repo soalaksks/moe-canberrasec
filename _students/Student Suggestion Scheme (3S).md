@@ -1,8 +1,9 @@
 ---
 title: Student Suggestion Scheme (3S)
-permalink: /students/student-suggestion-scheme-3s
+permalink: /students/student-suggestion-scheme-3s/
 description: ""
 ---
+
 <p><strong>What is the 3S?</strong></p>
 <p>The Student Suggestions Scheme (3S) is a means to encourage students to actively partake in the improvement of their study environment. Tokens of appreciation will be given to students whose suggestions are accepted.</p>
 <p><strong>Why do we need 3S?</strong></p>

@@ -1,8 +1,9 @@
 ---
 title: Information & Communications Technology
-permalink: /discover-canberra/our-curriculum/information-n-communications-technology
+permalink: /discover-canberra/our-curriculum/information-n-communications-technology/
 description: ""
 ---
+
 <p><strong>Our School ICT Vision:<br /></strong>All Canberrans are engaged and effective learners</p>
 <p><strong>Our School ICT Goals:</strong></p>
 <blockquote>

@@ -1,8 +1,9 @@
 ---
 title: English Language & Literature
-permalink: /discover-canberra/our-curriculum/english-language-n-literature
+permalink: /discover-canberra/our-curriculum/english-language-n-literature/
 description: ""
 ---
+
 <div class="pagecontent_box">
 <p id="_ptod_61345" class="description ive_editable ive_ptod ive_content"><strong>Department Vision:</strong> Empathetic Communicator, Discerning Reader &amp; Creative Inquirer</p>
 </div>

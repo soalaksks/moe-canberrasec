@@ -1,8 +1,9 @@
 ---
 title: School Family Education (SFE)
-permalink: /parents/school-family-education-sfe
+permalink: /parents/school-family-education-sfe/
 description: ""
 ---
+
 <p>SFE is a holistic family learning programme which aims to equip parents with effective parenting skills, enhance the family life of school staff, and inculcate students with positive values and attitudes towards the family. Since it started in 2002, SFE has reached out to more than 2 million people. Almost all parents who have experienced the SFE programme affirm its effectiveness and would recommend it to other parents. Canberra Secondary School has been running the SFE programme since 2010.</p>
 <p>How Can You and Your Child Benefit from the SFE programme?</p>
 <p>You can:</p>

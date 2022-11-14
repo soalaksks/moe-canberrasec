@@ -1,6 +1,6 @@
 ---
 title: Sec 1 Registration
-permalink: /cbss/announcements/sec-1-registration
+permalink: /cbss/announcements/sec-1-registration/
 date: 2021-12-22
 layout: post
 description: ""

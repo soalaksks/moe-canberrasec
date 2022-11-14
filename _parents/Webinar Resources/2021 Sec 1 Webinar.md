@@ -1,9 +1,10 @@
 ---
 title: 2021 Sec 1 Webinar
-permalink: /parents/webinar-resources/2021-sec-1-webinar
+permalink: /parents/webinar-resources/2021-sec-1-webinar/
 description: ""
 third_nav_title: Webinar Resources
 ---
+
 <p style="text-align: center;"><strong>Webinar for Sec 1 Parent Induction Session</strong></p>
 <p>Dear Parent/Guardian</p>
 <p>Welcome to Canberra Secondary School! We would like to invite you to join us in the webinar on:</p>

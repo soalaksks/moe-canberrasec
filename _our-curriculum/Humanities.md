@@ -1,8 +1,9 @@
 ---
 title: Humanities
-permalink: /discover-canberra/our-curriculum/humanities
+permalink: /discover-canberra/our-curriculum/humanities/
 description: ""
 ---
+
 <p><strong>Vision</strong><br>Every Canberran an engaged learner and a responsible citizen</p>
 <p><strong>Mission</strong><br>To inspire and create opportunities for students to be engaged learners of Humanities</p>
 <p>The Humanities department embrace the&nbsp;<strong>3E Approach:</strong><br><strong>To Enrich, To better Engage, and to Empower students to Excel</strong>.</p>
@@ -31,4 +32,3 @@ description: ""
 
 <img src="/images/humanities3.png" 
      style="width:75%">
-

@@ -1,8 +1,9 @@
 ---
 title: Applied Learning (ALP)
-permalink: /discover-canberra/applied-learning-alp
+permalink: /discover-canberra/applied-learning-alp/
 description: ""
 ---
+
 <h3><strong>Introduction</strong></h3>
 <p>Canberra Secondary School ALP on Visual Arts and Design (VAD) is repositioned from our past strength in Digital Media. It is aligned to 21st Century Competencies Framework and to realise the vision of Every Canberran a Self-Directed Learner. We see VAD as a form of Aesthetics that helps our students to strike a balance between technical skills mastery with appreciation for the arts thus helping them in their holistic development. Our ALP incorporates learning in authentic setting, increased focus, alignment and integration as well as experiences and exposure to career prospects in VAD. The exposure in depth and breadth gives our students the opportunity to identify their aptitudes and interests, build their strengths, and make informed decisions on their education and career choices.</p>
 <p>ALP is the Integration of Art curriculum and ICT curriculum which is inclusive of 2 tiers - Tier 1, Tier 2 and Tier 2 plus.</p>

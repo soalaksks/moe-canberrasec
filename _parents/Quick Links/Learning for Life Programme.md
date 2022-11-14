@@ -1,9 +1,10 @@
 ---
 title: Learning for Life Programme
-permalink: /parents/quick-links/learning-for-life-programme
+permalink: /parents/quick-links/learning-for-life-programme/
 description: ""
 third_nav_title: Quick Links
 ---
+
 <p style="text-align: center;"><strong>Learning for Life Programme-Community Youth Leadership (LLP-CYL)</strong><br /><strong>GRC GEMS in action</strong></p>
 <p>Canberra Secondary&rsquo;s Learning for Life Programme &ndash; Community Youth Leadership (LLP-CYL) : GRC GEMs in action, captures the&nbsp;<strong><u>aspiration</u></strong>&nbsp;of our&nbsp;<strong><u>teachers and students</u></strong>&nbsp;to develop youth leaders who impact their communities through regular service.</p>
 <p>The school&rsquo;s LLP-CYL provides authentic learning experiences to nurture students who embody&nbsp;<strong>G</strong>ratitude,&nbsp;<strong>R</strong>espect and&nbsp;<strong>C</strong>ompassion through student leadership trainings, mentoring and VIA experience.</p>

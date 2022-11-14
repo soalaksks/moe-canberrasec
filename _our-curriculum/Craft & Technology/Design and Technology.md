@@ -1,9 +1,10 @@
 ---
 title: Design and Technology
-permalink: /discover-canberra/our-curriculum/craft-n-technology/design-and-technology
+permalink: /discover-canberra/our-curriculum/craft-n-technology/design-and-technology/
 description: ""
 third_nav_title: Craft & Technology
 ---
+
 <p>Design &amp; Technology (D&amp;T) Education aims to nurture in the students a way of thinking and doing - designerly dispositions that are inherent in design practices - through designing and making. Central to this learning is the design process that requires students to apply basic design and technology knowledge and design thinking skills. The design process consists of a set of stages that takes students from a design opportunity to a product solution to address user needs based on real-world contexts.</p>
 <p>Through this learning platform, students undertake a series of projects progressively to consolidate their learning and to acquire new knowledge and skills. These projects range from teacher-controlled structured projects to student-driven open-ended projects that are based on real-world contexts.</p>
 <p>In Canberra Secondary School, the D&amp;T unit looks into the holistic development of the students by providing ample learning opportunities for all staff and students in the areas of design appreciation, designing innovative products and executing the making of the product.</p>

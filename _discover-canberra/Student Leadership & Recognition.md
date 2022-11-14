@@ -1,8 +1,9 @@
 ---
 title: Student Leadership & Recognition
-permalink: /discover-canberra/student-leadership-n-recognition
+permalink: /discover-canberra/student-leadership-n-recognition/
 description: ""
 ---
+
 <p><strong>STUDENT LEADERSHIP DEVELOPMENT FRAMEWORK</strong>
 </p>
 <p><strong>Introduction</strong></p>

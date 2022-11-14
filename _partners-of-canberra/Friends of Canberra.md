@@ -1,6 +1,6 @@
 ---
 title: Friends of Canberra
-permalink: /partners-of-canberra/friends-of-canberra
+permalink: /partners-of-canberra/friends-of-canberra/
 description: ""
 ---
 

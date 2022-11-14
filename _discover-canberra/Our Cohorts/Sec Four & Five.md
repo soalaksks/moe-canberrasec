@@ -1,7 +1,8 @@
 ---
 title: Sec Four & Five
-permalink: /discover-canberra/our-cohorts/sec-four-five
+permalink: /discover-canberra/our-cohorts/sec-four-five/
 description: ""
 third_nav_title: Our Cohorts
 ---
+
 <p>Exciting information coming soon!</p>

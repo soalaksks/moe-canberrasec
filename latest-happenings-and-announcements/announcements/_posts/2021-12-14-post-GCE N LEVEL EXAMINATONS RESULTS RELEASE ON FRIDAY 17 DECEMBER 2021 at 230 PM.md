@@ -1,10 +1,11 @@
 ---
 title: GCE N LEVEL EXAMINATONS RESULTS RELEASE ON FRIDAY 17 DECEMBER 2021 at 230 PM
-permalink: /cbss/announcements/gce-n-level-examinatons-results-release-on-friday-17-december-2021-at-2-30-pm
+permalink: /cbss/announcements/gce-n-level-examinatons-results-release-on-friday-17-december-2021-at-2-30-pm/
 date: 2021-12-14
 layout: post
 description: ""
 ---
+
 <p><span style="text-decoration: underline;">For 4N1, 4N2 and 4T1 students (17 December 2021)</span></p>
 <p>1. You will be allow to enter the school from 1.45 pm onwards. Please scan the SafeEntry QR code at the foyer to complete your check-in and have your temperature taken before proceeding to your classrooms.<br /><br />However, please view your results online via Singapore Examinations and Assessment Board&rsquo;s (SEAB) results release system at&nbsp;<a href="https://www.seab.gov.sg/" target="_parent">www.seab.gov.sg</a>&nbsp;from 3.15 pm on 17 December using your SingPass if you are unwell or affected by COVID-19 restrictions (e.g. required to self-isolate due to a positive COVID-19 test result). You should not return to school to collect your results.<br /><br />For students whose SingPass PIN had expired, you can request for a new PIN mailer via SingPass website (<a href="https://www.singpass.gov.sg/" target="_parent">www.singpass.gov.sg</a>) or visit any SingPass Counter in-person to set up your SingPass account.</p>
 <p>2. If you have been issued the Ministry of Health's Health Risk Warning (HRW), you will be allowed to collect your results in person if you test negative using the Antigen Rapid Test(ART) on the day of the results release before going to school. Please inform your Character Coaches if you have been issued the HRW.</p>
