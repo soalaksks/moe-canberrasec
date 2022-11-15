@@ -1,13 +1,50 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo_large.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: Our Canberra
+    url: /our-canberra/principals-foreword
+    sublinks:
+      - title: Principal's Foreword
+        url: /our-canberra/principals-foreword
+      - title: Canberra at a Glance
+        url: /our-canberra/canberra-at-a-glance/school-song
+      - title: Our Highlights
+        url: /our-canberra/our-highlights
+      - title: Our Staff
+        url: /our-canberra/our-staff
+      - title: Yearbook 2021
+        url: https://online.fliphtml5.com/obrr/zfnn/#p=1
+  - title: Discover Canberra
+    url: /discover-canberra/our-curriculum
+    sublinks:
+      - title: Our Curriculum
+        url: /discover-canberra/our-curriculum
+      - title: Our Co-Curriculum
+        url: /discover-canberra/our-co-curriculum
+      - title: Our Cohorts
+        url: /discover-canberra/our-cohorts/sec-one
+      - title: Learning for Life (LLP)
+        url: /discover-canberra/learning-for-life-llp
+      - title: Applied Learning (ALP)
+        url: /discover-canberra/applied-learning-alp
+      - title: Leadership & Recognition
+        url: /discover-canberra/student-leadership-n-recognition
+  - title: Partners of Canberra
+    url: /partners-of-canberra/school-advisory-committee
+    sublinks:
+      - title: School Advisory Committee
+        url: /partners-of-canberra/school-advisory-committee
+      - title: Parent Support Group
+        url: /partners-of-canberra/parent-support-group
+      - title: Canberran Alumni
+        url: /partners-of-canberra/canberran-alumni
+      - title: Friends of Canberra
+        url: /partners-of-canberra/friends-of-canberra
+  - title: Quick Links
+    url: /portal
+    sublinks:
+      - title: Students
+        url: /students/student-leadership-n-recognition
+      - title: Parents
+        url: /parents/letter-to-parents
+      - title: Teachers
+        url: /teachers/quick-links

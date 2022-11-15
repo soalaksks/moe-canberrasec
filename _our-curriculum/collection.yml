@@ -1,0 +1,19 @@
+collections:
+  our-curriculum:
+    output: true
+    order:
+      - Our Curriculum.md
+      - English Language & Literature.md
+      - Mathematics.md
+      - Science.md
+      - Humanities.md
+      - Mother Tongue.md
+      - Craft & Technology/.keep
+      - Craft & Technology/Craft & Technology.md
+      - Craft & Technology/Arts.md
+      - Craft & Technology/Design and Technology.md
+      - Craft & Technology/Music.md
+      - Craft & Technology/Nutrition and Food Science.md
+      - Physical Education.md
+      - Information & Communications Technology.md
+      - Computer Applications.md

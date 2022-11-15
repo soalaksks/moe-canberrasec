@@ -1,0 +1,12 @@
+collections:
+  discover-canberra:
+    output: true
+    order:
+      - Our Cohorts/.keep
+      - Our Cohorts/Sec One.md
+      - Our Cohorts/Sec Two.md
+      - Our Cohorts/Sec Three.md
+      - Our Cohorts/Sec Four & Five.md
+      - Learning for Life (LLP).md
+      - Applied Learning (ALP).md
+      - Student Leadership & Recognition.md
