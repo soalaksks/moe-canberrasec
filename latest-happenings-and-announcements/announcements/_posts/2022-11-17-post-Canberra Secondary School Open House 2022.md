@@ -6,11 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-<p align="center">
-	 
 ![](/images/open%20house%202022.jpg)
 
 [Open House Website](https://www.visitcanberrasec.com/)
 
 [School Facebook Live](https://www.facebook.com/canberrasecondaryofficial)
-	 </p>
