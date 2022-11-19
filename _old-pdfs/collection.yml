@@ -1,0 +1,4 @@
+collections:
+  old-pdfs:
+    output: true
+    order: []
