@@ -9,6 +9,10 @@ sections:
   - hero:
       url: /contact-us/
       background: /images/GRC Banner Gif - Photopea.gif
+  - infobar:
+      title: Visit our Virtual Open House
+      button: View Here
+      url: https://www.facebook.com/canberrasecondaryofficial/videos/668578698192210/
   - infopic:
       title: Why Canberra?
       description: In Canberra, we offer holistic education that not only focuses on
