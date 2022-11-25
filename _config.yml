@@ -49,8 +49,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-canberrasec-staging.netlify.app
-prod: https://moe-canberrasec-prod.netlify.app
+staging: https://staging.d22oasvtyemtcv.amplifyapp.com
+prod: https://master.d22oasvtyemtcv.amplifyapp.com
 resources_name: latest-happenings-and-announcements
 shareicon: /images/isomer-logo.svg
 is_government: false
