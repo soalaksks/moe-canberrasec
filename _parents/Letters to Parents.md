@@ -14,6 +14,9 @@ description: ""
 <li>
 <p><a href="/files/Term%203%20Letter%20to%20Parents%202022_final%20v4.pdf" target="_blank" rel="noopener">Term 3 Letter</a></p>
 </li>
+<li>
+<p><a href="/files/Term%204%20Letter%20to%20Parents%202022_final.pdf" target="_blank" rel="noopener">Term 4 Letter</a></p>
+</li>
 </ul>
 <h3><strong>Year 2021</strong></h3>
 <ul>
