@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-**For 4N1, 4N2, 4T1 and 4T2 Students  
+**For 4N1, 4N2, 4T1 and 4T2 Students **
 
 You will be allowed to enter the school from 1.45pm onwards. Please be seated in the  school hall by 2.00pm. Parents/guardians may accompany their child/ward to school to  collect their results. 
 
