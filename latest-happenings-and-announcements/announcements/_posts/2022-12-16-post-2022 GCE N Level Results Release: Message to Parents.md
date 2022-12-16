@@ -36,6 +36,6 @@ We encourage all students to return to their schools to collect their results. H
 are unable to return to school, they may view their results online. The guide on accessing the
 Candidates Portal ([https://myexams.seab.gov.sg](https://myexams.seab.gov.sg)) can be found at: [https://go.gov.sg/2j0grx](https://go.gov.sg/2j0grx).
 
-Please refer to the attached information sheet for more tips and resources on supporting your teen.
+Please refer to [this information sheet](/files/N-O%20Level%20Info%20Sheet%20for%20Parents_28%20Sept.pdf) for more tips and resources on supporting your teen.
 
 Thank you.
