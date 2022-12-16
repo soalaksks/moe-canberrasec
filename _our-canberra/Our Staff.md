@@ -14,7 +14,7 @@ description: ""
 </tr>
 <tr>
 <td>Principal</td>
-<td>Mr Ng Tiong Nam</td>
+<td>Mr Leong Kok Kee</td>
 </tr>
 <tr>
 <td>Vice-Principal</td>
