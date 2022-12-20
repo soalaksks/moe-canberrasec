@@ -32,31 +32,27 @@ below:
 * [Pacific Bookstores End of Year Purchase Guide CBRSS](/files/2%20Pacific%20Bookstores%20End%20of%20Year%20Purchase%20Guide%20CBRSS.pdf)
 * Book lists for [Sec 1 Express](/files/3%20Book%20List_%20S1%20Express.pdf), [1 Normal (Academic)](/files/4%20Book%20List_S1%20Normal%20Academic.pdf) and [1 Normal (Technical)](/files/5%20Book%20List_S1%20Normal%20Technical.pdf)
 
-3. Information for MOE Financial Assistance Scheme (MOE FAS) Application
+**3. Information for MOE Financial Assistance Scheme (MOE FAS) Application**<br>
 Students whose MOE FAS application was approved before 16 December 2022 by their primary schools
-will receive a notification from us through Parents Gateway by 23rd December 2022. You need not order
-the books and uniforms online. You and your child must report to the General Office at the assigned
-timing (refer to Table 1) for administrative purposes before going to the bookshop to collect the books
-and uniforms. You may contact the General Office at 6758 5070 if you do not receive the Parents Gateway
+will receive a notification from us through Parents Gateway by 23rd December 2022. You **need not** order
+the books and uniforms online. You and your child must report to the General Office at the assigned timing (refer to Table 1) for administrative purposes before going to the bookshop to collect the books and uniforms. You may contact the General Office at 6758 5070 if you do not receive the Parents Gateway
 notification by the evening of 23rd December 2022.
+
 For students who have yet to apply for MOE FAS and wish to do so, you may obtain a copy of the
 application form from the General Office. Upon completion, please submit the application form and the
 required supporting documents to the General Office. If your documents are in order, we will be able to
 process your application between 7 to 10 working days and we will notify you of the status accordingly. If
 not, we will process your application when the documents are completed.
 
-Alternatively, you may apply for MOE FAS online (https://www.moe.gov.sg/financial-matters/financial-
-assistance).
+Alternatively, you may apply for MOE FAS online ([https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)).
 
-Table 1
 
-Date Timing Remarks
-28th December 2022 (Wednesday) 9 am – 3 pm For Approved MOE FAS
-Students
-29th December 2022 (Thursday) 9 am – 3 pm For Approved MOE FAS and
-School-Based FAS Students
+| Date | Timing | Remarks |
+| -------- | -------- | -------- |
+| 28th December 2022 (Wednesday)    | 9 am – 3 pm     | For Approved MOE FAS Students     |
+| 29th December 2022 (Thursday)    | 9 am – 3 pm     | For Approved MOE FAS and School-Based FAS Students     |
 
-4. Appeal for transfer for serious medical conditions
+**4. Appeal for transfer for serious medical conditions**<br>
 If you assess that Canberra Secondary School is unable to accommodate your child’s physical health or
 special learning needs, you may appeal for a transfer. Appeals can be filed at Canberra Secondary
 School General Office on the next day after the posting results have been released.
