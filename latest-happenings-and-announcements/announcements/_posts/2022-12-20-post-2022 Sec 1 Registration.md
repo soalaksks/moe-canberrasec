@@ -76,40 +76,47 @@ It’s important to keep the following in mind:
 * The school must have available vacancies.
 
 
-5. Sec 1 Orientation Programme 2023
-Details for Sec 1 Orientation Programme will be made available through Parents Gateway and the School
-Website.
-6. Transition to secondary school
+**5. Sec 1 Orientation Programme 2023**
+Details for Sec 1 Orientation Programme will be made available through Parents Gateway and the School Website.
+
+**6. Transition to secondary school**
 Students moving from primary to secondary school are entering a new phase of life. Learn about common
 challenges and how to help your child with the transition.
-Help your child to understand the common challenges
+
+**Help your child to understand the common challenges**
 Some of the challenges faced by students entering secondary school include:
-• New school environment
-• New friends
-• New syllabus
-• New phase of life
+* New school environment
+* New friends
+* New syllabus
+* New phase of life
 
 Your child has spent the last 6 years getting used to their primary school, and now they’ll be going to a
 new school. Moreover, many of your child’s primary school friends may be posted to different secondary
 schools.
+
 Meeting new people can be difficult, but it’s also an opportunity for them to form new, long-lasting
 friendships.
+
 Your child will also be learning new subjects, including biology, chemistry, physics, geography and history.
 There will also be more subject choices, especially in upper secondary.
+
 In this phase of school, your child will enter their teenage years and go through physical, emotional and
 mental changes. They will also begin to explore the different pathways available for them to fulfil their
 dreams and aspirations.
-Support your child’s development and interests
+
+**Support your child’s development and interests**
 It’s important that you pick a school where your child’s development and interests will be supported.
 Generally, secondary school students do best when they:
-• Feel a sense of belonging, with their friends and at the school.
-• Feel a sense of purpose and progress.
-• Get the opportunity to contribute to the school, for example through their Co-Curricular Activities
+* Feel a sense of belonging, with their friends and at the school.
+* Feel a sense of purpose and progress.
+* Get the opportunity to contribute to the school, for example through their Co-Curricular Activities
 (CCAs).
-• Find their interests and learn new things.
-• Have teachers who care about them and cater to their needs.
-• Are able to enjoy the process of learning at an appropriate level for them.
-Encourage your child to prepare for the transition
+* Find their interests and learn new things.
+* Have teachers who care about them and cater to their needs.
+* Are able to enjoy the process of learning at an appropriate level for them.
+
+
+**Encourage your child to prepare for the transition**
 When discussing these challenges with your child, encourage them to:
 • Choose subjects and electives that interest them.
 • Look beyond academics and pursue activities that excite them.
