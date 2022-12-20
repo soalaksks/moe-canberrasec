@@ -76,14 +76,14 @@ It’s important to keep the following in mind:
 * The school must have available vacancies.
 
 
-**5. Sec 1 Orientation Programme 2023**
+**5. Sec 1 Orientation Programme 2023**<br>
 Details for Sec 1 Orientation Programme will be made available through Parents Gateway and the School Website.
 
-**6. Transition to secondary school**
+**6. Transition to secondary school**<br>
 Students moving from primary to secondary school are entering a new phase of life. Learn about common
 challenges and how to help your child with the transition.
 
-**Help your child to understand the common challenges**
+**Help your child to understand the common challenges**<br>
 Some of the challenges faced by students entering secondary school include:
 * New school environment
 * New friends
@@ -104,7 +104,7 @@ In this phase of school, your child will enter their teenage years and go throug
 mental changes. They will also begin to explore the different pathways available for them to fulfil their
 dreams and aspirations.
 
-**Support your child’s development and interests**
+**Support your child’s development and interests**<br>
 It’s important that you pick a school where your child’s development and interests will be supported.
 Generally, secondary school students do best when they:
 * Feel a sense of belonging, with their friends and at the school.
@@ -116,7 +116,7 @@ Generally, secondary school students do best when they:
 * Are able to enjoy the process of learning at an appropriate level for them.
 
 
-**Encourage your child to prepare for the transition**
+**Encourage your child to prepare for the transition**<br>
 When discussing these challenges with your child, encourage them to:
 * Choose subjects and electives that interest them.
 * Look beyond academics and pursue activities that excite them.
@@ -124,7 +124,7 @@ When discussing these challenges with your child, encourage them to:
 * Let you know if they are having difficulties in school.
 
 
-**Join the Parent Support Group (PSG)**
+**Join the Parent Support Group (PSG)**<br>
 We welcome you to join our Parent Support Group (PSG) which aims to promote partnership between
 the parents and the school towards the holistic development of every student. We encourage you to volunteer your precious time in any of the school’s activities. Your support will make a big difference to the school and your child.
 
