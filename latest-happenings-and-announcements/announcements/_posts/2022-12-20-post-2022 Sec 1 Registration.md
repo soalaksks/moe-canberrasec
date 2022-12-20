@@ -55,24 +55,27 @@ Alternatively, you may apply for MOE FAS online ([https://www.moe.gov.sg/financi
 **4. Appeal for transfer for serious medical conditions**<br>
 If you assess that Canberra Secondary School is unable to accommodate your child’s physical health or
 special learning needs, you may appeal for a transfer. Appeals can be filed at Canberra Secondary
-School General Office on the next day after the posting results have been released.
-Points to note about appealing for a transfer:
-• Appeals will only be considered on an exceptional basis for students with:
-o Serious medical conditions, such as chronic heart conditions or kidney problems.
-o Severe physical impairments, such as those requiring permanent use of a wheelchair.
-• All appeals must be accompanied by relevant supporting documents, such as medical reports and
+School General Office **on the next day after the posting results have been released.**
+
+**Points to note about appealing for a transfer:**
+* Appeals will only be considered on an exceptional basis for students with:
+<ol>1. Serious medical conditions, such as chronic heart conditions or kidney problems. <br>
+	2. Severe physical impairments, such as those requiring permanent use of a wheelchair. </ol>
+* All appeals must be accompanied by relevant supporting documents, such as medical reports and
 letters from doctors.
-• Our staff at the General Office will help to file your appeal. The appeal results will be released in early
-January.
-• If you intend to appeal for transfer, your child must still report to our school on the reporting day.
-• Your child is to continue to attend school until his/her appeal for transfer is approved.
-• Transfers are subjected to vacancies at the requested transfer school.
-Note:
-If you are seeking a transfer due to other reasons, you may approach the school of your choice directly.
+* Our staff at the General Office will help to file your appeal. The appeal results will be released in early January.
+* If you intend to appeal for transfer, your child must still report to our school on the **reporting day.**
+* Your child is to continue to attend school until his/her appeal for transfer is approved.
+* Transfers are subjected to vacancies at the requested transfer school.
+
+**Note:**
+If you are seeking a transfer due to other reasons, you **may** approach the school of your choice directly.
 It’s important to keep the following in mind:
-• Your child’s Achievement Level score should meet the school’s cut-off score of the posting year.
-• Your child should meet the school’s admission criteria.
-• The school must have available vacancies.
+* Your child’s Achievement Level score should meet the school’s cut-off score of the posting year.
+* Your child should meet the school’s admission criteria.
+* The school must have available vacancies.
+
+
 5. Sec 1 Orientation Programme 2023
 Details for Sec 1 Orientation Programme will be made available through Parents Gateway and the School
 Website.
