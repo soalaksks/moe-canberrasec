@@ -126,11 +126,12 @@ When discussing these challenges with your child, encourage them to:
 
 **Join the Parent Support Group (PSG)**
 We welcome you to join our Parent Support Group (PSG) which aims to promote partnership between
-the parents and the school towards the holistic development of every student. We encourage you to
-volunteer your precious time in any of the school’s activities. Your support will make a big difference to
-the school and your child.
+the parents and the school towards the holistic development of every student. We encourage you to volunteer your precious time in any of the school’s activities. Your support will make a big difference to the school and your child.
+
 To join the PSG, kindly submit the form below to General Office or through your child. Should you require
-more details or clarification, please email us at canberra_ss@moe.edu.sg.
-• PSG Recruitment Form
+more details or clarification, please email us at [canberra_ss@moe.edu.sg](mailto:canberra_ss@moe.edu.sg).
+
+* 
+
 Thank you and on behalf of the school, we would like to wish all our 2023 Sec 1 students and families a
 great year ahead.
