@@ -131,7 +131,6 @@ the parents and the school towards the holistic development of every student. We
 To join the PSG, kindly submit the form below to General Office or through your child. Should you require
 more details or clarification, please email us at [canberra_ss@moe.edu.sg](mailto:canberra_ss@moe.edu.sg).
 
-* 
+* [PSG Recruitment Form](/files/6%20PSG%20Recruitment%20Form.pdf)
 
-Thank you and on behalf of the school, we would like to wish all our 2023 Sec 1 students and families a
-great year ahead.
+Thank you and on behalf of the school, we would like to wish all our 2023 Sec 1 students and families a great year ahead.
