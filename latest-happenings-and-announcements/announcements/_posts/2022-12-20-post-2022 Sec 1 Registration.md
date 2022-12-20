@@ -28,9 +28,9 @@ Bookstores Pte Ltd’s website ([https://www.pacificbookstores.com](https://www.
 student to collect the books physically in school. Alternatively, you can arrange for the books to be delivered to your homes. The details for the books and uniform purchase can be found in the documents
 below:
 
-* Canberra Uniform Order Form
-• Pacific Bookstores End of Year Purchase Guide CBRSS
-• Book lists for Sec 1 Express, 1 Normal (Academic) and 1 Normal (Technical)
+* [Canberra Uniform Order Form](/files/1%20CBRSS%20UNIFORM%20ORDER%20FORM.pdf)
+* [Pacific Bookstores End of Year Purchase Guide CBRSS](/files/2%20Pacific%20Bookstores%20End%20of%20Year%20Purchase%20Guide%20CBRSS.pdf)
+* Book lists for [Sec 1 Express](/files/3%20Book%20List_%20S1%20Express.pdf), [1 Normal (Academic)](/files/4%20Book%20List_S1%20Normal%20Academic.pdf) and [1 Normal (Technical)](/files/5%20Book%20List_S1%20Normal%20Technical.pdf)
 
 3. Information for MOE Financial Assistance Scheme (MOE FAS) Application
 Students whose MOE FAS application was approved before 16 December 2022 by their primary schools
