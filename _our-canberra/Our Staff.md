@@ -14,7 +14,7 @@ description: ""
 </tr>
 <tr>
 <td>Principal</td>
-<td>Mr Ng Tiong Nam</td>
+<td>Mr Leong Kok Kee</td>
 </tr>
 <tr>
 <td>Vice-Principal</td>
@@ -42,8 +42,8 @@ description: ""
 <th><strong>Name</strong></th>
 </tr>
 <tr>
-<td>HOD CCE</td>
-<td>Mrs Goh Wai Yee (internal)</td>
+	<td>HOD CCE</td>
+<td>Mr Edwin Cheong</td>
 </tr>
 <tr>
 <td>HOD Craft &amp; Technology</td>
@@ -62,8 +62,8 @@ description: ""
 <td>Mr Goh Ching Tard</td>
 </tr>
 <tr>
-<td>HOD Mathematics</td>
-<td>Mrs Frieda Tay</td>
+<td>HOD Mathematics<br />Year Head 2</td>
+<td>Mr Ng Chuen Joo</td>
 </tr>
 <tr>
 <td>HOD MTL</td>
@@ -83,15 +83,13 @@ description: ""
 </tr>
 <tr>
 <td>Year Head</td>
-<td>Mr Edwin Cheong</td>
+<td>Mrs Frieda Tay</td>
 </tr>
 <tr>
 <td>Year Head 1</td>
 <td>Mr Dinesh Sawlani (internal)</td>
 </tr>
 <tr>
-<td>Year Head 2</td>
-<td>Mr Ng Chuen Joo</td>
 </tr>
 <tr>
 <td>Year Head 3</td>
@@ -131,19 +129,11 @@ description: ""
 </tr>
 <tr>
 <td>SH NFS</td>
-<td>Ms Janet Peh (internal)</td>
-</tr>
-<tr>
-<td>Lead Teacher CCE</td>
-<td>Mrs Lim Suet Peng (internal)</td>
+<td>Ms Janet Peh</td>
 </tr>
 <tr>
 <td>Senior Teacher CL</td>
 <td>Ms Lau Sou Fong</td>
-</tr>
-<tr>
-<td>Senior Teacher EL</td>
-<td>Mrs James Denise Allison</td>
 </tr>
 <tr>
 <td>Senior Teacher EL</td>
@@ -164,6 +154,10 @@ description: ""
 <tr>
 <td>Senior Teacher Physics</td>
 <td>Mr Koh Tat Siang</td>
+	<tr>
+<td>Senior Teacher Art</td>
+<td>Mdm Farasidah</td>
+</tr>
 </tr>
 </tbody>
 </table>
