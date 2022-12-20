@@ -118,12 +118,13 @@ Generally, secondary school students do best when they:
 
 **Encourage your child to prepare for the transition**
 When discussing these challenges with your child, encourage them to:
-• Choose subjects and electives that interest them.
-• Look beyond academics and pursue activities that excite them.
-• Make new friends and involve themselves in sports, games, clubs and other CCAs. They get the
-opportunity to find their interests and learn new things.
-• Let you know if they are having difficulties in school.
-Join the Parent Support Group (PSG)
+* Choose subjects and electives that interest them.
+* Look beyond academics and pursue activities that excite them.
+* Make new friends and involve themselves in sports, games, clubs and other CCAs. They get the opportunity to find their interests and learn new things.
+* Let you know if they are having difficulties in school.
+
+
+**Join the Parent Support Group (PSG)**
 We welcome you to join our Parent Support Group (PSG) which aims to promote partnership between
 the parents and the school towards the holistic development of every student. We encourage you to
 volunteer your precious time in any of the school’s activities. Your support will make a big difference to
