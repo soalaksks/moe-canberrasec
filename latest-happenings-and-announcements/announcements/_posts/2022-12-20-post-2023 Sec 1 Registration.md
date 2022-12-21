@@ -47,6 +47,7 @@ not, we will process your application when the documents are completed.
 Alternatively, you may apply for MOE FAS online ([https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)).
 
 Table 1:
+
 | Date | Timing | Remarks |
 | -------- | -------- | -------- |
 | 28th December 2022 (Wednesday)    | 9 am – 3 pm     | For Approved MOE FAS Students     |
