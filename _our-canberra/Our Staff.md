@@ -154,7 +154,6 @@ description: ""
 <tr>
 <td>Senior Teacher Physics</td>
 <td>Mr Koh Tat Siang</td>
-
 </tr>
 </tbody>
 </table>
