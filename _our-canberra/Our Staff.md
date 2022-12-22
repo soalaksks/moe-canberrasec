@@ -62,7 +62,7 @@ description: ""
 <td>Mr Goh Ching Tard</td>
 </tr>
 <tr>
-<td>HOD Mathematics<br />Year Head 2</td>
+<td>HOD Mathematics</td>
 <td>Mr Ng Chuen Joo</td>
 </tr>
 <tr>
@@ -82,22 +82,14 @@ description: ""
 <td>Ms Chia Hua Hoong</td>
 </tr>
 <tr>
-<td>Year Head</td>
+<td>Year Head (Upper Sec)</td>
 <td>Mrs Frieda Tay</td>
 </tr>
 <tr>
-<td>Year Head 1</td>
-<td>Mr Dinesh Sawlani (internal)</td>
 </tr>
 <tr>
-</tr>
-<tr>
-<td>Year Head 3</td>
-<td>Mr Muraleedharan S/O Sreedran (internal)<br />Mdm Shahani Binte Kamarudin&nbsp;</td>
-</tr>
-<tr>
-<td>Year Head 4<br />HOD Student Well-being</td>
-<td>Ms Jesslyn Lee</td>
+<td>Year Head (Lower Sec)</td>
+<td>Mrs Jesslyn Yeoh</td>
 </tr>
 <tr>
 <td>SH Aesthetics</td>
@@ -132,6 +124,10 @@ description: ""
 <td>Ms Janet Peh</td>
 </tr>
 <tr>
+<td>SH Student Management</td>
+<td>Mr Muraleedharan S/O Sreedran<br />Mdm Shahani Binte Kamarudin&nbsp;<br />Mr Dinesh Sawlani </td>
+</tr>
+<tr>
 <td>Senior Teacher CL</td>
 <td>Ms Lau Sou Fong</td>
 </tr>
@@ -163,3 +159,4 @@ description: ""
 </table>
 </div>
 </div>
+
