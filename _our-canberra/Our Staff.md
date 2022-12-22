@@ -128,6 +128,10 @@ description: ""
 <td>Mr Muraleedharan S/O Sreedran<br />Mdm Shahani Binte Kamarudin&nbsp;<br />Mr Dinesh Sawlani </td>
 </tr>
 <tr>
+<td>Senior Teacher Art</td>
+<td>Mdm Farasidah</td>
+</tr>
+<tr>
 <td>Senior Teacher CL</td>
 <td>Ms Lau Sou Fong</td>
 </tr>
@@ -150,13 +154,9 @@ description: ""
 <tr>
 <td>Senior Teacher Physics</td>
 <td>Mr Koh Tat Siang</td>
-	<tr>
-<td>Senior Teacher Art</td>
-<td>Mdm Farasidah</td>
-</tr>
+
 </tr>
 </tbody>
 </table>
 </div>
 </div>
-
