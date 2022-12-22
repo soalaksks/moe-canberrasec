@@ -62,7 +62,7 @@ description: ""
 <td>Mr Goh Ching Tard</td>
 </tr>
 <tr>
-<td>HOD Mathematics<br />Year Head 2</td>
+<td>HOD Mathematics</td>
 <td>Mr Ng Chuen Joo</td>
 </tr>
 <tr>
@@ -82,22 +82,14 @@ description: ""
 <td>Ms Chia Hua Hoong</td>
 </tr>
 <tr>
-<td>Year Head</td>
+<td>Year Head (Upper Sec)</td>
 <td>Mrs Frieda Tay</td>
 </tr>
 <tr>
-<td>Year Head 1</td>
-<td>Mr Dinesh Sawlani (internal)</td>
 </tr>
 <tr>
-</tr>
-<tr>
-<td>Year Head 3</td>
-<td>Mr Muraleedharan S/O Sreedran (internal)<br />Mdm Shahani Binte Kamarudin&nbsp;</td>
-</tr>
-<tr>
-<td>Year Head 4<br />HOD Student Well-being</td>
-<td>Ms Jesslyn Lee</td>
+<td>Year Head (Lower Sec)</td>
+<td>Mrs Jesslyn Yeoh</td>
 </tr>
 <tr>
 <td>SH Aesthetics</td>
@@ -132,6 +124,14 @@ description: ""
 <td>Ms Janet Peh</td>
 </tr>
 <tr>
+<td>SH Student Management</td>
+<td>Mr Muraleedharan S/O Sreedran<br />Mdm Shahani Binte Kamarudin&nbsp;<br />Mr Dinesh Sawlani </td>
+</tr>
+<tr>
+<td>Senior Teacher Art</td>
+<td>Mdm Farasidah</td>
+</tr>
+<tr>
 <td>Senior Teacher CL</td>
 <td>Ms Lau Sou Fong</td>
 </tr>
@@ -154,12 +154,45 @@ description: ""
 <tr>
 <td>Senior Teacher Physics</td>
 <td>Mr Koh Tat Siang</td>
-	<tr>
-<td>Senior Teacher Art</td>
-<td>Mdm Farasidah</td>
-</tr>
 </tr>
 </tbody>
 </table>
 </div>
 </div>
+
+### 2023 Character Coaches
+| Class | Character Coaches | Contact |
+| -------- | -------- | -------- |
+| 1E1    | Text     | Text     |
+| 1E2    | Text     | Text     |
+| 1E3     | Text     | Text     |
+| 1E4     | Text     | Text     |
+| 1N1     | Text     | Text     |
+| 1N2     | Text     | Text     |
+| 1T1     | Text     | Text     |
+| 1T2     | Text     | Text     |
+| 2E1     | Text     | Text     |
+| 2E2     | Text     | Text     |
+| 2E3     | Text     | Text     |
+| 2E4     | Text     | Text     |
+| 2N1     | Text     | Text     |
+| 2N2   | Text     | Text     |
+| 2T1    | Text     | Text     |
+| 2T2    | Text     | Text     |
+| 3E1     | Text     | Text     |
+| 3E2    | Text     | Text     |
+| 3E3    | Text     | Text     |
+| 3E4    | Text     | Text     |
+| 3N1     | Text     | Text     |
+| 3N2     | Text     | Text     |
+| 3T1    | Text     | Text     |
+| 3T2     | Text     | Text     |
+| 4E1     | Text     | Text     |
+| 4E2     | Text     | Text     |
+| 4E3     | Text     | Text     |
+| 4E4     | Text     | Text     |
+| 4N1    | Text     | Text     |
+| 4N2     | Text     | Text     |
+| 4T1     | Text     | Text     |
+| 4T2    | Text     | Text     |
+| 5N1     | Text     | Text     |
