@@ -3,4 +3,4 @@ title: Parent Handbook (I) on Learning with a Personal Learning Device
 permalink: /parents/parent-handbook-1/
 description: ""
 ---
-[Parent Handbook (I) on Learning with a Personal Learning Device 2023]()
+[Parent Handbook (I) on Learning with a Personal Learning Device 2023](/files/IP2%20-%20Parent%20Handbook%20(I)%20on%20Learning%20with%20a%20PLD_2023.pdf)
