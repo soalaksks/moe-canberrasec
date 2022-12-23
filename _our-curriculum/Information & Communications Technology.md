@@ -3,7 +3,6 @@ title: Information & Communications Technology
 permalink: /discover-canberra/our-curriculum/information-n-communications-technology/
 description: ""
 ---
-
 <p><strong>Our School ICT Vision:<br /></strong>All Canberrans are engaged and effective learners</p>
 <p><strong>Our School ICT Goals:</strong></p>
 <blockquote>
@@ -21,4 +20,4 @@ description: ""
 <p>All students in their stay in Canberra Secondary are provided with 2 years of foundation and intermediate courses in emerging ICT tools (beyond baseline ICT standards) with the Sec 1s learning photography and Sec 2s learning videography. We want to equip and expose our students to the basics in the use of digital media as a medium to express their ideas and to create artefacts that could show their learning. By integrating ICT into the main curriculum time-table, the school has enabled Canberrans a pervasive and extensive use of ICT tools in their learning even from home and to prepare them for a challenging future workforce with Life-Long Learning skills. The intention is to immerse students in the world of digital media that can enhance the holistic development of our students.</p>
 </div>
 
-![](/images/ICT1.png)
+![](/images/ICT.png)
