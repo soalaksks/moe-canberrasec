@@ -8,4 +8,3 @@ description: ""
 <p>The school's prescribed PLD is the iPad 10.2 (9th generation) that all Secondary 1 students should acquire as their PLD in 2023.&nbsp;</p>
 <p>More details on procurement, funding and other administrative matters will be provided to the 2023 Secondary 1 parents in early January 2023.</p>
 
-<p><a href="https://moe-canberrasec-staging.netlify.app/files/PDLP%20Student%20Device%20Information%20Kit.pdf" target="">PLD Information Kit</a></p>
