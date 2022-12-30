@@ -115,6 +115,10 @@ description: ""
 <td>SH Mathematics</td>
 <td>Ms Sim Yi Lian</td>
 </tr>
+	<tr>
+<td>SH PE/CCA</td>
+<td>Mr Whelan Chen</td>
+</tr>
 <tr>
 <td>SH Physics</td>
 <td>Mr Chia Wai Han</td>
