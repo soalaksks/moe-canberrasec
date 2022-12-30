@@ -16,7 +16,7 @@ description: ""
 | Guzheng Ensemble    | Text     | Text     |
 | Boys Brigade    | Text     | Text     |
 | Girls Brigade     | Text     | Text     |
-| NCC (Sea)    | Text     | Text     |
-| NCC (Air)     | Text     | Text     |
-| NPCC    | Text     | Text     |
-| NCDCC    | Text     | Text     |
+| NCC (Sea)    | 13, 27 Jan (Fri) – 2.00pm to 5.30pm <br><br>*PE attire with water bottle*     | Parade Square     |
+| NCC (Air)     | 13, 27 Jan (Fri) – 2.00pm to 5.30pm <br><br>*PE attire with water bottle*    | Parade Square     |
+| NPCC    | 13, 27 Jan (Fri) – 2.00pm to 5.30pm <br><br>*PE attire with water bottle*     | Parade Square     |
+| NCDCC    | 13, 27 Jan (Fri) – 2.00pm to 5.30pm <br><br>*PE attire with water bottle*     | Parade Square     |
