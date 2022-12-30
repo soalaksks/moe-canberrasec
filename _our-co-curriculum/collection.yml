@@ -2,6 +2,7 @@ collections:
   our-co-curriculum:
     output: true
     order:
+      - 2023 CCA Trial Schedule.md
       - Our Co Curriculum.md
       - Sports/.keep
       - Sports/Badminton.md
