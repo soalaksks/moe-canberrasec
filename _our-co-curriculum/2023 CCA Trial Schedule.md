@@ -7,18 +7,16 @@ description: ""
 
 | CCA | Selection/Trial/Interview | Venue |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-
+| Badminton     | Text     | Text     |
+| Volleyball     | Text     | Text     |
+| Digital Media in Visual Arts Club (DMA)     | Text     | Text     |
+| Choir    | Text     | Text     |
+| Concert Band     | Text     | Text     |
+| Dance     | Text     | Text     |
+| Guzheng Ensemble    | Text     | Text     |
+| Boys Brigade    | Text     | Text     |
+| Girls Brigade     | Text     | Text     |
+| NCC (Sea)    | Text     | Text     |
+| NCC (Air)     | Text     | Text     |
+| NPCC    | Text     | Text     |
+| NCDCC    | Text     | Text     |
