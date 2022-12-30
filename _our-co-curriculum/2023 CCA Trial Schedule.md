@@ -7,7 +7,7 @@ description: ""
 
 | CCA | Selection/Trial/Interview | Venue |
 | -------- | -------- | -------- |
-| Badminton     | Text     | Text     |
+| Badminton     | 11, 18 Jan (Wed) – 3.30pm to 5.30pm<br>13 Jan (Fri) – 2.30pm to 4.30pm<br><br>*PE attire with water bottle, personal racquet (if any)*     | School Hall     |
 | Volleyball     | 11, 18 Jan (Wed) – 3.30pm to 5.30pm<br>13 Jan (Fri) – 2.30pm to 4.30pm<br><br>*PE attire with water bottle*     | Indoor Sports Hall Level 1     |
 | Digital Media in Visual Arts Club (DMA)     | 1st Round Interview:<br>11 Jan (Wed) – 3.30pm to 5.30pm<br>*Please bring any certificates of achievements and a Portfolio of your work (softcopy or hardcopy)*<br><br>2nd Round Practical Test (only selected students from Round 1) :<br>18 Jan (Wed) – 3.30pm to 5.30pm     | DMA Studio     |
 | Choir    | 11, 18, 25 Jan (Wed) – 3.30pm to 5.30pm<br>13 Jan (Fri) – 2.30pm to 4.30pm     | AVA Room     |
