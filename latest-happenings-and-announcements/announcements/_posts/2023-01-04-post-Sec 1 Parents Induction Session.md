@@ -6,3 +6,5 @@ layout: post
 description: ""
 image: ""
 ---
+Parents/ guardians can find out more about our key school programmes via the following links before our scheduled Parents Induction Session on 6 Jan 2023 (Fri):
+
