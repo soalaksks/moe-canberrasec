@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Parents/ guardians can find out more about our key school programmes via the following links before our scheduled Parents Induction Session on 6 Jan 2023 (Fri):
+Parents/ guardians can find out more about our key school programmes via the following links:
 
 * [1. Character Development Programme](/files/2023%20Character%20Development%20Programme.pdf)
 * [2. Academic Programme](/files/2023%20Academic%20Programme.pdf)
