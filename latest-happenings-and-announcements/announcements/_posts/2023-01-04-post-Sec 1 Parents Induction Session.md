@@ -13,4 +13,4 @@ Parents/ guardians can find out more about our key school programmes via the fol
 * [3. Co-Curricular Activities (CCA) Programme](/files/2023%20Co-Curricular%20Activities%20(CCA)%20Programme.pdf)
 * [4. National Digital Literacy Programme (NDLP)](/files/2023%20National%20Digital%20Literacy%20Programme%20(NDLP).pdf)
 * [5a. Parent Support Group Programme](/files/2023%20Parent%20Support%20Group%20a.pdf)
-* [5b. Parent Support Group Programme](/files/2023%20Parent%20Support%20Group%20b.pdf)
+* [5b. Parent Support Group Programme](/files/5b%20Parent%20Support%20Group%20Programme.pdf)
