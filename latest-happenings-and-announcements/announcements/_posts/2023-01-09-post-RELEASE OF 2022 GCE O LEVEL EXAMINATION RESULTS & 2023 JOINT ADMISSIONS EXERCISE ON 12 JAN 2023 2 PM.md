@@ -9,7 +9,7 @@ image: ""
 ---
 **For 4E1, 4E2, 4E3, 4E4 and 5N1 students**
 
-You will be allowed to enter the school from 1.30pm onwards. Please be seated in the school hall by 1.45pm. Parents/guardians may accompany their child/ward to school to collect their results. 
+You will be allowed to enter the school from 1.30pm onwards. Please be seated in the school hall by 1.45pm. Your parents/guardians may accompany you to school to collect your results.
 
 You are to report to school in half uniform (school PE t-shirt and school pants/skirt).  Students are expected to be properly groomed in accordance to the school grooming standards. 
 
