@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-**For 4E1, 4E2, 4E3, 4E4 and 5N1 students**
+### For 4E1, 4E2, 4E3, 4E4 and 5N1 students
 
 You will be allowed to enter the school from 1.30pm onwards. Please be seated in the school hall by 1.45pm. Parents/guardians may accompany their child/ward to school to collect their results. 
 
