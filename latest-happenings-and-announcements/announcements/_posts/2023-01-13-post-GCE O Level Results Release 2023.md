@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+[GCE O Level Exam Results Release 2023 Information Slides](/files/GCE%20O%20Level%20Exam%20Results%20Release%202023_Information%20Slides%20_Website.pdf)
