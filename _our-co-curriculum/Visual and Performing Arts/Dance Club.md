@@ -27,7 +27,6 @@ third_nav_title: Visual and Performing Arts
 </td>
 <td>
 <p>Mr Chen Jialiang</p>
-<p>Mdm Heryani</p>
 <p>Ms Shahani</p>
 </td>
 </tr>
