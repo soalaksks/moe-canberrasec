@@ -33,11 +33,10 @@ third_nav_title: Uniformed Groups
 </tr>
 <tr>
 <td>
-<p><strong>Training Days / Time :</strong></p>
+<p><strong>Training Day / Time :</strong></p>
 </td>
 <td>
-<p>Wednesday,</p>
-<p>3pm &ndash; 6pm</p>
+<p>Friday: 2 pm - 6 pm</p>
 </td>
 </tr>
 </tbody>
