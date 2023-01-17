@@ -26,10 +26,8 @@ third_nav_title: Sports
 <p><strong>Training Days / Time :</strong></p>
 </td>
 <td>
-<p>Wednesday</p>
-<p>3pm - 5.30pm</p>
-<p>Friday</p>
-<p>2.00pm - 4.30pm</p>
+<p>Wednesday: 3 pm - 5.30 pm</p>
+<p>Friday: 2 pm - 4.30 pm</p>
 </td>
 </tr>
 </tbody>
