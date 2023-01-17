@@ -18,7 +18,6 @@ third_nav_title: Visual and Performing Arts
 <p><strong>Teachers-In-Charge</strong></p>
 </td>
 <td>
-<p>Ms Josephine Lim</p>
 <p>Mrs Hee-Lim</p>
 </td>
 </tr>
