@@ -16,8 +16,8 @@ third_nav_title: Uniformed Groups
 <p><strong>Teachers-In-Charge :</strong></p>
 </td>
 <td width="237">
-<p>Mr He Jiaen</p>
 <p>Mr Jeremy Tng</p>
+<p>Mr He Jiaen</p>
 <p>Mr Seth Lim</p>
 </td>
 </tr>
