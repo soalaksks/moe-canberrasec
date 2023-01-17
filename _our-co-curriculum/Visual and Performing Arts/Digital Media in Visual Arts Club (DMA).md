@@ -16,9 +16,8 @@ third_nav_title: Visual and Performing Arts
 <p><strong>Teachers-In-Charge :</strong></p>
 </td>
 <td width="237">
-<p>Ms Janet Peh</p>
+<p>Ms Goh Shu Hui</p>
 <p>Mdm Farasidah Bte Rohmat</p>
-<p>Ms Syairah Nur &rsquo;Amirah</p>
 </td>
 </tr>
 <tr>
