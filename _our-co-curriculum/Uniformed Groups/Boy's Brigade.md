@@ -23,9 +23,9 @@ third_nav_title: Uniformed Groups
 </tr>
 <tr></tr>
 <td>
-<p><strong>Training Days / Time :</strong></p>
+<p><strong>Training Day / Time :</strong></p>
 <td width="237">
-<p>Saturday, 8.00am &ndash; 12.00pm</p>
+<p>Saturday: 8.30am - 12.30pm</p>
 </td>
 </td>
 
