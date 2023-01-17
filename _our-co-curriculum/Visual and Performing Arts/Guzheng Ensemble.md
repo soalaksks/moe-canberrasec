@@ -16,7 +16,7 @@ third_nav_title: Visual and Performing Arts
 </td>
 <td width="237">
 <p>Ms Ma Lijuan</p>
-<p>Ms Shannon Loh</p>
+<p>Mr Mohamed Nor Ariffin Ismail</p>
 </td>
 </tr>
 <tr>
