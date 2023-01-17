@@ -17,9 +17,9 @@ third_nav_title: Uniformed Groups
 <p><strong>Teachers-In-Charge :</strong></p>
 </td>
 <td width="237">
+<p>Mr Quek Yeow Chong</p>
 <p>Ms Olivia Ng</p>
 <p>Ms Felicia Lee</p>
-<p>Mr Quek Yeow Chong</p>
 </td>
 </tr>
 <tr>
