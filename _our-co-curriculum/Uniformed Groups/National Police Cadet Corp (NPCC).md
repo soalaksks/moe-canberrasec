@@ -18,15 +18,14 @@ third_nav_title: Uniformed Groups
 </td>
 <td width="237">
 <p>Ms Olivia Ng</p>
-<p>Ms Nurul Diyana</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>Training Days / Time :</strong></p>
+<p><strong>Training Day / Time :</strong></p>
 </td>
 <td>
-<p>Friday, 2.30pm &ndash; 6pm</p>
+<p>Friday: 2 pm - 6 pm</p>
 </td>
 </tr>
 </tbody>
