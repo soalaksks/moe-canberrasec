@@ -19,6 +19,7 @@ third_nav_title: Sports
 <td width="280">
 <p>Mr Lok Chee How</p>
 <p>Ms Joann David</p>
+<p>Mr Ho Ngiap Tuan</p>
 </td>
 </tr>
 <tr>
