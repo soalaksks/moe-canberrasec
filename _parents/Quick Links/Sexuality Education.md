@@ -57,3 +57,26 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 ##### **Secondary 5**
 ![](/images/Sexuality%20Education%20Sec%205.jpg)
+
+##### eTeens Programme:
+
+8.	eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.
+
+9.	Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+
+**At Canberra Secondary School, the eTeens programme will be implemented as follows in 2023:**
+
+| Topics/Lessons | Programme Learning Objectives | Time Period <br>(e.g. Term 3 Week 9)|
+| -------- | -------- | -------- |
+| Mass Talk by HPB appointed vendor      | •	Awareness of the different STIs and HIV/AIDS <br>•	Modes of transmission <br>•	Modes of protection, specifically on how the condom is used <br>•	Consequences and impact of STIs/HIV     | Term 3 Week 5     |
+| Classroom-based Lesson     | •	Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making     | Term 3 Week 6     |
+
+##### INFORMATION FOR PARENTS
+
+10.	Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers. 
+
+11.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://form.gov.sg/63c13f57e2862f0011b6fb77). The completed form is to be submitted by 20/1/23. 
+
+12.	Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://form.gov.sg/63c13dffe2862f0011b6e78a). The completed form is to be submitted by 20/1/23.
+
+13.	Parents can contact the school at 6758 5070 or canberra_ss@moe.edu.sg  for discussion or to seek clarification about the school’s Sexuality Education programme.
