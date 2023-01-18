@@ -40,4 +40,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 ##### **Secondary 1**
 
+| Unit | Lesson Title / Duration | Lesson Overview |Lesson Objectives <br><br>At the end of the lesson, students will be able to: | Time Period<br>(e.g.Term 1 Week 2) |
+| -------- | -------- | -------- |-------- | -------- |
+| Respectful Relationships & Safety     | Steady or Not<br><br> Lesson 1 (60 mins) | This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.     |Text     | Text     |
 
