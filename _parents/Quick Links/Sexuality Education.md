@@ -76,4 +76,4 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 12.	Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://form.gov.sg/63c13dffe2862f0011b6e78a). The completed form is to be submitted by 20/1/23.
 
-13.	Parents can contact the school at 6758 5070 or canberra_ss@moe.edu.sg  for discussion or to seek clarification about the school’s Sexuality Education programme.
+13.	Parents can contact the school at 6758 5070 or [canberra_ss@moe.edu.sg](mailto:canberra_ss@moe.edu.sg)  for discussion or to seek clarification about the school’s Sexuality Education programme.
