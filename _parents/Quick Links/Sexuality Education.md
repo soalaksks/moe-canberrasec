@@ -47,3 +47,9 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 3. recognise the importance and understand what builds healthy and supportive relationships, both online and offline 
 4. understand what dating is, and recognise that the readiness and interest in dating vary among individuals 
 | Term 3 Week 1     |
+| Respectful Relationships & Safety     | Being Aware, Being Safe<br><br>Lesson 2 (60 mins) | This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self. <br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
+     | 1.	recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles 
+2. recognise that there are different forms of love (e.g. familial, platonic, romantic love) 
+3. recognise the importance and understand what builds healthy and supportive relationships, both online and offline 
+4. understand what dating is, and recognise that the readiness and interest in dating vary among individuals 
+| Term 3 Week 1     |
