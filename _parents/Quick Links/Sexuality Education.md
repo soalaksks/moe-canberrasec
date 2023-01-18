@@ -40,13 +40,3 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 ##### **2023 SEXUALITY EDUCATION LESSONS IN CCE**
 
-##### **Secondary 1**
-
-| Unit | Lesson Title / Duration | Lesson Overview |Lesson Objectives <br><br>At the end of the lesson, students will be able to: | Time Period<br>(e.g.Term 1 Week 2) |
-| -------- | -------- | -------- |-------- | -------- |
-| Respectful Relationships & Safety     | Steady or Not<br><br> Lesson 1 (60 mins) | This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.     | 1.	recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles 
-2. recognise that there are different forms of love (e.g. familial, platonic, romantic love) 
-3. recognise the importance and understand what builds healthy and supportive relationships, both online and offline 
-4. understand what dating is, and recognise that the readiness and interest in dating vary among individuals 
-| Term 3 Week 1     |
-| Respectful Relationships & Safety     | Being Aware, Being Safe<br><br>Lesson 2 (60 mins) | This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self. <br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. | 1. understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept| Term 3 Week 2     |
