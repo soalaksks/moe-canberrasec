@@ -38,6 +38,8 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 #### At Canberra Secondary School, the following Sexuality Education lessons will be taught in 2023:
 
+##### **2023 SEXUALITY EDUCATION LESSONS IN CCE**
+
 ##### **Secondary 1**
 
 | Unit | Lesson Title / Duration | Lesson Overview |Lesson Objectives <br><br>At the end of the lesson, students will be able to: | Time Period<br>(e.g.Term 1 Week 2) |
