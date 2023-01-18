@@ -46,4 +46,4 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 2. recognise that there are different forms of love (e.g. familial, platonic, romantic love) 
 3. recognise the importance and understand what builds healthy and supportive relationships, both online and offline 
 4. understand what dating is, and recognise that the readiness and interest in dating vary among individuals 
-| Text     |
+| Term 3 Week 1     |
