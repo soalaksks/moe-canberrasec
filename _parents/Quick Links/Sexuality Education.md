@@ -47,11 +47,10 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 ![](/images/Sexuality%20Education%20for%20Sec%202.jpg)
 
 ##### **Secondary 3**
-
+![](/images/Sexuality%20Education%20for%20Sec%203.jpg)
 
 ##### **Secondary 4**
-![](/images/Sexuality%20Education%20Sec%204_1.jpg)
-![](/images/Sexuality%20Education%20Sec%204_2.jpg)
+
 
 ##### **Secondary 5**
 ![](/images/Sexuality%20Education%20Sec%205.jpg)
