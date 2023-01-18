@@ -4,7 +4,6 @@ permalink: /discover-canberra/our-co-curriculum/visual-and-performing-arts/digit
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-
 <p>Digital Media in Visual Arts Club&rsquo;s vision is &lsquo;To grow every Digital Media Designer to be a competent individual with a creative mind to create and appreciate art and to be a Life-long learner with a heart to serve the community.&rsquo; Digital Media in Visual Arts Club is part of the school&rsquo;s Applied Learning Programme. Dedicated to develop students in their artistic flair through the use of digital media, the club aims to enrich students using termly programmes run by professional trainers, student initiated/school based projects and competitions to widen their knowledge on visual arts and skills on digital media.</p>
 <h4><strong>Achievements</strong></h4>
 <p>DMA clinched National Second Place and the Audience Award for the production titled Duality in Anti-drug video competition organised by CNB. In the inaugural Canon Film Five Festival, DMA has achieved National First Place and the Audience Award for the production titled The Skye Chronicles: The Embrace.</p>
@@ -17,9 +16,8 @@ third_nav_title: Visual and Performing Arts
 <p><strong>Teachers-In-Charge :</strong></p>
 </td>
 <td width="237">
-<p>Ms Janet Peh</p>
+<p>Ms Goh Shu Hui</p>
 <p>Mdm Farasidah Bte Rohmat</p>
-<p>Ms Syairah Nur &rsquo;Amirah</p>
 </td>
 </tr>
 <tr>
@@ -27,8 +25,8 @@ third_nav_title: Visual and Performing Arts
 <p><strong>Training Days / Time :</strong></p>
 </td>
 <td>
-<p>Monday and Wednesday</p>
-<p>2:30pm - 5:30pm</p>
+<p>Wednesday: 3 pm - 5.30 pm</p>
+<p>Friday: 2 pm - 4.30 pm</p>
 </td>
 </tr>
 </tbody>

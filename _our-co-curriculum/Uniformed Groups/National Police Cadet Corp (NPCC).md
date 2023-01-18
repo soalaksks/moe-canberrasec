@@ -17,16 +17,17 @@ third_nav_title: Uniformed Groups
 <p><strong>Teachers-In-Charge :</strong></p>
 </td>
 <td width="237">
+<p>Mr Quek Yeow Chong</p>
 <p>Ms Olivia Ng</p>
-<p>Ms Nurul Diyana</p>
+<p>Ms Felicia Lee</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>Training Days / Time :</strong></p>
+<p><strong>Training Day / Time :</strong></p>
 </td>
 <td>
-<p>Friday, 2.30pm &ndash; 6pm</p>
+<p>Friday: 2 pm - 6 pm</p>
 </td>
 </tr>
 </tbody>
