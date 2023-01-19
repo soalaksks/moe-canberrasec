@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Sexuality Education.md
       - Letters to Parents.md
       - Webinar Resources/.keep
       - Webinar Resources/Webinar Resources.md
