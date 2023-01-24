@@ -2,9 +2,9 @@ collections:
   parents:
     output: true
     order:
-      - Learning for Life Programme.md
-      - Sexuality Education.md
       - Letters to Parents.md
+      - Sexuality Education.md
+      - Learning for Life Programme.md
       - Webinar Resources/.keep
       - Webinar Resources/Webinar Resources.md
       - Webinar Resources/2021 Sec 1 Webinar.md
@@ -16,7 +16,7 @@ collections:
       - DSA/.keep
       - DSA/Direct School Admission (DSA).md
       - DSA/Applied Learning Programme.md
-      - Quick Links/FAQs.md
       - Quick Links/.keep
+      - Quick Links/FAQs.md
       - Quick Links/Quick Links.md
       - Quick Links/PLD Fault Reporting.md
