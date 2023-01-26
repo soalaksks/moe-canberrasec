@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Personal Learning Device/Personal Learning Device.md
       - Personal Learning Device/.keep
       - Letters to Parents.md
       - Sexuality Education.md
