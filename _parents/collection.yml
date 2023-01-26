@@ -2,21 +2,21 @@ collections:
   parents:
     output: true
     order:
+      - Letters to Parents.md
+      - Sexuality Education.md
+      - Learning for Life Programme.md
       - Personal Learning Device/.keep
       - Personal Learning Device/Personal Learning Device.md
       - Personal Learning Device/Parent Handbooks on Learning with a Personal
         Learning Device.md
-      - Letters to Parents.md
-      - Sexuality Education.md
-      - Learning for Life Programme.md
-      - Webinar Resources/.keep
-      - Webinar Resources/Webinar Resources.md
-      - Webinar Resources/2021 Sec 1 Webinar.md
       - Cyberwellness Guides.md
       - School Family Education (SFE).md
       - DSA/.keep
       - DSA/Direct School Admission (DSA).md
       - DSA/Applied Learning Programme.md
+      - Webinar Resources/.keep
+      - Webinar Resources/Webinar Resources.md
+      - Webinar Resources/2021 Sec 1 Webinar.md
       - Quick Links/.keep
       - Quick Links/FAQs.md
       - Quick Links/Quick Links.md
