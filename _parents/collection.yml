@@ -2,6 +2,8 @@ collections:
   parents:
     output: true
     order:
+      - Personal Learning Device/Parent Handbook (II) on Learning with a
+        Personal Learning Device.md
       - Personal Learning Device/Parent Handbook (I) on Learning with a Personal
         Learning Device.md
       - Personal Learning Device/Personal Learning Device.md
