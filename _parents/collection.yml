@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Leave Of Absence (LOA).md
       - Letters to Parents.md
       - Sexuality Education.md
       - Learning for Life Programme.md
