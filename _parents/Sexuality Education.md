@@ -76,12 +76,12 @@ You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> for m
 <tbody>
   <tr>
     <td>Mass Talk by HPB appointed vendor</td>
-    <td>• Awareness of the different STIs and HIV/AIDS<br>• Modes of transmission<br>• Modes of protection, specifically on how the condom is used<br>• Consequences and impact of STIs/HIV</td>
+    <td><ul><li>Awareness of the different STIs and HIV/AIDS</li><li>Modes of transmission</li><li>Modes of protection, specifically on how the condom is used</li><li>Consequences and impact of STIs/HIV</li></ul></td>
     <td>Term 3 Week 5</td>
   </tr>
   <tr>
     <td>Classroom-based Lesson</td>
-    <td>• Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td>
+    <td><ul><li>Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</li></ul></td>
     <td>Term 3 Week 6</td>
   </tr>
 </tbody>
