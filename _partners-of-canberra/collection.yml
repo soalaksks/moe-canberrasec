@@ -2,6 +2,8 @@ collections:
   partners-of-canberra:
     output: true
     order:
+      - Parent Support Group/Invitation to attend Breakfast Dialogue Session
+        with School Leaders on 7 Mar 2023.md
       - Parent Support Group/Parent Support Group.md
       - Parent Support Group/.keep
       - School Advisory Committee.md
