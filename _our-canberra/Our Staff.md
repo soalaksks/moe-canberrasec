@@ -59,7 +59,7 @@ description: ""
 </tr>
 <tr>
 <td>HOD ICT</td>
-<td>Mr Goh Ching Tard</td>
+<td>Mr Chia Wai Han</td>
 </tr>
 <tr>
 <td>HOD Mathematics</td>
@@ -72,6 +72,10 @@ description: ""
 <tr>
 <td>HOD Science</td>
 <td>Ms Agnes Lim</td>
+</tr>
+	<tr>
+<td>HOD Student Management</td>
+<td>Mr Goh Ching Tard</td>
 </tr>
 <tr>
 <td>HOD PE/CCA</td>
@@ -118,10 +122,6 @@ description: ""
 	<tr>
 <td>SH PE/CCA</td>
 <td>Mr Whelan Chen</td>
-</tr>
-<tr>
-<td>SH Physics</td>
-<td>Mr Chia Wai Han</td>
 </tr>
 <tr>
 <td>SH NFS</td>
