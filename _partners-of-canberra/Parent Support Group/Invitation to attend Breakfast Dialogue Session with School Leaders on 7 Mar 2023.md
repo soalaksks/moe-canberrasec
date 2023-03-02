@@ -22,12 +22,9 @@ The session details are as follows:
 * Register at: [https://form.gov.sg/63eed4b5a6d89a0012d32932](https://form.gov.sg/63eed4b5a6d89a0012d32932)
 
 Programme Outline:<br>
-8.00am to 8.05am (5 minutes)
-* Principal’s Welcome and Introduction of School Key Personnel
-8.05am to 8.30am (25 minutes)
-* Sharing by School Leaders on School Programme
-8.30am to 9.30am (60 minutes)
-* Q &amp; A Dialogue session
+* 8.00am to 8.05am (5 minutes) - Principal’s Welcome and Introduction of School Key Personnel
+* 8.05am to 8.30am (25 minutes) - Sharing by School Leaders on School Programme
+* 8.30am to 9.30am (60 minutes) - Q &amp; A Dialogue session
 
 There are 2 more Dialogue sessions available:
 * Session 2: 5 April 2023, Wednesday, 8am – 9.30am
