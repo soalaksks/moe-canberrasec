@@ -4,3 +4,4 @@ permalink: /parents/Personal-Learning-Device/pld-information-kit/
 description: ""
 third_nav_title: Personal Learning Device
 ---
+[PLD Information Kit](/files/PLD%20Information%20Kit.pdf)
