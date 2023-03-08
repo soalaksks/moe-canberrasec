@@ -25,7 +25,7 @@ third_nav_title: Visual and Performing Arts
 </td>
 <td>
 <p>Wednesday: 3 pm - 5.30 pm</p>
-<p>Friday: 2 pm - 4.30 pm</p>
+<p>Friday: 1.30 pm - 4 pm</p>
 </td>
 </tr>
 </tbody>
