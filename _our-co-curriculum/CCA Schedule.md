@@ -49,7 +49,8 @@ description: ""
 <td>Mr Chen Jialiang<br />67585070 ext 222<br />chen_jialiang@schools.gov.sg</td>
 </tr>
 <tr>
-<td>Guzheng Ensemble</td>
+<td>Guzheng Ensemble<br>
+	(Fri: 1.30 - 4pm)</td>
 <td>Air Rifle Range</td>
 <td>Ms Ma Lijuan<br />67585070 ext 230<br />ma_lijuan@schools.gov.sg</td>
 </tr>
