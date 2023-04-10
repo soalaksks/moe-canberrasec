@@ -128,8 +128,12 @@ description: ""
 <td>Ms Janet Peh</td>
 </tr>
 <tr>
-<td>SH Student Management</td>
-<td>Mr Muraleedharan S/O Sreedran<br />Mdm Shahani Binte Kamarudin&nbsp;<br />Mr Dinesh Sawlani </td>
+	<td>SH Education Support</td>
+<td>Mr Muraleedharan S/O Sreedran<br>
+	</td></tr>
+<tr>
+<td>Assistant Year Head</td>
+<td>Mdm Shahani Binte Kamarudin&nbsp;<br>Mr Dinesh Sawlani </td>
 </tr>
 <tr>
 <td>Senior Teacher Art</td>
