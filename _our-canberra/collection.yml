@@ -2,12 +2,12 @@ collections:
   our-canberra:
     output: true
     order:
-      - School Advisory Committee.md
       - Principal's Foreword.md
       - Canberra at a Glance/.keep
       - Canberra at a Glance/School Song.md
       - Canberra at a Glance/School Logo.md
       - Canberra at a Glance/Mission and Vision.md
       - Our Highlights.md
+      - School Advisory Committee.md
       - Our Staff.md
       - Yearbook 2022.md
