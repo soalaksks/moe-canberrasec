@@ -11,8 +11,11 @@ third_nav_title: Our Highlights
 	<tbody>
 		<tr><td width="30%">Modern Dance</td>
 		<td width="70%">SYF Certificate of Accomplishment</td>
-			</tr><tr><td width="30%">Guzheng Ensemble</td>
+			</tr>
+		<tr><td width="30%">Guzheng Ensemble</td>
 		<td width="70%">SYF Certificate of Accomplishment</td>
+			</tr><tr><td width="30%">Digital Media in Visual Arts (DMA)</td>
+		<td width="70%">2022 Infocomm Media Club Youth Award - Certificate of Distinction</td>
 	</tr></tbody>
 	</table>
 	</div>
