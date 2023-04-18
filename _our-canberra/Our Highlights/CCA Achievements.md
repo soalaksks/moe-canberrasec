@@ -10,7 +10,7 @@ third_nav_title: Our Highlights
 <table border="0" cellspacing="5" cellpadding="0">
 	<tbody>
 		<tr><td width="30%">Girls' Brigade</td>
-		<td width="70%">Company Awards - Silver</td>
+		<td width="70%">2023 Company Award - Silver</td>
 		</tr><tr><td width="30%">Modern Dance</td>
 		<td width="70%">SYF Certificate of Accomplishment</td>
 			</tr>
