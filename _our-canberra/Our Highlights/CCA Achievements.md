@@ -11,7 +11,10 @@ third_nav_title: Our Highlights
 	<tbody>
 		<tr><td width="30%">Girls' Brigade</td>
 		<td width="70%">2023 Company Award - Silver</td>
-		</tr><tr><td width="30%">Modern Dance</td>
+			</tr><tr><td width="30%">Boys' Brigade</td>
+		<td width="70%">J M Fraser Award for Excellence 2023 (YOA 2022) - High Distinction</td>
+	</tr>
+		<tr><td width="30%">Modern Dance</td>
 		<td width="70%">SYF Certificate of Accomplishment</td>
 			</tr>
 		<tr><td width="30%">Guzheng Ensemble</td>
@@ -22,7 +25,8 @@ third_nav_title: Our Highlights
 			</tr>
 		<tr><td width="30%">Digital Media in Visual Arts (DMA)</td>
 		<td width="70%">2022 Infocomm Media Club Youth Award - Certificate of Distinction</td>
-	</tr></tbody>
+	</tr>
+	</tbody>
 	</table>
 	</div>
 <h3>2022</h3>
