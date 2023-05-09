@@ -31,5 +31,6 @@ Students who are successfully admitted to the school via DSA are expected to hon
 * Should be completed in the last 3 years and can include works done in school Art lesson, Art CCA.
 * Can include 2D, 3D (3D works can have up to 8 images), and time-based works (e.g. videos, animations, can be hosted online with link provided in slide).
 * Should reflect student’s interests, experiences, abilities and qualities (e.g. in observing/perceiving/imagining, being curious/self-motivated, etc.).
- 
- 
+
+* E-portfolio can be in PowerPoint or PDF format with the following file-naming convention:
+*Student’s Current School NameStudent’s NameDSA Talent Area applied*
