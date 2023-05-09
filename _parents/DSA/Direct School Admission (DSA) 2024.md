@@ -31,6 +31,23 @@ Students who are successfully admitted to the school via DSA are expected to hon
 * Should be completed in the last 3 years and can include works done in school Art lesson, Art CCA.
 * Can include 2D, 3D (3D works can have up to 8 images), and time-based works (e.g. videos, animations, can be hosted online with link provided in slide).
 * Should reflect student’s interests, experiences, abilities and qualities (e.g. in observing/perceiving/imagining, being curious/self-motivated, etc.).
+<br>
 
-* E-portfolio can be in PowerPoint or PDF format with the following file-naming convention:
-*Student’s Current School NameStudent’s NameDSA Talent Area applied*
+* E-portfolio can be in PowerPoint or PDF format with the following file-naming convention: <br>*Student’s Current School Name _Student’s Name_DSA Talent Area applied*
+* Email the file (&lt;20MB) to bala_kirishanan@moe.edu.sg OR Upload to Google Drive to then share link
+with bala_kirishanan@moe.edu.sg (privacy setting should be ‘Public’ or ‘Anyone with the Link’).
+* E-portfolios submitted will only be used for DSA selection purpose and will be deleted after selection is completed.
+
+#### Important Dates
+1. The application period is from **4 May – 31 May 2023**.
+2. All short-listed candidates will be notified by **30 June 2023** to attend an interview.
+Selection phase is from **26 Jun – 11 Sep 2023**.
+3. All applicants will be notified of the outcome of their application by **14 September 2023**.
+4. Students who are offered a DSA-Sec place will need to exercise their School Preference within the period from **23 October to 27 October 2023**. This can be done online through the DSA-Sec Portal.
+
+#### How to apply
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm. For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec](www.moe.gov.sg/dsa-sec).
+
+*Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.*
+
+For further enquiries, please email bala_kirishanan@moe.edu.sg
