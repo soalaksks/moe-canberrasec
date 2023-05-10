@@ -42,7 +42,7 @@ with bala_kirishanan@moe.edu.sg (privacy setting should be ‘Public’ or ‘An
 1. The application period is from **4 May – 31 May 2023**.
 2. All short-listed candidates will be notified by **30 June 2023** to attend an interview.
 Selection phase is from **26 Jun – 11 Sep 2023**.
-3. All applicants will be notified of the outcome of their application by **14 September 2023**.
+3. All applicants will be notified of the outcome of their application by **11 September 2023**.
 4. Students who are offered a DSA-Sec place will need to exercise their School Preference within the period from **23 October to 27 October 2023**. This can be done online through the DSA-Sec Portal.
 
 #### How to apply
