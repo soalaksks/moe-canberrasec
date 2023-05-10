@@ -47,7 +47,7 @@ Selection phase is from **26 Jun – 11 Sep 2023**.
 4. Students who are offered a DSA-Sec place will need to exercise their School Preference within the period from **23 October to 27 October 2023**. This can be done online through the DSA-Sec Portal.
 
 #### How to apply
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm. For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec](www.moe.gov.sg/dsa-sec).
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm. For more details, please refer to MOE website – [https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa).
 
 *Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.*
 
