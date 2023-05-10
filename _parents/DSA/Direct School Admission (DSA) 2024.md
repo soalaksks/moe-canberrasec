@@ -23,6 +23,7 @@ Students who are successfully admitted to the school via DSA are expected to hon
 * Candidate should be able to communicate his/her design ideas and techniques to others.
 * Must be in Primary 6 at the point of application or equivalent (international students).
 * Candidates are encouraged to e-submit their e-portfolio* for the interview.
+* We seek your kind understanding that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
 
 ##### E-submission of e-portfolio
 1. Submit an e-portfolio of 3-5 original works using presentation slides on PowerPoint (photo of 1 work per slide).
