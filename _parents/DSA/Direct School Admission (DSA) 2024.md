@@ -23,6 +23,7 @@ Students who are successfully admitted to the school via DSA are expected to hon
 * Candidate should be able to communicate his/her design ideas and techniques to others.
 * Must be in Primary 6 at the point of application or equivalent (international students).
 * Candidates are encouraged to e-submit their e-portfolio* for the interview.
+* We seek your kind understanding that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
 
 ##### E-submission of e-portfolio
 1. Submit an e-portfolio of 3-5 original works using presentation slides on PowerPoint (photo of 1 work per slide).
@@ -42,11 +43,11 @@ with bala_kirishanan@moe.edu.sg (privacy setting should be ‘Public’ or ‘An
 1. The application period is from **4 May – 31 May 2023**.
 2. All short-listed candidates will be notified by **30 June 2023** to attend an interview.
 Selection phase is from **26 Jun – 11 Sep 2023**.
-3. All applicants will be notified of the outcome of their application by **14 September 2023**.
+3. All applicants will be notified of the outcome of their application by **11 September 2023**.
 4. Students who are offered a DSA-Sec place will need to exercise their School Preference within the period from **23 October to 27 October 2023**. This can be done online through the DSA-Sec Portal.
 
 #### How to apply
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm. For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec](www.moe.gov.sg/dsa-sec).
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm. For more details, please refer to MOE website – [https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa).
 
 *Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.*
 
