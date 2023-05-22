@@ -16,3 +16,6 @@ description: ""
 <br>
 
 #### 2023 - Secondary 4 &amp; 5 Prelim Exams Timetable
+* [Secondary 4E &amp; 5N](/files/2023%20prelim%20exams%20tt%204e5n.pdf)
+* [Secondary 4NA](/files/2023%20prelim%20exams%20tt%204na.pdf)
+* [Secondary 4NT](/files/2023%20prelim%20exams%20tt%204nt.pdf)
