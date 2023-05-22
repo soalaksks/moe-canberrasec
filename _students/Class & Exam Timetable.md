@@ -15,6 +15,4 @@ description: ""
 
 <br>
 
-#### 2023 - Secondary 4 &amp; 5 Prelim Exam Timetable
-* 
-
+#### 2023 - Secondary 4 &amp; 5 Prelim Exams Timetable
