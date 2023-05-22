@@ -11,4 +11,11 @@ description: ""
 | Secondary 2 |[2E1](/files/2023%202E1%20Sem%201.pdf) <br> [2E2](/files/2023%202E2%20Sem%201.pdf) <br> [2E3](/files/2023%202E3%20Sem%201.pdf) <br> [2E4](/files/2023%202E4%20Sem%201.pdf) | [2N1](/files/2023%202N1%20Sem%201.pdf) <br> [2N2](/files/2023%202N2%20Sem%201.pdf)| [2T1](/files/2023%202T1%20Sem%201.pdf) <br> [2T2](/files/2023%202T2%20Sem%201.pdf)  |
 |Secondary 3 | [3E1](/files/2023%203E1%20Sem%201.pdf) <br> [3E2](/files/2023%203E2%20Sem%201.pdf) <br> [3E3](/files/2023%203E3%20Sem%201.pdf) <br> [3E4](/files/2023%203E4%20Sem%201.pdf) |[3N1](/files/2023%203N1%20Sem%201.pdf) <br> [3N2](/files/2023%203N2%20Sem%201.pdf) | [3T1](/files/2023%203T1%20Sem%201.pdf) <br> [3T2](/files/2023%203T2%20Sem%201.pdf)|
 |Secondary 4|[4E1](/files/2023%204E1%20Sem%201.pdf) <br> [4E2](/files/2023%204E2%20Sem%201.pdf) <br> [4E3](/files/2023%204E3%20Sem%201.pdf) <br> [4E4](/files/2023%204E4%20Sem%201.pdf) | [4N1](/files/2023%204N1%20Sem%201.pdf) <br> [4N2](/files/2023%204N2%20Sem%201.pdf) | [4T1](/files/2023%204T1%20Sem%201.pdf) <br> [4T2](/files/2023%204T2%20Sem%201.pdf) |
-|Secondary 5| | [5N1](/files/2023%205N1%20Sem%201.pdf) | | 
+|Secondary 5| | [5N1](/files/2023%205N1%20Sem%201.pdf) | |
+
+<br>
+
+#### 2023 - Secondary 4 &amp; 5 Prelim Exams Timetable
+* [Secondary 4E &amp; 5N](/files/2023%20prelim%20exams%20tt%204e5n.pdf)
+* [Secondary 4NA](/files/2023%20prelim%20exams%20tt%204na.pdf)
+* [Secondary 4NT](/files/2023%20prelim%20exams%20tt%204nt.pdf)
