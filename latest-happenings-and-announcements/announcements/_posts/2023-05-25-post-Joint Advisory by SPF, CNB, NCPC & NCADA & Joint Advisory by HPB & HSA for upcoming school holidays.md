@@ -12,4 +12,4 @@ image: ""
 Click the attachments for more details:
 * [SPF Joint School (Secondary) Infographic](/files/attachment%204%20-spf%20joint%20school_secondary%20infographic%202023.pdf)
 * [ACT and Scamshield Infographic for MOE (Special Broadcast)](/files/attachment%205%20-%20act%20and%20scamshield%20infographic%20for%20moe%20(special%20broadcast).pdf)
-*
+* [HPB-HSA Joint Advisory to Parents and Students - May 2023](/files/attachment%207%20-%20hpb-hsa%20joint%20advisory%20to%20parents%20and%20students_may%202023.pdf)
