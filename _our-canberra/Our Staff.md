@@ -34,8 +34,8 @@ description: ""
 |SH Chinese Language|[Mdm Yong Mui Leng](mailto:yong_mui_leng@schools.gov.sg) (ext 223)|
 |SH Geography|[Ms Cheak Su Peng](mailto:cheak_su_peng@schools.gov.sg) (ext 210)|
 |SH Malay Language|[Mdm Raudhah A R](mailto:raudhah_abdul_rahim@schools.gov.sg) (ext 205)|
-|SH Mathematics|Mrs Cheung-Sim Yi Lian|
-|SH PE/CCA|Mr Whelan Chen|
+|SH Mathematics|[Mrs Cheung-Sim Yi Lian](mailto:sim_yi_lian@schools.gov.sg) (ext 248)|
+|SH PE/CCA|[Mr Whelan Chen](mailto:whelan_chen_jianming@schools.gov.sg)|
 |SH NFS|Ms Janet Peh|
 |Assistant Year Head|Mr Muraleedharan S/O Sreedran, Mdm Shahani Binte Kamarudin &amp; Mr Dinesh Sawlani|
 |Senior Teacher Art|Mdm Farasidah Rohmat|
