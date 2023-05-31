@@ -54,7 +54,7 @@ description: ""
 | 1 Diligence|[Ms Ginny Teh](mailto:teh_hooi_ching@schools.gov.sg)| [Mr Jeremiah Tan](mailto:jeremiah_tan_teck_xuan@schools.gov.sg)|
 | 1 Integrity | [Ms Tan Jo Ann](mailto:tan_jo_ann@schools.gov.sg) | [Mr Asyraf Khalid](mailto:muhammad_asyraf_khalid@schools.gov.sg)|
 | 1 Harmony| [Mdm Sanismah Saharil](mailto:sanismah_saharil@schools.gov.sg)  | [Mr Lim Beng Hua](mailto:lim_beng_hua@schools.gov.sg) |
-| 1 Respect| [Ms Siti Hajar](mailto:siti_hajar_ali@schools.gov.sg)| [Ms Julienne Pek](mailto:pek_jun_lang@schools.gov.sg) | Mr Kong Tze Shiuan |
+| 1 Respect| [Ms Siti Hajar](mailto:siti_hajar_ali@schools.gov.sg)| [Ms Julienne Pek](mailto:pek_jun_lang@schools.gov.sg) | [Mr Kong Tze Shiuan](mailto:kong_tze_shiuan@schools.gov.sg) |
 | 1 Kindness| Mr Shaik Allauddin | Ms Adeline Fam| Mrs Irving Long |
 
 ### Cohort 2
