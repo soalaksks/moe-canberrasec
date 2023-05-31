@@ -36,7 +36,7 @@ description: ""
 |SH Malay Language|Mdm Raudhah A R|
 |SH Mathematics|Mrs Cheung-Sim Yi Lian|
 |SH PE/CCA|Mr Whelan Chen|
-| Text     | Text     |
+|SH NFS|Ms Janet Peh|
 | Text     | Text     |
 | Text     | Text     |
 | Text     | Text     |
