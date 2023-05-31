@@ -62,7 +62,7 @@ description: ""
 | Class Name | Character Coach 1 | Character Coach 2 |
 | -------- | -------- | -------- |
 | 2 Empathy    | [Mr Soo Jun Hao](mailto:soo_jun_hao@schools.gov.sg) | [Ms Nur Diyana Binte Sanip](mailto:nur_diyana_mohamad_sanip@schools.gov.sg) |
-| 2 Honour     | [Mdm Farasidah Rohmat](mailto:farasidah_rohmat@schools.gov.sg) | Ms Cheak Su Peng|
+| 2 Honour     | [Mdm Farasidah Rohmat](mailto:farasidah_rohmat@schools.gov.sg) | [Ms Cheak Su Peng](mailto:cheak_su_peng@schools.gov.sg)|
 | 2 Diligence     | Mr Ghazali B Abdul Wahab | Ms Goh Shu Hui |
 | 2 Resilience     | Ms Wong Mun Foong | Mr Muhd Lathif |
 | 2 Integrity    | Mr Quek Yeow Chong | Ms Siti Rezkiah |
