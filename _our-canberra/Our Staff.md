@@ -37,7 +37,7 @@ description: ""
 |SH Mathematics|Mrs Cheung-Sim Yi Lian|
 |SH PE/CCA|Mr Whelan Chen|
 |SH NFS|Ms Janet Peh|
-|Assistant Year Head|Mr Muraleedharan S/O Sreedran<br>Mdm Shahani Binte Kamarudin<br>Mr Dinesh Sawlani|
+|Assistant Year Head|Mr Muraleedharan S/O Sreedran, Mdm Shahani Binte Kamarudin &amp; Mr Dinesh Sawlani|
 |Senior Teacher Art|Mdm Farasidah|
 |Senior Teacher CL|Ms Lau Sou Fong|
 |Senior Teacher EL|Mr Ghazali B Abdul Wahab|
