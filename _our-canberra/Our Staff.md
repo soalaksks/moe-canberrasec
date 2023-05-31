@@ -20,8 +20,8 @@ description: ""
 |HOD Craft &amp; Technology|Mr Aw Yong Wai Keet|
 |HOD English|Ms Wong Sooh Yee|
 |HOD Humanities|Mr Bala Kirishanan|
-| Text     | Text     |
-| Text     | Text     |
+|HOD ICT|Mr Chia Wai Han|
+|HOD Mathematics|Mr Ng Chuen Joo|
 | Text     | Text     |
 | Text     | Text     |
 | Text     | Text     |
