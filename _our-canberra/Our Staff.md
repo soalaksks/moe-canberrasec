@@ -81,7 +81,7 @@ description: ""
 | 3 Integrity | [Ms Teo Qi Wen](mailto:teo_qi_wen@schools.gov.sg)| [Mr Imarah Bin Abas](mailto:imarah_b_abas@schools.gov.sg) |
 | 3 Harmony | [Mr Jeremy Tng](mailto:jeremy_tng_ying_xiang@schools.gov.sg) | [Ms Jamilene Tan](mailto:jamilene_tan_hui_peng@schools.gov.sg) |
 | 3 Respect| [Mr Lok Chee How](mailto:lok_chee_how@schools.gov.sg) | [Ms Yusra Binte Abd Razak](mailto:yusra_abd_razak@schools.gov.sg) |
-| 3 Kindness |Mdm Wong Hui Yi | Mdm Khamisah Binte Saman |
+| 3 Kindness |[Mdm Wong Hui Yi](mailto:wong_hui_yi@schools.gov.sg) | Mdm Khamisah Binte Saman |
 
 ### Cohort 4 &amp; 5
 
