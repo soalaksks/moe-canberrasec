@@ -64,7 +64,7 @@ description: ""
 | 2 Empathy    | [Mr Soo Jun Hao](mailto:soo_jun_hao@schools.gov.sg) | [Ms Nur Diyana Binte Sanip](mailto:nur_diyana_mohamad_sanip@schools.gov.sg) |
 | 2 Honour     | [Mdm Farasidah Rohmat](mailto:farasidah_rohmat@schools.gov.sg) | [Ms Cheak Su Peng](mailto:cheak_su_peng@schools.gov.sg)|
 | 2 Diligence     |[Mr Ghazali B Abdul Wahab](mailto:Ghazali_B_Abdul_Wahab@schools.gov.sg)| [Ms Goh Shu Hui](mailto:goh_shu_hui_b@schools.gov.sg) |
-| 2 Resilience     | [Ms Wong Mun Foong](mailto:Wong_Mun_Foong@schools.gov.sg) | Mr Muhd Lathif |
+| 2 Resilience     | [Ms Wong Mun Foong](mailto:wong_mun_foong@schools.gov.sg) | Mr Muhd Lathif |
 | 2 Integrity    | Mr Quek Yeow Chong | Ms Siti Rezkiah |
 | 2 Harmony     | Ms Nur Fatin Binte Nordin | Mr Whelan Chen|
 | 2 Respect     | Mr He Jiaen | Ms Janet Peh |
