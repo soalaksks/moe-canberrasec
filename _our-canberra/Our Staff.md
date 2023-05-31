@@ -63,7 +63,7 @@ description: ""
 | -------- | -------- | -------- |
 | 2 Empathy    | Mr Soo Jun Hao | Ms Nur Diyana Binte Sanip |
 | 2 Honour     | Mdm Farasidah | Ms Cheak Su Peng|
-| 2 Diligence     | Mr Ghazali Bin Abdul Wahab | Ms Goh Shu Hui |
+| 2 Diligence     | Mr Ghazali B Abdul Wahab | Ms Goh Shu Hui |
 | 2 Resilience     | Ms Wong Mun Foong | Mr Muhd Lathif |
 | 2 Integrity    | Mr Quek Yeow Chong | Ms Siti Rezkiah |
 | 2 Harmony     | Ms Nur Fatin Binte Nordin | Mr Whelan Chen|
@@ -74,7 +74,7 @@ description: ""
 
 | Class Name | Character Coach 1 | Character Coach 2 |
 | -------- | -------- | -------- |
-| 3 Empathy | Mr Mohamed Nor Ariffin Bin Ismail | Mrs Zoanne Tay |
+| 3 Empathy | Mr Mohamed Nor Ariffin | Mrs Zoanne Tay |
 | 3 Honour | Mrs Charissa Tan | Mrs Cheung-Sim Yi Lian |
 | 3 Diligence | Ms Ma Lijuan | Mr Koh Tat Siang |
 | 3 Resilience | Mr Seth Lim Jun Hua | Mrs Nurul Diyana Hashim |
@@ -87,12 +87,12 @@ description: ""
 
 | Class Name | Character Coach 1 | Character Coach 2 |Character Coach 3 |
 | -------- | -------- | -------- | -------- |
-| 4 Empathy    | Mrs Joann Ganesan | Ms Toh Zi Qi, Kris |
+| 4 Empathy    | Mrs Joann Ganesan | Ms Kris Toh |
 | 4 Honour     | Mr Tan Qi Guang | Mrs Goh Wai Yee |
 | 4 Diligence     |Ms Michelle Tham | Mdm Yap Hui San |Ms Rachel Lee |
 | 4 Resilience     | Mrs Hee-Lim Gee Kheng | Ms Rebecca Ng |
 | 4 Integrity    | Mr Rudy Bin Swandi | Ms Felicia Lee Shirui |
 | 4 Harmony     | Mdm Raudhah | Ms Sim Xiu Jun 
 | 4 Respect     | Ms Olivia Ng| Ms Nurul Diyanah Binte Misdi |
-| 4 Kindness     | Mr Karthi | Mrs James Denise Allison |
+| 4 Kindness     | Mr Karthigesu | Mrs James Denise Allison |
 | 5 Integrity    | Ms Lau Sou Fong |
