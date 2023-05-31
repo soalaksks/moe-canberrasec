@@ -37,7 +37,7 @@ description: ""
 |SH Mathematics|[Mrs Cheung-Sim Yi Lian](mailto:sim_yi_lian@schools.gov.sg) (ext 248)|
 |SH PE/CCA|[Mr Whelan Chen](mailto:whelan_chen_jianming@schools.gov.sg) (ext 239)|
 |SH NFS|[Ms Janet Peh](mailto:peh_chew_kher_janet@schools.gov.sg) (ext 235)|
-|Assistant Year Head|Mr Muraleedharan S/O Sreedran <br>Mdm Shahani Binte Kamarudin<br>Mr Dinesh Sawlani|
+|Assistant Year Head|[Mr Muraleedharan S/O Sreedran](mailto:Muraleedharan_Sreedran@schools.gov.sg) (ext 229) <br>Mdm Shahani Binte Kamarudin<br>Mr Dinesh Sawlani|
 |Senior Teacher Art|[Mdm Farasidah Rohmat](mailto:farasidah_rohmat@schools.gov.sg) (ext 213)|
 |Senior Teacher CL|[Ms Lau Sou Fong](mailto:lau_sou_fong@schools.gov.sg) (ext 215)|
 |Senior Teacher EL &amp; Literature|[Mr Ghazali B Abdul Wahab](mailto:Ghazali_B_Abdul_Wahab@schools.gov.sg) (ext 218)|
