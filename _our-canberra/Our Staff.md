@@ -36,7 +36,7 @@ description: ""
 |SH Malay Language|[Mdm Raudhah A R](mailto:raudhah_abdul_rahim@schools.gov.sg) (ext 205)|
 |SH Mathematics|[Mrs Cheung-Sim Yi Lian](mailto:sim_yi_lian@schools.gov.sg) (ext 248)|
 |SH PE/CCA|[Mr Whelan Chen](mailto:whelan_chen_jianming@schools.gov.sg) (ext 239)|
-|SH NFS|Ms Janet Peh|
+|SH NFS|[Ms Janet Peh](mailto:peh_chew_kher_janet@schools.gov.sg) (ext 235)|
 |Assistant Year Head|Mr Muraleedharan S/O Sreedran, Mdm Shahani Binte Kamarudin &amp; Mr Dinesh Sawlani|
 |Senior Teacher Art|Mdm Farasidah Rohmat|
 |Senior Teacher CL|Ms Lau Sou Fong|
