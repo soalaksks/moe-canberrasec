@@ -215,6 +215,6 @@ description: ""
 | 4 Resilience     |Mrs Hee-Lim Gee Kheng|Ms Rebecca Ng|
 | 4 Integrity    |Mr Rudy Bin Swandi|Ms Felicia Lee Shirui|
 | 4 Harmony     |Mdm Raudhah|Ms Sim Xiu Jun|
-| 4 Respect     | Text     | Text     |
-| 4 Kindness     | Text     | Text     |
-| 5 Integrity    | Text     | Text     |
+| 4 Respect     | Ms Olivia Ng|Ms Nurul Diyanah Binte Misdi|
+| 4 Kindness     |Mr Karthi|Mrs James Denise Allison|
+| 5 Integrity    | Ms Lau Sou Fong|
