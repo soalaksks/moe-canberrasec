@@ -209,7 +209,7 @@ description: ""
 
 | Class Name | Character Coach 1 | Character Coach 2 |
 | -------- | -------- | -------- |
-| 4 Empathy    | Text     | Text     |
+| 4 Empathy    |Mrs Joann Ganesan| Text     |
 | 4 Honour     | Text     | Text     |
 | 4 Diligence     | Text     | Text     |
 | 4 Resilience     | Text     | Text     |
