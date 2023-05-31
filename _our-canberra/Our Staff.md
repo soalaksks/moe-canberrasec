@@ -171,7 +171,7 @@ description: ""
 | Class Name | Character Coach 1 | Character Coach 2 |Character Coach 3 |
 | -------- | -------- | -------- |-------- |
 | 1 Empathy    | [Mr Ho Ngiap Tuan](mailto:ho_ngiap_tuan@schools.gov.sg) | [Ms Sumaya Jahan](mailto:sumaya_jahan@schools.gov.sg)|
-| 1 Honour     | Mr Tay Seng How, Simon| Ms Vishnu Preyei |
+| 1 Honour     | [Mr Simon Tay](mailto:tay_seng_how@schools.gov.sg)| Ms Vishnu Preyei |
 | 1 Diligence     | Ms Teh Hooi Ching, Ginny| Mr Jeremiah Tan |
 | 1 Integrity     |Ms Tan Jo Ann| Mr Asyraf Khalid|
 | 1 Harmony     | Mdm Sanismah| Mr Lim Beng Hua     |
