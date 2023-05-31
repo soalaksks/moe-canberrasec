@@ -21,7 +21,7 @@ description: ""
 |HOD English|[Ms Wong Sooh Yee](mailto:wong_sooh_yee@schools.gov.sg) (ext 113)|
 |HOD Humanities|[Mr Bala Kirishanan](mailto:bala_kirishanan@schools.gov.sg) (ext 110)|
 |HOD ICT|[Mr Chia Wai Han](mailto:chia_wai_han@schools.gov.sg) (ext 225)|
-|HOD Mathematics|Mr Ng Chuen Joo|
+|HOD Mathematics|[Mr Ng Chuen Joo](mailto:ng_chuen_joo@schools.gov.sg) (ext 112)|
 |HOD MTL|Ms Lim Puay Ee|
 |HOD Science|Ms Agnes Lim|
 |HOD Student Management|Mr Goh Ching Tard|
