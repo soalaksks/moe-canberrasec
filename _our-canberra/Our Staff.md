@@ -42,8 +42,8 @@ description: ""
 |Senior Teacher CL|[Ms Lau Sou Fong](mailto:lau_sou_fong@schools.gov.sg) (ext 215)|
 |Senior Teacher EL &amp; Literature|[Mr Ghazali B Abdul Wahab](mailto:Ghazali_B_Abdul_Wahab@schools.gov.sg) (ext 218)|
 |Senior Teacher Mathematics|[Mr Muhammad Lathif](mailto:muhamad_lathif_yunus@schools.gov.sg) (ext 244)|
-|Senior Teacher Mathematics|Mrs Irving Long|
-|Senior Teacher Physics|Mr Koh Tat Siang|
+|Senior Teacher Mathematics|[Mrs Irving Long](mailto:irving_quah@schools.gov.sg) (ext 227)|
+|Senior Teacher Physics|[Mr Koh Tat Siang](mailto:koh_tat_siang@schools.gov.sg) (ext 247)|
 
 ### Cohort 1
 
@@ -55,7 +55,7 @@ description: ""
 | 1 Integrity | [Ms Tan Jo Ann](mailto:tan_jo_ann@schools.gov.sg) | [Mr Asyraf Khalid](mailto:muhammad_asyraf_khalid@schools.gov.sg)|
 | 1 Harmony| [Mdm Sanismah Saharil](mailto:sanismah_saharil@schools.gov.sg)  | [Mr Lim Beng Hua](mailto:lim_beng_hua@schools.gov.sg) |
 | 1 Respect| [Ms Siti Hajar](mailto:siti_hajar_ali@schools.gov.sg)| [Ms Julienne Pek](mailto:pek_jun_lang@schools.gov.sg) | [Mr Kong Tze Shiuan](mailto:kong_tze_shiuan@schools.gov.sg) |
-| 1 Kindness| [Mr Shaik Allauddin](mailto:shaik_allauddin_kamaldeen@schools.gov.sg) | [Ms Adeline Fam](mailto:fam_rongen_adeline@schools.gov.sg)| [Mrs Irving Long](mailto:irving_quah@schools.gov.sg) |
+| 1 Kindness| [Mr Shaik Allauddin](mailto:shaik_allauddin_kamaldeen@schools.gov.sg) | [Ms Adeline Fam](mailto:fam_rongen_adeline@schools.gov.sg)| [Mrs Irving Long](mailto:irving_quah@schools.gov.sg) (ext 227) |
 
 ### Cohort 2
 
@@ -76,7 +76,7 @@ description: ""
 | -------- | -------- | -------- |
 | 3 Empathy | [Mr Mohamed Nor Ariffin](mailto:mohamed_nor_ariffin_ismail@schools.gov.sg) | [Mrs Zoanne Tay](mailto:sim_li_wen@schools.gov.sg)|
 | 3 Honour | [Mrs Charissa Tan](mailto:lee_soo_erng_charissa@schools.gov.sg) | [Mrs Cheung-Sim Yi Lian](mailto:sim_yi_lian@schools.gov.sg) |
-| 3 Diligence | [Ms Ma Lijuan](mailto:ma_lijuan@schools.gov.sg) | [Mr Koh Tat Siang](mailto:koh_tat_siang@schools.gov.sg) |
+| 3 Diligence | [Ms Ma Lijuan](mailto:ma_lijuan@schools.gov.sg) | [Mr Koh Tat Siang](mailto:koh_tat_siang@schools.gov.sg) (ext 247) |
 | 3 Resilience | [Mr Seth Lim](mailto:seth_lim_jun_hua@schools.gov.sg) | [Ms Nurul Diyana Hashim](mailto:nurul_diyana_hashim@schools.gov.sg) |
 | 3 Integrity | [Ms Teo Qi Wen](mailto:teo_qi_wen@schools.gov.sg)| [Mr Imarah Bin Abas](mailto:imarah_b_abas@schools.gov.sg) |
 | 3 Harmony | [Mr Jeremy Tng](mailto:jeremy_tng_ying_xiang@schools.gov.sg) | [Ms Jamilene Tan](mailto:jamilene_tan_hui_peng@schools.gov.sg) |
