@@ -207,12 +207,12 @@ description: ""
 <br>
 <h3> Cohort 4 &amp; 5 </h3>
 
-| Class Name | Character Coach 1 | Character Coach 2 |
-| -------- | -------- | -------- |
+| Class Name | Character Coach 1 | Character Coach 2 |Character Coach 3 |
+| -------- | -------- | -------- | -------- |
 | 4 Empathy    |Mrs Joann Ganesan|Ms Toh Zi Qi, Kris|
-| 4 Honour     |Mr Tan Qi Guang|Mrs Goh Wai Yeee|
-| 4 Diligence     | Text     | Text     |
-| 4 Resilience     | Text     | Text     |
+| 4 Honour     |Mr Tan Qi Guang|Mrs Goh Wai Yee|
+| 4 Diligence     |Ms Michelle Tham|Mdm Yap Hui San|Ms Rachel Lee|
+| 4 Resilience     |Mrs Hee-Lim Gee Kheng|Ms Rebecca Ng|
 | 4 Integrity    | Text     | Text     |
 | 4 Harmony     | Text     | Text     |
 | 4 Respect     | Text     | Text     |
