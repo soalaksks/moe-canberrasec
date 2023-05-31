@@ -24,7 +24,7 @@ description: ""
 |HOD Mathematics|[Mr Ng Chuen Joo](mailto:ng_chuen_joo@schools.gov.sg) (ext 112)|
 |HOD MTL|[Ms Lim Puay Ee](mailto:lim_puay_ee@schools.gov.sg) (ext 150)|
 |HOD Science|[Ms Agnes Lim](mailto:lim_hui_lin_agnes@schools.gov.sg) (ext 108)|
-|HOD Student Management|Mr Goh Ching Tard|
+|HOD Student Management|[Mr Goh Ching Tard](mailto:goh_ching_tard@schools.gov.sg) (ext 117)|
 |HOD PE/CCA|Ms Jenny Soh|
 |School Staff Developer|Ms Chia Hua Hoong|
 |Year Head (Upper Sec)|Mrs Frieda Tay|
