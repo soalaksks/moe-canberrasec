@@ -180,14 +180,14 @@ description: ""
 
 | Class Name | Character Coach 1 | Character Coach 2 |
 | -------- | -------- | -------- |
-| 2 Empathy    | Mr Soo Jun Hao|Ms Nur Diyana Binte Sanip|
-| 2 Honour     | Mdm Farasidah| Ms Cheak Su Peng|
-| 2 Diligence     |Mr Ghazali Bin Abdul Wahab|Ms Goh Shu Hui|
-| 2 Resilience     |Ms Wong Mun Foong|Mr Muhd Lathif|
-| 2 Integrity    |Mr Quek Yeow Chong|Ms Siti Rezkiah Binte Mohd Radzelee|
-| 2 Harmony     | Ms Nur Fatin Binte Nordin|Mr Whelan Chen|
-| 2 Respect     |Mr He Jiaen|Ms Janet Peh|
-| 2 Kindness     |Ms Foong Yin Ping |Mr Chen Jialiang|
+| 2 Empathy    | Mr Soo Jun Hao | Ms Nur Diyana Binte Sanip |
+| 2 Honour     | Mdm Farasidah | Ms Cheak Su Peng|
+| 2 Diligence     | Mr Ghazali Bin Abdul Wahab | Ms Goh Shu Hui |
+| 2 Resilience     | Ms Wong Mun Foong | Mr Muhd Lathif |
+| 2 Integrity    | Mr Quek Yeow Chong | Ms Siti Rezkiah Binte Mohd Radzelee |
+| 2 Harmony     | Ms Nur Fatin Binte Nordin | Mr Whelan Chen|
+| 2 Respect     | Mr He Jiaen | Ms Janet Peh |
+| 2 Kindness     | Ms Foong Yin Ping | Mr Chen Jialiang |
 <br>
 <h3> Cohort 3 </h3>
 
