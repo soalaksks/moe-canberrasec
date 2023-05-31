@@ -12,37 +12,6 @@ description: ""
 |Vice-Principal|Mr Syed Faisal|
 |Vice-Principal (Admin)|Mr Lai Chyh Jau|
 
-
-
-<div>
-<h3>School Leaders</h3>
-<div>
-<table border="1" cellspacing="0" cellpadding="0">
-<tbody>
-<tr>
-<th><strong>Designation</strong></th>
-<th><strong>Name</strong></th>
-</tr>
-<tr>
-<td>Principal</td>
-<td>Mr Leong Kok Kee</td>
-</tr>
-<tr>
-<td>Vice-Principal</td>
-<td>Mrs Tye-Ong Lay Yen</td>
-</tr>
-<tr>
-<td>Vice-Principal</td>
-<td>Mr Syed Faisal</td>
-</tr>
-<tr>
-<td>Vice-Principal (Admin)</td>
-<td>Mr Lai Chyh Jau</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
 <div>
 <h3>Key Personnel</h3>
 <div>
