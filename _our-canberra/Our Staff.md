@@ -209,8 +209,8 @@ description: ""
 
 | Class Name | Character Coach 1 | Character Coach 2 |
 | -------- | -------- | -------- |
-| 4 Empathy    |Mrs Joann Ganesan| Text     |
-| 4 Honour     | Text     | Text     |
+| 4 Empathy    |Mrs Joann Ganesan|Ms Toh Zi Qi, Kris|
+| 4 Honour     |Mr Tan Qi Guang|Mrs Goh Wai Yeee|
 | 4 Diligence     | Text     | Text     |
 | 4 Resilience     | Text     | Text     |
 | 4 Integrity    | Text     | Text     |
