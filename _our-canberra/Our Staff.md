@@ -173,10 +173,10 @@ description: ""
 | 1 Empathy    | [Mr Ho Ngiap Tuan](mailto:ho_ngiap_tuan@schools.gov.sg) | [Ms Sumaya Jahan](mailto:sumaya_jahan@schools.gov.sg)|
 | 1 Honour     | [Mr Simon Tay](mailto:tay_seng_how@schools.gov.sg)| [Ms Vishnu Preyei](mailto:vishnu_preyei@schools.gov.sg) |
 | 1 Diligence     |[Ms Ginny Teh](mailto:teh_hooi_ching@schools.gov.sg)| [Mr Jeremiah Tan](mailto:jeremiah_tan_teck_xuan@schools.gov.sg)|
-| 1 Integrity     |Ms Tan Jo Ann| Mr Asyraf Khalid|
+| 1 Integrity     | Ms Tan Jo Ann| Mr Asyraf Khalid|
 | 1 Harmony     | Mdm Sanismah| Mr Lim Beng Hua     |
-| 1 Respect     | Ms Siti Hajar    | Ms Pek Jun Lang, Julienne|Mr Kong Tze Shiuan|
-| 1 Kindness   | Mr Shaik Allauddin|Ms Adeline Fam|Mrs Irving Long|
+| 1 Respect     | Ms Siti Hajar    | Ms Pek Jun Lang, Julienne| Mr Kong Tze Shiuan|
+| 1 Kindness   | Mr Shaik Allauddin|Ms Adeline Fam| Mrs Irving Long|
 <br>
 <h3> Cohort 2 </h3>
 
@@ -196,14 +196,14 @@ description: ""
 
 | Class Name | Character Coach 1 | Character Coach 2 |
 | -------- | -------- | -------- |
-| 3 Empathy    |Mr Mohamed Nor Ariffin Bin Ismail|Mrs Zoanne Tay|
-| 3 Honour     |Mrs Charissa Tan|Mrs Cheung-Sim Yi Lian|
-| 3 Diligence     |Ms Ma Lijuan|Mr Koh Tat Siang|
-| 3 Resilience     |Mr Seth Lim Jun Hua|Mrs Nurul Diyana Hashim|
-| 3 Integrity    |Ms Teo Qi Wen|Mr Imarah Bin Abas|
-| 3 Harmony     |Mr Jeremy Tng|Ms Jamilene Tan|
-| 3 Respect     |Mr Lok Chee How|Ms Yusra Binte Abd Razak|
-| 3 Kindness     |Mdm Wong Hui Yi|Mdm Khamisah Binte Saman|
+| 3 Empathy    | Mr Mohamed Nor Ariffin Bin Ismail| Mrs Zoanne Tay|
+| 3 Honour     | Mrs Charissa Tan | Mrs Cheung-Sim Yi Lian|
+| 3 Diligence     | Ms Ma Lijuan| Mr Koh Tat Siang|
+| 3 Resilience     | Mr Seth Lim Jun Hua | Mrs Nurul Diyana Hashim |
+| 3 Integrity    | Ms Teo Qi Wen | Mr Imarah Bin Abas |
+| 3 Harmony     | Mr Jeremy Tng | Ms Jamilene Tan |
+| 3 Respect     | Mr Lok Chee How | Ms Yusra Binte Abd Razak |
+| 3 Kindness     | Mdm Wong Hui Yi | Mdm Khamisah Binte Saman |
 <br>
 <h3> Cohort 4 &amp; 5 </h3>
 
