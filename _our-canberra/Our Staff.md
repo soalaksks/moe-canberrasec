@@ -170,8 +170,8 @@ description: ""
 
 | Class Name | Character Coach 1 | Character Coach 2 |
 | -------- | -------- | -------- |
-| 1 Empathy    | Text     | Text     |
-| 1 Honour     | Text     | Text     |
+| 1 Empathy    | Mr Ho Ngiap Tuan | Ms Sumaya Jahan|
+| 1 Honour     | Mr Tay Seng How, Simon| Ms Vishnu Preyei |
 | 1 Diligence     | Text     | Text     |
 | 1 Integrity     | Text     | Text     |
 | 1 Harmony     | Text     | Text     |
