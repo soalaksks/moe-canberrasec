@@ -12,6 +12,42 @@ description: ""
 |Vice-Principal|Mr Syed Faisal|
 |Vice-Principal (Admin)|Mr Lai Chyh Jau|
 
+### Key Personnel
+
+| Designation | Name |
+| -------- | -------- |
+|HOD CCE|Mr Edwin Cheong|
+|HOD Craft &amp; Technology|Mr Aw Yong Wai Keet|
+|HOD English|Ms Wong Sooh Yee|
+|HOD Humanities|Mr Bala Kirishanan|
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+
 <div>
 <h3>Key Personnel</h3>
 <div>
