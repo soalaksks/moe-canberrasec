@@ -45,7 +45,7 @@ description: ""
 |Senior Teacher Mathematics|Mrs Irving Long|
 |Senior Teacher Physics|Mr Koh Tat Siang|
 
-<h3> Cohort 1 </h3>
+### Cohort 1
 
 | Class Name | Character Coach 1 | Character Coach 2 |Character Coach 3 |
 | -------- | -------- | -------- | -------- |
@@ -56,7 +56,8 @@ description: ""
 | 1 Harmony| Mdm Sanismah | Mr Lim Beng Hua |-|
 | 1 Respect| Ms Siti Hajar| Ms Julienne Pek | Mr Kong Tze Shiuan |
 | 1 Kindness| Mr Shaik Allauddin | Ms Adeline Fam| Mrs Irving Long |
-<h3> Cohort 2 </h3>
+
+### Cohort 2
 
 | Class Name | Character Coach 1 | Character Coach 2 |
 | -------- | -------- | -------- |
@@ -68,8 +69,8 @@ description: ""
 | 2 Harmony     | Ms Nur Fatin Binte Nordin | Mr Whelan Chen|
 | 2 Respect     | Mr He Jiaen | Ms Janet Peh |
 | 2 Kindness     | Ms Foong Yin Ping | Mr Chen Jialiang |
-<br>
-<h3> Cohort 3 </h3>
+
+### Cohort 3
 
 | Class Name | Character Coach 1 | Character Coach 2 |
 | -------- | -------- | -------- |
@@ -81,8 +82,8 @@ description: ""
 | 3 Harmony | Mr Jeremy Tng | Ms Jamilene Tan |
 | 3 Respect| Mr Lok Chee How | Ms Yusra Binte Abd Razak |
 | 3 Kindness |Mdm Wong Hui Yi | Mdm Khamisah Binte Saman |
-<br>
-<h3> Cohort 4 &amp; 5 </h3>
+
+### Cohort 4 &amp; 5
 
 | Class Name | Character Coach 1 | Character Coach 2 |Character Coach 3 |
 | -------- | -------- | -------- | -------- |
