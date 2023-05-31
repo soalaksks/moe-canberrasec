@@ -40,7 +40,7 @@ description: ""
 |Assistant Year Head|Mr Muraleedharan S/O Sreedran <br>Mdm Shahani Binte Kamarudin &amp; Mr Dinesh Sawlani|
 |Senior Teacher Art|[Mdm Farasidah Rohmat](mailto:farasidah_rohmat@schools.gov.sg) (ext 213)|
 |Senior Teacher CL|[Ms Lau Sou Fong](mailto:lau_sou_fong@schools.gov.sg) (ext 215)|
-|Senior Teacher EL|Mr Ghazali B Abdul Wahab|
+|Senior Teacher EL &amp; Literature|[Mr Ghazali B Abdul Wahab](mailto:Ghazali_B_Abdul_Wahab@schools.gov.sg) (ext 218)|
 |Senior Teacher Mathematics|Mr Muhammad Lathif|
 |Senior Teacher Mathematics|Mrs Irving Long|
 |Senior Teacher Physics|Mr Koh Tat Siang|
@@ -63,7 +63,7 @@ description: ""
 | -------- | -------- | -------- |
 | 2 Empathy    | [Mr Soo Jun Hao](mailto:soo_jun_hao@schools.gov.sg) | [Ms Nur Diyana Binte Sanip](mailto:nur_diyana_mohamad_sanip@schools.gov.sg) |
 | 2 Honour     | [Mdm Farasidah Rohmat](mailto:farasidah_rohmat@schools.gov.sg) (ext 213)| [Ms Cheak Su Peng](mailto:cheak_su_peng@schools.gov.sg) (ext 210)|
-| 2 Diligence     |[Mr Ghazali B Abdul Wahab](mailto:Ghazali_B_Abdul_Wahab@schools.gov.sg)| [Ms Goh Shu Hui](mailto:goh_shu_hui_b@schools.gov.sg) |
+| 2 Diligence     |[Mr Ghazali B Abdul Wahab](mailto:Ghazali_B_Abdul_Wahab@schools.gov.sg) (ext 218)| [Ms Goh Shu Hui](mailto:goh_shu_hui_b@schools.gov.sg) |
 | 2 Resilience     | [Ms Wong Mun Foong](mailto:wong_mun_foong@schools.gov.sg) | [Mr Muhd Lathif](mailto:muhamad_lathif_yunus@schools.gov.sg) |
 | 2 Integrity    | [Mr Quek Yeow Chong](mailto:quek_yeow_chong@schools.gov.sg) | [Ms Siti Rezkiah](mailto:siti_rezkiah_mohd_radzelee@schools.gov.sg) |
 | 2 Harmony     | [Ms Nur Fatin Binte Nordin](mailto:nur_fatin_nordin@schools.gov.sg) | [Mr Whelan Chen](mailto:whelan_chen_jianming@schools.gov.sg)|
