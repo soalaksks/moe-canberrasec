@@ -16,7 +16,7 @@ description: ""
 
 | Designation | Name |
 | -------- | -------- |
-|HOD CCE|Mr Edwin Cheong|
+|HOD CCE|[Mr Edwin Cheong](mailto:cheong_wai_tung_edwin@schools.gov.sg)|
 |HOD Craft &amp; Technology|Mr Aw Yong Wai Keet|
 |HOD English|Ms Wong Sooh Yee|
 |HOD Humanities|Mr Bala Kirishanan|
