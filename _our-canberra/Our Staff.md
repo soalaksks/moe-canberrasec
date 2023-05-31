@@ -163,3 +163,58 @@ description: ""
 </table>
 </div>
 </div>
+<br>
+<br>
+<br>
+<h3> Cohort 1 </h3>
+
+| Class Name | Character Coach 1 | Character Coach 2 |
+| -------- | -------- | -------- |
+| 1 Empathy    | Text     | Text     |
+| 1 Honour     | Text     | Text     |
+| 1 Diligence     | Text     | Text     |
+| 1 Integrity     | Text     | Text     |
+| 1 Harmony     | Text     | Text     |
+| 1 Respect     | Text     | Text     |
+| 1 Kindness   | Text     | Text     |
+<br>
+<h3> Cohort 2 </h3>
+
+| Class Name | Character Coach 1 | Character Coach 2 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+
+<br>
+<h3> Cohort 3 </h3>
+
+| Class Name | Character Coach 1 | Character Coach 2 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+<br>
+<h3> Cohort 4 &amp; 5 </h3>
+
+| Class Name | Character Coach 1 | Character Coach 2 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+
