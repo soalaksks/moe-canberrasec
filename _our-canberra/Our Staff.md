@@ -26,7 +26,7 @@ description: ""
 |HOD Science|[Ms Agnes Lim](mailto:lim_hui_lin_agnes@schools.gov.sg) (ext 108)|
 |HOD Student Management|[Mr Goh Ching Tard](mailto:goh_ching_tard@schools.gov.sg) (ext 117)|
 |HOD PE/CCA|[Ms Jenny Soh](mailto:jenny_soh@schools.gov.sg) (ext 116)|
-|School Staff Developer|Ms Chia Hua Hoong|
+|School Staff Developer|[Ms Chia Hua Hoong](mailto:chia_hua_hoong@schools.gov.sg) (ext 109)|
 |Year Head (Upper Sec)|Mrs Frieda Tay|
 |Year Head (Lower Sec)|Mrs Jesslyn Yeoh|
 |SH Aesthetics|Ms Jamilene Tan|
