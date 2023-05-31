@@ -22,13 +22,13 @@ description: ""
 |HOD Humanities|Mr Bala Kirishanan|
 |HOD ICT|Mr Chia Wai Han|
 |HOD Mathematics|Mr Ng Chuen Joo|
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
+|HOD MTL|Ms Lim Puay Ee|
+|HOD Science|Ms Agnes Lim|
+|HOD Student Management|Mr Goh Ching Tard|
+|HOD PE/CCA|Ms Jenny Soh|
+|School Staff Developer|Ms Chia Hua Hoong|
+|Year Head (Upper Sec)|Mrs Frieda Tay|
+|Year Head (Lower Sec)|Mrs Jesslyn Yeoh|
 | Text     | Text     |
 | Text     | Text     |
 | Text     | Text     |
