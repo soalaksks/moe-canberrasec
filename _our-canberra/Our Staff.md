@@ -49,14 +49,13 @@ description: ""
 
 | Class Name | Character Coach 1 | Character Coach 2 |Character Coach 3 |
 | -------- | -------- | -------- | -------- |
-| 1 Empathy | Mr Ho Ngiap Tuan| Ms Sumaya Jahan)|-|
-| 1 Honour| Mr Simon Tay| Ms Vishnu Preyei |-|
+| 1 Empathy| Mr Ho Ngiap Tuan| Ms Sumaya Jahan|-|
+| 1 Honour| Mr Simon Tay| Ms Vishnu Preyei|-|
 | 1 Diligence|Ms Ginny Teh| Mr Jeremiah Tan|-|
-| 1 Integrity| Ms Tan Jo Ann | Mr Asyraf Khalid|-|
+| 1 Integrity | Ms Tan Jo Ann | Mr Asyraf Khalid|-|
 | 1 Harmony| Mdm Sanismah | Mr Lim Beng Hua |-|
-| 1 Respect| Ms Siti Hajar | Ms Pek Jun Lang, Julienne | Mr Kong Tze Shiuan |
+| 1 Respect| Ms Siti Hajar| Ms Julienne Pek | Mr Kong Tze Shiuan |
 | 1 Kindness| Mr Shaik Allauddin | Ms Adeline Fam| Mrs Irving Long |
-<br>
 <h3> Cohort 2 </h3>
 
 | Class Name | Character Coach 1 | Character Coach 2 |
