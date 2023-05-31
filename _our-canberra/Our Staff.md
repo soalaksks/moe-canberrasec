@@ -30,7 +30,7 @@ description: ""
 |Year Head (Upper Sec)|[Mrs Frieda Tay](mailto:leong_siew_yin_frieda@schools.gov.sg) (ext 114)|
 |Year Head (Lower Sec)|[Mrs Jesslyn Yeoh](mailto:lee_see_hwee@schools.gov.sg) (ext 115)|
 |SH Aesthetics|[Ms Jamilene Tan](mailto:jamilene_tan_hui_peng@schools.gov.sg) (ext 250)|
-|SH Chemistry|Mrs Zoanne Tay|
+|SH Chemistry|[Mrs Zoanne Tay](mailto:sim_li_wen@schools.gov.sg) (ext 244)|
 |SH Chinese Language|Mdm Yong Mui Leng|
 |SH Geography|Ms Cheak Su Peng|
 |SH Malay Language|Mdm Raudhah A R|
