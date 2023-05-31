@@ -38,7 +38,7 @@ description: ""
 |SH PE/CCA|Mr Whelan Chen|
 |SH NFS|Ms Janet Peh|
 |Assistant Year Head|Mr Muraleedharan S/O Sreedran, Mdm Shahani Binte Kamarudin &amp; Mr Dinesh Sawlani|
-|Senior Teacher Art|Mdm Farasidah|
+|Senior Teacher Art|Mdm Farasidah Rohmat|
 |Senior Teacher CL|Ms Lau Sou Fong|
 |Senior Teacher EL|Mr Ghazali B Abdul Wahab|
 |Senior Teacher Mathematics|Mr Muhammad Lathif|
@@ -61,8 +61,8 @@ description: ""
 
 | Class Name | Character Coach 1 | Character Coach 2 |
 | -------- | -------- | -------- |
-| 2 Empathy    | Mr Soo Jun Hao | Ms Nur Diyana Binte Sanip |
-| 2 Honour     | Mdm Farasidah | Ms Cheak Su Peng|
+| 2 Empathy    | [Mr Soo Jun Hao](mailto:soo_jun_hao@schools.gov.sg) | [Ms Nur Diyana Binte Sanip](mailto:nur_diyana_mohamad_sanip@schools.gov.sg) |
+| 2 Honour     | [Mdm Farasidah Rohmat](mailto:farasidah_rohmat@schools.gov.sg) | Ms Cheak Su Peng|
 | 2 Diligence     | Mr Ghazali B Abdul Wahab | Ms Goh Shu Hui |
 | 2 Resilience     | Ms Wong Mun Foong | Mr Muhd Lathif |
 | 2 Integrity    | Mr Quek Yeow Chong | Ms Siti Rezkiah |
