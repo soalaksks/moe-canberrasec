@@ -186,7 +186,7 @@ description: ""
 | 2 Honour     | Mdm Farasidah| Ms Cheak Su Peng|
 | 2 Diligence     |Mr Ghazali Bin Abdul Wahab|Ms Goh Shu Hui|
 | 2 Resilience     |Ms Wong Mun Foong|Mr Muhd Lathif|
-| 2 Integrity    | Text     | Text     |
+| 2 Integrity    |Mr Quek Yeow Chong|Ms Siti Rezkiah Binte Mohd Radzelee|
 | 2 Harmony     | Text     | Text     |
 | 2 Respect     | Text     | Text     |
 | 2 Kindness     | Text     | Text     |
