@@ -67,7 +67,7 @@ description: ""
 | 2 Resilience     | [Ms Wong Mun Foong](mailto:wong_mun_foong@schools.gov.sg) | [Mr Muhd Lathif](mailto:muhamad_lathif_yunus@schools.gov.sg) |
 | 2 Integrity    | [Mr Quek Yeow Chong](mailto:quek_yeow_chong@schools.gov.sg) | [Ms Siti Rezkiah](mailto:siti_rezkiah_mohd_radzelee@schools.gov.sg) |
 | 2 Harmony     | [Ms Nur Fatin Binte Nordin](mailto:nur_fatin_nordin@schools.gov.sg) | [Mr Whelan Chen](mailto:whelan_chen_jianming@schools.gov.sg)|
-| 2 Respect     | Mr He Jiaen | Ms Janet Peh |
+| 2 Respect     | [Mr He Jiaen](mailto:he_jiaen@schools.gov.sg) | Ms Janet Peh |
 | 2 Kindness     | Ms Foong Yin Ping | Mr Chen Jialiang |
 
 ### Cohort 3
