@@ -3,6 +3,17 @@ title: Our Staff
 permalink: /our-canberra/our-staff/
 description: ""
 ---
+### School Leaders
+
+| Designation | Name |
+| -------- | -------- |
+|Principal|Mr Leong Kok Kee|
+|Vice-Principal|Mrs Tye-Ong Lay Yen|
+|Vice-Principal|Mr Syed Faisal|
+|Vice-Principal (Admin)|Mr Lai Chyh Jau|
+
+
+
 <div>
 <h3>School Leaders</h3>
 <div>
