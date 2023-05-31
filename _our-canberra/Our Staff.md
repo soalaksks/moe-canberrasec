@@ -171,10 +171,10 @@ description: ""
 | 1 Empathy    | [Mr Ho Ngiap Tuan](mailto:ho_ngiap_tuan@schools.gov.sg) | [Ms Sumaya Jahan](mailto:sumaya_jahan@schools.gov.sg)|
 | 1 Honour     | [Mr Simon Tay](mailto:tay_seng_how@schools.gov.sg)| [Ms Vishnu Preyei](mailto:vishnu_preyei@schools.gov.sg) |
 | 1 Diligence     |[Ms Ginny Teh](mailto:teh_hooi_ching@schools.gov.sg)| [Mr Jeremiah Tan](mailto:jeremiah_tan_teck_xuan@schools.gov.sg)|
-| 1 Integrity     | Ms Tan Jo Ann| Mr Asyraf Khalid|
-| 1 Harmony     | Mdm Sanismah| Mr Lim Beng Hua     |
-| 1 Respect     | Ms Siti Hajar    | Ms Pek Jun Lang, Julienne| Mr Kong Tze Shiuan|
-| 1 Kindness   | Mr Shaik Allauddin|Ms Adeline Fam| Mrs Irving Long|
+| 1 Integrity     | Ms Tan Jo Ann | Mr Asyraf Khalid|
+| 1 Harmony     | Mdm Sanismah | Mr Lim Beng Hua     |
+| 1 Respect     | Ms Siti Hajar    | Ms Pek Jun Lang, Julienne | Mr Kong Tze Shiuan |
+| 1 Kindness   | Mr Shaik Allauddin | Ms Adeline Fam| Mrs Irving Long |
 <br>
 <h3> Cohort 2 </h3>
 
