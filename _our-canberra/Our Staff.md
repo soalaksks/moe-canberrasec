@@ -206,12 +206,12 @@ description: ""
 
 | Class Name | Character Coach 1 | Character Coach 2 |Character Coach 3 |
 | -------- | -------- | -------- | -------- |
-| 4 Empathy    |Mrs Joann Ganesan|Ms Toh Zi Qi, Kris|
-| 4 Honour     |Mr Tan Qi Guang|Mrs Goh Wai Yee|
-| 4 Diligence     |Ms Michelle Tham|Mdm Yap Hui San|Ms Rachel Lee|
-| 4 Resilience     |Mrs Hee-Lim Gee Kheng|Ms Rebecca Ng|
-| 4 Integrity    |Mr Rudy Bin Swandi|Ms Felicia Lee Shirui|
-| 4 Harmony     |Mdm Raudhah|Ms Sim Xiu Jun|
-| 4 Respect     | Ms Olivia Ng|Ms Nurul Diyanah Binte Misdi|
-| 4 Kindness     |Mr Karthi|Mrs James Denise Allison|
-| 5 Integrity    | Ms Lau Sou Fong|
+| 4 Empathy    | Mrs Joann Ganesan | Ms Toh Zi Qi, Kris |
+| 4 Honour     | Mr Tan Qi Guang | Mrs Goh Wai Yee |
+| 4 Diligence     |Ms Michelle Tham | Mdm Yap Hui San |Ms Rachel Lee |
+| 4 Resilience     | Mrs Hee-Lim Gee Kheng | Ms Rebecca Ng |
+| 4 Integrity    | Mr Rudy Bin Swandi | Ms Felicia Lee Shirui |
+| 4 Harmony     | Mdm Raudhah | Ms Sim Xiu Jun 
+| 4 Respect     | Ms Olivia Ng| Ms Nurul Diyanah Binte Misdi |
+| 4 Kindness     | Mr Karthi | Mrs James Denise Allison |
+| 5 Integrity    | Ms Lau Sou Fong |
