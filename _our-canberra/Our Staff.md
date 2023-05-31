@@ -196,8 +196,8 @@ description: ""
 
 | Class Name | Character Coach 1 | Character Coach 2 |
 | -------- | -------- | -------- |
-| 3 Empathy    | Text     | Text     |
-| 3 Honour     | Text     | Text     |
+| 3 Empathy    |Mr Mohamed Nor Ariffin Bin Ismail|Mrs Zoanne Tay|
+| 3 Honour     |Mrs Charissa Tan|Mrs Cheung-Sim Yi Lian|
 | 3 Diligence     | Text     | Text     |
 | 3 Resilience     | Text     | Text     |
 | 3 Integrity    | Text     | Text     |
