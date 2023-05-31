@@ -29,10 +29,10 @@ description: ""
 |School Staff Developer|Ms Chia Hua Hoong|
 |Year Head (Upper Sec)|Mrs Frieda Tay|
 |Year Head (Lower Sec)|Mrs Jesslyn Yeoh|
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
+|SH Aesthetics|Ms Jamilene Tan|
+|SH Chemistry|Mrs Zoanne Tay|
+|SH Chinese Language|Mdm Yong Mui Leng|
+|SH Geography|Ms Cheak Su Peng|
 | Text     | Text     |
 | Text     | Text     |
 | Text     | Text     |
