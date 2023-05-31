@@ -77,7 +77,7 @@ description: ""
 | 3 Empathy | [Mr Mohamed Nor Ariffin](mailto:mohamed_nor_ariffin_ismail@schools.gov.sg) | [Mrs Zoanne Tay](mailto:sim_li_wen@schools.gov.sg)|
 | 3 Honour | [Mrs Charissa Tan](mailto:lee_soo_erng_charissa@schools.gov.sg) | [Mrs Cheung-Sim Yi Lian](mailto:sim_yi_lian@schools.gov.sg) |
 | 3 Diligence | [Ms Ma Lijuan](mailto:ma_lijuan@schools.gov.sg) | [Mr Koh Tat Siang](mailto:koh_tat_siang@schools.gov.sg) |
-| 3 Resilience | Mr Seth Lim Jun Hua | Ms Nurul Diyana Hashim |
+| 3 Resilience | Mr Seth Lim | Ms Nurul Diyana Hashim |
 | 3 Integrity | Ms Teo Qi Wen| Mr Imarah Bin Abas |
 | 3 Harmony | Mr Jeremy Tng | Ms Jamilene Tan |
 | 3 Respect| Mr Lok Chee How | Ms Yusra Binte Abd Razak |
