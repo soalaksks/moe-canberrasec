@@ -39,7 +39,7 @@ description: ""
 |SH NFS|[Ms Janet Peh](mailto:peh_chew_kher_janet@schools.gov.sg) (ext 235)|
 |Assistant Year Head|Mr Muraleedharan S/O Sreedran <br>Mdm Shahani Binte Kamarudin &amp; Mr Dinesh Sawlani|
 |Senior Teacher Art|[Mdm Farasidah Rohmat](mailto:farasidah_rohmat@schools.gov.sg) (ext 213)|
-|Senior Teacher CL|Ms Lau Sou Fong|
+|Senior Teacher CL|[Ms Lau Sou Fong](mailto:lau_sou_fong@schools.gov.sg) (ext 215)|
 |Senior Teacher EL|Mr Ghazali B Abdul Wahab|
 |Senior Teacher Mathematics|Mr Muhammad Lathif|
 |Senior Teacher Mathematics|Mrs Irving Long|
@@ -95,4 +95,4 @@ description: ""
 | 4 Harmony     | [Mdm Raudhah A R](mailto:raudhah_abdul_rahim@schools.gov.sg) | [Ms Sim Xiu Jun](mailto:sim_xiu_jun@schools.gov.sg)| 
 | 4 Respect     | [Ms Olivia Ng](mailto:ng_liting_olivia@schools.gov.sg)| [Ms Nurul Diyanah Binte Misdi](mailto:nurul_diyanah_misdi@schools.gov.sg)|
 | 4 Kindness     | [Mr Karthigesu Chandra](mailto:karthigesu_chandra@schools.gov.sg)| [Mrs James Denise Allison](mailto:denise_james_allison@schools.gov.sg) |
-| 5 Integrity    | [Ms Lau Sou Fong](mailto:lau_sou_fong@schools.gov.sg) |
+| 5 Integrity    | [Ms Lau Sou Fong](mailto:lau_sou_fong@schools.gov.sg) (ext 215)|
