@@ -49,9 +49,9 @@ description: ""
 
 | Class Name | Character Coach 1 | Character Coach 2 |Character Coach 3 |
 | -------- | -------- | -------- | -------- |
-| 1 Empathy| [Mr Ho Ngiap Tuan](mailto:ho_ngiap_tuan@schools.gov.sg) (ext 231)| [Ms Sumaya Jahan](mailto:sumaya_jahan@schools.gov.sg)|
-| 1 Honour| [Mr Simon Tay](mailto:tay_seng_how@schools.gov.sg) | [Ms Vishnu Preyei](mailto:vishnu_preyei@schools.gov.sg)|
-| 1 Diligence|[Ms Ginny Teh](mailto:teh_hooi_ching@schools.gov.sg)| [Mr Jeremiah Tan](mailto:jeremiah_tan_teck_xuan@schools.gov.sg)|
+| 1 Empathy| [Mr Ho Ngiap Tuan](mailto:ho_ngiap_tuan@schools.gov.sg) (ext 231)| [Ms Sumaya Jahan](mailto:sumaya_jahan@schools.gov.sg) (ext 230)|
+| 1 Honour| [Mr Simon Tay](mailto:tay_seng_how@schools.gov.sg) (ext 221) | [Ms Vishnu Preyei](mailto:vishnu_preyei@schools.gov.sg) (ext 208)|
+| 1 Diligence|[Ms Ginny Teh](mailto:teh_hooi_ching@schools.gov.sg) (ext 228)| [Mr Jeremiah Tan](mailto:jeremiah_tan_teck_xuan@schools.gov.sg) (ext 211)|
 | 1 Integrity | [Ms Tan Jo Ann](mailto:tan_jo_ann@schools.gov.sg) | [Mr Asyraf Khalid](mailto:muhammad_asyraf_khalid@schools.gov.sg)|
 | 1 Harmony| [Mdm Sanismah Saharil](mailto:sanismah_saharil@schools.gov.sg)  | [Mr Lim Beng Hua](mailto:lim_beng_hua@schools.gov.sg) |
 | 1 Respect| [Ms Siti Hajar](mailto:siti_hajar_ali@schools.gov.sg)| [Ms Julienne Pek](mailto:pek_jun_lang@schools.gov.sg) | [Mr Kong Tze Shiuan](mailto:kong_tze_shiuan@schools.gov.sg) |
