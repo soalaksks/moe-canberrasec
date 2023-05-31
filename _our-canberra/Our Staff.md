@@ -80,7 +80,7 @@ description: ""
 | 3 Resilience | [Mr Seth Lim](mailto:seth_lim_jun_hua@schools.gov.sg) | [Ms Nurul Diyana Hashim](mailto:nurul_diyana_hashim@schools.gov.sg) |
 | 3 Integrity | [Ms Teo Qi Wen](mailto:teo_qi_wen@schools.gov.sg)| [Mr Imarah Bin Abas](mailto:imarah_b_abas@schools.gov.sg) |
 | 3 Harmony | [Mr Jeremy Tng](mailto:jeremy_tng_ying_xiang@schools.gov.sg) | [Ms Jamilene Tan](mailto:jamilene_tan_hui_peng@schools.gov.sg) |
-| 3 Respect| Mr Lok Chee How | Ms Yusra Binte Abd Razak |
+| 3 Respect| [Mr Lok Chee How](mailto:lok_chee_how@schools.gov.sg) | [Ms Yusra Binte Abd Razak](mailto:yusra_abd_razak@schools.gov.sg) |
 | 3 Kindness |Mdm Wong Hui Yi | Mdm Khamisah Binte Saman |
 
 ### Cohort 4 &amp; 5
