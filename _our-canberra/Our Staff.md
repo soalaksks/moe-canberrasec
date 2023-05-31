@@ -95,4 +95,4 @@ description: ""
 | 4 Harmony     | [Mdm Raudhah A R](mailto:raudhah_abdul_rahim@schools.gov.sg) | [Ms Sim Xiu Jun](mailto:sim_xiu_jun@schools.gov.sg)| 
 | 4 Respect     | [Ms Olivia Ng](mailto:ng_liting_olivia@schools.gov.sg)| [Ms Nurul Diyanah Binte Misdi](mailto:nurul_diyanah_misdi@schools.gov.sg)|
 | 4 Kindness     | [Mr Karthigesu Chandra](mailto:karthigesu_chandra@schools.gov.sg)| [Mrs James Denise Allison](mailto:denise_james_allison@schools.gov.sg) |
-| 5 Integrity    | Ms Lau Sou Fong |
+| 5 Integrity    | [Ms Lau Sou Fong](mailto:lau_sou_fong@schools.gov.sg) |
