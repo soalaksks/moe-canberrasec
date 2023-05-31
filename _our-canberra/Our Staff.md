@@ -44,7 +44,7 @@ description: ""
 |Senior Teacher Mathematics|Mr Muhammad Lathif|
 |Senior Teacher Mathematics|Mrs Irving Long|
 |Senior Teacher Physics|Mr Koh Tat Siang|
-<br>
+
 <h3> Cohort 1 </h3>
 
 | Class Name | Character Coach 1 | Character Coach 2 |Character Coach 3 |
