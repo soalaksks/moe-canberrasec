@@ -176,7 +176,7 @@ description: ""
 | 1 Integrity     |Ms Tan Jo Ann| Mr Asyraf Khalid|
 | 1 Harmony     | Mdm Sanismah| Mr Lim Beng Hua     |
 | 1 Respect     | Ms Siti Hajar    | Ms Pek Jun Lang, Julienne|Mr Kong Tze Shiuan|
-| 1 Kindness   | Text     | Text     |
+| 1 Kindness   | Mr Shaik Allauddin|Ms Adeline Fam|Mrs Irving Long|
 <br>
 <h3> Cohort 2 </h3>
 
