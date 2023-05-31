@@ -29,7 +29,7 @@ description: ""
 |School Staff Developer|[Ms Chia Hua Hoong](mailto:chia_hua_hoong@schools.gov.sg) (ext 109)|
 |Year Head (Upper Sec)|[Mrs Frieda Tay](mailto:leong_siew_yin_frieda@schools.gov.sg) (ext 114)|
 |Year Head (Lower Sec)|[Mrs Jesslyn Yeoh](mailto:lee_see_hwee@schools.gov.sg) (ext 115)|
-|SH Aesthetics|[Ms Jamilene Tan](mailto:jamilene_tan_hui_peng@schools.gov.sg)|
+|SH Aesthetics|[Ms Jamilene Tan](mailto:jamilene_tan_hui_peng@schools.gov.sg) (ext 250)|
 |SH Chemistry|Mrs Zoanne Tay|
 |SH Chinese Language|Mdm Yong Mui Leng|
 |SH Geography|Ms Cheak Su Peng|
