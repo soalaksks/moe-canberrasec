@@ -20,7 +20,7 @@ description: ""
 |HOD Craft &amp; Technology|[Mr Aw Yong Wai Kee](mailto:aw_yong_wai_keet@schools.gov.sg) (ext 111)|
 |HOD English|[Ms Wong Sooh Yee](mailto:wong_sooh_yee@schools.gov.sg) (ext 113)|
 |HOD Humanities|[Mr Bala Kirishanan](mailto:bala_kirishanan@schools.gov.sg) (ext 110)|
-|HOD ICT|Mr Chia Wai Han|
+|HOD ICT|[Mr Chia Wai Han](mailto:chia_wai_han@schools.gov.sg) (ext 225)|
 |HOD Mathematics|Mr Ng Chuen Joo|
 |HOD MTL|Ms Lim Puay Ee|
 |HOD Science|Ms Agnes Lim|
