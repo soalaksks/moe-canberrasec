@@ -164,8 +164,6 @@ description: ""
 </div>
 </div>
 <br>
-<br>
-<br>
 <h3> Cohort 1 </h3>
 
 | Class Name | Character Coach 1 | Character Coach 2 |Character Coach 3 |
