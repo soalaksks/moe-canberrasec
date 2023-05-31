@@ -91,7 +91,7 @@ description: ""
 | 4 Honour     | [Mr Tan Qi Guang](mailto:tan_qi_guang@schools.gov.sg) | [Mrs Goh Wai Yee](mailto:chia_wai_yee@schools.gov.sg) |
 | 4 Diligence     |[Ms Michelle Tham](mailto:tham_michelle@schools.gov.sg) | [Mdm Yap Hui San](mailto:yap_hui_san@schools.gov.sg) |[Ms Rachel Lee](mailto:lee_wen_qing_rachel@schools.gov.sg) |
 | 4 Resilience     | [Mrs Hee-Lim Gee Kheng](mailto:hee_lim_gee_kheng@schools.gov.sg) | [Ms Rebecca Ng](mailto:ng_li_min_rebecca@schools.gov.sg) |
-| 4 Integrity    | [Mr Rudy Bin Swandi](mailto:rudy_swandi@schools.gov.sg) | Ms Felicia Lee Shirui |
+| 4 Integrity    | [Mr Rudy Bin Swandi](mailto:rudy_swandi@schools.gov.sg) | [Ms Felicia Lee Shirui](mailto:felicia_lee_shirui@schools.gov.sg) |
 | 4 Harmony     | Mdm Raudhah | Ms Sim Xiu Jun 
 | 4 Respect     | Ms Olivia Ng| Ms Nurul Diyanah Binte Misdi |
 | 4 Kindness     | Mr Karthigesu | Mrs James Denise Allison |
