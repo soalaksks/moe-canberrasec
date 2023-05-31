@@ -213,8 +213,8 @@ description: ""
 | 4 Honour     |Mr Tan Qi Guang|Mrs Goh Wai Yee|
 | 4 Diligence     |Ms Michelle Tham|Mdm Yap Hui San|Ms Rachel Lee|
 | 4 Resilience     |Mrs Hee-Lim Gee Kheng|Ms Rebecca Ng|
-| 4 Integrity    | Text     | Text     |
-| 4 Harmony     | Text     | Text     |
+| 4 Integrity    |Mr Rudy Bin Swandi|Ms Felicia Lee Shirui|
+| 4 Harmony     |Mdm Raudhah|Ms Sim Xiu Jun|
 | 4 Respect     | Text     | Text     |
 | 4 Kindness     | Text     | Text     |
 | 5 Integrity    | Text     | Text     |
