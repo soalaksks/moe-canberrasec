@@ -18,8 +18,8 @@ description: ""
 | -------- | -------- |
 |HOD CCE|[Mr Edwin Cheong](mailto:cheong_wai_tung_edwin@schools.gov.sg) (ext 107)|
 |HOD Craft &amp; Technology|[Mr Aw Yong Wai Kee](mailto:aw_yong_wai_keet@schools.gov.sg) (ext 111)|
-|HOD English|Ms Wong Sooh Yee|
-|HOD Humanities|Mr Bala Kirishanan|
+|HOD English|[Ms Wong Sooh Yee](mailto:wong_sooh_yee@schools.gov.sg) (ext 113)|
+|HOD Humanities|[Mr Bala Kirishanan](mailto:bala_kirishanan@schools.gov.sg) (ext 110)|
 |HOD ICT|Mr Chia Wai Han|
 |HOD Mathematics|Mr Ng Chuen Joo|
 |HOD MTL|Ms Lim Puay Ee|
