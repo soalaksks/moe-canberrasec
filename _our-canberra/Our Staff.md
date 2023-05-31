@@ -182,8 +182,8 @@ description: ""
 
 | Class Name | Character Coach 1 | Character Coach 2 |
 | -------- | -------- | -------- |
-| 2 Empathy    | Text     | Text     |
-| 2 Honour     | Text     | Text     |
+| 2 Empathy    | Mr Soo Jun Hao|Ms Nur Diyana Binte Sanip|
+| 2 Honour     | Mdm Farasidah| Ms Cheak Su Peng|
 | 2 Diligence     | Text     | Text     |
 | 2 Resilience     | Text     | Text     |
 | 2 Integrity    | Text     | Text     |
