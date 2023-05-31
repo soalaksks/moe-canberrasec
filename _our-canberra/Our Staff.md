@@ -87,7 +87,7 @@ description: ""
 
 | Class Name | Character Coach 1 | Character Coach 2 |Character Coach 3 |
 | -------- | -------- | -------- | -------- |
-| 4 Empathy    | Mrs Joann Ganesan | Ms Kris Toh |
+| 4 Empathy    | Mrs Joann Ganesan | Ms Kris Toh | Ms Diyanah Yunos|
 | 4 Honour     | Mr Tan Qi Guang | Mrs Goh Wai Yee |
 | 4 Diligence     |Ms Michelle Tham | Mdm Yap Hui San |Ms Rachel Lee |
 | 4 Resilience     | Mrs Hee-Lim Gee Kheng | Ms Rebecca Ng |
