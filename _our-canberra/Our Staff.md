@@ -64,9 +64,9 @@ description: ""
 | -------- | -------- | -------- |
 | 2 Empathy    | [Mr Soo Jun Hao](mailto:soo_jun_hao@schools.gov.sg) (ext 213)| [Ms Nur Diyana Binte Sanip](mailto:nur_diyana_mohamad_sanip@schools.gov.sg) (ext 201)|
 | 2 Honour     | [Mdm Farasidah Rohmat](mailto:farasidah_rohmat@schools.gov.sg) (ext 213)| [Ms Cheak Su Peng](mailto:cheak_su_peng@schools.gov.sg) (ext 210)|
-| 2 Diligence     |[Mr Ghazali B Abdul Wahab](mailto:Ghazali_B_Abdul_Wahab@schools.gov.sg) (ext 218)| [Ms Goh Shu Hui](mailto:goh_shu_hui_b@schools.gov.sg) |
-| 2 Resilience     | [Ms Wong Mun Foong](mailto:wong_mun_foong@schools.gov.sg) | [Mr Muhd Lathif](mailto:muhamad_lathif_yunus@schools.gov.sg)  (ext 244)|
-| 2 Integrity    | [Mr Quek Yeow Chong](mailto:quek_yeow_chong@schools.gov.sg) | [Ms Siti Rezkiah](mailto:siti_rezkiah_mohd_radzelee@schools.gov.sg) |
+| 2 Diligence     |[Mr Ghazali B Abdul Wahab](mailto:Ghazali_B_Abdul_Wahab@schools.gov.sg) (ext 218)| [Ms Goh Shu Hui](mailto:goh_shu_hui_b@schools.gov.sg) (ext 257) |
+| 2 Resilience     | [Ms Wong Mun Foong](mailto:wong_mun_foong@schools.gov.sg) (ext 219) | [Mr Muhd Lathif](mailto:muhamad_lathif_yunus@schools.gov.sg)  (ext 244)|
+| 2 Integrity    | [Mr Quek Yeow Chong](mailto:quek_yeow_chong@schools.gov.sg) (ext 229)| [Ms Siti Rezkiah](mailto:siti_rezkiah_mohd_radzelee@schools.gov.sg) (ext 204) |
 | 2 Harmony     | [Ms Nur Fatin Binte Nordin](mailto:nur_fatin_nordin@schools.gov.sg) | [Mr Whelan Chen](mailto:whelan_chen_jianming@schools.gov.sg)|
 | 2 Respect     | [Mr He Jiaen](mailto:he_jiaen@schools.gov.sg) | [Ms Janet Peh](mailto:peh_chew_kher_janet@schools.gov.sg) |
 | 2 Kindness     | [Ms Foong Yin Ping](mailto:foong_yin_ping@schools.gov.sg) | [Mr Chen Jialiang](mailto:chen_jialiang@schools.gov.sg) |
