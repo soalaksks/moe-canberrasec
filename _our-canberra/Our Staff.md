@@ -33,9 +33,9 @@ description: ""
 |SH Chemistry|Mrs Zoanne Tay|
 |SH Chinese Language|Mdm Yong Mui Leng|
 |SH Geography|Ms Cheak Su Peng|
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
+|SH Malay Language|Mdm Raudhah A R|
+|SH Mathematics|Mrs Cheung-Sim Yi Lian|
+|SH PE/CCA|Mr Whelan Chen|
 | Text     | Text     |
 | Text     | Text     |
 | Text     | Text     |
