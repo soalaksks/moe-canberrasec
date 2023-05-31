@@ -184,8 +184,8 @@ description: ""
 | -------- | -------- | -------- |
 | 2 Empathy    | Mr Soo Jun Hao|Ms Nur Diyana Binte Sanip|
 | 2 Honour     | Mdm Farasidah| Ms Cheak Su Peng|
-| 2 Diligence     | Text     | Text     |
-| 2 Resilience     | Text     | Text     |
+| 2 Diligence     |Mr Ghazali Bin Abdul Wahab|Ms Goh Shu Hui|
+| 2 Resilience     |Ms Wong Mun Foong|Mr Muhd Lathif|
 | 2 Integrity    | Text     | Text     |
 | 2 Harmony     | Text     | Text     |
 | 2 Respect     | Text     | Text     |
