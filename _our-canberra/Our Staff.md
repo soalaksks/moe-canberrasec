@@ -74,7 +74,7 @@ description: ""
 
 | Class Name | Character Coach 1 | Character Coach 2 |
 | -------- | -------- | -------- |
-| 3 Empathy | Mr Mohamed Nor Ariffin | Mrs Zoanne Tay |
+| 3 Empathy | [Mr Mohamed Nor Ariffin](mailto:mohamed_nor_ariffin_ismail@schools.gov.sg) | [Mrs Zoanne Tay](mailto:sim_li_wen@schools.gov.sg)|
 | 3 Honour | Mrs Charissa Tan | Mrs Cheung-Sim Yi Lian |
 | 3 Diligence | Ms Ma Lijuan | Mr Koh Tat Siang |
 | 3 Resilience | Mr Seth Lim Jun Hua | Ms Nurul Diyana Hashim |
