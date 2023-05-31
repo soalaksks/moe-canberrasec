@@ -31,8 +31,8 @@ description: ""
 |Year Head (Lower Sec)|[Mrs Jesslyn Yeoh](mailto:lee_see_hwee@schools.gov.sg) (ext 115)|
 |SH Aesthetics|[Ms Jamilene Tan](mailto:jamilene_tan_hui_peng@schools.gov.sg) (ext 250)|
 |SH Chemistry|[Mrs Zoanne Tay](mailto:sim_li_wen@schools.gov.sg) (ext 244)|
-|SH Chinese Language|Mdm Yong Mui Leng|
-|SH Geography|Ms Cheak Su Peng|
+|SH Chinese Language|[Mdm Yong Mui Leng](mailto:yong_mui_leng@schools.gov.sg) (ext 223)|
+|SH Geography|[Ms Cheak Su Peng](mailto:cheak_su_peng@schools.gov.sg) (ext 210)|
 |SH Malay Language|Mdm Raudhah A R|
 |SH Mathematics|Mrs Cheung-Sim Yi Lian|
 |SH PE/CCA|Mr Whelan Chen|
