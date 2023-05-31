@@ -33,7 +33,7 @@ description: ""
 |SH Chemistry|[Mrs Zoanne Tay](mailto:sim_li_wen@schools.gov.sg) (ext 244)|
 |SH Chinese Language|[Mdm Yong Mui Leng](mailto:yong_mui_leng@schools.gov.sg) (ext 223)|
 |SH Geography|[Ms Cheak Su Peng](mailto:cheak_su_peng@schools.gov.sg) (ext 210)|
-|SH Malay Language|Mdm Raudhah A R|
+|SH Malay Language|[Mdm Raudhah A R](mailto:raudhah_abdul_rahim@schools.gov.sg) (ext 205)|
 |SH Mathematics|Mrs Cheung-Sim Yi Lian|
 |SH PE/CCA|Mr Whelan Chen|
 |SH NFS|Ms Janet Peh|
