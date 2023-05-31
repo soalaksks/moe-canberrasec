@@ -89,7 +89,7 @@ description: ""
 | -------- | -------- | -------- | -------- |
 | 4 Empathy    | [Mrs Joann Ganesan](mailto:joann_david@schools.gov.sg) | [Ms Kris Toh](mailto:toh_zi_qi@schools.gov.sg) | Ms Diyanah Yunos|
 | 4 Honour     | [Mr Tan Qi Guang](mailto:tan_qi_guang@schools.gov.sg) | [Mrs Goh Wai Yee](mailto:chia_wai_yee@schools.gov.sg) |
-| 4 Diligence     |Ms Michelle Tham | Mdm Yap Hui San |Ms Rachel Lee |
+| 4 Diligence     |[Ms Michelle Tham](mailto:tham_michelle@schools.gov.sg) | [Mdm Yap Hui San](mailto:yap_hui_san@schools.gov.sg) |[Ms Rachel Lee](mailto:lee_wen_qing_rachel@schools.gov.sg) |
 | 4 Resilience     | Mrs Hee-Lim Gee Kheng | Ms Rebecca Ng |
 | 4 Integrity    | Mr Rudy Bin Swandi | Ms Felicia Lee Shirui |
 | 4 Harmony     | Mdm Raudhah | Ms Sim Xiu Jun 
