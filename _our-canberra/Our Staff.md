@@ -28,7 +28,7 @@ description: ""
 |HOD PE/CCA|[Ms Jenny Soh](mailto:jenny_soh@schools.gov.sg) (ext 116)|
 |School Staff Developer|[Ms Chia Hua Hoong](mailto:chia_hua_hoong@schools.gov.sg) (ext 109)|
 |Year Head (Upper Sec)|[Mrs Frieda Tay](mailto:leong_siew_yin_frieda@schools.gov.sg) (ext 114)|
-|Year Head (Lower Sec)|Mrs Jesslyn Yeoh|
+|Year Head (Lower Sec)|[Mrs Jesslyn Yeoh]|
 |SH Aesthetics|Ms Jamilene Tan|
 |SH Chemistry|Mrs Zoanne Tay|
 |SH Chinese Language|Mdm Yong Mui Leng|
