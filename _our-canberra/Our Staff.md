@@ -193,14 +193,14 @@ description: ""
 
 | Class Name | Character Coach 1 | Character Coach 2 |
 | -------- | -------- | -------- |
-| 3 Empathy    | Mr Mohamed Nor Ariffin Bin Ismail | Mrs Zoanne Tay |
-| 3 Honour     | Mrs Charissa Tan | Mrs Cheung-Sim Yi Lian|
-| 3 Diligence     | Ms Ma Lijuan| Mr Koh Tat Siang|
-| 3 Resilience     | Mr Seth Lim Jun Hua | Mrs Nurul Diyana Hashim |
-| 3 Integrity    | Ms Teo Qi Wen | Mr Imarah Bin Abas |
-| 3 Harmony     | Mr Jeremy Tng | Ms Jamilene Tan |
-| 3 Respect     | Mr Lok Chee How | Ms Yusra Binte Abd Razak |
-| 3 Kindness     | Mdm Wong Hui Yi | Mdm Khamisah Binte Saman |
+|3 Empathy|Mr Mohamed Nor Ariffin Bin Ismail |Mrs Zoanne Tay|
+|3 Honour|Mrs Charissa Tan|Mrs Cheung-Sim Yi Lian|
+|3 Diligence|Ms Ma Lijuan|Mr Koh Tat Siang|
+|3 Resilience|Mr Seth Lim Jun Hua|Mrs Nurul Diyana Hashim|
+|3 Integrity|Ms Teo Qi Wen|Mr Imarah Bin Abas|
+|3 Harmony|Mr Jeremy Tng|Ms Jamilene Tan|
+|3 Respect|Mr Lok Chee How|Ms Yusra Binte Abd Razak|
+|3 Kindness|Mdm Wong Hui Yi|Mdm Khamisah Binte Saman|
 <br>
 <h3> Cohort 4 &amp; 5 </h3>
 
