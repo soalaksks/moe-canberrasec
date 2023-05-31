@@ -188,7 +188,6 @@ description: ""
 | 2 Harmony     | Ms Nur Fatin Binte Nordin|Mr Whelan Chen|
 | 2 Respect     |Mr He Jiaen|Ms Janet Peh|
 | 2 Kindness     |Ms Foong Yin Ping |Mr Chen Jialiang|
-
 <br>
 <h3> Cohort 3 </h3>
 
