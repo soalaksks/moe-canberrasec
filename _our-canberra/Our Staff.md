@@ -172,8 +172,8 @@ description: ""
 | -------- | -------- | -------- |
 | 1 Empathy    | Mr Ho Ngiap Tuan | Ms Sumaya Jahan|
 | 1 Honour     | Mr Tay Seng How, Simon| Ms Vishnu Preyei |
-| 1 Diligence     | Text     | Text     |
-| 1 Integrity     | Text     | Text     |
+| 1 Diligence     | Ms Teh Hooi Ching, Ginny| Mr Jeremiah Tan |
+| 1 Integrity     |Ms Tan Jo Ann| Mr Asyraf Khalid|
 | 1 Harmony     | Text     | Text     |
 | 1 Respect     | Text     | Text     |
 | 1 Kindness   | Text     | Text     |
