@@ -182,39 +182,39 @@ description: ""
 
 | Class Name | Character Coach 1 | Character Coach 2 |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+| 2 Empathy    | Text     | Text     |
+| 2 Honour     | Text     | Text     |
+| 2 Diligence     | Text     | Text     |
+| 2 Resilience     | Text     | Text     |
+| 2 Integrity    | Text     | Text     |
+| 2 Harmony     | Text     | Text     |
+| 2 Respect     | Text     | Text     |
+| 2 Kindness     | Text     | Text     |
 
 <br>
 <h3> Cohort 3 </h3>
 
 | Class Name | Character Coach 1 | Character Coach 2 |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+| 3 Empathy    | Text     | Text     |
+| 3 Honour     | Text     | Text     |
+| 3 Diligence     | Text     | Text     |
+| 3 Resilience     | Text     | Text     |
+| 3 Integrity    | Text     | Text     |
+| 3 Harmony     | Text     | Text     |
+| 3 Respect     | Text     | Text     |
+| 3 Kindness     | Text     | Text     |
 <br>
 <h3> Cohort 4 &amp; 5 </h3>
 
 | Class Name | Character Coach 1 | Character Coach 2 |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-
+| 4 Empathy    | Text     | Text     |
+| 4 Honour     | Text     | Text     |
+| 4 Diligence     | Text     | Text     |
+| 4 Resilience     | Text     | Text     |
+| 4 Integrity    | Text     | Text     |
+| 4 Harmony     | Text     | Text     |
+| 4 Respect     | Text     | Text     |
+| 4 Kindness     | Text     | Text     |
+| 5 Integrity    | Text     | Text     |
