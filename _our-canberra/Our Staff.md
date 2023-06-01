@@ -75,10 +75,10 @@ description: ""
 
 | Class Name | Character Coach 1 | Character Coach 2 |
 | -------- | -------- | -------- |
-| 3 Empathy | [Mr Mohamed Nor Ariffin](mailto:mohamed_nor_ariffin_ismail@schools.gov.sg) | [Mrs Zoanne Tay](mailto:sim_li_wen@schools.gov.sg)|
-| 3 Honour | [Mrs Charissa Tan](mailto:lee_soo_erng_charissa@schools.gov.sg) | [Mrs Cheung-Sim Yi Lian](mailto:sim_yi_lian@schools.gov.sg) |
-| 3 Diligence | [Ms Ma Lijuan](mailto:ma_lijuan@schools.gov.sg) | [Mr Koh Tat Siang](mailto:koh_tat_siang@schools.gov.sg) (ext 247) |
-| 3 Resilience | [Mr Seth Lim](mailto:seth_lim_jun_hua@schools.gov.sg) | [Ms Nurul Diyana Hashim](mailto:nurul_diyana_hashim@schools.gov.sg) |
+| 3 Empathy | [Mr Mohamed Nor Ariffin](mailto:mohamed_nor_ariffin_ismail@schools.gov.sg) (ext 207)| [Mrs Zoanne Tay](mailto:sim_li_wen@schools.gov.sg) (ext 244)|
+| 3 Honour | [Mrs Charissa Tan](mailto:lee_soo_erng_charissa@schools.gov.sg) (ext 238) | [Mrs Cheung-Sim Yi Lian](mailto:sim_yi_lian@schools.gov.sg) (ext 248) |
+| 3 Diligence | [Ms Ma Lijuan](mailto:ma_lijuan@schools.gov.sg) (ext 230)| [Mr Koh Tat Siang](mailto:koh_tat_siang@schools.gov.sg) (ext 247) |
+| 3 Resilience | [Mr Seth Lim](mailto:seth_lim_jun_hua@schools.gov.sg) (ext 239)| [Ms Nurul Diyana Hashim](mailto:nurul_diyana_hashim@schools.gov.sg) (ext 205) |
 | 3 Integrity | [Ms Teo Qi Wen](mailto:teo_qi_wen@schools.gov.sg)| [Mr Imarah Bin Abas](mailto:imarah_b_abas@schools.gov.sg) |
 | 3 Harmony | [Mr Jeremy Tng](mailto:jeremy_tng_ying_xiang@schools.gov.sg) | [Ms Jamilene Tan](mailto:jamilene_tan_hui_peng@schools.gov.sg) |
 | 3 Respect| [Mr Lok Chee How](mailto:lok_chee_how@schools.gov.sg) | [Ms Yusra Binte Abd Razak](mailto:yusra_abd_razak@schools.gov.sg) |
