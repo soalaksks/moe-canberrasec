@@ -30,6 +30,7 @@ description: ""
 |Year Head (Upper Sec)|[Mrs Frieda Tay](mailto:leong_siew_yin_frieda@schools.gov.sg) (ext 114)|
 |Year Head (Lower Sec)|[Mrs Jesslyn Yeoh](mailto:lee_see_hwee@schools.gov.sg) (ext 115)|
 |SH Aesthetics|[Ms Jamilene Tan](mailto:jamilene_tan_hui_peng@schools.gov.sg) (ext 250)|
+|SH CCE|[Mrs Goh Wai Yee](mailto:chia_wai_yee@schools.gov.sg) (ext 243)|
 |SH Chemistry|[Mrs Zoanne Tay](mailto:sim_li_wen@schools.gov.sg) (ext 244)|
 |SH Chinese Language|[Mdm Yong Mui Leng](mailto:yong_mui_leng@schools.gov.sg) (ext 223)|
 |SH Geography|[Ms Cheak Su Peng](mailto:cheak_su_peng@schools.gov.sg) (ext 210)|
@@ -88,8 +89,8 @@ description: ""
 
 | Class Name | Character Coach 1 | Character Coach 2 |Character Coach 3 |
 | -------- | -------- | -------- | -------- |
-| 4 Empathy    | [Mrs Joann Ganesan](mailto:joann_david@schools.gov.sg) | [Ms Kris Toh](mailto:toh_zi_qi@schools.gov.sg) | Ms Diyanah Yunos|
-| 4 Honour     | [Mr Tan Qi Guang](mailto:tan_qi_guang@schools.gov.sg) | [Mrs Goh Wai Yee](mailto:chia_wai_yee@schools.gov.sg) |
+| 4 Empathy    | [Mrs Joann Ganesan](mailto:joann_david@schools.gov.sg) (ext 204) | [Ms Kris Toh](mailto:toh_zi_qi@schools.gov.sg) (ext 215) |
+| 4 Honour     | [Mr Tan Qi Guang](mailto:tan_qi_guang@schools.gov.sg) (ext 222) | [Mrs Goh Wai Yee](mailto:chia_wai_yee@schools.gov.sg) (ext 243) |
 | 4 Diligence     |[Ms Michelle Tham](mailto:tham_michelle@schools.gov.sg) | [Mdm Yap Hui San](mailto:yap_hui_san@schools.gov.sg) |[Ms Rachel Lee](mailto:lee_wen_qing_rachel@schools.gov.sg) |
 | 4 Resilience     | [Mrs Hee-Lim Gee Kheng](mailto:hee_lim_gee_kheng@schools.gov.sg) | [Ms Rebecca Ng](mailto:ng_li_min_rebecca@schools.gov.sg) |
 | 4 Integrity    | [Mr Rudy Bin Swandi](mailto:rudy_swandi@schools.gov.sg) | [Ms Felicia Lee Shirui](mailto:felicia_lee_shirui@schools.gov.sg) |
