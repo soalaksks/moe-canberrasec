@@ -91,10 +91,10 @@ description: ""
 | -------- | -------- | -------- | -------- |
 | 4 Empathy    | [Mrs Joann Ganesan](mailto:joann_david@schools.gov.sg) (ext 204) | [Ms Kris Toh](mailto:toh_zi_qi@schools.gov.sg) (ext 215) |
 | 4 Honour     | [Mr Tan Qi Guang](mailto:tan_qi_guang@schools.gov.sg) (ext 222) | [Mrs Goh Wai Yee](mailto:chia_wai_yee@schools.gov.sg) (ext 243) |
-| 4 Diligence     |[Ms Michelle Tham](mailto:tham_michelle@schools.gov.sg) | [Mdm Yap Hui San](mailto:yap_hui_san@schools.gov.sg) |[Ms Rachel Lee](mailto:lee_wen_qing_rachel@schools.gov.sg) |
-| 4 Resilience     | [Mrs Hee-Lim Gee Kheng](mailto:hee_lim_gee_kheng@schools.gov.sg) | [Ms Rebecca Ng](mailto:ng_li_min_rebecca@schools.gov.sg) |
-| 4 Integrity    | [Mr Rudy Bin Swandi](mailto:rudy_swandi@schools.gov.sg) | [Ms Felicia Lee Shirui](mailto:felicia_lee_shirui@schools.gov.sg) |
-| 4 Harmony     | [Mdm Raudhah A R](mailto:raudhah_abdul_rahim@schools.gov.sg) | [Ms Sim Xiu Jun](mailto:sim_xiu_jun@schools.gov.sg)| 
-| 4 Respect     | [Ms Olivia Ng](mailto:ng_liting_olivia@schools.gov.sg)| [Ms Nurul Diyanah Binte Misdi](mailto:nurul_diyanah_misdi@schools.gov.sg)|
-| 4 Kindness     | [Mr Karthigesu Chandra](mailto:karthigesu_chandra@schools.gov.sg)| [Mrs James Denise Allison](mailto:denise_james_allison@schools.gov.sg) |
+| 4 Diligence     |[Ms Michelle Tham](mailto:tham_michelle@schools.gov.sg) (ext 202)| [Mdm Yap Hui San](mailto:yap_hui_san@schools.gov.sg) (ext 209)|[Ms Rachel Lee](mailto:lee_wen_qing_rachel@schools.gov.sg) (ext 206)|
+| 4 Resilience     | [Mrs Hee-Lim Gee Kheng](mailto:hee_lim_gee_kheng@schools.gov.sg) (ext 212)| [Ms Rebecca Ng](mailto:ng_li_min_rebecca@schools.gov.sg) (ext 203)|
+| 4 Integrity    | [Mr Rudy Bin Swandi](mailto:rudy_swandi@schools.gov.sg) (ext 219) | [Ms Felicia Lee Shirui](mailto:felicia_lee_shirui@schools.gov.sg) (ext 216)|
+| 4 Harmony     | [Mdm Raudhah A R](mailto:raudhah_abdul_rahim@schools.gov.sg) (ext 205) | [Ms Sim Xiu Jun](mailto:sim_xiu_jun@schools.gov.sg) (ext 211)| 
+| 4 Respect     | [Ms Olivia Ng](mailto:ng_liting_olivia@schools.gov.sg) (ext 248)| [Ms Nurul Diyanah Binte Misdi](mailto:nurul_diyanah_misdi@schools.gov.sg) (ext 228)|
+| 4 Kindness     | [Mr Karthigesu Chandra](mailto:karthigesu_chandra@schools.gov.sg) (ext 226)| [Mrs James Denise Allison](mailto:denise_james_allison@schools.gov.sg) (ext 251) |
 | 5 Integrity    | [Ms Lau Sou Fong](mailto:lau_sou_fong@schools.gov.sg) (ext 215)|
