@@ -10,8 +10,6 @@ description: ""
 <li>Ms Jenny Soh HOD PE/CCA/Aesthetics</li>
 <li>Mr Lok Chee How</li>
 <li>Mr Whelan Chen</li>
-<li>Ms Cassandra Tay</li>
-<li>Mr Ryan Wong</li>
 <li>Ms Julienne Pek</li>
 	<li>Mr Alan Lim
 </li></ul>
