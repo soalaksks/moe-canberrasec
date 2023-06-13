@@ -9,11 +9,12 @@ description: ""
 | 1 Empathy | 2 Empathy | 3 Empathy | 4 Empathy |
 | 1 Honour | 2 Honour | 3 Honour | 4 Honour |
 | 1 Diligence | 2 Diligence | 3 Diligence | 4 Diligence |
-| - | 2 Resilience | 3 Resilience | 4 Resilience |
-| 1 Integrity | 2 Integrity| 3 Integrity | 4 Integrity |
-| 1 Harmony | 2 Harmony | 3 Harmony | 4 Harmony |
-| Text     | Text     | Text     | Text     |
-| Text     | Text     | Text     | Text     |
+| 1 Integrity | 2 Resilience | 3 Resilience | 4 Resilience |
+| 1 Harmony | 2 Integrity| 3 Integrity | 4 Integrity |
+| 1 Respect | 2 Harmony | 3 Harmony | 4 Harmony |
+| 1 Kindness | 2 Respect | 3 Respect | 4 Respect |
+|  | 2 Kindness | 3 Kindness | 4 Kindness |
+|  | |  | 5 Integrity |
 
 #### 2023 - Semester 1
 
