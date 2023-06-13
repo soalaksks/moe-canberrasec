@@ -15,7 +15,7 @@ description: ""
 | 1 Respect | 2 Harmony | 3 Harmony | 4 Harmony |
 | 1 Kindness | 2 Respect | 3 Respect | 4 Respect |
 |  | 2 Kindness | 3 Kindness | 4 Kindness |
-
+| | | | 5 Integrity |
 
 #### 2023 - Semester 1
 
