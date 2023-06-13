@@ -12,6 +12,7 @@ description: ""
 | 1 Diligence | 2 Diligence | 3 Diligence | 4 Diligence |
 | 1 Integrity | 2 Resilience | 3 Resilience | 4 Resilience |
 | 1 Harmony |2 Integrity | 3 Integrity | 4 Integrity|
+| 1 Respect | 2 Harmony | 3 Harmony | 4 Harmony |
 
 
 
