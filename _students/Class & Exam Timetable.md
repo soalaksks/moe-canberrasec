@@ -3,6 +3,18 @@ title: Class & Exam Timetable
 permalink: /students/class-exam-time-table/
 description: ""
 ---
+#### 2023 - Semester 2
+| Cohort 1 | Cohort 2 | Cohort 3 | Cohort 4 &amp; 5 |
+| -------- | -------- | -------- | -------- |
+| 1 Empathy | 2 Empathy | 3 Empathy | 4 Empathy |
+| 1 Honour | 2 Honour | 3 Honour | 4 Honour |
+| Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     |
+
 #### 2023 - Semester 1
 
 | Level | EXP | NA | NT |
