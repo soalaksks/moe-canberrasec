@@ -9,6 +9,8 @@ description: ""
 | -------- | -------- | -------- | -------- |
 | 1 Empathy | 2 Empathy | 3 Empathy | 4 Empathy |
 | 1 Honour | 2 Honour | 3 Honour | 4 Honour |
+| 1 Diligence | 2 Diligence | 3 Diligence | 4 Diligence |
+
 
 
 #### 2023 - Semester 1
