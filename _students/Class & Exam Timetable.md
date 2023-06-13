@@ -11,6 +11,8 @@ description: ""
 | 1 Honour | 2 Honour | 3 Honour | 4 Honour |
 | 1 Diligence | 2 Diligence | 3 Diligence | 4 Diligence |
 | 1 Integrity | 2 Resilience | 3 Resilience | 4 Resilience |
+| 1 Harmony |2 Integrity | 3 Integrity | 4 Integrity|
+
 
 
 
