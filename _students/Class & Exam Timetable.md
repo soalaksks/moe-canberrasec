@@ -8,8 +8,7 @@ description: ""
 | Cohort 1 | Cohort 2 | Cohort 3 | Cohort 4 &amp; 5 |
 | -------- | -------- | -------- | -------- |
 | 1 Empathy | 2 Empathy | 3 Empathy | 4 Empathy |
-
-
+| 1 Honour | 2 Honour | 3 Honour | 4 Honour |
 
 
 #### 2023 - Semester 1
