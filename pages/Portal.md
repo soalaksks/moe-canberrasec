@@ -3,7 +3,7 @@ title: Portal
 permalink: /portal/
 description: ""
 ---
-### [Students](/students/student-leadership-n-recognition)
+### [Students](/students/class-allocation/)
 
 ### [Parents](/parents/letter-to-parents)
 
