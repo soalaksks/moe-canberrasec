@@ -77,7 +77,7 @@ description: ""
 | Class Name | Character Coach 1 | Character Coach 2 | Character Coach 3 |
 | -------- | -------- | -------- | -------- |
 | 3 Empathy | [Mr Mohamed Nor Ariffin](mailto:mohamed_nor_ariffin_ismail@schools.gov.sg) (ext 207)| [Mrs Zoanne Tay](mailto:sim_li_wen@schools.gov.sg) (ext 244)| |
-| 3 Honour | [Mrs Charissa Tan](mailto:lee_soo_erng_charissa@schools.gov.sg) (ext 238) | [Mrs Cheung-Sim Yi Lian](mailto:sim_yi_lian@schools.gov.sg) (ext 248) | Miss Safura Binti Zulkifly |
+| 3 Honour | [Mrs Charissa Tan](mailto:lee_soo_erng_charissa@schools.gov.sg) (ext 238) | [Mrs Cheung-Sim Yi Lian](mailto:sim_yi_lian@schools.gov.sg) (ext 248) | [Miss Safura Binti Zulkifly](mailto:Safura_Zulkifly@schools.gov.sg) |
 | 3 Diligence | [Ms Ma Lijuan](mailto:ma_lijuan@schools.gov.sg) (ext 230)| [Mr Koh Tat Siang](mailto:koh_tat_siang@schools.gov.sg) (ext 247) | |
 | 3 Resilience | [Mr Seth Lim](mailto:seth_lim_jun_hua@schools.gov.sg) (ext 239)| [Ms Nurul Diyana Hashim](mailto:nurul_diyana_hashim@schools.gov.sg) (ext 205) | |
 | 3 Integrity | [Ms Teo Qi Wen](mailto:teo_qi_wen@schools.gov.sg) (ext 223)| [Mr Imarah Bin Abas](mailto:imarah_b_abas@schools.gov.sg) (ext 252)| |
