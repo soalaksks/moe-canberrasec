@@ -51,7 +51,7 @@ description: ""
 
 | Class Name | Character Coach 1 | Character Coach 2 |Character Coach 3 |
 | -------- | -------- | -------- | -------- |
-| 1 Empathy| [Mr Ho Ngiap Tuan](mailto:ho_ngiap_tuan@schools.gov.sg) (ext 231)| Ms Diyanah Yunos |
+| 1 Empathy| [Mr Ho Ngiap Tuan](mailto:ho_ngiap_tuan@schools.gov.sg) (ext 231)| [Mdm Diyanah Yunos](mailto:diyanah_mohamad_yunos@moe.edu.sg) |
 | 1 Honour| [Mr Simon Tay](mailto:tay_seng_how@schools.gov.sg) (ext 221) | [Ms Vishnu Preyei](mailto:vishnu_preyei@schools.gov.sg) (ext 208)|
 | 1 Diligence|[Ms Ginny Teh](mailto:teh_hooi_ching@schools.gov.sg) (ext 228)| [Mr Jeremiah Tan](mailto:jeremiah_tan_teck_xuan@schools.gov.sg) (ext 211)|
 | 1 Integrity | [Ms Tan Jo Ann](mailto:tan_jo_ann@schools.gov.sg) (ext 202)| [Mr Asyraf Khalid](mailto:muhammad_asyraf_khalid@schools.gov.sg) (ext 210)|
