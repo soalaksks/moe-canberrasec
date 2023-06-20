@@ -55,8 +55,8 @@ description: ""
 | 1 Honour| [Mr Simon Tay](mailto:tay_seng_how@schools.gov.sg) (ext 221) | [Ms Vishnu Preyei](mailto:vishnu_preyei@schools.gov.sg) (ext 208)|
 | 1 Diligence|[Ms Ginny Teh](mailto:teh_hooi_ching@schools.gov.sg) (ext 228)| [Mr Jeremiah Tan](mailto:jeremiah_tan_teck_xuan@schools.gov.sg) (ext 211)|
 | 1 Integrity | [Ms Tan Jo Ann](mailto:tan_jo_ann@schools.gov.sg) (ext 202)| [Mr Asyraf Khalid](mailto:muhammad_asyraf_khalid@schools.gov.sg) (ext 210)|
-| 1 Harmony| [Mdm Sanismah Saharil](mailto:sanismah_saharil@schools.gov.sg) (ext 224) | [Mr Lim Beng Hua](mailto:lim_beng_hua@schools.gov.sg) (ext 241) |
-| 1 Respect| [Ms Siti Hajar](mailto:siti_hajar_ali@schools.gov.sg) (ext 201)| [Ms Julienne Pek](mailto:pek_jun_lang@schools.gov.sg) (ext 243) | [Mr Kong Tze Shiuan](mailto:kong_tze_shiuan@schools.gov.sg) (ext 220) |
+| 1 Harmony| [Mdm Sanismah Saharil](mailto:sanismah_saharil@schools.gov.sg) (ext 224) | [Mr Lim Beng Hua](mailto:lim_beng_hua@schools.gov.sg) (ext 241) | [Mr Kong Tze Shiuan](mailto:kong_tze_shiuan@schools.gov.sg) (ext 220)|
+| 1 Respect| [Ms Siti Hajar](mailto:siti_hajar_ali@schools.gov.sg) (ext 201)| [Ms Julienne Pek](mailto:pek_jun_lang@schools.gov.sg) (ext 243) |  |
 | 1 Kindness| [Mr Shaik Allauddin](mailto:shaik_allauddin_kamaldeen@schools.gov.sg) (ext 226)| [Ms Adeline Fam](mailto:fam_rongen_adeline@schools.gov.sg) (ext 218)| [Mrs Irving Long](mailto:irving_quah@schools.gov.sg) (ext 227) |
 
 ### Cohort 2
