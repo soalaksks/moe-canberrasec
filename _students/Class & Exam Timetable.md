@@ -3,6 +3,20 @@ title: Class & Exam Timetable
 permalink: /students/class-exam-time-table/
 description: ""
 ---
+#### 2023 - Semester 2
+
+| Cohort 1 | Cohort 2 | Cohort 3 | Cohort 4 &amp; 5 |
+| -------- | -------- | -------- | -------- |
+| [1 Empathy](/files/2023%20sem%202%201%20empathy.pdf) | [2 Empathy](/files/2023%20sem%202%202%20empathy.pdf) | [3 Empathy](/files/2023%20sem%202%203%20empathy.pdf) | [4 Empathy](/files/2023%20sem%202%204%20empathy.pdf) |
+| [1 Honour](/files/2023%20sem%202%201%20honour.pdf) | [2 Honour](/files/2023%20sem%202%202%20honour.pdf) | [3 Honour](/files/2023%20sem%202%203%20honour.pdf) | [4 Honour](/files/2023%20sem%202%204%20honour.pdf) |
+| [1 Diligence](/files/2023%20sem%202%201%20diligence.pdf) | [2 Diligence](/files/2023%20sem%202%202%20diligence.pdf) | [3 Diligence](/files/2023%20sem%202%203%20diligence.pdf) | [4 Diligence](/files/2023%20sem%202%204%20diligence.pdf) |
+| [1 Integrity](/files/2023%20sem%202%201%20integrity.pdf) | [2 Resilience](/files/2023%20sem%202%202%20resilience.pdf) | [3 Resilience](/files/2023%20sem%202%203%20resilience.pdf) | [4 Resilience](/files/2023%20sem%202%204%20resilience.pdf) |
+| [1 Harmony](/files/2023%20sem%202%201%20harmony.pdf) |[2 Integrity](/files/2023%20sem%202%202%20integrity.pdf) | [3 Integrity](/files/2023%20sem%202%203%20integrity.pdf) | [4 Integrity](/files/2023%20sem%202%204%20integrity.pdf)|
+| [1 Respect](/files/2023%20sem%202%201%20respect.pdf) | [2 Harmony](/files/2023%20sem%202%202%20harmony.pdf) | [3 Harmony](/files/2023%20sem%202%203%20harmony.pdf) | [4 Harmony](/files/2023%20sem%202%204%20harmony.pdf) |
+| [1 Kindness](/files/2023%20sem%202%201%20kindness.pdf) | [2 Respect](/files/2023%20sem%202%202%20respect.pdf) | [3 Respect](/files/2023%20sem%202%203%20respect.pdf) | [4 Respect](/files/2023%20sem%202%204%20respect.pdf) |
+|  | [2 Kindness](/files/2023%20sem%202%202%20kindness.pdf) | [3 Kindness](/files/2023%20sem%202%203%20kindness.pdf) | [4 Kindness](/files/2023%20sem%202%204%20kindness.pdf) |
+| | | | [5 Integrity](/files/2023%20sem%202%205%20integrity.pdf) |
+
 #### 2023 - Semester 1
 
 | Level | EXP | NA | NT |
