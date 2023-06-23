@@ -12,7 +12,7 @@ description: ""
 | [1 Diligence](/files/2023%20sem%202%201%20diligence.pdf) | [2 Diligence](/files/2023%20sem%202%202%20diligence.pdf) | [3 Diligence](/files/2023%20sem%202%203%20diligence.pdf) | [4 Diligence](/files/2023%20sem%202%204%20diligence.pdf) |
 | [1 Integrity](/files/2023%20sem%202%201%20integrity.pdf) | [2 Resilience](/files/2023%20sem%202%202%20resilience.pdf) | [3 Resilience](/files/2023%20sem%202%203%20resilience.pdf) | [4 Resilience](/files/2023%20sem%202%204%20resilience.pdf) |
 | [1 Harmony](/files/2023%20sem%202%201%20harmony.pdf) |[2 Integrity](/files/2023%20sem%202%202%20integrity.pdf) | [3 Integrity](/files/2023%20sem%202%203%20integrity.pdf) | [4 Integrity](/files/2023%20sem%202%204%20integrity.pdf)|
-| 1 Respect | 2 Harmony | 3 Harmony | 4 Harmony |
+| [1 Respect](/files/2023%20sem%202%201%20respect.pdf) | [2 Harmony](/files/2023%20sem%202%202%20harmony.pdf) | 3 Harmony | 4 Harmony |
 | 1 Kindness | 2 Respect | 3 Respect | 4 Respect |
 |  | 2 Kindness | 3 Kindness | 4 Kindness |
 | | | | 5 Integrity |
