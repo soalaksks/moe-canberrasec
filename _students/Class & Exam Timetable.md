@@ -9,7 +9,7 @@ description: ""
 | -------- | -------- | -------- | -------- |
 | [1 Empathy](/files/2023%20sem%202%201%20empathy.pdf) | [2 Empathy](/files/2023%20sem%202%202%20empathy.pdf) | [3 Empathy](/files/2023%20sem%202%203%20empathy.pdf) | [4 Empathy](/files/2023%20sem%202%204%20empathy.pdf) |
 | [1 Honour](/files/2023%20sem%202%201%20honour.pdf) | [2 Honour](/files/2023%20sem%202%202%20honour.pdf) | [3 Honour](/files/2023%20sem%202%203%20honour.pdf) | [4 Honour](/files/2023%20sem%202%204%20honour.pdf) |
-| [1 Diligence](/files/2023%20sem%202%201%20diligence.pdf) | [2 Diligence](/files/2023%20sem%202%202%20diligence.pdf) | [3 Diligence](/files/2023%20sem%202%203%20diligence.pdf) | 4 Diligence |
+| [1 Diligence](/files/2023%20sem%202%201%20diligence.pdf) | [2 Diligence](/files/2023%20sem%202%202%20diligence.pdf) | [3 Diligence](/files/2023%20sem%202%203%20diligence.pdf) | [4 Diligence](/files/2023%20sem%202%204%20diligence.pdf) |
 | 1 Integrity | 2 Resilience | 3 Resilience | 4 Resilience |
 | 1 Harmony |2 Integrity | 3 Integrity | 4 Integrity|
 | 1 Respect | 2 Harmony | 3 Harmony | 4 Harmony |
