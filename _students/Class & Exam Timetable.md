@@ -13,7 +13,7 @@ description: ""
 | [1 Integrity](/files/2023%20sem%202%201%20integrity.pdf) | [2 Resilience](/files/2023%20sem%202%202%20resilience.pdf) | [3 Resilience](/files/2023%20sem%202%203%20resilience.pdf) | [4 Resilience](/files/2023%20sem%202%204%20resilience.pdf) |
 | [1 Harmony](/files/2023%20sem%202%201%20harmony.pdf) |[2 Integrity](/files/2023%20sem%202%202%20integrity.pdf) | [3 Integrity](/files/2023%20sem%202%203%20integrity.pdf) | [4 Integrity](/files/2023%20sem%202%204%20integrity.pdf)|
 | [1 Respect](/files/2023%20sem%202%201%20respect%20updated.pdf) | [2 Harmony](/files/2023%20sem%202%202%20harmony.pdf) | [3 Harmony](/files/2023%20sem%202%203%20harmony.pdf) | [4 Harmony](/files/2023%20sem%202%204%20harmony.pdf) |
-| [1 Kindness](/files/2023%20sem%202%201%20kindness%20updated.pdf) | [2 Respect](/files/2023%20sem%202%202%20respect.pdf) | [3 Respect](/files/2023%20sem%202%203%20respect.pdf) | [4 Respect](/files/2023%20sem%202%204%20respect.pdf) |
+| [1 Kindness](/files/2023%20sem%202%201%20kindness%20updated.pdf) | [2 Respect](/files/2023%20sem%202%202%20respect%20updated.pdf) | [3 Respect](/files/2023%20sem%202%203%20respect%20updated.pdf) | [4 Respect](/files/2023%20sem%202%204%20respect%20updated.pdf) |
 |  | [2 Kindness](/files/2023%20sem%202%202%20kindness.pdf) | [3 Kindness](/files/2023%20sem%202%203%20kindness.pdf) | [4 Kindness](/files/2023%20sem%202%204%20kindness.pdf) |
 | | | | [5 Integrity](/files/2023%20sem%202%205%20integrity.pdf) |
 
