@@ -7,7 +7,7 @@ description: ""
 
 | Cohort 1 | Cohort 2 | Cohort 3 | Cohort 4 &amp; 5 |
 | -------- | -------- | -------- | -------- |
-| [1 Empathy](/files/2023%20sem%202%201%20empathy.pdf) | [2 Empathy](/files/2023%20sem%202%202%20empathy.pdf) | 3 Empathy | 4 Empathy |
+| [1 Empathy](/files/2023%20sem%202%201%20empathy.pdf) | [2 Empathy](/files/2023%20sem%202%202%20empathy.pdf) | [3 Empathy](/files/2023%20sem%202%203%20empathy.pdf) | [4 Empathy](/files/2023%20sem%202%204%20empathy.pdf) |
 | 1 Honour | 2 Honour | 3 Honour | 4 Honour |
 | 1 Diligence | 2 Diligence | 3 Diligence | 4 Diligence |
 | 1 Integrity | 2 Resilience | 3 Resilience | 4 Resilience |
