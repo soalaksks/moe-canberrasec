@@ -27,7 +27,7 @@ third_nav_title: Visual and Performing Arts
 <p><strong>Training Days / Time</strong></p>
 </td>
 <td>
-<p>Wednesday: 2.30 pm - 6 pm</p>
+<p>Wednesday 2.30 pm - 6 pm</p>
 </td>
 </tr>
 </tbody>
