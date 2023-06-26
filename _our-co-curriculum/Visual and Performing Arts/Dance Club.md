@@ -4,7 +4,7 @@ permalink: /discover-canberra/our-co-curriculum/visual-and-performing-arts/dance
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-<h4><strong>CCA Vision/Training Programme for 2020</strong></h4>
+<h4><strong>CCA Vision/Training Programme for 2023</strong></h4>
 <p>The Dance Club hopes to inculcate in our dancers a love for the arts, a spirit of teamwork and responsibility as well as commitment to whatever they do. Through dance, the values of group work, mutual respect, tolerance and continuous progress towards perfection are inculcated.</p>
 <p>The Canberra Secondary School Dance Club aims to provide dancers the opportunity to discover potentials beyond dance. Canberran dancers stretch their limits to exceed expectations and realise that there is more to dancing than the simple execution of movements. They learn to touch the hearts of the audience as they put in their emotions into every steps of the choreography.</p>
 <p>The Dance Club comprises of 2 genre, namely Modern Dance and Malay Dance. All secondary one students will go through an experience with Malay Dance in Semester 1 and an experience of Modern Dance in Semester 2. At the end of the year, the students will get to choose the dance genre that they prefer and specialise in the chosen genre till they step down from CCA in secondary four.</p>
