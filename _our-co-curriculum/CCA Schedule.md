@@ -11,7 +11,7 @@ description: ""
 <td><strong>Teacher IC</strong></td>
 </tr>
 <tr>
-<td colspan="3"><strong>Sports &amp; Clubs</strong><br>Wednesdays 3.00pm – 5.30pm, Fridays 2.00pm – 4.30pm</td>
+<td colspan="3"><strong>Sports &amp; Clubs</strong><br>Mondays &amp; Wednesdays 2.30pm – 5.30pm</td>
 </tr>
 <tr>
 <td>Badminton</td>
@@ -26,7 +26,7 @@ description: ""
 </tr>
 
 <tr>
-<td colspan="3"><strong>Visual and Performing Arts</strong><br>Wednesdays 3.00pm – 5.30pm, Fridays 2.00pm – 4.30pm</td>
+<td colspan="3"><strong>Visual and Performing Arts</strong><br>Wednesdays 2.30pm – 6pm</td>
 </tr>
 <tr>
 <td>Digital Media Design in Visual Arts Club (DMA)</td>
@@ -49,13 +49,12 @@ description: ""
 <td>Mr Chen Jialiang<br>67585070 ext 222<br>chen_jialiang@schools.gov.sg</td>
 </tr>
 <tr>
-<td>Guzheng Ensemble<br>
-	(Fri: 1.30 - 4pm)</td>
+<td>Guzheng Ensemble</td>
 <td>Air Rifle Range</td>
 <td>Ms Ma Lijuan<br>67585070 ext 230<br>ma_lijuan@schools.gov.sg</td>
 </tr>
 <tr>
-<td colspan="3"><strong>Uniformed Groups</strong><br>NCC, NCDCC, NPCC - Fridays 2pm – 6pm<br>BB and GB - Saturday 8.30am – 12.30pm</td>
+<td colspan="3"><strong>Uniformed Groups</strong><br>NCC, NCDCC, NPCC - Wednesday 2.30pm – 6pm<br>BB and GB - Saturday 8.30am – 12.30pm</td>
 </tr>
 <tr>
 <td>Boys' Brigade<br>(boys only)</td>
