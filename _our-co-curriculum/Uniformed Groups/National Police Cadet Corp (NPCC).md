@@ -27,7 +27,7 @@ third_nav_title: Uniformed Groups
 <p><strong>Training Day / Time :</strong></p>
 </td>
 <td>
-<p>Friday: 2 pm - 6 pm</p>
+<p>Wednesday 2.30 pm - 6 pm</p>
 </td>
 </tr>
 </tbody>
