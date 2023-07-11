@@ -97,4 +97,4 @@ description: ""
 | 4 Harmony     | [Mdm Raudhah A R](mailto:raudhah_abdul_rahim@schools.gov.sg) (ext 205) | [Ms Sim Xiu Jun](mailto:sim_xiu_jun@schools.gov.sg) (ext 211)| 
 | 4 Respect     | [Ms Olivia Ng](mailto:ng_liting_olivia@schools.gov.sg) (ext 248)| [Ms Nurul Diyanah Binte Misdi](mailto:nurul_diyanah_misdi@schools.gov.sg) (ext 228)|
 | 4 Kindness     | [Mr Karthigesu Chandra](mailto:karthigesu_chandra@schools.gov.sg) (ext 226)| [Mrs James Denise Allison](mailto:denise_james_allison@schools.gov.sg) (ext 251) |
-| 5 Integrity    | [Ms Lau Sou Fong](mailto:lau_sou_fong@schools.gov.sg) (ext 215)| |
+| 5 Integrity    | [Ms Lau Sou Fong](mailto:lau_sou_fong@schools.gov.sg) (ext 215)|Ms Elizabeth Tan |
