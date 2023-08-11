@@ -12,7 +12,7 @@ third_nav_title: Our Highlights
 				<br><br>Cairel was conferred the Singapore Business Federation (SBF) Gold Medal at the ITE Graduation Ceremony 2023. The SBF Gold Medal is awarded to a top graduate of the Technical Engineering Diploma/Technical Diploma Programme for outstanding course performance. He was also Valedictorian of the Class of 2023.
 				<br><br>Cairel will be pursuing a Master's in Culinary Leadership and Innovation at Institut Lyfe, in France.
 				<br><br>
-				<img style="width:25;height:25" src="/images/alumni_cairel.png"></td>
+				<img style="width:5;height:5" src="/images/alumni_cairel.png"></td>
 			</tr>
 	</tbody>
 	</table>
