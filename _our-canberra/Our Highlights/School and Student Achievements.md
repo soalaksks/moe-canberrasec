@@ -9,7 +9,8 @@ third_nav_title: Our Highlights
 	<table border="0" cellspacing="5" cellpadding="0">
 		<tbody>
 			<tr><td>We are very delighted to share that one of our alumni, Muhammad Cairel Bin Razali from 5N2 (Class of 2015), graduated from ITE as one of the top graduates in 2023.
-				<br><br>Cairel was conferred the Singapore Business Federation (SBF) Gold Medal at the ITE Graduation Ceremony 2023. The SBF Gold Medal is awarded to a top graduate of the Technical Engineering Diploma/Technical Diploma Programme for outstanding course performance.
+				<br><br>Cairel was conferred the Singapore Business Federation (SBF) Gold Medal at the ITE Graduation Ceremony 2023. The SBF Gold Medal is awarded to a top graduate of the Technical Engineering Diploma/Technical Diploma Programme for outstanding course performance. He was also Valedictorian of the Class of 2023.
+				
 		</td></tr></tbody>		
 	</table>
 		
