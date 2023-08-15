@@ -12,7 +12,10 @@ third_nav_title: Our Highlights
 		<tr><td width="30%">Girls' Brigade</td>
 		<td width="70%">2023 Company Award - Silver</td>
 			</tr><tr><td width="30%">Boys' Brigade</td>
-		<td width="70%">J M Fraser Award for Excellence 2023 (YOA 2022) - High Distinction</td>
+		<td width="70%">J M Fraser Award for Excellence 2023 (YOA 2022) - High Distinction
+		<br><br>
+		Founder's Award:<br>Cheang Ming Sheng<br>Gibson Heng Yangzhi<br>Gideon Heng Jingzhi<br>Jayden Tan Yong Kai<br>Keon Chai Yao Zhong
+</td>
 	</tr>
 		<tr><td width="30%">Choir</td>
 		<td width="70%">SYF Certificate of Accomplishment</td>
