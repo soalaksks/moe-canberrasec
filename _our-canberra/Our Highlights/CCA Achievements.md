@@ -14,13 +14,19 @@ third_nav_title: Our Highlights
 			</tr><tr><td width="30%">Boys' Brigade</td>
 		<td width="70%">J M Fraser Award for Excellence 2023 (YOA 2022) - High Distinction</td>
 	</tr>
-		<tr><td width="30%">Modern Dance</td>
+		<tr><td width="30%">Choir</td>
 		<td width="70%">SYF Certificate of Accomplishment</td>
+			</tr>
+		<tr><td width="30%">Concert Band</td>
+		<td width="70%">SYF Certificate of Commendation</td>
 			</tr>
 		<tr><td width="30%">Guzheng Ensemble</td>
 		<td width="70%">SYF Certificate of Accomplishment</td>
 			</tr>
 		<tr><td width="30%">Malay Dance</td>
+		<td width="70%">SYF Certificate of Accomplishment</td>
+			</tr>
+		<tr><td width="30%">Modern Dance</td>
 		<td width="70%">SYF Certificate of Accomplishment</td>
 			</tr>
 		<tr><td width="30%">Digital Media in Visual Arts (DMA)</td>
