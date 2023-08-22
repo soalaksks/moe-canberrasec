@@ -3,6 +3,14 @@ title: Class & Exam Timetable
 permalink: /students/class-exam-time-table/
 description: ""
 ---
+#### 2023 End-of-year Exam Timetable
+
+| Cohort 1 | Cohort 2 | Cohort 3 |
+| -------- | -------- | -------- |
+| 1 Empathy, 1 Honour, 1 Diligence     | 2 Empathy, 2 Honour, 2 Diligence, 2 Resilience   | 3 Empathy, 3 Honour, 3 Diligence, 3 Resilience    |
+
+
+
 #### 2023 - Semester 2
 
 | Cohort 1 | Cohort 2 | Cohort 3 | Cohort 4 &amp; 5 |
