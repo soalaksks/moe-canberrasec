@@ -7,7 +7,7 @@ description: ""
 
 | Cohort 1 | Cohort 2 | Cohort 3 |
 | -------- | -------- | -------- |
-| [1 Empathy, 1 Honour, 1 Diligence](/files/2023%20cbss%20end-of-year%20exam%20timetable%20sec%201e.pdf)     | 2 Empathy, 2 Honour, 2 Diligence, 2 Resilience   | 3 Empathy, 3 Honour, 3 Diligence, 3 Resilience    |
+| [1 Empathy, 1 Honour, 1 Diligence](/files/2023%20cbss%20end-of-year%20exam%20timetable%20sec%201e.pdf)     |    | 3 Empathy, 3 Honour, 3 Diligence, 3 Resilience    |
 |[1 Integrity, 1 Harmony](/files/2023%20cbss%20end-of-year%20exam%20timetable%20sec%201na.pdf)| 2 Integrity, 2 Harmony| 3 Integrity, 3 Harmony|
 |[1 Respect, 1 Kindness](/files/2023%20cbss%20end-of-year%20exam%20timetable%20sec%201nt.pdf)| 2 Respect, 2 Kindness| 3 Respect, 3 Kindness|
 
