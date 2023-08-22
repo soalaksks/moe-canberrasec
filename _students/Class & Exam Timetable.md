@@ -8,6 +8,8 @@ description: ""
 | Cohort 1 | Cohort 2 | Cohort 3 |
 | -------- | -------- | -------- |
 | 1 Empathy, 1 Honour, 1 Diligence     | 2 Empathy, 2 Honour, 2 Diligence, 2 Resilience   | 3 Empathy, 3 Honour, 3 Diligence, 3 Resilience    |
+|1 Integrity, 1 Harmony| 2 Integrity, 2 Harmony| 3 Integrity, 3 Harmony|
+|1 Respect, 1 Kindness| 2 Respect, 2 Kindness| 3 Respect, 3 Kindness|
 
 
 
