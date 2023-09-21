@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       url: /contact-us/
-      background: /images/cbss school banner final (2023).gif
+      background: /images/cbss 2023 open house banner.gif
   - infobar:
       title: DSA Information
       button: View Here
