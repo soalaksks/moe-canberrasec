@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       url: /contact-us/
-      background: /images/GRC Banner Gif - Photopea.gif
+      background: /images/cbss school banner final (2023).gif
   - infobar:
       title: DSA Information
       button: View Here
