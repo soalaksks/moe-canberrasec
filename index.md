@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       url: /contact-us/
-      background: /images/GRC Banner Gif - Photopea.gif
+      background: /images/cbss 2023 open house banner.gif
   - infobar:
       title: DSA Information
       button: View Here
