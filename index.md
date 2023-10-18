@@ -14,7 +14,7 @@ sections:
           description: Join us on 25 November 2023!
           url: ""
   - infobar:
-      title: Join our Canberra family as a Canteen vendor
+      title: Join our Canberra Family as a Canteen vendor
       button: Apply NOW
       url: https://www.canberrasec.moe.edu.sg/parents/dsa/direct-school-admission-dsa/
   - infopic:
