@@ -15,8 +15,8 @@ sections:
           url: ""
   - infobar:
       title: Join our Canberra Family as a Canteen vendor
-      button: Apply NOW
-      url: https://www.canberrasec.moe.edu.sg/parents/dsa/direct-school-admission-dsa/
+      button: Apply Now
+      url: https://www.canberrasec.moe.edu.sg/partners-of-canberra/school-canteen/
   - infopic:
       title: Why Canberra?
       description: In Canberra, we offer holistic education that not only focuses on
