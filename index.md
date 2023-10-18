@@ -10,7 +10,7 @@ sections:
       url: /contact-us/
       background: /images/cbss 2023 open house banner.gif
       key_highlights:
-        - title: Canberra Secondary School Open House 2023
+        - title: Canberra Secondary School Open House
           description: Join us on 25 November 2023!
           url: ""
   - infobar:
