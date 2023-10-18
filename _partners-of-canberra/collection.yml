@@ -2,6 +2,7 @@ collections:
   partners-of-canberra:
     output: true
     order:
+      - School Canteen.md
       - Parent Support Group/.keep
       - Parent Support Group/Parent Support Group.md
       - Parent Support Group/Invitation to attend Breakfast Dialogue Session
