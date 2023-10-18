@@ -9,9 +9,13 @@ sections:
   - hero:
       url: /contact-us/
       background: /images/cbss 2023 open house banner.gif
+      key_highlights:
+        - title: Canberra Secondary School Open House 2023
+          description: Join us on 25 November 2023!
+          url: ""
   - infobar:
-      title: DSA Information
-      button: View Here
+      title: Join our Canberra family as a Canteen vendor
+      button: Apply NOW
       url: https://www.canberrasec.moe.edu.sg/parents/dsa/direct-school-admission-dsa/
   - infopic:
       title: Why Canberra?
