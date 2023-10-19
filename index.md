@@ -13,10 +13,6 @@ sections:
         - title: Canberra Secondary School Open House
           description: Join us on 25 November 2023!
           url: ""
-  - infobar:
-      title: Join our Canberra Family as a Canteen vendor
-      button: Apply Now
-      url: https://www.canberrasec.moe.edu.sg/partners-of-canberra/school-canteen/
   - infopic:
       title: Why Canberra?
       description: In Canberra, we offer holistic education that not only focuses on
