@@ -7,12 +7,12 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chinese Noodle Stall     | TBD     | NIL |
+| Chinese Noodle Stall     | 2 November 2023     | NIL |
 
 **Application Procedure**
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
-* [Application Form] 
+* [Application Form](/files/application%20form%20for%20canteen%20stalls.pdf) 
 
 2. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
@@ -24,11 +24,11 @@ description: ""
 * Address: 51 Sembawang Drive S(757699)
 * Contact No: 6758 5070
 * Email: canberra_ss@moe.edu.sg
-* Contact Person: 
+* Contact Person: Mdm Soh CC
 
 **How to get there?**
-* Nearest MRT: Sembawang MRT – 10 minutes walking distance
-* Bus number: 859, 962 - 3 minutes walking
+* Nearest MRT: Sembawang MRT
+* Bus number: 859, 962
 
 **Interest applicants must meet the following criteria:**
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
