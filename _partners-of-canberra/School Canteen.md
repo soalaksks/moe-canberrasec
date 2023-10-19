@@ -24,7 +24,7 @@ description: ""
 * Address: 51 Sembawang Drive S(757699)
 * Contact No: 6758 5070
 * Email: canberra_ss@moe.edu.sg
-* Contact Person: Mdm Soh CC
+* Contact Person: Mdm Elaine Liew
 
 **How to get there?**
 * Nearest MRT: Sembawang MRT
