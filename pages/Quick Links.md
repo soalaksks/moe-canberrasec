@@ -12,6 +12,4 @@ description: ""
 <li><a href="https://www.seab.gov.sg/" target="_blank" rel="noopener">SEAB</a></li>
 <li><a href="http://schoolcockpit.moe.gov.sg/" target="_blank" rel="noopener">School Cockpit</a></li>
 <li><a href="https://form.gov.sg/61e955db679496001461b485" target="_blank" rel="noopener">School Website Content Update Record Form</a></li>
-<li><a href="https://intranet.moe.gov.sg/" target="_blank" rel="noopener">MOE Intranet</a></li>
-	<li><a href="https://sites.google.com/moe.edu.sg/ict-staff-resources/home" target="_blank" rel="noopener">ICT Resources for Staff</a></li>
-</ul>
+<li><a href="https://intranet.moe.gov.sg/" target="_blank" rel="noopener">MOE Intranet</a></li></ul>
