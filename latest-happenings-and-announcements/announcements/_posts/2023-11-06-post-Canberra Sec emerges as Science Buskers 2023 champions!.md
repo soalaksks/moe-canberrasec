@@ -19,5 +19,5 @@ Join us in congratulating our students, who have once again showcased the brilli
 | -------- | -------- | 
 | ![](/images/scibuskers1.jpg)     |  Witnessing how science and magic works together    | 
 |![](/images/scibuskers2.jpg)| We emerged as National Champion for Secondary Level!|
-|
-
+|![](/images/scibuskers3.jpg)| How ring smoke is form from the air pressure. |
+|![](/images/scibuskers4.jpg)| Grateful for the supports from the school leaders, teachers, school mates, seniors and the members of public, who has visited us!|
