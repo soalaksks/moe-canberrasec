@@ -3,7 +3,6 @@ title: Friends of Canberra
 permalink: /partners-of-canberra/friends-of-canberra/
 description: ""
 ---
-
 <ol>
 <li>Khoo Teck Puat Hospital</li>
 <li>Blossom Seeds</li>
