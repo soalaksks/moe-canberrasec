@@ -35,12 +35,9 @@ links:
         url: /partners-of-canberra/parent-support-group
       - title: Canberran Alumni
         url: /partners-of-canberra/canberran-alumni
-  - title: Quick Links
-    url: /portal
-    sublinks:
-      - title: Students
-        url: /students/class-allocation/
-      - title: Parents
-        url: /parents/letter-to-parents
-      - title: Teachers
-        url: /teachers/quick-links
+  - title: Current Students
+    url: /students/class-allocation/
+    sublinks: []
+  - title: Parent's Hub
+    url: /parents/letter-to-parents
+    sublinks: []
