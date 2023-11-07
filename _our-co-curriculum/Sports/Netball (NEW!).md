@@ -1,7 +1,8 @@
 ---
 title: Netball (NEW!)
 permalink: /our-co-curriculum/sports/netball/
-variant: tiptap
+variant: markdown
 description: ""
 third_nav_title: Sports
 ---
+More information coming soon!
