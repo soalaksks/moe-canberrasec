@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       url: /contact-us/
-      background: /images/071123 open house edited.gif
+      background: /images/website gif banner.gif
       key_highlights:
         - title: Canberra Secondary School Open House
           description: Join us on 25 November 2023!
