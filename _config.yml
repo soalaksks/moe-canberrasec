@@ -3,7 +3,7 @@ url: https://canberrasec.moe.edu.sg
 favicon: /images/css-logo.png
 colors:
   primary-color: "#2e5543"
-  secondary-color: "#ff0000"
+  secondary-color: "#800000"
   media-colors:
     - title: media-color-one
       color: "#200e96"
