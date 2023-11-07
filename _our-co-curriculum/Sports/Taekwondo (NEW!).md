@@ -1,7 +1,8 @@
 ---
 title: Taekwondo (NEW!)
 permalink: /our-co-curriculum/sports/taekwondo/
-variant: tiptap
+variant: markdown
 description: ""
 third_nav_title: Sports
 ---
+More information coming soon!
