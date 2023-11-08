@@ -36,7 +36,6 @@ links:
       - title: Canberran Alumni
         url: /partners-of-canberra/canberran-alumni
   - title: Current Students
-    url: /students/class-allocation/
-    sublinks: []
+    collection: students
   - title: Parent's Hub
     collection: parents
