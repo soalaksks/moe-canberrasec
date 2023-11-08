@@ -3,6 +3,7 @@ title: National Police Cadet Corp (NPCC)
 permalink: /discover-canberra/our-co-curriculum/uniformed-groups/national-police-cadet-corp-npcc/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 <h4><strong>Vision</strong></h4>
 <p><strong>The National Police Cadet Corp (NPCC) aims to develop our cadets into disciplined, responsible and contributive members of the school and greater community.</strong></p>
@@ -20,6 +21,8 @@ third_nav_title: Uniformed Groups
 <p>Mr Quek Yeow Chong</p>
 <p>Ms Olivia Ng</p>
 <p>Ms Felicia Lee</p>
+	<p>Mr Imarah Abas</p>
+	<p>Mr Jeremiah Tan</p>
 </td>
 </tr>
 <tr>
