@@ -3,6 +3,7 @@ title: National Cadet Corps (SEA)
 permalink: /discover-canberra/our-co-curriculum/uniformed-groups/national-cadet-corps-sea/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 <h4><strong>Vision</strong></h4>
 <p>The National Cadet Corps’ mission is to develop resourceful, responsible, resilient, loyal leaders and team players through fun and challenging military-related activities. We use the “Cadet Strong” framework: An NCC Cadet is “Cadet Strong”, with a resilient mind, fit body and committed heart.</p>
@@ -22,11 +23,8 @@ third_nav_title: Uniformed Groups
 </td>
 <td width="237">
 <p>Ms Siti Hajar</p>
-<p>Ms Sim Xiu Jun</p>
-<p>Miss Goh Shu Hui</p>
 <p>Ms Sanismah Norisham</p>
-<p>Ms Diyanah</p>
-<p>Mr Dominic</p>
+<p>Ms Diyanah Misdi</p>
 <p>Ms Sumaya</p>
 <p>Mr Tan Qi Guang</p>
 </td>
