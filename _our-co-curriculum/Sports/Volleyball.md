@@ -3,6 +3,7 @@ title: Volleyball
 permalink: /discover-canberra/our-co-curriculum/sports/volleyball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 <h4><strong>Vision</strong></h4>
 <p>The Canberra Secondary School Volleyball team aims to give the players the opportunity to improve themselves through Volleyball. Canberra Volleyball CCA provides our players with a positive and enjoyable experience and teaches them team work and sportsmanship through competition. Through rigorous training, we also seek to instil the right attitude of discipline and resilience.</p>
@@ -17,7 +18,8 @@ third_nav_title: Sports
 <p><strong>Teachers-In-Charge :</strong></p>
 </td>
 <td width="237">
-<p></p>
+<p>Ms Foong Yin Ping</p>
+	<p>Ms Julienne Pek</p>
 </td>
 </tr>
 <tr>
