@@ -39,5 +39,4 @@ links:
     url: /students/class-allocation/
     sublinks: []
   - title: Parent's Hub
-    url: /parents/letter-to-parents
-    sublinks: []
+    collection: parents
