@@ -3,6 +3,7 @@ title: National Civil Defence Cadet Corps (NCDCC)
 permalink: /discover-canberra/our-co-curriculum/uniformed-groups/national-civil-defence-cadet-corps-ncdcc/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 <h4><strong>Vision</strong></h4>
 <p>NCDCC’s curriculum focuses mainly on Triangle of Life Skills which include basic firefighting, first aid and CPR+AED. These are important lifesaving skills that can make a difference to save a life in times of needs.</p>
@@ -15,7 +16,6 @@ third_nav_title: Uniformed Groups
 <p><strong>Teachers-In-Charge :</strong></p>
 </td>
 <td width="237">
-<p>Mr Asyraf Khalid</p>
 <p>Ms Ginny Teh</p>
 <p>Ms Teo Qi Wen</p>
 <p>Ms Yusra</p>
