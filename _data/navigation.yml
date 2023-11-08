@@ -1,40 +1,11 @@
 logo: /images/logo_large.png
 links:
   - title: Our Canberra
-    url: /our-canberra/principals-foreword
-    sublinks:
-      - title: Principal's Foreword
-        url: /our-canberra/principals-foreword
-      - title: Canberra at a Glance
-        url: /our-canberra/canberra-at-a-glance/school-song
-      - title: Our Highlights
-        url: /our-canberra/our-highlights/school-student-achievements/
-      - title: School Advisory Committee
-        url: /our-canberra/school-advisory-committee/
-      - title: Our Staff
-        url: /our-canberra/our-staff
-      - title: Yearbook 2022
-        url: https://online.fliphtml5.com/imxpa/gitl/#p=1
-  - title: Discover Canberra
-    url: /discover-canberra/our-curriculum
-    sublinks:
-      - title: Our Curriculum
-        url: /discover-canberra/our-curriculum
-      - title: Our Co-Curriculum
-        url: /discover-canberra/our-co-curriculum
-      - title: Learning for Life (LLP)
-        url: /discover-canberra/learning-for-life-llp
-      - title: Applied Learning (ALP)
-        url: /discover-canberra/applied-learning-alp
-      - title: Leadership & Recognition
-        url: /discover-canberra/student-leadership-n-recognition
+    collection: our-canberra
+  - title: DIscover Canberra
+    collection: discover-canberra
   - title: Partners of Canberra
-    url: /partners-of-canberra/parent-support-group
-    sublinks:
-      - title: Parent Support Group
-        url: /partners-of-canberra/parent-support-group
-      - title: Canberran Alumni
-        url: /partners-of-canberra/canberran-alumni
+    collection: partners-of-canberra
   - title: Current Students
     collection: students
   - title: Parent's Hub
