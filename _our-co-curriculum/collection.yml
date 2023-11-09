@@ -2,7 +2,6 @@ collections:
   our-co-curriculum:
     output: true
     order:
-      - Our Co Curriculum.md
       - Sports/Shooting (Air Pistol) (NEW!).md
       - Sports/Taekwondo (NEW!).md
       - Sports/Netball (NEW!).md
