@@ -9,10 +9,11 @@ sections:
   - hero:
       url: /contact-us/
       background: /images/website gif banner.gif
-      key_highlights:
-        - title: Canberra Secondary School Open House
-          description: Join us on 25 November 2023!
-          url: ""
+  - infobar:
+      title: Join us at our Open House 2023 (Sat) 25 Nv 9am - 12.30 pm
+      id: infobar
+      button: Click here to access our microsite
+      url: https://sites.google.com/moe.edu.sg/visitcanberrasec
   - infopic:
       title: Why Canberra?
       description: In Canberra, we offer holistic education that not only focuses on
