@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Mother Tongue.md
       - Craft & Technology/.keep
       - Craft & Technology/Craft & Technology.md
       - Craft & Technology/Arts.md
