@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Mathematics.md
       - Science.md
       - Humanities.md
       - Mother Tongue.md
