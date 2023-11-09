@@ -2,6 +2,7 @@ collections:
   discover-canberra:
     output: true
     order:
+      - Our Curriculum.md
       - Our Curriculum/.keep
       - Learning for Life (LLP).md
       - Applied Learning (ALP).md
