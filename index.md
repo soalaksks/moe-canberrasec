@@ -12,8 +12,6 @@ sections:
   - infobar:
       title: Join us at our Open House 2023 (Sat) 25 Nov 9 am - 12.30 pm
       id: infobar
-      button: Click here to access our microsite
-      url: https://sites.google.com/moe.edu.sg/visitcanberrasec
   - infopic:
       title: Why Canberra?
       description: In Canberra, we offer holistic education that not only focuses on
