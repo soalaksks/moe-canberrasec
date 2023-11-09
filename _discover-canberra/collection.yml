@@ -2,6 +2,7 @@ collections:
   discover-canberra:
     output: true
     order:
+      - Our Curriculum/Mathematics.md
       - Our Curriculum/English Language & Literature.md
       - Our Curriculum/Our Curriculum.md
       - Our Curriculum/.keep
