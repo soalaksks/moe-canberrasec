@@ -10,7 +10,7 @@ sections:
       url: /contact-us/
       background: /images/website gif banner.gif
   - infobar:
-      title: Join us at our Open House 2023 (Sat) 25 Nov 9am - 12.30 pm
+      title: Join us at our Open House 2023 (Sat) 25 Nov 9 am - 12.30 pm
       id: infobar
       button: Click here to access our microsite
       url: https://sites.google.com/moe.edu.sg/visitcanberrasec
