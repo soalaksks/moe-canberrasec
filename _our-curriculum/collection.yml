@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Science.md
       - Humanities.md
       - Mother Tongue.md
       - Craft & Technology/.keep
