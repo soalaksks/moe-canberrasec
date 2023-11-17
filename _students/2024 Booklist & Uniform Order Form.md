@@ -6,11 +6,13 @@ description: ""
 ---
 #### 2024 Booklist
 
-| Level | |
+| Level | Class |
 | -------- | -------- | 
-|Secondary  1| |
+|Secondary 1| |
 |Secondary 2| |
 |Secondary 3| |
 |Secondary 4| |
 |Secondary 5| |
+
+#### 2024 School Uniform Order Form
 
