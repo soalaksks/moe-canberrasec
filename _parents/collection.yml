@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - FAQs.md
       - Learning for Life Programme.md
       - Personal Learning Device/.keep
       - Personal Learning Device/Personal Learning Device.md
