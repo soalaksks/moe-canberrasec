@@ -2,10 +2,10 @@ collections:
   students:
     output: true
     order:
-      - Guide to SLS Account Management.md
       - 2024 Booklist & Uniform Order Form.md
       - Class Allocation.md
       - Student Leadership & Recognition.md
       - Student Suggestion Scheme (3S).md
       - PLD Acceptable Use Policy.md
       - Library Online Public Access Catalogue (OPAC).md
+      - Guide to SLS Account Management.md
