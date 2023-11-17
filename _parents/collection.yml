@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - FAQs.md
       - Learning for Life Programme.md
       - Personal Learning Device/.keep
       - Personal Learning Device/Personal Learning Device.md
@@ -16,3 +15,4 @@ collections:
       - DSA/Direct School Admission (DSA) 2024.md
       - DSA/Applied Learning Programme.md
       - Leave Of Absence (LOA).md
+      - FAQs.md
