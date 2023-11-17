@@ -2,9 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Letters to Parents.md
-      - Leave Of Absence (LOA).md
-      - Sexuality Education.md
       - Learning for Life Programme.md
       - Personal Learning Device/.keep
       - Personal Learning Device/Personal Learning Device.md
@@ -13,9 +10,9 @@ collections:
       - Personal Learning Device/PLD Information Kit.md
       - Cyberwellness Guides.md
       - School Family Education (SFE).md
+      - Sexuality Education.md
       - DSA/.keep
       - DSA/Direct School Admission (DSA) 2024.md
       - DSA/Applied Learning Programme.md
-      - Quick Links/.keep
-      - Quick Links/FAQs.md
-      - Quick Links/Quick Links.md
+      - Leave Of Absence (LOA).md
+      - Frequently Asked Questions.md
