@@ -3,9 +3,14 @@ title: Mission and Vision
 permalink: /our-canberra/canberra-at-a-glance/mission-and-vision/
 description: ""
 third_nav_title: Canberra at a Glance
+variant: markdown
 ---
+#### SCHOOL VISION
+Our school's vision is to nurture a community of Grateful, Respectful, and Compassionate individuals who are appreciative of the world around them, respectful of one another's differences and perspectives, and compassionate in their actions towards those in need. Through this vision, we aim to develop responsible, empathetic, kind, and socially conscious individuals who, as they grow and learn, will make a positive impact on their communities and the broader society.
 
-<h3><strong>VISION</strong></h3><p>Grateful, Respectful and Compassionate Canberrans</p>
-<h3><strong>MISSION</strong></h3><p>Care. Aspire. Nurture.</p>
-<h3><strong>VALUES</strong></h3><p>Gratitude<br />Respect<br />Compassion</p>
-<p><strong>Strategic Thrust 1 :<br /></strong>Cultivating Good Character<br /><br /><strong>Strategic Thrust 2 :<br /></strong>Achieving Aspirations<br /><br /><strong>Strategic Thrust 3 :<br /></strong>Nurturing Competent Staff</p>
+#### SCHOOL MISSION
+Our school's mission is to Care for every student, staff and the community. We Aspire to cultivate a culture of lifelong learning, where students are encouraged to pursue their aspirations and work diligently to achieve them. Through our commitment to excellence and innovation, we aim to Nurture the intellectual, social, and emotional growth of our students, providing them with the tools and support necessary to succeed academically and personally.
+
+#### SCHOOL MOTTO
+The motto “Challenge, Conquer & Contribute” serves as the school’s key guiding principle in our cultivation of the moral character of students to “Challenge their potential; Conquer their aspirations; and Contribute to society”.
+
