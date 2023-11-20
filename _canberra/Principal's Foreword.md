@@ -14,11 +14,11 @@ School Philosophy, Culture and Ethos :
 
 Guided by our School Motto of “Challenge your potential; Conquer your aspirations; and Contribute to society”, , our school's vision is to nurture a community of Grateful, Respectful, and Compassionate individuals who are appreciative of the world around them, respectful of one another's differences and perspectives, and compassionate in their actions towards those in need. Through this vision, we aim to develop responsible, empathetic, kind, and socially conscious individuals who, as they grow and learn, will make a positive impact on their communities and the broader society.
 
-We Lead, Care, Inspire,
-For the Future of the Nation Passes through our Hands.
+</p><h4 style="text-align: center;">We Lead, Care, Inspire,
+For the Future of the Nation Passes through our Hands. </h4>
 
 And this is what we are committed to do.<br>
 Thank you.
 <br><br>
 Mr Leong Kok Kee<br>
-Principal</p>
+Principal<p></p>
