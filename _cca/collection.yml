@@ -1,5 +1,5 @@
 collections:
-  our-co-curriculum:
+  cca:
     output: true
     order:
       - Sports/Shooting (Air Pistol) (NEW!).md
