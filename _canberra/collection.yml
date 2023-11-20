@@ -2,6 +2,7 @@ collections:
   canberra:
     output: true
     order:
+      - School Logo.md
       - Principal's Message & School Philosophy.md
       - Vision, Mission & Motto.md
       - Canberra at a Glance/.keep
