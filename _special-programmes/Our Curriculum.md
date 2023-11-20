@@ -2,7 +2,12 @@
 title: Our Curriculum
 permalink: /discover-canberra/our-curriculum/
 description: ""
+variant: markdown
 ---
+   
+
+Canberra Secondary offers a rigorous academic programme and comprehensive range of student development programmes that are well-aligned to MOE's Framework for 21st CC skills and values inculcation. The school develops students to be grateful, respectful and compassionate, by providing students opportunities to serve the community alongside teachers on a regular basis. Furthermore, our Global Canberran Programme\-Overseas Service Learning aims to inculcate the value of compassion through active contribution to the global community.
+
 |  |  |  
 | :--------: | :--------: | 
 |   <a href="https://moe-canberrasec-staging.netlify.app/discover-canberra/our-curriculum/english-language-n-literature"><img src="/images/english.png" width="363px" height="261px"></a><br><strong>English Language &amp; Literature</strong>   |   <a href="https://moe-canberrasec-staging.netlify.app/discover-canberra/our-curriculum/mathematics"><img src="/images/mathematics.png" width="363px" height="261px"></a><br><strong>Mathematics</strong>   |  
