@@ -2,7 +2,7 @@ collections:
   canberra:
     output: true
     order:
-      - Principal's Foreword.md
+      - Principal's Message & School Philosophy.md
       - Canberra at a Glance/.keep
       - Canberra at a Glance/School Song.md
       - Canberra at a Glance/School Logo.md
