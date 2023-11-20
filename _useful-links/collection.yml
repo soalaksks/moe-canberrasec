@@ -1,5 +1,5 @@
 collections:
-  students:
+  useful-links:
     output: true
     order:
       - 2024 Booklist & Uniform Order Form.md
