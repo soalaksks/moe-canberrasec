@@ -2,6 +2,7 @@ collections:
   canberra:
     output: true
     order:
+      - School Publications & Open House 2023.md
       - Principal's Foreword.md
       - Canberra at a Glance/.keep
       - Canberra at a Glance/School Song.md
