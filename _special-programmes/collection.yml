@@ -1,5 +1,5 @@
 collections:
-  discover-canberra:
+  special-programmes:
     output: true
     order:
       - Our Curriculum.md
