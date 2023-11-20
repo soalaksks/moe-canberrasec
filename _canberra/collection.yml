@@ -1,0 +1,11 @@
+collections:
+  canberra:
+    output: true
+    order:
+      - Principal's Message & School Philosophy.md
+      - Vision, Mission & Motto.md
+      - School Crest & School Song.md
+      - School Advisory Committee.md
+      - Our Staff.md
+      - School Publications & Open House 2023.md
+      - Locate Us.md

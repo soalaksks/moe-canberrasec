@@ -1,0 +1,10 @@
+collections:
+  our-partners:
+    output: true
+    order:
+      - School Accolades.md
+      - Parent Support Group/.keep
+      - Parent Support Group/Parent Support Group.md
+      - Parent Support Group/Invitation to attend Breakfast Dialogue Session
+        with School Leaders on 7 Mar 2023.md
+      - Canberran Alumni.md

@@ -1,0 +1,13 @@
+collections:
+  special-programmes:
+    output: true
+    order:
+      - Applied Learning (ALP).md
+      - Learning for Life (LLP).md
+      - Student Leadership & Recognition.md
+      - Cyberwellness Guides.md
+      - Personal Learning Device & Policy.md
+      - Sexuality Education.md
+      - Guide to SLS Account Management.md
+      - Student Suggestion Scheme (3S).md
+      - Our Curriculum.md
