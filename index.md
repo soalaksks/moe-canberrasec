@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       url: /contact-us/
-      background: /images/website gif banner.gif
+      background: /images/Open_House_2023.gif
       variant: center
   - infobar:
       title: Join us at our Open House on 25 Nov 2023 (Sat) 9am - 12.30pm
