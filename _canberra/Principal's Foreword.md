@@ -20,4 +20,4 @@ And this is what we are committed to do.<br><br>
 Thank you.
 <br><br>
 Mr Leong Kok Kee<br>
-Principal&lt;
+Principal
