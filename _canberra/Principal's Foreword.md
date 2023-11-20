@@ -8,7 +8,6 @@ variant: markdown
 <p>
 Happy New Year and a warm welcome to you and family to the Canberran Community. I would like to place on record our appreciation to Principal Mr Ng Tiong Nam for his leadership at Canberra Secondary (2017 – 2022) and wish him all the best as he assumes his new appointment from 2023 as Principal, Broadrick Secondary School. I am honoured to join Canberra Secondary as its fifth Principal and I look forward to working in partnership with all parents/guardians as we nurture our students to be Grateful, Respectful and Compassionate Canberrans.
 <br>
-	   
 
 School Philosophy, Culture and Ethos :
 
@@ -17,7 +16,7 @@ Guided by our School Motto of “Challenge your potential; Conquer your aspirati
 </p><h4 style="text-align: center;">We Lead, Care, Inspire,<br>
 For the Future of the Nation Passes through our Hands. </h4>
 
-And this is what we are committed to do.<br>
+And this is what we are committed to do.<br><br>
 Thank you.
 <br><br>
 Mr Leong Kok Kee<br>
