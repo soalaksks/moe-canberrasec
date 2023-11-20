@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Family Education (SFE).md
-      - Sexuality Education.md
       - DSA/.keep
       - DSA/Direct School Admission (DSA) 2024.md
       - DSA/Applied Learning Programme.md
