@@ -1,5 +1,5 @@
 collections:
-  partners-of-canberra:
+  our-partners:
     output: true
     order:
       - School Accolades.md
