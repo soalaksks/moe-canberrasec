@@ -13,8 +13,8 @@ Happy New Year and a warm welcome to you and family to the Canberran Community. 
 
 Guided by our School Motto of “Challenge your potential; Conquer your aspirations; and Contribute to society”, , our school's vision is to nurture a community of Grateful, Respectful, and Compassionate individuals who are appreciative of the world around them, respectful of one another's differences and perspectives, and compassionate in their actions towards those in need. Through this vision, we aim to develop responsible, empathetic, kind, and socially conscious individuals who, as they grow and learn, will make a positive impact on their communities and the broader society.
 
-</p><h4 style="text-align: center;">We Lead, Care, Inspire,<br>
-For the Future of the Nation Passes through our Hands. </h4>
+</p><h3 style="text-align: center;">We Lead, Care, Inspire,<br>
+For the Future of the Nation Passes through our Hands. </h3>
 
 And this is what we are committed to do.<br><br>
 Thank you.
