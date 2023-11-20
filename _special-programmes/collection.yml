@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Curriculum.md
-      - Our Co Curriculum.md
       - Learning for Life (LLP).md
       - Applied Learning (ALP).md
       - Student Leadership & Recognition.md
