@@ -10,5 +10,5 @@ variant: markdown
 <p>More details on procurement, funding and other administrative matters will be provided to the 2023 Secondary 1 parents in early January 2023.</p>
 
 * [Parent Handbook (I) on Learning with a Personal Learning Device 2023](/files/IP2%20-%20Parent%20Handbook%20(I)%20on%20Learning%20with%20a%20PLD_2023.pdf)
-
 * [Parent Handbook (II) on Learning with a Personal Learning Device 2023](/files/Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf)
+* [PLD Information Kit 2023](/files/PLD%20Information%20Kit.pdf)
