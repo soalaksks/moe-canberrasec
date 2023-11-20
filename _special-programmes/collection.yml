@@ -2,9 +2,9 @@ collections:
   special-programmes:
     output: true
     order:
-      - Personal Learning Device.md
-      - Cyberwellness Guides.md
       - Applied Learning (ALP).md
       - Learning for Life (LLP).md
       - Student Leadership & Recognition.md
+      - Personal Learning Device.md
+      - Cyberwellness Guides.md
       - Our Curriculum.md
