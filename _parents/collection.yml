@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Learning for Life Programme.md
       - School Family Education (SFE).md
       - Sexuality Education.md
       - DSA/.keep
