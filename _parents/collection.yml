@@ -1,5 +1,4 @@
 collections:
   parents:
     output: true
-    order:
-      - School Family Education (SFE).md
+    order: []
