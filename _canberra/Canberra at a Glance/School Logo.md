@@ -3,10 +3,12 @@ title: School Logo
 permalink: /our-canberra/canberra-at-a-glance/school-logo/
 description: ""
 third_nav_title: Canberra at a Glance
+variant: markdown
 ---
-
-<img src="/images/css-logo.png" 
-     style="width:50%">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/7ZuMp0sxHoA?si=4wU8lol3i-w0hzlH" height="315" width="560"></iframe>
+<br>
+<br>
+<img src="/images/css-logo.png" style="width:50%">
 
 <p>Our logo consists of the 3 Cs:<br><strong>Challenge</strong>,&nbsp;<strong>Conquer</strong>&nbsp;and <strong>Contribute</strong></p>
 <p>There's also the letter 'i' which stands for Information Technology and Innovation</p>
