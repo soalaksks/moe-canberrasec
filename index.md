@@ -23,6 +23,6 @@ sections:
       alt: Image alt text
       image: /images/homepage_2.png
   - resources:
-      title: Latest Happenings and Announcements
+      title: School Happenings & Special Programmes
       button: VIEW MORE
 ---
