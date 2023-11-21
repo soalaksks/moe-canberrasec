@@ -2,19 +2,12 @@
 title: Learning for Life (LLP)
 permalink: /programmes/learning-for-life-llp/
 description: ""
-variant: tiptap
+variant: markdown
 ---
-<p><img style="width: 75%;" src="/images/LLP-1.jpg">
-</p><div>
-<div style="float: right">
-Scan for video on the L.I.F.E curriculum
-<img src="/images/LIFE%20Curriculum%20(QR%20Code).png" style="width: 50%; height: 50%">
-</div>
-<div>
 <p><strong>The L.I.F.E Curriculum – 4 powerful life lessons</strong></p>
 <p>At Canberra, students’ learning for life begins with learning about life through a series of specially-curated lessons and experiences about the 4 stages of one’s life – namely; Life (birth), Infirmed, Frail and End-in-mind (Legacy mindset).</p>
-</div>
-</div>
+
+
 <br>
 <table>
 <tbody>
