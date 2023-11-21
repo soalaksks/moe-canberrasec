@@ -9,7 +9,10 @@ variant: markdown
 <table border="0" cellspacing="5" cellpadding="0">
 		<tbody>
 			<tr><td>
-			</td></tr><tr><td>We are very delighted to share that one of our alumni, Muhammad Cairel Bin Razali from 5N2 (Class of 2015), graduated from ITE as one of the top graduates in 2023.
+				Two of our Secondary 1 student represented the school at the Bulky Waste to Wonder Competition 2023 award ceremony and exhibition held at the National Gallery of Singapore. Their designs have won the top awards based on creativity, functionality, and sustainability.
+<img src="/images/waste2wonder1.jpg"><br>
+			</td></tr>
+			<tr><td>We are very delighted to share that one of our alumni, Muhammad Cairel Bin Razali from 5N2 (Class of 2015), graduated from ITE as one of the top graduates in 2023.
 				<br><br>Cairel was conferred the Singapore Business Federation (SBF) Gold Medal at the ITE Graduation Ceremony 2023. The SBF Gold Medal is awarded to a top graduate of the Technical Engineering Diploma/Technical Diploma Programme for outstanding course performance. He was also Valedictorian of the Class of 2023.
 				<br><br>Cairel will be pursuing a Master's in Culinary Leadership and Innovation at Institut Lyfe, in France.
 				<br><br>
