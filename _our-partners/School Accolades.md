@@ -9,6 +9,11 @@ variant: markdown
 <table border="0" cellspacing="5" cellpadding="0">
 		<tbody>
 			<tr><td>
+				Two groups of CL students attended an award ceremony at Xinmin Secondary School to celebrate their success in this year’s Create Your Own Newspaper Competition. They were awarded with the top prizes for both lower and upper secondary categories. <br>
+				<img src="/images/newspapercomp4.jpg"><br>
+				<img src="/images/newspapercomp5.jpg"><br>
+				</td></tr>
+			<tr><td>
 				<h5>We are thrilled to announce that our talented students have emerged as the CHAMPIONS of the Science Buskers Festival!</h5>
 
 With their creative and engaging science demonstrations, they not only captured the hearts of the audiences and judges but also the coveted 1st place in the secondary schools’ category.
