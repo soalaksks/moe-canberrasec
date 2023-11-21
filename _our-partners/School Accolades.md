@@ -9,7 +9,7 @@ variant: markdown
 <table border="0" cellspacing="5" cellpadding="0">
 		<tbody>
 			<tr><td>
-				Two groups of CL students attended an award ceremony at Xinmin Secondary School to celebrate their success in this year’s Create Your Own Newspaper Competition. They were awarded with the top prizes for both lower and upper secondary categories. <br>
+				Two groups of CL students attended an award ceremony at Xinmin Secondary School to celebrate their success in this year’s Create Your Own Newspaper Competition. They were awarded with the top prizes for both lower and upper secondary categories. <br><br>
 				<img src="/images/newspapercomp4.jpg"><br>
 				<img src="/images/newspapercomp5.jpg"><br>
 				</td></tr>
@@ -20,10 +20,10 @@ With their creative and engaging science demonstrations, they not only captured 
 
 From mind-boggling experiments to captivating explanations, our Science Buskers left no stone unturned in making science fun and accessible to all. Their hard work, dedication, and enthusiasm truly paid off.
 
-Join us in congratulating our students, who have once again showcased the brilliance and potential of our school's young scientists.<br>
+Join us in congratulating our students, who have once again showcased the brilliance and potential of our school's young scientists.<br><br>
 				<img src="/images/scibuskers2.jpg"><br>
 			</td></tr><tr><td>
-				Two of our Secondary 1 student represented the school at the Bulky Waste to Wonder Competition 2023 award ceremony and exhibition held at the National Gallery of Singapore. Their designs have won the top awards based on creativity, functionality, and sustainability.
+				Two of our Secondary 1 student represented the school at the Bulky Waste to Wonder Competition 2023 award ceremony and exhibition held at the National Gallery of Singapore. Their designs have won the top awards based on creativity, functionality, and sustainability.<br><br>
 <img src="/images/waste2wonder1.jpg"><br>
 			</td></tr>
 			<tr><td>We are very delighted to share that one of our alumni, Muhammad Cairel Bin Razali from 5N2 (Class of 2015), graduated from ITE as one of the top graduates in 2023.
