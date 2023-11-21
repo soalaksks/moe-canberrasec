@@ -1,5 +1,5 @@
 ---
-title: ALP at Canberra Secondary School
+title: Applied Learning Programme (ALP) at Canberra Sec
 permalink: /latest-happenings-and-announcements/announcements/canberra-alp/
 date: 2023-11-20
 layout: post

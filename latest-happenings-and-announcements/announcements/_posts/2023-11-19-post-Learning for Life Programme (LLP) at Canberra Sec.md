@@ -1,6 +1,6 @@
 ---
-title: "LIFE Curriculum: our LLP at Canberra Secondary School"
-permalink: /latest-happenings-and-announcements/announcements/life-curriculum/
+title: Learning for Life Programme (LLP) at Canberra Sec
+permalink: /latest-happenings-and-announcements/announcements/canberra-llp/
 date: 2023-11-19
 layout: post
 description: ""

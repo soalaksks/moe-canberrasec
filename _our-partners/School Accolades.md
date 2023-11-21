@@ -2,12 +2,30 @@
 title: School Accolades
 permalink: /our-partners/school-accolades/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <div>
 	<h3>2023</h3>
 <table border="0" cellspacing="5" cellpadding="0">
 		<tbody>
+			<tr><td>
+				Two groups of CL students attended an award ceremony at Xinmin Secondary School to celebrate their success in this year’s Create Your Own Newspaper Competition. They were awarded with the top prizes for both lower and upper secondary categories. <br><br>
+				<img style="width:50%" src="/images/newspapercomp4.jpg"><br>
+				<img style="width:50%" src="/images/newspapercomp5.jpg"><br>
+				</td></tr>
+			<tr><td>
+				<h5>We are thrilled to announce that our talented students have emerged as the CHAMPIONS of the Science Buskers Festival!</h5>
+
+With their creative and engaging science demonstrations, they not only captured the hearts of the audiences and judges but also the coveted 1st place in the secondary schools’ category.
+
+From mind-boggling experiments to captivating explanations, our Science Buskers left no stone unturned in making science fun and accessible to all. Their hard work, dedication, and enthusiasm truly paid off.
+
+Join us in congratulating our students, who have once again showcased the brilliance and potential of our school's young scientists.<br><br>
+				<img style="width:50%" src="/images/scibuskers2.jpg"><br>
+			</td></tr><tr><td>
+				Two of our Secondary 1 student represented the school at the Bulky Waste to Wonder Competition 2023 award ceremony and exhibition held at the National Gallery of Singapore. Their designs have won the top awards based on creativity, functionality, and sustainability.<br><br>
+<img style="width:50%" src="/images/waste2wonder1.jpg"><br>
+			</td></tr>
 			<tr><td>We are very delighted to share that one of our alumni, Muhammad Cairel Bin Razali from 5N2 (Class of 2015), graduated from ITE as one of the top graduates in 2023.
 				<br><br>Cairel was conferred the Singapore Business Federation (SBF) Gold Medal at the ITE Graduation Ceremony 2023. The SBF Gold Medal is awarded to a top graduate of the Technical Engineering Diploma/Technical Diploma Programme for outstanding course performance. He was also Valedictorian of the Class of 2023.
 				<br><br>Cairel will be pursuing a Master's in Culinary Leadership and Innovation at Institut Lyfe, in France.

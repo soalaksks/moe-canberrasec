@@ -1,5 +1,5 @@
 ---
-title: Highlights of Canberra Secondary School
+title: Canberra Secondary School Corporate Video
 permalink: /latest-happenings-and-announcements/announcements/canberra-highlights/
 date: 2023-11-21
 layout: post
