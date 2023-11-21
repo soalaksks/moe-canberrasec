@@ -1,6 +1,6 @@
 ---
 title: Volleyball
-permalink: /discover-canberra/our-co-curriculum/sports/volleyball/
+permalink: /cca/sports/volleyball/
 description: ""
 third_nav_title: Sports
 variant: markdown

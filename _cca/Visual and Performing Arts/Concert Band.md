@@ -1,8 +1,9 @@
 ---
 title: Concert Band
-permalink: /discover-canberra/our-co-curriculum/visual-and-performing-arts/concert-band/
+permalink: /cca/visual-and-performing-arts/concert-band/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: tiptap
 ---
 <h4><strong>Vision</strong></h4>
 <p>The main objectives of the Concert Band are to provide members with the skills to perform for various occasions and to build up their self-confidence. Also, we want to create opportunities for developing and enhancing the leadership potential of our members.</p>

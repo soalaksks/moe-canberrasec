@@ -1,7 +1,8 @@
 ---
 title: CCA Schedule
-permalink: /discover-canberra/our-co-curriculum/cca-schedule/
+permalink: /cca/cca-schedule/
 description: ""
+variant: tiptap
 ---
 <table border="1" width="95%">
 <tbody>

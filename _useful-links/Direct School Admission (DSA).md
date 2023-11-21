@@ -1,6 +1,6 @@
 ---
 title: Direct School Admission (DSA)
-permalink: /parents/dsa/direct-school-admission-dsa/
+permalink: /direct-school-admission-dsa/
 description: ""
 variant: tiptap
 ---

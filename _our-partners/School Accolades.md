@@ -1,6 +1,6 @@
 ---
 title: School Accolades
-permalink: /our-canberra/our-highlights/school-accolades/
+permalink: /our-partners/school-accolades/
 description: ""
 variant: tiptap
 ---

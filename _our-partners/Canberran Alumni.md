@@ -1,11 +1,10 @@
 ---
 title: Canberran Alumni
-permalink: /partners-of-canberra/canberran-alumni/
+permalink: /our-partners/canberran-alumni/
 description: ""
+variant: tiptap
 ---
-
-<img src="/images/calogo.jpg" 
-     style="width:60%">
+<img src="/images/calogo.jpg" style="width:60%">
 
 <p>Canberran Alumni plays an important role in enhancing the overall quality of education in Canberra Secondary School. The school collaborates with Canberran Alumni in order to leverage on their resources to create more opportunities to develop the potential of our students.</p>
 <p>The Alumni members have been very supportive of the school activities. They provided great support to Sports Fest and Good Health, Great Living @ Canberra as game officials and participants. The Alumni members had organised the Prom Night 2015 for the graduating students and were involved in major school events, such as Lunar New Year celebrations, Sports Fest and Canberran Nights.</p>
@@ -22,7 +21,7 @@ description: ""
 <tr>
 <td>Dennis Goh Jiong Yu</td>
 <td>President &amp; Community Service, Head</td>
-<td>GRC are values that are ageless and important for one&rsquo;s moral compass.</td>
+<td>GRC are values that are ageless and important for one’s moral compass.</td>
 </tr>
 <tr>
 <td>Joseph Quek Jie Hui</td>
@@ -60,7 +59,7 @@ description: ""
 <td>Cheyenne Yam</td>
 <td>Marketing Executive</td>
 <td>
-<div>GRC are a set of values that lies close to my heart. Ever since it has been introduced in the school, I&rsquo;ve been applying it into my daily life.</div>
+<div>GRC are a set of values that lies close to my heart. Ever since it has been introduced in the school, I’ve been applying it into my daily life.</div>
 </td>
 </tr>
 <tr>
@@ -78,3 +77,4 @@ description: ""
 </tr>
 </tbody>
 </table>
+</div>

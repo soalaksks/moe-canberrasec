@@ -1,7 +1,8 @@
 ---
 title: Our Co Curriculum
-permalink: /discover-canberra/our-co-curriculum/
+permalink: /cca/
 description: ""
+variant: tiptap
 ---
 <table><tbody><tr><td><p><a href="https://moe-canberrasec-staging.netlify.app/discover-canberra/our-co-curriculum/sports/badminton">
 <img src="/images/cca_sports.png">

@@ -1,6 +1,6 @@
 ---
 title: Taekwondo (NEW!)
-permalink: /our-co-curriculum/sports/taekwondo/
+permalink: /cca/sports/taekwondo/
 variant: markdown
 description: ""
 third_nav_title: Sports

@@ -1,11 +1,9 @@
 ---
 title: Our Curriculum
-permalink: /discover-canberra/our-curriculum/
+permalink: /programmes/our-curriculum/
 description: ""
 variant: markdown
 ---
-   
-
 Canberra Secondary offers a rigorous academic programme and comprehensive range of student development programmes that are well-aligned to MOE's Framework for 21st CC skills and values inculcation. The school develops students to be grateful, respectful and compassionate, by providing students opportunities to serve the community alongside teachers on a regular basis. Furthermore, our Global Canberran Programme\-Overseas Service Learning aims to inculcate the value of compassion through active contribution to the global community.
 
 |  |  |  

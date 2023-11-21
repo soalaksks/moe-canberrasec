@@ -1,8 +1,9 @@
 ---
 title: Dance Club
-permalink: /discover-canberra/our-co-curriculum/visual-and-performing-arts/dance-club/
+permalink: /cca/visual-and-performing-arts/dance-club/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: tiptap
 ---
 <h4><strong>CCA Vision/Training Programme for 2023</strong></h4>
 <p>The Dance Club hopes to inculcate in our dancers a love for the arts, a spirit of teamwork and responsibility as well as commitment to whatever they do. Through dance, the values of group work, mutual respect, tolerance and continuous progress towards perfection are inculcated.</p>

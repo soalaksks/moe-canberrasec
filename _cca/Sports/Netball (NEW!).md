@@ -1,6 +1,6 @@
 ---
 title: Netball (NEW!)
-permalink: /our-co-curriculum/sports/netball/
+permalink: /cca/sports/netball/
 variant: markdown
 description: ""
 third_nav_title: Sports

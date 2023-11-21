@@ -1,9 +1,9 @@
 ---
 title: Student Leadership & Recognition
-permalink: /discover-canberra/student-leadership-n-recognition/
+permalink: /programmes/student-leadership-n-recognition/
 description: ""
+variant: tiptap
 ---
-
 <p><strong>STUDENT LEADERSHIP DEVELOPMENT FRAMEWORK</strong>
 </p>
 <p><strong>Introduction</strong></p>
@@ -23,12 +23,12 @@ description: ""
 <li>To improve the status of student leaders in the school by providing more recognition of student leaders among the student population.</li>
 </ul>
 <p><strong>SL FRAMEWORK</strong></p>
-<p><img style="width: 75%;" src="/images/sl-framework.png" />
-<p>A framework, in the form of a concentric circle, provides the structure for leadership development. This framework assumes that every student has leadership potential, and opportunities and training in leadership will be provided for each Canberran. All the student leaders will be involved in leadership development activities which centre about the ethos of shared leadership and servant leadership. It also comprises of the leadership skills and attributes that they will develop gradually.</p>
-<p>Right in the centre is the Beginning Leaders &ndash; this comprises the Secondary One students and PSLs who will embrace self-leadership skills. This will enable students to appreciate that integrity, personal responsibility and self-discipline are vital to becoming an effective leader. At this stage, they would learn to take up a supportive role to the school.</p>
-<p>From the centre, the next circle is the Peer Leaders &ndash; this comprises the Secondary Two students and councillors. This segment focuses on peer leadership, whereby students understand the importance of teamwork and build up confidence to lead small teams. At Secondary Two, the student leaders would then challenge their potential to become a confident leader who can assist their team leaders in the planning and execution of events.</p>
-<p>From this second circle, the next circle is the Promising Leaders &ndash; this comprises the Secondary Three students, Student Council Executive Committee members and the CCA leaders. This segment pivots about project leadership, where students build up resilience, task and people management skills to solve problems positively. At Secondary Three, the student leaders would then conquer their aspirations with all the knowledge and skills they have acquired over the years. They would lead their respective teams to contribute to the school.</p>
-<p>From the third circle, the outermost circle is the Mentoring Leaders &ndash; this comprises the Secondary Four and Five students. This segment focuses on team development whereby students will be empowered with influencing and mentoring skills who would then lead the juniors to contribute to the school and community.</p>
+<p><img style="width: 75%;" src="/images/sl-framework.png">
+</p><p>A framework, in the form of a concentric circle, provides the structure for leadership development. This framework assumes that every student has leadership potential, and opportunities and training in leadership will be provided for each Canberran. All the student leaders will be involved in leadership development activities which centre about the ethos of shared leadership and servant leadership. It also comprises of the leadership skills and attributes that they will develop gradually.</p>
+<p>Right in the centre is the Beginning Leaders – this comprises the Secondary One students and PSLs who will embrace self-leadership skills. This will enable students to appreciate that integrity, personal responsibility and self-discipline are vital to becoming an effective leader. At this stage, they would learn to take up a supportive role to the school.</p>
+<p>From the centre, the next circle is the Peer Leaders – this comprises the Secondary Two students and councillors. This segment focuses on peer leadership, whereby students understand the importance of teamwork and build up confidence to lead small teams. At Secondary Two, the student leaders would then challenge their potential to become a confident leader who can assist their team leaders in the planning and execution of events.</p>
+<p>From this second circle, the next circle is the Promising Leaders – this comprises the Secondary Three students, Student Council Executive Committee members and the CCA leaders. This segment pivots about project leadership, where students build up resilience, task and people management skills to solve problems positively. At Secondary Three, the student leaders would then conquer their aspirations with all the knowledge and skills they have acquired over the years. They would lead their respective teams to contribute to the school.</p>
+<p>From the third circle, the outermost circle is the Mentoring Leaders – this comprises the Secondary Four and Five students. This segment focuses on team development whereby students will be empowered with influencing and mentoring skills who would then lead the juniors to contribute to the school and community.</p>
 <p><strong>LEADERSHIP TRAITS, ATTRIBUTES, VALUES AND SKILLS</strong></p>
 <p>At the end of their secondary school education, each Canberran, whether she is a leader or otherwise, would be able to develop and manifest the following SEL competencies and leadership attributes &amp; skills:</p>
 <div>
@@ -92,7 +92,7 @@ description: ""
 <tr>
 <td>&nbsp;Secondary 1: Self-Leadership</td>
 <td>&nbsp;To be a Responsible and self-directed learner, with Integrity</td>
-<td>Self-discipline Personal responsibility<br />Integrity</td>
+<td>Self-discipline Personal responsibility<br>Integrity</td>
 </tr>
 <tr>
 <td>Secondary 2: Peer Leadership</td>
@@ -102,7 +102,7 @@ description: ""
 <tr>
 <td>&nbsp;Secondary 3: Project Leadership&nbsp;</td>
 <td> Be a Resilient leader who can act as the voice of the student body and conquer their aspirations to contribute to the school&nbsp;</td>
-<td>Resilience<br />Task and people management skills </td>
+<td>Resilience<br>Task and people management skills </td>
 </tr>
 <tr>
 <td>&nbsp;Secondary 4/5: Team development&nbsp;</td>

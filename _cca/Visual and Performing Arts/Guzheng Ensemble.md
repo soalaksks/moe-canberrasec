@@ -1,8 +1,9 @@
 ---
 title: Guzheng Ensemble
-permalink: /discover-canberra/our-co-curriculum/visual-and-performing-arts/guzheng-ensemble/
+permalink: /cca/visual-and-performing-arts/guzheng-ensemble/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: tiptap
 ---
 <h4><strong>Vision</strong></h4>
 <p>The Guzheng Ensemble aims to allow members to experience and develop an interest in music making and appreciation. In addition, members are also equipped with the skills and techniques to perform for various events and competitions. Through these performances, members not only learn the importance of team spirit, they also become more confident.</p>

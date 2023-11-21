@@ -1,6 +1,6 @@
 ---
 title: National Cadet Corps (SEA)
-permalink: /discover-canberra/our-co-curriculum/uniformed-groups/national-cadet-corps-sea/
+permalink: /cca/uniformed-groups/national-cadet-corps-sea/
 description: ""
 third_nav_title: Uniformed Groups
 variant: markdown

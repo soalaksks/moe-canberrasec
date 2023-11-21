@@ -1,7 +1,8 @@
 ---
 title: Leave Of Absence (LOA)
-permalink: /parents/leave-of-absence/
+permalink: /leave-of-absence/
 description: ""
+variant: tiptap
 ---
 Singaporeans who are planning to go overseas for work or related concerns may reserve places for their children in their current school under the Leave of Absence (LOA) Scheme. Upon their return to Singapore the children can be readmitted directly to their schools.
 

@@ -1,6 +1,6 @@
 ---
 title: Personal Learning Device & Policy
-permalink: /parents/pld-and-policy/
+permalink: /programmes/pld-and-policy/
 description: ""
 variant: markdown
 ---

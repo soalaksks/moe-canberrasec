@@ -1,8 +1,9 @@
 ---
 title: Badminton
-permalink: /discover-canberra/our-co-curriculum/sports/badminton/
+permalink: /cca/sports/badminton/
 description: ""
 third_nav_title: Sports
+variant: tiptap
 ---
 <h4><strong>Vision</strong></h4>
 <p>The Badminton Team aims to inculcate values of respect, fair play and sportsmanship in our players and to enhance their resilience and tenacity so that these qualities will serve them well in future in all aspect of their lives. We also want our students to demonstrate the R3ICH (Resilience, Respect, Responsibility, Integrity, Care and Harmony) values, Olympic values (Friendship, Respect and&nbsp;Excellence) and discipline.</p>

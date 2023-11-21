@@ -1,7 +1,8 @@
 ---
 title: Sexuality Education
-permalink: /parents/quick-links/sexuality-education/
+permalink: /programmes/sexuality-education/
 description: ""
+variant: tiptap
 ---
 <h4>MOE SEXUALITY EDUCATION IN SCHOOLS</h4>
 <ol>

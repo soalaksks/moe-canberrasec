@@ -1,8 +1,9 @@
 ---
 title: Choir
-permalink: /discover-canberra/our-co-curriculum/visual-and-performing-arts/choir/
+permalink: /cca/visual-and-performing-arts/choir/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: tiptap
 ---
 <h4><strong>Vision</strong></h4>
 <p>Canberra Secondary School Choir aims to enable students (ranging from no musical background to advanced musicians) to learn and apply knowledge and skills in Vocal and Choral techniques. Through the incorporation of personal and creative expression in individual, small group and large group performances, this would encourage students and build their self-confidence. We provide opportunities for the development of leadership potential in our members. The choir has also participated in VIA with All Saints’ Home (Yishun) to instill the values of Gratitude, Respect and Compassion in our students.</p>

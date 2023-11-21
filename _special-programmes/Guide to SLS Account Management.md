@@ -1,6 +1,6 @@
 ---
 title: Guide to SLS Account Management
-permalink: /students/sls-account-guide/
+permalink: /programmes/sls-account-guide/
 variant: markdown
 description: ""
 ---
