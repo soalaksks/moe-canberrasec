@@ -23,6 +23,6 @@ sections:
       alt: Image alt text
       image: /images/homepage_2.png
   - resources:
-      title: "School Corporate Videos & Special Programmes "
+      title: School Corporate Videos & Special Programmes
       button: VIEW MORE
 ---
