@@ -9,6 +9,8 @@ variant: markdown
 <table border="0" cellspacing="5" cellpadding="0">
 		<tbody>
 			<tr><td>
+				
+			</td></tr><tr><td>
 				Two of our Secondary 1 student represented the school at the Bulky Waste to Wonder Competition 2023 award ceremony and exhibition held at the National Gallery of Singapore. Their designs have won the top awards based on creativity, functionality, and sustainability.
 <img src="/images/waste2wonder1.jpg"><br>
 			</td></tr>
