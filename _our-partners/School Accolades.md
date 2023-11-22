@@ -11,7 +11,7 @@ variant: markdown
 <tr><td>
 	<h5>School Green Awards 2023 (SGA)</h5>
 <img style="width:40%" src="/images/sga2023_1.jpg"><br>
-The Singapore Green Plan 2030 is a nationwide sustainability movement which aims to rally coordinated efforts to tackle climate change. It is jointly led by the Ministry of Education, the Ministry of National Development, the Ministry of Sustainability and the Environment, the Ministry of Trade and Industry and the Ministry of Transport. There are 5 main pillars under the Green Plan which outline ambitious and concrete sustainability targets to be achieved by 2030. The SGA supports the Green Plan by encouraging participating schools to align their environmental projects with these pillars. Through this, youths can make positive contributions to the national agenda on sustainable development.<br><br>
+The Singapore Green Plan 2030 is a nationwide sustainability movement which aims to rally coordinated efforts to tackle climate change. It is jointly led by the Ministry of Education, the Ministry of National Development, the Ministry of Sustainability and the Environment, the Ministry of Trade and Industry and the Ministry of Transport. There are 5 main pillars under the Green Plan which outline ambitious and concrete sustainability targets to be achieved by 2030. The SGA supports the Green Plan by encouraging participating schools to align their environmental projects with these pillars. Through this, youths can make positive contributions to the national agenda on sustainable development.
 	
 ##### 5 key pillars in the Singapore Green Plan 
 * City in Nature – Biodiversity and Greenery
