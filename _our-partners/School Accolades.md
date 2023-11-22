@@ -33,6 +33,7 @@ The Science Department takes pride in our Talent Development Program. The progra
 <br><br>
 Our Secondary 1 and 2 students recently participated in the latest Science Buskers Festival; an annual competition organised by the Science Centre Singapore. This year, the competition was held physically at the Science Centre Singapore with nearly 400 participating teams across Singapore schools including Tertiary Institutions. At the competition, the participants did a "show-and-tell" on any science topic in creative and engaging manners. 
 <br><br>
+<img style="width:50%" src="/images/scibuskers3.jpg"><br>
 We are pleased to share that two teams from Canberra Secondary School emerged as finalists!<br><br>
 				<table>
   <tbody><tr>
