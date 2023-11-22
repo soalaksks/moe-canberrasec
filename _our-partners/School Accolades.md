@@ -28,10 +28,11 @@ Second prize: 2 Resilience - Kaelyn, Zhao Han, Lewis, Yang Yi &amp; Xuettong
 				</td></tr>
 			<tr><td>
 				<h5>We are thrilled to announce that our talented students have emerged as the CHAMPIONS of the Science Buskers Festival!</h5>
+<img style="width:50%" src="/images/scibuskers2.jpg"><br>
 The Science Department takes pride in our Talent Development Program. The programme identifies and nurtures young minds with a passion for science, providing them with advanced challenges, mentorship, and opportunities to participate in research projects while instilling the values found in scientists. Through this programme, we also aim to develop each Canberran’s communication skills through expressions of science in a creative manner. 
 <br><br>
 Our Secondary 1 and 2 students recently participated in the latest Science Buskers Festival; an annual competition organised by the Science Centre Singapore. This year, the competition was held physically at the Science Centre Singapore with nearly 400 participating teams across Singapore schools including Tertiary Institutions. At the competition, the participants did a "show-and-tell" on any science topic in creative and engaging manners. 
-<br>
+<br><br>
 We are pleased to share that two teams from Canberra Secondary School emerged as finalists!<br><br>
 				<table>
   <tbody><tr>
@@ -49,8 +50,7 @@ We are pleased to share that two teams from Canberra Secondary School emerged as
     <td>Khashifa Mu'azah Binte Mohamed Nurazimi<br>Raja Kieran Phillipe Bin Rajah Kamarul Zaman</td>
     <td>2 Empathy</td>
   </tr>
-</tbody></table>
-<img style="width:50%" src="/images/scibuskers2.jpg">
+				</tbody></table>
 <br>
 The finalists did their busking live to both judges and the general public, on 28 and 29 October 2023 (Saturday and Sunday), from 9 am to 5 pm, at Seng Kang Grand Mall; and we are delighted to share that the finals of the Science Buskers Festival Competition was a remarkable success. With 50 teams representing primary schools, secondary schools, and tertiary institutions from across Singapore, the event was a true celebration of scientific enthusiasm and creativity. <br><br>
 <img style="width:50%" src="/images/scibuskers1.jpg">
