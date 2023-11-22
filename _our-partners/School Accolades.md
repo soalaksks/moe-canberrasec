@@ -8,6 +8,21 @@ variant: markdown
 	<h3>2023</h3>
 <table border="0" cellspacing="5" cellpadding="0">
 		<tbody>
+<tr><td>
+	<h5>School Green Awards 2023 (SGA)</h5>
+<img src="/images/sga2023_1.jpg"><br>
+The Singapore Green Plan 2030 is a nationwide sustainability movement which aims to rally coordinated efforts to tackle climate change. It is jointly led by the Ministry of Education, the Ministry of National Development, the Ministry of Sustainability and the Environment, the Ministry of Trade and Industry and the Ministry of Transport. There are 5 main pillars under the Green Plan which outline ambitious and concrete sustainability targets to be achieved by 2030. The SGA supports the Green Plan by encouraging participating schools to align their environmental projects with these pillars. Through this, youths can make positive contributions to the national agenda on sustainable development.
+	<h5>5 key pillars in the Singapore Green Plan</h5>
+<ul>
+  <li>City in Nature – Biodiversity and Greenery</li>
+  <li>Sustainable Living – Saving Resources</li>
+  <li>Energy Reset</li>
+	<li>Green Economy</li>
+	<li>Resilient Future</li>
+</ul>
+The school's initiatives addressing various environmental aspects on campus were acknowledged and honored with the prestigious <b>Vanda Miss Joaquim Award.</b>
+<img style="width:40%" src="/images/sga2023_2.png"><br>
+			</td></tr>
 			<tr><td>
 Recently, two groups of students participated in 2023 Reading Ambassadors programme (2023 年超级阅读明星比赛) organised by Committee to promote Chinese Language Learning (CPCLL) . The teams of students are required to read books, create their own script, and do a video recording of their script.
 <br><br>
