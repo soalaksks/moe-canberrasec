@@ -2,7 +2,7 @@
 title: Applied Learning (ALP)
 permalink: /programmes/applied-learning-alp/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h3><strong>Introduction</strong></h3>
 <p>Canberra Secondary School ALP on Visual Arts and Design (VAD) is repositioned from our past strength in Digital Media. It is aligned to 21st Century Competencies Framework and to realise the vision of Every Canberran a Self-Directed Learner. We see VAD as a form of Aesthetics that helps our students to strike a balance between technical skills mastery with appreciation for the arts thus helping them in their holistic development. Our ALP incorporates learning in authentic setting, increased focus, alignment and integration as well as experiences and exposure to career prospects in VAD. The exposure in depth and breadth gives our students the opportunity to identify their aptitudes and interests, build their strengths, and make informed decisions on their education and career choices.</p>
@@ -18,7 +18,7 @@ variant: tiptap
 <p><strong>Art and ICT lesson: Students trying out editing software to edit their photographs taken earlier.&nbsp;</strong></p>
 <img src="/images/2016-alp-13.jpg">
 <p><strong>Art and ICT lesson: Trying out photography techniques learnt during ICT lesson.</strong></p>
-<img src="/images/2016-alp-14.jpg">
+<img width="40%" src="/images/2016-alp-14.jpg">
 <h3><strong>Digital Media in Visual Arts (DMA) Club</strong></h3>
 <p>The Digital Media in Visual Arts Club serves as an avenue for students to pursue their interest in digital media such as photography and videography as a CCA.</p>
 <p>In Canberra Secondary school, we organise Photography competition once a year and this is open to other schools which is known as “National Young Shutterbug”. The objective of this event is to impart Digital Media skills to all primary schools (Cluster/National) in the area of digital photography. It is also to promote National Education values through cultural sites explorations and appreciation of the uniqueness in racial harmony within a multi-cultural society. Lastly we also want to promote Self-Directed learning and Collaborative Learning.</p>
