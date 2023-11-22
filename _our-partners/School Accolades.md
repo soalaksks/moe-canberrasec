@@ -10,15 +10,15 @@ variant: markdown
 		<tbody>
 			<tr><td>
 Recently, two groups of students participated in 2023 Reading Ambassadors programme (2023 年超级阅读明星比赛) organised by Committee to promote Chinese Language Learning (CPCLL) . The teams of students are required to read books, create their own script, and do a video recording of their script.
-<br>
+<br><br>
 We are proud to share that the teams have won both first and second prizes!
-<br>
+<br><br>
 First prize: 2 Diligence - Joan, Jie Qi, Cassandra &amp; Wee Ch-yen<br>
 <br>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Y0RUdc3sKZM?si=9srS8LrPHr1h6rKr" height="315" width="560"></iframe><br>
 <br>
 Second prize: 2 Resilience - Kaelyn, Zhao Han, Lewis, Yang Yi &amp; Xuettong
-<br>
+<br><br>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Rv48w56u_3Y?si=U3UdskamfVmwgfZT" height="315" width="560"></iframe>
 			</td></tr>
 			<tr><td>
