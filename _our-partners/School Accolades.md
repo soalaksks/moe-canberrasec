@@ -33,6 +33,23 @@ The Science Department takes pride in our Talent Development Program. The progra
 Our Secondary 1 and 2 students recently participated in the latest Science Buskers Festival; an annual competition organised by the Science Centre Singapore. This year, the competition was held physically at the Science Centre Singapore with nearly 400 participating teams across Singapore schools including Tertiary Institutions. At the competition, the participants did a "show-and-tell" on any science topic in creative and engaging manners. 
 <br>
 We are pleased to share that two teams from Canberra Secondary School emerged as finalists!<br><br>
+				<table>
+  <tbody><tr>
+    <th>Team Name</th>
+    <th>Name</th>
+    <th>Class</th>
+  </tr>
+  <tr>
+    <td>Combustible Spades</td>
+    <td>Hiremath Shambulinga<br>Muhammad Zhorif Shiddiq Bin Muhammad Zaidi<br>Song Zhi Yong, Aloysius</td>
+    <td>2 Empathy</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</tbody></table>
 <img style="width:50%" src="/images/scibuskers2.jpg">
 <br>
 The finalists did their busking live to both judges and the general public, on 28 and 29 October 2023 (Saturday and Sunday), from 9 am to 5 pm, at Seng Kang Grand Mall; and we are delighted to share that the finals of the Science Buskers Festival Competition was a remarkable success. With 50 teams representing primary schools, secondary schools, and tertiary institutions from across Singapore, the event was a true celebration of scientific enthusiasm and creativity. <br><br>
