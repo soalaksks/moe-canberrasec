@@ -46,8 +46,8 @@ We are pleased to share that two teams from Canberra Secondary School emerged as
   </tr>
   <tr>
     <td>Killipe</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>Khashifa Mu'azah Binte Mohamed Nurazimi<br>Raja Kieran Phillipe Bin Rajah Kamarul Zaman</td>
+    <td>2 Empathy</td>
   </tr>
 </tbody></table>
 <img style="width:50%" src="/images/scibuskers2.jpg">
