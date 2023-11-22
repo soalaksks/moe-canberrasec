@@ -54,7 +54,7 @@ We are pleased to share that two teams from Canberra Secondary School emerged as
 				</tbody></table>
 <br>
 The finalists did their busking live to both judges and the general public, on 28 and 29 October 2023 (Saturday and Sunday), from 9 am to 5 pm, at Seng Kang Grand Mall; and we are delighted to share that the finals of the Science Buskers Festival Competition was a remarkable success. With 50 teams representing primary schools, secondary schools, and tertiary institutions from across Singapore, the event was a true celebration of scientific enthusiasm and creativity. <br><br>
-<img style="width:40%" src="/images/scibuskers1.jpg">
+<img style="width:25%" src="/images/scibuskers1.jpg">
 <br>
 Both teams demonstrated exceptional dedication in their preparation, impressing both judges and the audience with their innovative and engaging performances. After two intense days of competition, our school's "Killipe" team emerged as CHAMPION in the secondary schools’ category. 
 The Science Buskers Competition serves as a crucial platform for igniting a passion for science and honing effective communication skills. We take pride in representing our school at this event, and we believe this accomplishment will inspire more students to engage in science-related activities and initiatives.<br><br>
