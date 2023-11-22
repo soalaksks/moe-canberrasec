@@ -45,7 +45,7 @@ We are pleased to share that two teams from Canberra Secondary School emerged as
     <td>2 Empathy</td>
   </tr>
   <tr>
-    <td></td>
+    <td>Killipe</td>
     <td>Francisco Chang</td>
     <td>Mexico</td>
   </tr>
