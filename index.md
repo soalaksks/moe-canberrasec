@@ -16,12 +16,10 @@ sections:
       button: Click here to visit our microsite
       url: https://sites.google.com/moe.edu.sg/visitcanberrasec
   - infopic:
-      title: Why Canberra?
-      description: In Canberra, we offer holistic education that not only focuses on
-        personal growth but one that encourages Gratitude, Respect and
-        Compassion in our students.
       alt: Image alt text
-      image: /images/homepage_2.png
+      image: /images/Homepage_text.png
+      description: “The future belongs to those who believe in the beauty of their
+        dreams.” - Eleanor Roosevelt
   - resources:
       title: School Corporate Videos & Special Programmes
       button: VIEW MORE
