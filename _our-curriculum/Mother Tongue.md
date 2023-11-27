@@ -1,0 +1,13 @@
+---
+title: Mother Tongue
+permalink: /discover-canberra/our-curriculum/mother-tongue/
+description: ""
+---
+<p><strong>Mission Statement:</strong><br>All students communicate competently and confidently in their Mother Tongue Languages</p>
+<p>The Mother Tongue Language Department hopes to nurture in our students a strong foundation and an enduring interest in the Mother Tongue Languages. We hope to impart in our students the love for language and an appreciation of the beauty of the Mother Tongue Languages. To achieve this, we organised several programmes and activities in conjunction with the MTL Fortnight, such as, Mass Story Book Borrowing with National Library Board, Chinese traditional art and crafts workshop, creative writing competition; Pena Emasku, Malay traditional arts like Boria and Dikir Barat, making Malay traditional delicacies like Roti Kirai, Epok-epok and Ondeh-ondeh and also learning how to eat communally by eating Nasi Ambeng together.</p>
+<p>We also expose our students to the different cultures of our ethnic groups through festive celebrations, such as Lunar New Year Celebrations, Hari Raya Celebrations and Mid-Autumn Festival.</p>
+<p>The school's first Chinese Language publication 'Kang Qing' was launched in January 2014. This publication is a compilation of students daily written works and reflections. The objectives of this publication are to provide a platform to showcase students works, and to encourage students in learning Chinese Language. From 2019, a joint publication will be produced together with the ML Unit.</p>
+<p>The MTL Department also believes that for a child to appreciate his Mother Tongue Language, the best approach is through cultural exposure. Activities such as performing arts and cultural games are organised for Secondary one students as part of post-exam activities. Under the Cultural Performance Exposure Scheme (文化随意门计划), our students enjoy watching Chinese language-related cultural performances staged at public performing arts venue. In addition, the Malay Language Unit was invited to put up an exhibition in conjunction with Bulan Bahasa 2018, with the theme; ‘Pantang Nenek Moyang Aku’. The main objective of this exhibition is to increase understanding and expose the public to tips and taboos that exist in the Malay Community. We used different platforms such as information boards, videos and interactive game and quiz to share the information with the public. Our school ambassadors had an enriching and fulfilling experience interaction with the public.</p>
+
+<img src="/images/mt1.png" style="width:75%">
+<img src="/images/mt2.png" style="width:75%">

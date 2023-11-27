@@ -1,0 +1,10 @@
+collections:
+  useful-links:
+    output: true
+    order:
+      - 2024 Booklist & Uniform Order Form.md
+      - Class Allocation.md
+      - Library Online Public Access Catalogue (OPAC).md
+      - Leave Of Absence (LOA).md
+      - Direct School Admission (DSA).md
+      - Frequently Asked Questions.md
