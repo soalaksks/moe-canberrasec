@@ -16,7 +16,7 @@ sections:
       id: infopic
       description: FAQs on registration process and first week of school.
       button: Find out more
-      url: https://canberrasec.moe.edu.sg/sec-1-registration/https://canberrasec.moe.edu.sg/sec-1-registration/
+      url: https://www.canberrasec.moe.edu.sg/sec-1-registration/
       image: /images/Welcome_to_Canberra_Secondary_School.png
       alt: Image alt text
   - infopic:
