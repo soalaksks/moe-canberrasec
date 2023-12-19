@@ -10,11 +10,15 @@ sections:
       url: /contact-us/
       background: /images/Open_House_2023.gif
       variant: center
-  - infobar:
-      title: Join us at our Open House on 25 Nov 2023 (Sat) 9am - 12.30pm
-      id: infobar
-      button: Click here to visit our microsite
-      url: https://sites.google.com/moe.edu.sg/visitcanberrasec
+  - infopic:
+      title: Secondary One Registration 2024
+      subtitle: For 2024
+      id: infopic
+      description: FAQs on registration process and first week of school.
+      button: Find out more
+      url: https://canberrasec.moe.edu.sg/sec-1-registration/
+      image: /images/Welcome_to_Canberra_Secondary_School.png
+      alt: Image alt text
   - infopic:
       alt: Image alt text
       image: /images/Homepage_text.png
