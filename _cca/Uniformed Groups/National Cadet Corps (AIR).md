@@ -1,6 +1,6 @@
 ---
-title: National Cadet Corps (SEA)
-permalink: /cca/uniformed-groups/national-cadet-corps-sea/
+title: National Cadet Corps (AIR)
+permalink: /cca/uniformed-groups/national-cadet-corps/
 description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
