@@ -86,6 +86,7 @@ variant: markdown
 | 4 Harmony | [Mr Jeremy Tng](mailto:jeremy_tng_ying_xiang@schools.gov.sg) (ext 231)| [Ms Jamilene Tan](mailto:jamilene_tan_hui_peng@schools.gov.sg) (ext 250) |
 | 4 Respect| [Mr Lok Chee How](mailto:lok_chee_how@schools.gov.sg) (ext 241)| [Ms Yusra Binte Abd Razak](mailto:yusra_abd_razak@schools.gov.sg) (ext 251) | |
 | 4 Kindness |[Mr Mohd Yazid](mailto:mohd_yazid_md_yatim@schools.gov.sg)| [Ms Teo Jiaen, Victoria](mailto:teo_jiaen@schools.gov.sg)|
+|5 Integrity| [Mdm Raudhah A R](mailto:raudhah_abdul_rahim@schools.gov.sg) (ext 205) | |
 
 ### Cohort 4 &amp; 5
 
