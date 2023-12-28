@@ -54,7 +54,7 @@ variant: markdown
 | Class Name | Character Coach 1 | Character Coach 2 |Character Coach 3 |
 | -------- | -------- | -------- | -------- |
 | 1 Empathy    |[Ms Lau Sou Fong](mailto:lau_sou_fong@schools.gov.sg) (ext 215)| [Ms Nur Fatin Binte Nordin](mailto:nur_fatin_nordin@schools.gov.sg) (ext 212)| |
-| 1 Honour     |[Ms Cheak Su Peng](mailto:cheak_su_peng@schools.gov.sg) (ext 210)| Mr Benjimin Chong| | 
+| 1 Honour     |[Ms Cheak Su Peng](mailto:cheak_su_peng@schools.gov.sg) (ext 210)| Mr Benjamin Chong| | 
 | 1 Diligence     |[Ms Olivia Ng](mailto:ng_liting_olivia@schools.gov.sg) (ext 248)| [Mdm Yap Hui San](mailto:yap_hui_san@schools.gov.sg) (ext 209)|
 | 1 Resilience     | [Mdm Farasidah Rohmat](mailto:farasidah_rohmat@schools.gov.sg) (ext 213)| [Mr Simon Tay](mailto:tay_seng_how@schools.gov.sg)|
 | 1 Integrity    | [Ms Michelle Tham](mailto:tham_michelle@schools.gov.sg) | [Mr Karthigesu Chandra](mailto:karthigesu_chandra@schools.gov.sg) (ext 226)
