@@ -42,9 +42,9 @@ variant: markdown
 |SH Student Well Being|[Ms Nur Diyana Binte Sanip](mailto:nur_diyana_mohamad_sanip@schools.gov.sg) (ext 201)|
 |SH Student Leadership| [Mr Tan Qi Guang](mailto:tan_qi_guang@schools.gov.sg) (ext 222)|
 |Assistant Year Head|[Mr Aw Yong Wai Keet](mailto:aw_yong_wai_keet@schools.gov.sg) (ext 111) <br>[Mdm Shahani Binte Kamarudin](mailto:shahani_kamarudin@schools.gov.sg) (ext 249)<br>[Mr Dinesh Sawlani](mailto:Dinesh_Chander@schools.gov.sg) (ext 237)|
+|Lead Teacher EL|[Mr Ghazali B Abdul Wahab](mailto:Ghazali_B_Abdul_Wahab@schools.gov.sg) (ext 218)|
 |Senior Teacher Art|[Mdm Farasidah Rohmat](mailto:farasidah_rohmat@schools.gov.sg) (ext 213)|
 |Senior Teacher CL|[Ms Lau Sou Fong](mailto:lau_sou_fong@schools.gov.sg) (ext 215)|
-|Senior Teacher EL &amp; Literature|[Mr Ghazali B Abdul Wahab](mailto:Ghazali_B_Abdul_Wahab@schools.gov.sg) (ext 218)|
 |Senior Teacher Mathematics|[Mr Muhammad Lathif](mailto:muhamad_lathif_yunus@schools.gov.sg) (ext 244)|
 |Senior Teacher Mathematics|[Mrs Irving Long](mailto:irving_quah@schools.gov.sg) (ext 227)|
 |Senior Teacher Physics|[Mr Koh Tat Siang](mailto:koh_tat_siang@schools.gov.sg) (ext 247)|
