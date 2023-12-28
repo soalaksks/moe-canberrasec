@@ -5,37 +5,4 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<h4><strong>Vision</strong></h4>
-<p>The main objectives of the Concert Band are to provide members with the skills to perform for various occasions and to build up their self-confidence. Also, we want to create opportunities for developing and enhancing the leadership potential of our members.</p>
-<h4><strong>Highlights and Achievements</strong></h4>
-<p>Under the baton of Mr Colin Ng and Mr Richard Png, the Concert Band performs regularly for various school and public events, and has been serving their Values-in-Action at All Saints Home @ Yishun. The interactions with the elderly residents have inculcated the school values in the band members, and left many memorable experiences for both.</p>
-<div>
-<div>
-<p>In Symphonic Band, we offer Junior Band Training Programme for all new Secondary 1 recruits. Our Junior Band conductor trains all new members, even if they do not have any musical background. Additionally, the band seniors also takes on the responsibility of training the Secondary Ones. This experience allowed the seniors to build up their level of confidence and proficiency, while providing guidance to the new members.</p>
-<p>&nbsp;</p>
-</div>
-<table border="0" cellpadding="10">
-<tbody>
-<tr>
-<td>
-<p><strong>Teachers-In-Charge :</strong></p>
-</td>
-<td>
-<p>Ms Kris Toh</p>
-<p>Ms Nur Diyana</p>
-<p>Ms Yap Hui San</p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Training Days / Time :</strong></p>
-</td>
-<td>
-<p>Wednesday 2.30 pm - 6 pm</p>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-
-![](/images/symphonic-1.jpg)
+<h4><strong>Vision</strong></h4><p>The main objectives of the Concert Band are to provide members with the skills to perform for various occasions and to build up their self-confidence. Also, we want to create opportunities for developing and enhancing the leadership potential of our members.</p><h4><strong>Highlights and Achievements</strong></h4><p>Under the baton of Mr Colin Ng and Mr Richard Png, the Concert Band performs regularly for various school and public events, and has been serving their Values-in-Action at All Saints Home @ Yishun. The interactions with the elderly residents have inculcated the school values in the band members, and left many memorable experiences for both.</p><p>In Symphonic Band, we offer Junior Band Training Programme for all new Secondary 1 recruits. Our Junior Band conductor trains all new members, even if they do not have any musical background. Additionally, the band seniors also takes on the responsibility of training the Secondary Ones. This experience allowed the seniors to build up their level of confidence and proficiency, while providing guidance to the new members.</p><p>&nbsp;</p><table><tbody><tr><td rowspan="1" colspan="1"><p><strong>Teachers-In-Charge :</strong></p></td><td rowspan="1" colspan="1"><p>Ms Tan Jo Ann</p><p>Mr Seth Lim</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Training Days / Time :</strong></p></td><td rowspan="1" colspan="1"><p>Wednesday 2.30 pm - 6 pm</p></td></tr></tbody></table><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/symphonic-1.jpg"></div><p></p>
