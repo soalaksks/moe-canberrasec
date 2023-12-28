@@ -2,6 +2,7 @@
 title: Our Staff
 permalink: /our-canberra/our-staff/
 description: ""
+variant: markdown
 ---
 ### School Leaders
 
@@ -17,9 +18,8 @@ description: ""
 | Designation | Name |
 | -------- | -------- |
 |HOD CCE|[Mr Edwin Cheong](mailto:cheong_wai_tung_edwin@schools.gov.sg) (ext 107)|
-|HOD Craft &amp; Technology|[Mr Aw Yong Wai Kee](mailto:aw_yong_wai_keet@schools.gov.sg) (ext 111)|
 |HOD English|[Ms Wong Sooh Yee](mailto:wong_sooh_yee@schools.gov.sg) (ext 113)|
-|HOD Humanities|[Mr Bala Kirishanan](mailto:bala_kirishanan@schools.gov.sg) (ext 110)|
+|HOD Humanities|[Mr Ng Kok Wah](mailto:ng_kok_wah_a@schools.gov.sg) (ext 110)|
 |HOD ICT|[Mr Chia Wai Han](mailto:chia_wai_han@schools.gov.sg) (ext 225)|
 |HOD Mathematics|[Mr Ng Chuen Joo](mailto:ng_chuen_joo@schools.gov.sg) (ext 112)|
 |HOD MTL|[Ms Lim Puay Ee](mailto:lim_puay_ee@schools.gov.sg) (ext 150)|
@@ -27,20 +27,21 @@ description: ""
 |HOD Student Management|[Mr Goh Ching Tard](mailto:goh_ching_tard@schools.gov.sg) (ext 117)|
 |HOD PE/CCA|[Ms Jenny Soh](mailto:jenny_soh@schools.gov.sg) (ext 116)|
 |School Staff Developer|[Ms Chia Hua Hoong](mailto:chia_hua_hoong@schools.gov.sg) (ext 109)|
-|Year Head (Upper Sec)|[Mrs Frieda Tay](mailto:leong_siew_yin_frieda@schools.gov.sg) (ext 114)|
-|Year Head (Lower Sec)|[Mrs Jesslyn Yeoh](mailto:lee_see_hwee@schools.gov.sg) (ext 115)|
+|Year Head (Sec 1 &amp; 4)|[Mrs Frieda Tay](mailto:leong_siew_yin_frieda@schools.gov.sg) (ext 114)|
+|Year Head (Sec 2 &amp; 3)|[Mrs Jesslyn Yeoh](mailto:lee_see_hwee@schools.gov.sg) (ext 115)|
+|LH English Language| [Ms Diyanah Yunos](mailto:diyanah_mohamad_yunos@schools.gov.sg) (ext 218)|
+|LH Mathematics|[Mrs Cheung-Sim Yi Lian](mailto:sim_yi_lian@schools.gov.sg) (ext 248)|
 |SH Aesthetics|[Ms Jamilene Tan](mailto:jamilene_tan_hui_peng@schools.gov.sg) (ext 250)|
-|SH CCE|[Mrs Goh Wai Yee](mailto:chia_wai_yee@schools.gov.sg) (ext 243)|
+|SH CCE|[Ms Goh Shu Hui](mailto:goh_shu_hui_b@schools.gov.sg) (ext 257)|
 |SH Chemistry|[Mrs Zoanne Tay](mailto:sim_li_wen@schools.gov.sg) (ext 244)|
 |SH Chinese Language|[Mdm Yong Mui Leng](mailto:yong_mui_leng@schools.gov.sg) (ext 223)|
-|SH English Language| [Ms Diyanah Yunos](mailto:diyanah_mohamad_yunos@schools.gov.sg) (ext 218)|
 |SH Geography|[Ms Cheak Su Peng](mailto:cheak_su_peng@schools.gov.sg) (ext 210)|
 |SH Malay Language|[Mdm Raudhah A R](mailto:raudhah_abdul_rahim@schools.gov.sg) (ext 205)|
-|SH Mathematics|[Mrs Cheung-Sim Yi Lian](mailto:sim_yi_lian@schools.gov.sg) (ext 248)|
 |SH PE/CCA|[Mr Whelan Chen](mailto:whelan_chen_jianming@schools.gov.sg) (ext 239)|
 |SH NFS|[Ms Janet Peh](mailto:peh_chew_kher_janet@schools.gov.sg) (ext 235)|
 |SH Student Well Being|[Ms Nur Diyana Binte Sanip](mailto:nur_diyana_mohamad_sanip@schools.gov.sg) (ext 201)|
-|Assistant Year Head|[Mr Muraleedharan S/O Sreedran](mailto:Muraleedharan_Sreedran@schools.gov.sg) (ext 229) <br>[Mdm Shahani Binte Kamarudin](mailto:shahani_kamarudin@schools.gov.sg) (ext 249)<br>[Mr Dinesh Sawlani](mailto:Dinesh_Chander@schools.gov.sg) (ext 237)|
+|SH Student Leadership| [Mr Tan Qi Guang](mailto:tan_qi_guang@schools.gov.sg) (ext 222)|
+|Assistant Year Head|[Mr Aw Yong Wai Keet](mailto:aw_yong_wai_keet@schools.gov.sg) (ext 111) <br>[Mdm Shahani Binte Kamarudin](mailto:shahani_kamarudin@schools.gov.sg) (ext 249)<br>[Mr Dinesh Sawlani](mailto:Dinesh_Chander@schools.gov.sg) (ext 237)|
 |Senior Teacher Art|[Mdm Farasidah Rohmat](mailto:farasidah_rohmat@schools.gov.sg) (ext 213)|
 |Senior Teacher CL|[Ms Lau Sou Fong](mailto:lau_sou_fong@schools.gov.sg) (ext 215)|
 |Senior Teacher EL &amp; Literature|[Mr Ghazali B Abdul Wahab](mailto:Ghazali_B_Abdul_Wahab@schools.gov.sg) (ext 218)|
