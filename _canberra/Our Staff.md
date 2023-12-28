@@ -72,7 +72,7 @@ variant: markdown
 | 3 Integrity    | [Mr Quek Yeow Chong](mailto:quek_yeow_chong@schools.gov.sg) (ext 229)|[Mrs Joann Ganesan](mailto:joann_david@schools.gov.sg) (ext 204)|
 | 3 Harmony     |[Ms Siti Rezkiah](mailto:siti_rezkiah_mohd_radzelee@schools.gov.sg) (ext 204)| [Mr Whelan Chen](mailto:whelan_chen_jianming@schools.gov.sg) (ext 239)|
 | 3 Respect     | [Mr He Jiaen](mailto:he_jiaen@schools.gov.sg) (ext 234)| [Ms Janet Peh](mailto:peh_chew_kher_janet@schools.gov.sg) (ext 235) |
-| 3 Kindness     | [Ms Uvarani](mailto:uvarani_munusamy@schools.gov.sg)| [Mr Chen Jialiang](mailto:chen_jialiang@schools.gov.sg) (ext 222) |
+| 3 Kindness     | [Ms Uvarani Munusamy](mailto:uvarani_munusamy@schools.gov.sg)| [Mr Chen Jialiang](mailto:chen_jialiang@schools.gov.sg) (ext 222) |
 
 ### Cohort 4
 
