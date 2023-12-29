@@ -10,6 +10,11 @@ sections:
       url: /contact-us/
       background: /images/Open_House_2023.gif
       variant: center
+  - infobar:
+      title: Sec 1 Orientation Programme 2024
+      id: infobar
+      button: Click here for details
+      url: https://www.canberrasec.moe.edu.sg/latest-happenings-and-announcements/announcements/2024-s1-orientation/
   - infopic:
       title: Secondary One Registration 2024
       subtitle: For 2024
