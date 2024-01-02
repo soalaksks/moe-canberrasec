@@ -54,11 +54,11 @@ variant: markdown
 | Class Name | Character Coach 1 | Character Coach 2 |Character Coach 3 |
 | -------- | -------- | -------- | -------- |
 | 1 Empathy    |[Ms Lau Sou Fong](mailto:lau_sou_fong@schools.gov.sg) (ext 215)| [Ms Nur Fatin Binte Nordin](mailto:nur_fatin_nordin@schools.gov.sg) (ext 212)| |
-| 1 Honour     |[Ms Cheak Su Peng](mailto:cheak_su_peng@schools.gov.sg) (ext 210)| Mr Benjamin Chong| | 
+| 1 Honour     |[Ms Cheak Su Peng](mailto:cheak_su_peng@schools.gov.sg) (ext 210)| [Mr Benjamin Chong](mailto:benjamin_chong_wai_jian@schools.gov.sg)| | 
 | 1 Diligence     |[Ms Olivia Ng](mailto:ng_liting_olivia@schools.gov.sg) (ext 248)| [Mdm Yap Hui San](mailto:yap_hui_san@schools.gov.sg) (ext 209)|
 | 1 Resilience     | [Mdm Farasidah Rohmat](mailto:farasidah_rohmat@schools.gov.sg) (ext 213)| [Mr Simon Tay](mailto:tay_seng_how@schools.gov.sg)|
 | 1 Integrity    | [Ms Michelle Tham](mailto:tham_michelle@schools.gov.sg) | [Mr Karthigesu Chandra](mailto:karthigesu_chandra@schools.gov.sg) (ext 226)
-| 1 Kindness     |  [Ms Nurul Diyanah Binte Misdi](mailto:nurul_diyanah_misdi@schools.gov.sg) (ext 228)|[Mr Tan Qi Guang](mailto:tan_qi_guang@schools.gov.sg) (ext 222) | Mdm Kalaivani|
+| 1 Kindness     |  [Ms Nurul Diyanah Binte Misdi](mailto:nurul_diyanah_misdi@schools.gov.sg) (ext 228)|[Mr Tan Qi Guang](mailto:tan_qi_guang@schools.gov.sg) (ext 222) | [Mdm Kalaivani](mailto:Kalaivani_R_Mooventhar@schools.gov.sg)|
 
 ### Cohort 2
 
