@@ -7,3 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Dear Parents/Guardians,<br></p><p>Please refer to the resources below for more information on our key school programmes:</p><ul data-tight="true" class="tight"><li><p><a href="/files/2024/Character_Development_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">Character Development Programme</a></p></li><li><p><a href="/files/2024/ST1_S1_Academic_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Academic Programme</a></p></li><li><p><a href="/files/2024/Full_SBB___Parents_Engagement_Deck.pdf" rel="noopener noreferrer nofollow" target="_blank">Full Subject Based Banding</a></p></li></ul><p></p>
