@@ -2,16 +2,6 @@
 title: Letters to Parents
 permalink: /parents/letter-to-parents/
 description: ""
+variant: tiptap
 ---
-### Year 2023
-#### Term 1
-* [Letter to Cohort 1](/files/2023%20Term%201%20Letter%20to%20Cohort%201.pdf)
-* [Letter to Cohort 2](/files/2023%20Term%201%20Letter%20to%20Cohort%202.pdf)
-* [Letter to Cohort 3](/files/Term%201%20Letter%20to%20Cohort%203.pdf)
-* [Letter to Cohort 4 & 5](/files/Term%201%20Letter%20to%20Cohort%204%20&%205.pdf)
-
-#### Term 2
-[Term 2 Letter to Parents](/files/Term%202%20Letter%20to%20Parents%202023.pdf)
-
-#### Term 3
-[Term 3 Letter to Parents](/files/2023-06-26%20-%20pg%202023%20term%203%20s1%20to%205%20term%20letter%20(3)%20(1).pdf)
+<h3>Year 2024</h3><h4>Term 1</h4><ul data-tight="true" class="tight"><li><p><a href="/files/2024/2024_01_03___PG_S1_3Jan_2024_Term1_Letter_for_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 Letter - Sec 1</a></p></li><li><p><a href="/files/2024/2024_01_03___PG_S2_3Jan_2024_Term1_Letter_for_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 Letter - Sec 2</a></p></li><li><p><a href="/files/2024/2024_01_03___PG_S3_3Jan_2024_Term1_Letter_for_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 Letter - Sec 3</a></p></li><li><p><a href="/files/2024/2024_01_03___PG_S4_5_3Jan_2024_Term1_Letter_for_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 Letter - Sec 4 &amp; 5</a></p></li></ul><p></p>
