@@ -51,14 +51,14 @@ variant: markdown
 
 ### Cohort 1
 
-| Class Name | Character Coach 1 | Character Coach 2 |Character Coach 3 |
-| -------- | -------- | -------- | -------- |
-| 1 Empathy    |[Ms Lau Sou Fong](mailto:lau_sou_fong@schools.gov.sg) (ext 215)| [Ms Nur Fatin Binte Nordin](mailto:nur_fatin_nordin@schools.gov.sg) (ext 212)| |
-| 1 Honour     |[Ms Cheak Su Peng](mailto:cheak_su_peng@schools.gov.sg) (ext 210)| [Mr Benjamin Chong](mailto:benjamin_chong_wai_jian@schools.gov.sg) (ext 211)| | 
+| Class Name | Character Coach 1 | Character Coach 2 |
+| -------- | -------- | -------- |
+| 1 Empathy    |[Ms Lau Sou Fong](mailto:lau_sou_fong@schools.gov.sg) (ext 215)| [Ms Nur Fatin Binte Nordin](mailto:nur_fatin_nordin@schools.gov.sg) (ext 212)|
+| 1 Honour     |[Ms Cheak Su Peng](mailto:cheak_su_peng@schools.gov.sg) (ext 210)| [Mr Benjamin Chong](mailto:benjamin_chong_wai_jian@schools.gov.sg) (ext 211)|
 | 1 Diligence     |[Ms Olivia Ng](mailto:ng_liting_olivia@schools.gov.sg) (ext 248)| [Mdm Yap Hui San](mailto:yap_hui_san@schools.gov.sg) (ext 209)|
 | 1 Resilience     | [Mdm Farasidah Rohmat](mailto:farasidah_rohmat@schools.gov.sg) (ext 213)| [Mr Simon Tay](mailto:tay_seng_how@schools.gov.sg) (ext 221)|
 | 1 Integrity    | [Ms Michelle Tham](mailto:tham_michelle@schools.gov.sg) (ext 202) | [Mr Karthigesu Chandra](mailto:karthigesu_chandra@schools.gov.sg) (ext 226)
-| 1 Kindness     |  [Ms Nurul Diyanah Binte Misdi](mailto:nurul_diyanah_misdi@schools.gov.sg) (ext 228)|[Mr Tan Qi Guang](mailto:tan_qi_guang@schools.gov.sg) (ext 222) | [Mdm Kalaivani](mailto:Kalaivani_R_Mooventhar@schools.gov.sg) (ext 244)|
+| 1 Kindness     |  [Ms Nurul Diyanah Binte Misdi](mailto:nurul_diyanah_misdi@schools.gov.sg) (ext 228)|[Mr Tan Qi Guang](mailto:tan_qi_guang@schools.gov.sg) (ext 222) | 
 
 ### Cohort 2
 
@@ -87,14 +87,14 @@ variant: markdown
 
 ### Cohort 4
 
-| Class Name | Character Coach 1 | Character Coach 2 |
-| -------- | -------- | -------- |
+| Class Name | Character Coach 1 | Character Coach 2 |Character Coach 3|
+| -------- | -------- | -------- |-------- |
 | 4 Empathy | [Mr Mohamed Nor Ariffin](mailto:mohamed_nor_ariffin_ismail@schools.gov.sg) (ext 207)| [Mrs Zoanne Tay](mailto:sim_li_wen@schools.gov.sg) (ext 244)|
 | 4 Honour |[Mrs Cheung-Sim Yi Lian](mailto:sim_yi_lian@schools.gov.sg) (ext 248) |[Mrs Hee-Lim Gee Kheng](mailto:hee_lim_gee_kheng@schools.gov.sg) (ext 212)|
 | 4 Diligence | [Ms Ma Lijuan](mailto:ma_lijuan@schools.gov.sg) (ext 230)| [Mr Koh Tat Siang](mailto:koh_tat_siang@schools.gov.sg) (ext 247) |
 | 4 Resilience | [Mr Seth Lim](mailto:seth_lim_jun_hua@schools.gov.sg) (ext 239)| [Ms Nurul Diyana Hashim](mailto:nurul_diyana_hashim@schools.gov.sg) (ext 205) |
 | 4 Integrity | [Ms Teo Qi Wen](mailto:teo_qi_wen@schools.gov.sg) (ext 223)| [Mr Imarah Bin Abas](mailto:imarah_b_abas@schools.gov.sg) (ext 252)|
 | 4 Harmony | [Mr Jeremy Tng](mailto:jeremy_tng_ying_xiang@schools.gov.sg) (ext 231)| [Ms Jamilene Tan](mailto:jamilene_tan_hui_peng@schools.gov.sg) (ext 250) |
-| 4 Respect| [Mr Lok Chee How](mailto:lok_chee_how@schools.gov.sg) (ext 241)| [Ms Yusra Binte Abd Razak](mailto:yusra_abd_razak@schools.gov.sg) (ext 251) |
+| 4 Respect| [Mr Lok Chee How](mailto:lok_chee_how@schools.gov.sg) (ext 241)| [Ms Yusra Binte Abd Razak](mailto:yusra_abd_razak@schools.gov.sg) (ext 251) | [Mdm Kalaivani](mailto:Kalaivani_R_Mooventhar@schools.gov.sg) (ext 244)|
 | 4 Kindness |[Mr Mohd Yazid](mailto:mohd_yazid_md_yatim@schools.gov.sg) (ext 210)| [Ms Teo Jiaen, Victoria](mailto:teo_jiaen@schools.gov.sg) (220)|
 |5 Integrity| [Mdm Raudhah A R](mailto:raudhah_abdul_rahim@schools.gov.sg) (ext 205) | |
