@@ -345,7 +345,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Specialist</h3>
+<h3>Specialists</h3>
 <table>
 <tbody>
 <tr>
