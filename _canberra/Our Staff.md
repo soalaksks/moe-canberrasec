@@ -2,99 +2,888 @@
 title: Our Staff
 permalink: /our-canberra/our-staff/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### School Leaders
-
-| Designation | Name |
-| -------- | -------- |
-|Principal|Mr Leong Kok Kee|
-|Vice-Principal|Mrs Tye-Ong Lay Yen|
-|Vice-Principal|Mr Syed Faisal|
-|Vice-Principal (Admin)|Mr Lai Chyh Jau|
-
-### Key Personnel
-
-| Designation | Name |
-| -------- | -------- |
-|HOD CCE|[Mr Edwin Cheong](mailto:cheong_wai_tung_edwin@schools.gov.sg) (ext 107)|
-|HOD English|[Ms Wong Sooh Yee](mailto:wong_sooh_yee@schools.gov.sg) (ext 113)|
-|HOD Humanities|[Mr Ng Kok Wah](mailto:ng_kok_wah_a@schools.gov.sg) (ext 110)|
-|HOD ICT|[Mr Chia Wai Han](mailto:chia_wai_han@schools.gov.sg) (ext 225)|
-|HOD Mathematics|[Mr Ng Chuen Joo](mailto:ng_chuen_joo@schools.gov.sg) (ext 112)|
-|HOD MTL|[Ms Lim Puay Ee](mailto:lim_puay_ee@schools.gov.sg) (ext 150)|
-|HOD Science|[Ms Agnes Lim](mailto:lim_hui_lin_agnes@schools.gov.sg) (ext 108)|
-|HOD Student Management|[Mr Goh Ching Tard](mailto:goh_ching_tard@schools.gov.sg) (ext 117)|
-|HOD PE/CCA|[Ms Jenny Soh](mailto:jenny_soh@schools.gov.sg) (ext 116)|
-|School Staff Developer|[Ms Chia Hua Hoong](mailto:chia_hua_hoong@schools.gov.sg) (ext 109)|
-|Year Head (Sec 1 &amp; 4)|[Mrs Frieda Tay](mailto:leong_siew_yin_frieda@schools.gov.sg) (ext 114)|
-|Year Head (Sec 2 &amp; 3)|[Mrs Jesslyn Yeoh](mailto:lee_see_hwee@schools.gov.sg) (ext 115)|
-|LH English Language| [Ms Diyanah Yunos](mailto:diyanah_mohamad_yunos@schools.gov.sg) (ext 218)|
-|LH Mathematics|[Mrs Cheung-Sim Yi Lian](mailto:sim_yi_lian@schools.gov.sg) (ext 248)|
-|SH Aesthetics|[Ms Jamilene Tan](mailto:jamilene_tan_hui_peng@schools.gov.sg) (ext 250)|
-|SH CCE|[Ms Goh Shu Hui](mailto:goh_shu_hui_b@schools.gov.sg) (ext 257)|
-|SH Chemistry|[Mrs Zoanne Tay](mailto:sim_li_wen@schools.gov.sg) (ext 244)|
-|SH Chinese Language|[Mdm Yong Mui Leng](mailto:yong_mui_leng@schools.gov.sg) (ext 223)|
-|SH Geography|[Ms Cheak Su Peng](mailto:cheak_su_peng@schools.gov.sg) (ext 210)|
-|SH Malay Language|[Mdm Raudhah A R](mailto:raudhah_abdul_rahim@schools.gov.sg) (ext 205)|
-|SH PE/CCA|[Mr Whelan Chen](mailto:whelan_chen_jianming@schools.gov.sg) (ext 239)|
-|SH NFS|[Ms Janet Peh](mailto:peh_chew_kher_janet@schools.gov.sg) (ext 235)|
-|SH Student Well Being|[Ms Nur Diyana Binte Sanip](mailto:nur_diyana_mohamad_sanip@schools.gov.sg) (ext 201)|
-|SH Student Leadership| [Mr Tan Qi Guang](mailto:tan_qi_guang@schools.gov.sg) (ext 222)|
-|Assistant Year Head|[Mr Aw Yong Wai Keet](mailto:aw_yong_wai_keet@schools.gov.sg) (ext 111) <br>[Mdm Shahani Binte Kamarudin](mailto:shahani_kamarudin@schools.gov.sg) (ext 249)<br>[Mr Dinesh Sawlani](mailto:Dinesh_Chander@schools.gov.sg) (ext 237)|
-|Lead Teacher EL|[Mr Ghazali B Abdul Wahab](mailto:Ghazali_B_Abdul_Wahab@schools.gov.sg) (ext 218)|
-|Senior Teacher Art|[Mdm Farasidah Rohmat](mailto:farasidah_rohmat@schools.gov.sg) (ext 213)|
-|Senior Teacher CL|[Ms Lau Sou Fong](mailto:lau_sou_fong@schools.gov.sg) (ext 215)|
-|Senior Teacher Mathematics|[Mr Muhammad Lathif](mailto:muhamad_lathif_yunus@schools.gov.sg) (ext 244)|
-|Senior Teacher Mathematics|[Mrs Irving Long](mailto:irving_quah@schools.gov.sg) (ext 227)|
-|Senior Teacher Physics|[Mr Koh Tat Siang](mailto:koh_tat_siang@schools.gov.sg) (ext 247)|
-
-### Cohort 1
-
-| Class Name | Character Coach 1 | Character Coach 2 |
-| -------- | -------- | -------- |
-| 1 Empathy    |[Ms Lau Sou Fong](mailto:lau_sou_fong@schools.gov.sg) (ext 215)| [Ms Nur Fatin Binte Nordin](mailto:nur_fatin_nordin@schools.gov.sg) (ext 212)|
-| 1 Honour     |[Ms Cheak Su Peng](mailto:cheak_su_peng@schools.gov.sg) (ext 210)| [Mr Benjamin Chong](mailto:benjamin_chong_wai_jian@schools.gov.sg) (ext 211)|
-| 1 Diligence     |[Ms Olivia Ng](mailto:ng_liting_olivia@schools.gov.sg) (ext 248)| [Mdm Yap Hui San](mailto:yap_hui_san@schools.gov.sg) (ext 209)|
-| 1 Resilience     | [Mdm Farasidah Rohmat](mailto:farasidah_rohmat@schools.gov.sg) (ext 213)| [Mr Simon Tay](mailto:tay_seng_how@schools.gov.sg) (ext 221)|
-| 1 Integrity    | [Ms Michelle Tham](mailto:tham_michelle@schools.gov.sg) (ext 202) | [Mr Karthigesu Chandra](mailto:karthigesu_chandra@schools.gov.sg) (ext 226)
-| 1 Kindness     |  [Ms Nurul Diyanah Binte Misdi](mailto:nurul_diyanah_misdi@schools.gov.sg) (ext 228)|[Mr Tan Qi Guang](mailto:tan_qi_guang@schools.gov.sg) (ext 222) | 
-
-### Cohort 2
-
-| Class Name | Character Coach 1 | Character Coach 2 |
-| -------- | -------- | -------- |
-| 2 Empathy| [Mr Ho Ngiap Tuan](mailto:ho_ngiap_tuan@schools.gov.sg) (ext 231)| [Ms Diyanah Yunos](mailto:diyanah_mohamad_yunos@schools.gov.sg) (ext 218) |
-| 2 Honour| [Mdm Yong Mui Leng](mailto:yong_mui_leng@schools.gov.sg) (ext 223) | [Ms Vishnu Preyei](mailto:vishnu_preyei@schools.gov.sg) (ext 208)|
-| 2 Diligence|[Ms Ginny Teh](mailto:teh_hooi_ching@schools.gov.sg) (ext 228)| [Mr Jeremiah Tan](mailto:jeremiah_tan_teck_xuan@schools.gov.sg) (ext 211)|
-| 2 Integrity | [Ms Tan Jo Ann](mailto:tan_jo_ann@schools.gov.sg) (ext 202)| [Mrs James Denise Allison](mailto:denise_james_allison@schools.gov.sg) (ext 251)|
-| 2 Harmony| [Mdm Sanismah Saharil](mailto:sanismah_saharil@schools.gov.sg) (ext 224) |[Mr Kong Tze Shiuan](mailto:kong_tze_shiuan@schools.gov.sg) (ext 220)|
-| 2 Respect| [Ms Siti Hajar](mailto:siti_hajar_ali@schools.gov.sg) (ext 201)| [Mdm Wong Hui Yi](mailto:wong_hui_yi@schools.gov.sg) (ext 209)|
-| 2 Kindness| [Mr Shaik Allauddin](mailto:shaik_allauddin_kamaldeen@schools.gov.sg) (ext 226)| [Mrs Irving Long](mailto:irving_quah@schools.gov.sg) (ext 227) |
-
-### Cohort 3
-
-| Class Name | Character Coach 1 | Character Coach 2 |
-| -------- | -------- | -------- |
-| 3 Empathy    |  [Ms Goh Shu Hui](mailto:goh_shu_hui_b@schools.gov.sg) (ext 257)|[Mr Rudy Bin Swandi](mailto:rudy_swandi@schools.gov.sg) (ext 219)|
-| 3 Honour     |[Ms Sumaya Jahan](mailto:sumaya_jahan@schools.gov.sg) (ext 230)| [Mr Muhd Lathif](mailto:muhamad_lathif_yunus@schools.gov.sg)  (ext 244)|
-| 3 Diligence     |[Mr Ghazali B Abdul Wahab](mailto:Ghazali_B_Abdul_Wahab@schools.gov.sg) (ext 218)|[Ms Wong Mun Foong](mailto:wong_mun_foong@schools.gov.sg) (ext 219)|
-| 3 Resilience     | [Mr Soo Jun Hao](mailto:soo_jun_hao@schools.gov.sg) (ext 213)| [Ms Nur Diyana Binte Sanip](mailto:nur_diyana_mohamad_sanip@schools.gov.sg) (ext 201)|
-| 3 Integrity    | [Mr Quek Yeow Chong](mailto:quek_yeow_chong@schools.gov.sg) (ext 229)|[Mrs Joann Ganesan](mailto:joann_david@schools.gov.sg) (ext 204)|
-| 3 Harmony     |[Ms Siti Rezkiah](mailto:siti_rezkiah_mohd_radzelee@schools.gov.sg) (ext 204)| [Mr Whelan Chen](mailto:whelan_chen_jianming@schools.gov.sg) (ext 239)|
-| 3 Respect     | [Mr He Jiaen](mailto:he_jiaen@schools.gov.sg) (ext 234)| [Ms Janet Peh](mailto:peh_chew_kher_janet@schools.gov.sg) (ext 235) |
-| 3 Kindness     | [Ms Uvarani Munusamy](mailto:uvarani_munusamy@schools.gov.sg) (ext 215)| [Mr Chen Jialiang](mailto:chen_jialiang@schools.gov.sg) (ext 222) |
-
-### Cohort 4
-
-| Class Name | Character Coach 1 | Character Coach 2 |Character Coach 3|
-| -------- | -------- | -------- |-------- |
-| 4 Empathy | [Mr Mohamed Nor Ariffin](mailto:mohamed_nor_ariffin_ismail@schools.gov.sg) (ext 207)| [Mrs Zoanne Tay](mailto:sim_li_wen@schools.gov.sg) (ext 244)|
-| 4 Honour |[Mrs Cheung-Sim Yi Lian](mailto:sim_yi_lian@schools.gov.sg) (ext 248) |[Mrs Hee-Lim Gee Kheng](mailto:hee_lim_gee_kheng@schools.gov.sg) (ext 212)|
-| 4 Diligence | [Ms Ma Lijuan](mailto:ma_lijuan@schools.gov.sg) (ext 230)| [Mr Koh Tat Siang](mailto:koh_tat_siang@schools.gov.sg) (ext 247) |
-| 4 Resilience | [Mr Seth Lim](mailto:seth_lim_jun_hua@schools.gov.sg) (ext 239)| [Ms Nurul Diyana Hashim](mailto:nurul_diyana_hashim@schools.gov.sg) (ext 205) |
-| 4 Integrity | [Ms Teo Qi Wen](mailto:teo_qi_wen@schools.gov.sg) (ext 223)| [Mr Imarah Bin Abas](mailto:imarah_b_abas@schools.gov.sg) (ext 252)|
-| 4 Harmony | [Mr Jeremy Tng](mailto:jeremy_tng_ying_xiang@schools.gov.sg) (ext 231)| [Ms Jamilene Tan](mailto:jamilene_tan_hui_peng@schools.gov.sg) (ext 250) |
-| 4 Respect| [Mr Lok Chee How](mailto:lok_chee_how@schools.gov.sg) (ext 241)| [Ms Yusra Binte Abd Razak](mailto:yusra_abd_razak@schools.gov.sg) (ext 251) | [Mdm Kalaivani](mailto:Kalaivani_R_Mooventhar@schools.gov.sg) (ext 244)|
-| 4 Kindness |[Mr Mohd Yazid](mailto:mohd_yazid_md_yatim@schools.gov.sg) (ext 210)| [Ms Teo Jiaen, Victoria](mailto:teo_jiaen@schools.gov.sg) (220)|
-|5 Integrity| [Mdm Raudhah A R](mailto:raudhah_abdul_rahim@schools.gov.sg) (ext 205) | |
+<h3>School Leaders</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Leong Kok Kee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Tye-Ong Lay Yen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Syed Faisal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (Admin)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lai Chyh Jau</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Key Personnel</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheong_wai_tung_edwin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Edwin Cheong</a> (ext
+107)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_sooh_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wong Sooh Yee</a> (ext
+113)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_kok_wah_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ng Kok Wah</a> (ext
+110)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chia_wai_han@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chia Wai Han</a> (ext
+225)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_chuen_joo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ng Chuen Joo</a> (ext
+112)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD MTL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_puay_ee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Puay Ee</a> (ext
+150)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_hui_lin_agnes@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Agnes Lim</a> (ext
+108)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_ching_tard@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Goh Ching Tard</a> (ext
+117)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD PE/CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jenny_soh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jenny Soh</a> (ext
+116)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chia_hua_hoong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Hua Hoong</a> (ext
+109)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head (Sec 1 &amp; 4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:leong_siew_yin_frieda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Frieda Tay</a> (ext
+114)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head (Sec 2 &amp; 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_see_hwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jesslyn Yeoh</a> (ext
+115)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LH English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:diyanah_mohamad_yunos@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Diyanah Yunos</a> (ext
+218)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LH Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sim_yi_lian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Cheung-Sim Yi Lian</a> (ext
+248)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Aesthetics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jamilene_tan_hui_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jamilene Tan</a> (ext
+250)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_shu_hui_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Goh Shu Hui</a> (ext
+257)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sim_li_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Zoanne Tay</a> (ext
+244)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yong_mui_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Yong Mui Leng</a> (ext
+223)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheak_su_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cheak Su Peng</a> (ext
+210)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:raudhah_abdul_rahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Raudhah A R</a> (ext
+205)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH PE/CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:whelan_chen_jianming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Whelan Chen</a> (ext
+239)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH NFS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:peh_chew_kher_janet@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Janet Peh</a> (ext
+235)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Student Well Being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_diyana_mohamad_sanip@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Diyana Binte Sanip</a> (ext
+201)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Student Leadership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_qi_guang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Qi Guang</a> (ext
+222)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:aw_yong_wai_keet@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Aw Yong Wai Keet</a> (ext
+111)
+<br><a href="mailto:shahani_kamarudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shahani Binte Kamarudin</a> (ext
+249)
+<br><a href="mailto:Dinesh_Chander@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Dinesh Sawlani</a> (ext
+237)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher EL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Ghazali_B_Abdul_Wahab@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ghazali B Abdul Wahab</a> (ext
+218)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:farasidah_rohmat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Farasidah Rohmat</a> (ext
+213)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher CL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lau_sou_fong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lau Sou Fong</a> (ext
+215)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhamad_lathif_yunus@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Lathif</a> (ext
+244)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:irving_quah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Irving Long</a> (ext
+227)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher Physics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_tat_siang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Koh Tat Siang</a> (ext
+247)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Specialist</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="ang_ai_pang_margaret@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Margaret Ang</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Welfare Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="fong_siew_kay@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fong Siew Kay</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Special Education Needs Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="shahira_shari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shahira Shari</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Adjunct School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="soo_yam_koon_vincent@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Vincent Soo</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Education and Career Guidance Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="soong_xuan_de@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Stephen Soong</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Cohort 1</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Class Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Character Coach 1</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Character Coach 2</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Empathy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lau_sou_fong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lau Sou Fong</a> (ext
+215)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_fatin_nordin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Fatin Binte Nordin</a> (ext
+212)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Honour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheak_su_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cheak Su Peng</a> (ext
+210)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:benjamin_chong_wai_jian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Benjamin Chong</a> (ext
+211)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Diligence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_liting_olivia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Olivia Ng</a> (ext
+248)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yap_hui_san@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Yap Hui San</a> (ext
+209)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:farasidah_rohmat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Farasidah Rohmat</a> (ext
+213)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tay_seng_how@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Simon Tay</a> (ext
+221)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tham_michelle@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Michelle Tham</a> (ext
+202)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:karthigesu_chandra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Karthigesu Chandra</a> (ext
+226)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Kindness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nurul_diyanah_misdi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nurul Diyanah Binte Misdi</a> (ext
+228)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_qi_guang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Qi Guang</a> (ext
+222)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Cohort 2</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Class Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Character Coach 1</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Character Coach 2</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Empathy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ho_ngiap_tuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ho Ngiap Tuan</a> (ext
+231)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:diyanah_mohamad_yunos@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Diyanah Yunos</a> (ext
+218)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Honour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yong_mui_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Yong Mui Leng</a> (ext
+223)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:vishnu_preyei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Vishnu Preyei</a> (ext
+208)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Diligence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teh_hooi_ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ginny Teh</a> (ext
+228)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jeremiah_tan_teck_xuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jeremiah Tan</a> (ext
+211)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_jo_ann@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Jo Ann</a> (ext
+202)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:denise_james_allison@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs James Denise Allison</a> (ext
+251)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Harmony</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sanismah_saharil@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sanismah Saharil</a> (ext
+224)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kong_tze_shiuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kong Tze Shiuan</a> (ext
+220)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_hajar_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Siti Hajar</a> (ext
+201)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_hui_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wong Hui Yi</a> (ext
+209)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Kindness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:shaik_allauddin_kamaldeen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Shaik Allauddin</a> (ext
+226)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:irving_quah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Irving Long</a> (ext
+227)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Cohort 3</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Class Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Character Coach 1</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Character Coach 2</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Empathy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_shu_hui_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Goh Shu Hui</a> (ext
+257)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:rudy_swandi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Rudy Bin Swandi</a> (ext
+219)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Honour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sumaya_jahan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sumaya Jahan</a> (ext
+230)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhamad_lathif_yunus@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhd Lathif</a> (ext
+244)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Diligence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Ghazali_B_Abdul_Wahab@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ghazali B Abdul Wahab</a> (ext
+218)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_mun_foong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wong Mun Foong</a> (ext
+219)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:soo_jun_hao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Soo Jun Hao</a> (ext
+213)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_diyana_mohamad_sanip@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Diyana Binte Sanip</a> (ext
+201)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:quek_yeow_chong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Quek Yeow Chong</a> (ext
+229)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:joann_david@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Joann Ganesan</a> (ext
+204)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Harmony</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_rezkiah_mohd_radzelee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Siti Rezkiah</a> (ext
+204)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:whelan_chen_jianming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Whelan Chen</a> (ext
+239)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:he_jiaen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr He Jiaen</a> (ext
+234)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:peh_chew_kher_janet@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Janet Peh</a> (ext
+235)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Kindness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:uvarani_munusamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Uvarani Munusamy</a> (ext
+215)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chen_jialiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chen Jialiang</a> (ext
+222)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Cohort 4</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Class Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Character Coach 1</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Character Coach 2</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Character Coach 3</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Empathy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohamed_nor_ariffin_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohamed Nor Ariffin</a> (ext
+207)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sim_li_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Zoanne Tay</a> (ext
+244)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Honour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sim_yi_lian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Cheung-Sim Yi Lian</a> (ext
+248)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hee_lim_gee_kheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Hee-Lim Gee Kheng</a> (ext
+212)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Diligence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ma_lijuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ma Lijuan</a> (ext
+230)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_tat_siang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Koh Tat Siang</a> (ext
+247)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:seth_lim_jun_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Seth Lim</a> (ext
+239)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nurul_diyana_hashim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nurul Diyana Hashim</a> (ext
+205)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teo_qi_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Teo Qi Wen</a> (ext
+223)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:imarah_b_abas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Imarah Bin Abas</a> (ext
+252)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Harmony</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jeremy_tng_ying_xiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jeremy Tng</a> (ext
+231)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jamilene_tan_hui_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jamilene Tan</a> (ext
+250)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lok_chee_how@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lok Chee How</a> (ext
+241)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yusra_abd_razak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yusra Binte Abd Razak</a> (ext
+251)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Kalaivani_R_Mooventhar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kalaivani</a> (ext
+244)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Kindness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohd_yazid_md_yatim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohd Yazid</a> (ext
+210)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teo_jiaen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Teo Jiaen, Victoria</a> (220)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:raudhah_abdul_rahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Raudhah A R</a> (ext
+205)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
