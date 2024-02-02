@@ -361,7 +361,7 @@ variant: tiptap
 <p>Senior School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="ang_ai_pang_margaret@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Margaret Ang</a>
+<p><a href="mailto:ang_ai_pang_margaret@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Margaret Ang</a>
 </p>
 </td>
 </tr>
@@ -370,7 +370,7 @@ variant: tiptap
 <p>Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="fong_siew_kay@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fong Siew Kay</a>
+<p><a href="mailto:fong_siew_kay@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fong Siew Kay</a>
 </p>
 </td>
 </tr>
@@ -379,7 +379,7 @@ variant: tiptap
 <p>Special Education Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="shahira_shari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shahira Shari</a>
+<p><a href="mailto:shahira_shari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Shahira Shari</a>
 </p>
 </td>
 </tr>
@@ -388,7 +388,7 @@ variant: tiptap
 <p>Adjunct School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="soo_yam_koon_vincent@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Vincent Soo</a>
+<p><a href="mailto:soo_yam_koon_vincent@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Vincent Soo</a>
 </p>
 </td>
 </tr>
@@ -397,7 +397,7 @@ variant: tiptap
 <p>Education and Career Guidance Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="soong_xuan_de@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Stephen Soong</a>
+<p><a href="mailto:soong_xuan_de@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Stephen Soong</a>
 </p>
 </td>
 </tr>
