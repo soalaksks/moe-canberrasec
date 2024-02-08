@@ -419,7 +419,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Empathy</p>
+<p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lau_sou_fong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lau Sou Fong</a> (ext
