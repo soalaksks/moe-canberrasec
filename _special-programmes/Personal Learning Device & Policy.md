@@ -25,7 +25,7 @@ will be provided to the 2024 Secondary 1 parents in early January 2024.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/PLD%20Information%20Kit.pdf" rel="noopener noreferrer nofollow" target="_blank">PLD Information Kit 2023</a>
+<p><a href="/files/2024/Student_Device_Information_Kit_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">PLD Information Kit 2024</a>
 </p>
 </li>
 <li>
