@@ -9,4 +9,4 @@ third_nav_title: "2021"
 
 ![](/images/tt-20210528.jpg)
 
-<p>Time-table :&nbsp;<a href="https://moe-canberrasec-staging.netlify.app/files/202106-4E1.pdf" target="_blank" rel="noopener">4E1</a>,&nbsp;<a href="https://moe-canberrasec-staging.netlify.app/files/202106-4E2.pdf" target="_blank" rel="noopener">4E2</a>,&nbsp;<a href="https://moe-canberrasec-staging.netlify.app/files/202106-4E3.pdf" target="_blank" rel="noopener">4E3</a>,&nbsp;<a href="https://moe-canberrasec-staging.netlify.app/files/202106-4E4.pdf" target="_blank" rel="noopener">4E4</a>,&nbsp;<a href="https://moe-canberrasec-staging.netlify.app/files/202106-4N1.pdf" target="_blank" rel="noopener">4N1</a>,&nbsp;<a href="https://moe-canberrasec-staging.netlify.app/files/202106-4N2.pdf" target="_blank" rel="noopener">4N2</a>,&nbsp;<a href="https://moe-canberrasec-staging.netlify.app/files/202106-4T1.pdf" target="_blank" rel="noopener">4T1</a>,&nbsp;<a href="https://moe-canberrasec-staging.netlify.app/files/202106-5N1.pdf" target="_blank" rel="noopener">5N1</a></p>
+<p>Time-table :&nbsp;<a href="/files/202106-5N1.pdf" target="_blank" rel="noopener">5N1</a></p>
