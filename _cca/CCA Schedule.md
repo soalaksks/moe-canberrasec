@@ -22,7 +22,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Sports &amp; Clubs</strong>
+<p><strong>Sports &amp; Clubs</strong> 
 <br>Mondays 3pm – 5.30pm</p>
 <p>Wednesdays 2.30 pm - 5.30 pm</p>
 </td>
@@ -87,7 +87,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Visual and Performing Arts</strong>
+<p><strong>Visual and Performing Arts</strong> 
 <br>Wednesdays 2.30pm – 5.30pm</p>
 </td>
 </tr>
@@ -165,7 +165,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Uniformed Groups</strong>
+<p><strong>Uniformed Groups</strong> 
 <br>NCC, NCDCC, NPCC - Wednesday 2.30pm – 6pm
 <br>BB and GB - Saturday 8.30am – 12.30pm</p>
 </td>
