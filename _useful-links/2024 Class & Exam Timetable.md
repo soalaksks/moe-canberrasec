@@ -4,7 +4,10 @@ permalink: /class-exam-time-table/
 description: ""
 variant: tiptap
 ---
-<h3>2024 Semester 1 Class Time Table</h3>
+<h4>2024 MTL Prelim Exam Time Table</h4>
+<p><a href="/files/2024/MTL_PRELIM_2024_TT.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 MTL Preliminary Exam Time Table</a>
+</p>
+<h4><br>2024 Semester 1 Class Time Table</h4>
 <h4>Cohort 1</h4>
 <table>
 <tbody>
