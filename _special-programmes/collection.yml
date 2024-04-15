@@ -2,7 +2,7 @@ collections:
   special-programmes:
     output: true
     order:
-      - Visual Arts, Design and Media (ALP Programme).md
+      - Visual Arts, Design and Media (ALP).md
       - Learning for Life (LLP).md
       - Student Leadership & Recognition.md
       - Cyberwellness Guides.md
