@@ -79,7 +79,7 @@ variant: tiptap
 <p>Taekwondo (Wednesdays only)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Dance Studio 2 (Level 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -122,7 +122,7 @@ variant: tiptap
 <p>Concert Band</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Music Room / Resource Room 2 / Cosmix</p>
+<p>Music Room</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -133,7 +133,8 @@ variant: tiptap
 <p>Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dance Studio 1 &amp; 2</p>
+<p>Dance Studio 1
+<br>(Level 1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chen Jialiang
