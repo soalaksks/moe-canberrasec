@@ -4,3 +4,170 @@ permalink: /visual-arts-design-and-media-alp/
 variant: tiptap
 description: ""
 ---
+<h4><strong>Visual Arts, Design and Media Programme</strong></h4>
+<p>Canberra Secondary Schools’ ALP aligns with the 21st Century Competencies
+Framework, integrating authentic learning and career exposure. Through
+this use of Visual Arts and Design, we emphasize a balanced approach through
+arts appreciation and technical skills.</p>
+<p>Our ALP comprises of two tiers:</p>
+<p><strong><u>Tier 1</u></strong>: focuses on knowledge acquisition.</p>
+<p><strong><u>Tier 2</u></strong>: emphasises application of skills through
+involvement in personal projects through the Digital Media in Visual Arts
+CCA.</p>
+<h4><strong>Objectives of ALP</strong></h4>
+<p>The Applied Learning Program (ALP) aims to integrate academic knowledge
+with real-world applications, emphasize on relevant learning experiences
+in school, motivate skill acquisition, develop visual arts, design, photography,
+and videography skills.</p>
+<p></p>
+<p><strong>ALP Framework</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Find</strong>: Leveraging on technology to brainstorm ideas for
+research and to identify the needs of the community.</p>
+</li>
+<li>
+<p><strong>Think</strong>: To think about why pictures are taken, telling
+an engaging story, and getting your point over to the audience.</p>
+</li>
+<li>
+<p><strong>Apply</strong>: Creative use of photography, editing, videography,
+and video editing skills</p>
+</li>
+<li>
+<p><strong>Create</strong>: Creating, connect, and communicate through photos
+and videos using the Google Sites platform for students’ e-Portfolios.</p>
+</li>
+</ol>
+<p></p>
+<p><strong><u>Digital Competencies</u></strong>
+</p>
+<p>The ALP framework consists of nine digital competencies:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Digital Safety,</p>
+</li>
+<li>
+<p>Responsibility,</p>
+</li>
+<li>
+<p>Knowledge Currency,</p>
+</li>
+<li>
+<p>Computational Thinking,</p>
+</li>
+<li>
+<p>Information Management,</p>
+</li>
+<li>
+<p>Communication,</p>
+</li>
+<li>
+<p>Data Competencies,</p>
+</li>
+<li>
+<p>Device and Software Operations, and</p>
+</li>
+<li>
+<p>Programming.</p>
+<p></p>
+</li>
+</ul>
+<p>Our school’s focus is on Digital Responsibility, Digital Knowledge Currency,
+Digital Communication, Collaboration &amp; Participation, and Data Competencies.</p>
+<p></p>
+<p><strong><u>Challenge-Based Learning</u></strong>
+</p>
+<p>The challenge-based learning framework encourages student collaboration
+by fostering big ideas, asking thoughtful questions, and identifying, investigating,
+and solving challenges through three interconnected phases.</p>
+<p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Engage</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Researching 5 BIG Ideas.</p>
+</li>
+<li>
+<p>Identifying 1 challenge</p>
+</li>
+<li>
+<p>Thinking of essential questions
+<br>
+</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Investigate</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learning experiences through VIA, CCA, and public space visits</p>
+</li>
+</ul>
+<p></p>
+</li>
+<li>
+<p>Act</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Proposing solutions</p>
+</li>
+<li>
+<p>Implementing and evaluating solutions</p>
+</li>
+</ul>
+</li>
+</ol>
+<p></p>
+<p><strong><u>BIG Ideas</u></strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Climate Change (Biodiversity)</p>
+</li>
+<li>
+<p>Diverse Society (Gender, Gratitude, Inequity, and Inequality, Community)</p>
+</li>
+<li>
+<p>Environment and Sustainability (Plastic, Environmental Justice, Water)</p>
+</li>
+<li>
+<p>Food and Health (Health)</p>
+</li>
+<li>
+<p>Security (Coding)</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<h4><strong>Our Curriculum</strong></h4>
+<p><strong>Cohort 1: Photography</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Photography skills</p>
+</li>
+<li>
+<p>Photo editing</p>
+</li>
+<li>
+<p>Photo journaling</p>
+<p></p>
+</li>
+</ul>
+<p><strong>Cohort 2: Videography</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Videography skills</p>
+</li>
+<li>
+<p>Storyboarding</p>
+</li>
+<li>
+<p>Video editing</p>
+</li>
+</ul>
+<p></p>
