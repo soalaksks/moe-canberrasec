@@ -81,6 +81,9 @@ and videos using the Google Sites platform for students’ e-Portfolios.</p>
 <p>Our school’s focus is on Digital Responsibility, Digital Knowledge Currency,
 Digital Communication, Collaboration &amp; Participation, and Data Competencies.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_02.jpg">
+</div>
 <p><strong><u>Challenge-Based Learning</u></strong>
 </p>
 <p>The challenge-based learning framework encourages student collaboration
