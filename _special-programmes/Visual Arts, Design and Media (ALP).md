@@ -172,6 +172,10 @@ and solving challenges through three interconnected phases.</p>
 </li>
 <li>
 <p>Video editing</p>
+<p></p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ALP_01.jpg">
+</div>
 <p></p>
