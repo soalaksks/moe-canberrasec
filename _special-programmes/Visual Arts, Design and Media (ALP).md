@@ -41,6 +41,10 @@ and videos using the Google Sites platform for students’ e-Portfolios.</p>
 </li>
 </ol>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
+</div>
+<p></p>
 <p><strong><u>Digital Competencies</u></strong>
 </p>
 <p>The ALP framework consists of nine digital competencies:</p>
