@@ -14,6 +14,10 @@ arts appreciation and technical skills.</p>
 <p><strong><u>Tier 2</u></strong>: emphasises application of skills through
 involvement in personal projects through the Digital Media in Visual Arts
 CCA.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ALP_Poster_2024.jpg">
+</div>
 <h4><strong>Objectives of ALP</strong></h4>
 <p>The Applied Learning Program (ALP) aims to integrate academic knowledge
 with real-world applications, emphasize on relevant learning experiences
