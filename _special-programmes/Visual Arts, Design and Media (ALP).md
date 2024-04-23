@@ -112,7 +112,6 @@ and solving challenges through three interconnected phases.</p>
 <p>Security (Coding)</p>
 </li>
 </ol>
-<p>&nbsp;</p>
 <h4><strong>Our Curriculum</strong></h4>
 <p><strong>Cohort 1: Photography</strong>
 </p>
