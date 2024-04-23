@@ -42,11 +42,11 @@ and videos using the Google Sites platform for students’ e-Portfolios.</p>
 </ol>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_02.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ALP_02.jpg">
 </div>
 <p><strong><u>Challenge-Based Learning</u></strong>
 </p>
