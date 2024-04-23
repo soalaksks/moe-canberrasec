@@ -45,48 +45,12 @@ and videos using the Google Sites platform for students’ e-Portfolios.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
 </div>
 <p></p>
-<p><strong><u>Digital Competencies</u></strong>
-</p>
-<p>The ALP framework consists of nine digital competencies:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Digital Safety,</p>
-</li>
-<li>
-<p>Responsibility,</p>
-</li>
-<li>
-<p>Knowledge Currency,</p>
-</li>
-<li>
-<p>Computational Thinking,</p>
-</li>
-<li>
-<p>Information Management,</p>
-</li>
-<li>
-<p>Communication,</p>
-</li>
-<li>
-<p>Data Competencies,</p>
-</li>
-<li>
-<p>Device and Software Operations, and</p>
-</li>
-<li>
-<p>Programming.</p>
-<p></p>
-</li>
-</ul>
-<p>Our school’s focus is on Digital Responsibility, Digital Knowledge Currency,
-Digital Communication, Collaboration &amp; Participation, and Data Competencies.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_02.jpg">
 </div>
 <p><strong><u>Challenge-Based Learning</u></strong>
 </p>
-<p>The challenge-based learning framework encourages student collaboration
+<p>The challenge-based learning approach encourages student collaboration
 by fostering big ideas, asking thoughtful questions, and identifying, investigating,
 and solving challenges through three interconnected phases.</p>
 <p></p>
