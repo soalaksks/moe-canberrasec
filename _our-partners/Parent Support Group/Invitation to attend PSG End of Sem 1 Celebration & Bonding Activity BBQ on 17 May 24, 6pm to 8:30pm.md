@@ -6,32 +6,20 @@ description: ""
 third_nav_title: Parent Support Group
 variant: tiptap
 ---
-Dear Parents / Guardians,
-
-We would like to invite Canberrans’ parents / guardians to our Termly Breakfast Dialogue Sessions with
-School Leaders on 7th March 2023 (Tuesday), 8.00 – 9.30am at Cosmix, Level 3.
-
-This face-to-face session is part of the school’s additional outreach efforts to engage parents / guardians
-in our education pursuits to nurture Grateful, Respectful and Compassionate Canberrans.
-
-The session details are as follows:
-
-* Date: 1st Dialogue Session - 7th March 2023 (Tuesday)
-* Time: 8.00am – 9.30am (Light refreshments will be provided)
-* Venue: Canberra Secondary School, Cosmix, Level 3
-* Registration for Session 1 will be opened from: 17 Feb to 1 Mar 2023
-* Register at: [https://form.gov.sg/63eed4b5a6d89a0012d32932](https://form.gov.sg/63eed4b5a6d89a0012d32932)
-
-Programme Outline:<br>
-* 8.00am to 8.05am (5 minutes) - Principal’s Welcome and Introduction of School Key Personnel
-* 8.05am to 8.30am (25 minutes) - Sharing by School Leaders on School Programme
-* 8.30am to 9.30am (60 minutes) - Q &amp; A Dialogue session
-
-There are 2 more Dialogue sessions available:
-* Session 2: 5 April 2023, Wednesday, 8am – 9.30am
-* Session 3: 6 July 2023, Thursday, 8am – 9.30am
-
-The registration link will be provided closer to date.
-
-Similar details can be found in your PG message.
-<br>Thank you.
+<p>Dear Parents/Guardians,</p>
+<p>As part of Canberra Secondary School’s continual effort to foster quality
+relationships with parents &amp; guardians, we would like to extend an
+invitation to you and your family to join us for the PSG End-of-Semester
+1 Celebration and Bonding Activity – BBQ! with Canberra Staff on 17 May
+2024 (Friday) from 6pm to 8.30pm. This will also be a good opportunity
+for you to connect with other parents as well as to interact with the teachers,
+key personal and school leaders in an informal setting.</p>
+<p>We believe that strong parent-school relationships are essential for a
+child's educational success. Thus, we are committed to building and fostering
+those relationships, and we hope you will join us in this effort.</p>
+<p>Date: 17 May 2024, Friday, 6pm – 8.30pm</p>
+<p>Venue: Canberra Secondary School, Canteen</p>
+<p><strong>Registration is opened from 3<sup>rd</sup> May to 11<sup>th</sup> May 2024.</strong>
+</p>
+<p><strong>Please click on the link below to register your attendance.</strong>
+</p>
