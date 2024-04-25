@@ -21,5 +21,7 @@ those relationships, and we hope you will join us in this effort.</p>
 <p>Venue: Canberra Secondary School, Canteen</p>
 <p><strong>Registration is opened from 3<sup>rd</sup> May to 11<sup>th</sup> May 2024.</strong>
 </p>
-<p><strong>Please click on the link below to register your attendance.</strong>
+<p><strong>Please click on the link below to register your attendance:</strong>
+</p>
+<p><a href="https://form.gov.sg/6619fad6caf190e42ff19354" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6619fad6caf190e42ff19354</a>
 </p>
