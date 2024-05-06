@@ -27,26 +27,36 @@ with real-world applications, emphasize on relevant learning experiences
 in school, motivate skill acquisition, develop visual arts, design, photography,
 and videography skills.</p>
 <p></p>
-<p><strong>ALP Framework</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>Find</strong>: Leveraging on technology to brainstorm ideas for
-research and to identify the needs of the community.</p>
-</li>
-<li>
-<p><strong>Think</strong>: To think about why pictures are taken, telling
-an engaging story, and getting your point over to the audience.</p>
-</li>
-<li>
-<p><strong>Apply</strong>: Creative use of photography, editing, videography,
-and video editing skills</p>
-</li>
-<li>
-<p><strong>Create</strong>: Creating, connect, and communicate through photos
-and videos using the Google Sites platform for students’ e-Portfolios.</p>
-</li>
-</ol>
+<h4><strong>ALP Framework</strong></h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">1) Find</div>
+<div class="isomer-card-description">Leveraging on technology to brainstorm ideas for research and to identify
+the needs of the community.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">2) Think</div>
+<div class="isomer-card-description">To think about why pictures are taken, telling an engaging story, and
+getting your point over to the audience.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">3) Apply</div>
+<div class="isomer-card-description">Creative use of photography, editing, videography, and video editing skills</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">4) Create</div>
+<div class="isomer-card-description">Creating, connect, and communicate through photos and videos using the
+Google Sites platform for students’ e-Portfolios.</div>
+</div>
+</div>
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture1.png">
@@ -60,7 +70,6 @@ and videos using the Google Sites platform for students’ e-Portfolios.</p>
 <p>The challenge-based learning approach encourages student collaboration
 by fostering big ideas, asking thoughtful questions, and identifying, investigating,
 and solving challenges through three interconnected phases.</p>
-<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Engage</p>
