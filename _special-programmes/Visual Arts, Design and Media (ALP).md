@@ -14,6 +14,9 @@ arts appreciation and technical skills.</p>
 <p><strong><u>Tier 2</u></strong>: emphasises application of skills through
 involvement in personal projects through the Digital Media in Visual Arts
 CCA.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/we57FNBqfOQ?si=G8cpXZ4uCfDodgXJ"></iframe>
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ALP_Poster_2024.jpg">
