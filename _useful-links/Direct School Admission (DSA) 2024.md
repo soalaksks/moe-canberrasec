@@ -111,26 +111,25 @@ will be deleted after selection is completed.</p>
 <h4>Important Dates</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>The application period is from <strong>4 May – 31 May 2023</strong>.</p>
+<p>The application period is from <strong>7 May – 3 June 2024</strong>.</p>
 </li>
 <li>
 <p>All short-listed candidates will be notified by <strong>30 June 2023</strong> to
 attend an interview. Selection phase is from <strong>26 Jun – 11 Sep 2023</strong>.</p>
 </li>
 <li>
-<p>All applicants will be notified of the outcome of their application by <strong>11 September 2023</strong>.</p>
+<p>All applicants will be notified of the outcome of their application by <strong>9 September 2024</strong>.</p>
 </li>
 <li>
 <p>Students who are offered a DSA-Sec place will need to exercise their School
-Preference within the period from <strong>23 October to 27 October 2023</strong>.
+Preference within the period from <strong>21 October - 25 October 2024</strong>.
 This can be done online through the DSA-Sec Portal.</p>
 </li>
 </ol>
 <h4>How to apply</h4>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from 7 May 2024, 11am
-to 3 June 2024, 3pm. For more details, please refer to MOE website –
-<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>.</p>
+The application is free-of-charge and will be <strong>open from 7 May 2024, 11am to 3 June 2024, 3pm</strong>.
+For more details, please refer to MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>.</p>
 <p><em>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</em>
 </p>
 <p>For further enquiries, please email bala_kirishanan@moe.edu.sg</p>
