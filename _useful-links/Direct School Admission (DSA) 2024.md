@@ -111,7 +111,7 @@ will be deleted after selection is completed.</p>
 <h4>Important Dates</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>The application period is from <strong>7 May – 3 June 2024</strong>.</p>
+<p>The application period is from <strong>7 May 2024, 11am to 3 June 2024, 3pm</strong>.</p>
 </li>
 <li>
 <p>All short-listed candidates will be notified by <strong>28 June 2024</strong> to
