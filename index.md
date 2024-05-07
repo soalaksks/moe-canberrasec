@@ -10,6 +10,11 @@ sections:
       url: /contact-us/
       background: /images/2024_Feb_banner.gif
       variant: center
+  - infobar:
+      title: Direct School Admission (DSA) 2024
+      id: infobar
+      button: FOR MORE INFORMATION
+      url: https://canberrasec.moe.edu.sg/direct-school-admission-dsa/
   - infopic:
       alt: Image alt text
       image: /images/Homepage_text.png
