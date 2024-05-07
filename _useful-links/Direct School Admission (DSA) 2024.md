@@ -17,7 +17,7 @@ in seeking admission to secondary schools.</p>
 <p>In Canberra Secondary School, staff and students alike are constantly
 engaged in developing new ideas for the digital media in teaching and learning.
 Our DSA talent area in Visual Art – Media Arts / Film / Photography, is
-aligned with our Applied Learning Programme (Digital Media).. Through our
+aligned with our Applied Learning Programme (Digital Media). Through our
 structured school-wide Applied Learning Programme (Digital Media), our
 students are given a headstart in Digital Media. The programme incorporates
 learning in authentic setting and integrates education and career experiences
