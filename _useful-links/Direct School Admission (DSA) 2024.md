@@ -98,9 +98,9 @@ convention:
 </p>
 </li>
 <li>
-<p>Email the file (&lt;20MB) to bala_kirishanan@moe.edu.sg OR Upload to Google
-Drive to then share link with bala_kirishanan@moe.edu.sg (privacy setting
-should be ‘Public’ or ‘Anyone with the Link’).</p>
+<p>Email the file (&lt;20MB) to lim_puay_ee@moe.edu.sg OR Upload to Google
+Drive to then share link with lim_puay_ee@moe.edu.sg (privacy setting should
+be ‘Public’ or ‘Anyone with the Link’).</p>
 </li>
 <li>
 <p>E-portfolios submitted will only be used for DSA selection purpose and
@@ -114,8 +114,8 @@ will be deleted after selection is completed.</p>
 <p>The application period is from <strong>7 May – 3 June 2024</strong>.</p>
 </li>
 <li>
-<p>All short-listed candidates will be notified by <strong>30 June 2023</strong> to
-attend an interview. Selection phase is from <strong>26 Jun – 11 Sep 2023</strong>.</p>
+<p>All short-listed candidates will be notified by <strong>28 June 2024</strong> to
+attend an interview. Selection phase is from <strong>2 July – 29 August 2024</strong>.</p>
 </li>
 <li>
 <p>All applicants will be notified of the outcome of their application by <strong>9 September 2024</strong>.</p>
@@ -132,4 +132,4 @@ The application is free-of-charge and will be <strong>open from 7 May 2024, 11am
 For more details, please refer to MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>.</p>
 <p><em>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</em>
 </p>
-<p>For further enquiries, please email bala_kirishanan@moe.edu.sg</p>
+<p>For further enquiries, please email lim_puay_ee@moe.edu.sg</p>
