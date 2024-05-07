@@ -62,6 +62,7 @@ guarantee the student will be shortlisted/given an offer.</p>
 </li>
 </ul>
 <h5>E-submission of e-portfolio</h5>
+<blockquote>
 <ol>
 <li>
 <p>Submit an e-portfolio of 3-5 original works using presentation slides
@@ -87,6 +88,8 @@ in slide).</p>
 etc.).
 <br>
 </p>
+<hr>
+<p></p>
 </li>
 <li>
 <p>E-portfolio can be in PowerPoint or PDF format with the following file-naming
@@ -104,6 +107,7 @@ should be ‘Public’ or ‘Anyone with the Link’).</p>
 will be deleted after selection is completed.</p>
 </li>
 </ul>
+</blockquote>
 <h4>Important Dates</h4>
 <ol data-tight="true" class="tight">
 <li>
