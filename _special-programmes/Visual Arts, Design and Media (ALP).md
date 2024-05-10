@@ -61,10 +61,6 @@ Google Sites platform for students’ e-Portfolios.</div>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture1.png">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ALP_02.jpg">
-</div>
 <p><strong><u>Challenge-Based Learning</u></strong>
 </p>
 <p>The challenge-based learning approach encourages student collaboration
