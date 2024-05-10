@@ -91,6 +91,20 @@ Google Sites platform for students’ e-Portfolios.</div>
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture6.jpg">
+</div>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
