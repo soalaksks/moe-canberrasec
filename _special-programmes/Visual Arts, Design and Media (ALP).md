@@ -73,7 +73,7 @@ Google Sites platform for students’ e-Portfolios.</div>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
 </div>
 </th>
 </tr>
@@ -87,7 +87,7 @@ Google Sites platform for students’ e-Portfolios.</div>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
 </div>
 </td>
 </tr>
@@ -101,7 +101,21 @@ Google Sites platform for students’ e-Portfolios.</div>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture6.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Picture6.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture7.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture8.jpg">
 </div>
 </td>
 </tr>
