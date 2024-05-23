@@ -4,12 +4,20 @@ permalink: /class-exam-time-table/
 description: ""
 variant: tiptap
 ---
+<h4>2024 Sec 4/5 Prelim Exam Time Table</h4>
+<p><a href="/files/2024/Preliminary_Examination_TT_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Secondary 4/5 Preliminary Exam Time Table</a>
+</p>
 <h4>2024 MTL Prelim Exam Time Table</h4>
 <p><a href="/files/2024/MTL_PRELIM_2024_TT.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 MTL Preliminary Exam Time Table</a>
 </p>
 <h4><br>2024 Semester 1 Class Time Table</h4>
 <h4>Cohort 1</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -103,7 +111,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Cohort 2</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -210,7 +223,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Cohort 3</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -330,7 +348,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Cohort 4 &amp; 5</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
