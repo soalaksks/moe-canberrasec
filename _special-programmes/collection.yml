@@ -2,6 +2,7 @@ collections:
   special-programmes:
     output: true
     order:
+      - Cohort 1/Visual Arts, Design and Media (ALP).md
       - Cohort 1/.keep
       - Learning for Life (LLP).md
       - Student Leadership & Recognition.md
