@@ -1,5 +1,5 @@
 collections:
-  canberra:
+  about-canberra:
     output: true
     order:
       - Principal's Message & School Philosophy.md
