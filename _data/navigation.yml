@@ -1,7 +1,7 @@
 logo: /images/logo_large.png
 links:
   - title: About Canberra
-    collection: canberra
+    collection: about-canberra
   - title: The Canberran Experience
     collection: the-canberran-experience
   - title: CCA
