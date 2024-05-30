@@ -2,22 +2,66 @@
 title: Principal's Message & School Philosophy
 permalink: /canberra/principals-message/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<img style="max-width: 240px; height: auto;" src="/images/MR%20LEONG%20KOK%20KEE_cropped.jpg">
-<p>
-Happy New Year and a warm welcome to you and family to the Canberran Community. I would like to place on record our appreciation to Principal Mr Ng Tiong Nam for his leadership at Canberra Secondary (2017 – 2022) and wish him all the best as he assumes his new appointment from 2023 as Principal, Broadrick Secondary School. I am honoured to join Canberra Secondary as its fifth Principal and I look forward to working in partnership with all parents/guardians as we nurture our students to be Grateful, Respectful and Compassionate Canberrans.
-<br>
-
-</p><h5> School Philosophy, Culture and Ethos : </h5>
-
-Guided by our School Motto of “Challenge your potential; Conquer your aspirations; and Contribute to society”, our school's vision is to nurture a community of Grateful, Respectful, and Compassionate individuals who are appreciative of the world around them, respectful of one another's differences and perspectives, and compassionate in their actions towards those in need. Through this vision, we aim to develop responsible, empathetic, kind, and socially conscious individuals who, as they grow and learn, will make a positive impact on their communities and the broader society.
-
-<p></p><h4 style="text-align: center;">We Lead, Care, Inspire,<br>
-For the Future of the Nation Passes through our Hands. </h4><p></p>
-
-And this is what we are committed to do.<br><br>
-Thank you.
-<br><br>
-Mr Leong Kok Kee<br>
-Principal
+<div class="isomer-image-wrapper">
+<img style="max-width: 240px; height: auto;" height="auto" width="100%" src="/images/MR%20LEONG%20KOK%20KEE_cropped.jpg">
+</div>
+<p>I am both honoured and excited to commence my role as the Principal of
+Canberra Secondary School. Embarking on this journey with each of you is
+a privilege, and I am committed to steering our school with purpose and
+passion. Education, to me, is not just a destination but an ongoing expedition
+of growth and discovery. Our collective journey at Canberra is one of continuous
+learning, adaptation, and progress.</p>
+<p>In my leadership journey, I firmly adhere to the belief that we should
+be "First to SERVE, then to LEAD." Leadership, in its truest form, is a
+commitment to serving others before oneself. Through service, we will build
+a foundation of trust, collaboration, and mutual respect. Together, we
+will continue to foster a culture where Gratitude, Respect, and Compassion
+are lived experiences for all our students and staff.</p>
+<p>Moreover, I am guided by the conviction that we must always leave a place
+better than we found it, ensuring that our actions contribute to the continual
+improvement and enrichment of our students and staff. In Canberra, we are
+anchored in values and purpose, recognising that the foundation of our
+educational community lies in the shared commitment to uphold essential
+principles. These values will serve as the compass directing our actions
+and decisions.</p>
+<p>At the heart of our mission are the beliefs that we value every student.
+We firmly acknowledge that every student wants to learn and that, indeed,
+all can learn. It is our duty to foster an environment where these aspirations
+can flourish, creating a culture of curiosity, engagement, and achievement.</p>
+<p>As we navigate the changing landscape for our students, characterised
+by accelerated technological changes, an increasingly fragmented world,
+and an evolving social fabric, we must prepare our students to connect,
+create, and collaborate. It is our responsibility to equip them with the
+skills and mindset necessary to thrive in this dynamic environment.</p>
+<p>Our school programmes are designed with a clear focus to instil in our
+students a passion for lifelong learning, equipping them with the skills
+and knowledge necessary to thrive in an ever-evolving world. Our programmes
+are inclusive and tailored to meet the needs of every Canberran, recognizing
+and celebrating their unique perspectives, abilities, and backgrounds.
+The well-being of our students is paramount. We are dedicated to creating
+a supportive and nurturing environment that promotes not only academic
+success but also the overall health and happiness of each student.</p>
+<p>Recognising the rapid evolution of our education landscape and workplaces,
+we are preparing our students for the dynamic future that awaits them.
+Our teachers, the guiding forces in this journey, will embark on Professional
+Development programmes, including the Teacher Work Attachment Plus (TWA+)
+programme. This aims to equip our educators to guide students through the
+volatile, uncertain, complex, and ambiguous (VUCA) challenges that lie
+ahead. The TWA+ programme, with its learning journeys and work attachments
+in diverse sectors, will broaden our teachers' perspectives, enriching
+their teaching and empowering them to guide students in making informed
+choices about their educational and career pathways.</p>
+<p>I am excited about the promising future awaiting Canberra Secondary School.
+As we embark on this collective journey, let us embrace the path ahead
+with open hearts and minds. Our shared commitment to service, leadership,
+and leaving a lasting impact will serve as our guiding light, leading us
+towards new horizons of achievement. Together,&nbsp; we will seize these
+opportunities for growth, learning, and collaboration, navigating the ever-changing
+landscape of education to prepare our students for success in the world
+beyond.</p>
+<p>&nbsp;</p>
+<p>Yours faithfully</p>
+<p>Mr Leong Kok Kee</p>
+<p>Principal</p>
