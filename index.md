@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       url: /contact-us/
-      background: /images/2024_June_banner_merged.gif
+      background: /images/2024_Feb_banner.gif
       variant: center
   - infopic:
       alt: Image alt text
