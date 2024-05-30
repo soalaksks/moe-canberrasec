@@ -11,17 +11,17 @@ sections:
       background: /images/2024_Feb_banner.gif
       variant: center
   - infopic:
+      alt: Image alt text
+      image: /images/Homepage_text.png
+      description: “The future belongs to those who believe in the beauty of their
+        dreams.” - Eleanor Roosevelt
+  - infopic:
       title: Direct School Admission (DSA) 2024
       id: infopic
       button: FOR MORE INFORMATION
       url: https://canberrasec.moe.edu.sg/direct-school-admission-dsa/
       image: /images/WhatsApp_Image_2024_05_16_at_3_57_24_PM.jpg
       alt: Image alt text
-  - infopic:
-      alt: Image alt text
-      image: /images/Homepage_text.png
-      description: “The future belongs to those who believe in the beauty of their
-        dreams.” - Eleanor Roosevelt
   - resources:
       title: School Corporate Videos & Special Programmes
       button: VIEW MORE
