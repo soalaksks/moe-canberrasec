@@ -54,9 +54,7 @@ variant: tiptap
 <br>Level 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teo Jiaen</p>
-<p>67585070 ext 234</p>
-<p>teo_jiaen@schools.gov.sg</p>
+<p>Ms Teo Jiaen 67585070 ext 220 teo_jiaen@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -67,9 +65,7 @@ variant: tiptap
 <p>Parade Square</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Rezkiah Binte Mohd Radzelee</p>
-<p>67585070 ext 234</p>
-<p>Siti_Rezkiah_Mohd Radzelee@schools.gov.sg</p>
+<p>Ms Siti Rezkiah Binte Mohd Radzelee 67585070 ext 204 Siti_Rezkiah_Mohd_Radzelee@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -169,7 +165,6 @@ variant: tiptap
 <p>Ms Yap Hui San</p>
 <p>67585070 ext 209</p>
 <p>yap_hui_san@schools.gov.sg</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -183,6 +178,17 @@ variant: tiptap
 <p>Mr Kong Tze Shiuan</p>
 <p>67585070 ext 220</p>
 <p>kong_tze_shiuan@schools.gov.sg</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -219,7 +225,6 @@ variant: tiptap
 <p>Ms Wong Mun Foong</p>
 <p>67585070 ext 219</p>
 <p>wong_mun_foong@schools.gov.sg</p>
-<p></p>
 </td>
 </tr>
 <tr>
