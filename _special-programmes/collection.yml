@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Cohort 1/.keep
-      - Visual Arts, Design and Media (ALP).md
       - Learning for Life (LLP).md
       - Student Leadership & Recognition.md
       - Cyberwellness Guides.md
