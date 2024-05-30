@@ -4,7 +4,12 @@ permalink: /cca/cca-schedule/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -49,7 +54,9 @@ variant: tiptap
 <br>Level 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Teo Jiaen</p>
+<p>67585070 ext 234</p>
+<p>teo_jiaen@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -60,7 +67,9 @@ variant: tiptap
 <p>Parade Square</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Siti Rezkiah Binte Mohd Radzelee</p>
+<p>67585070 ext 234</p>
+<p>Siti_Rezkiah_Mohd Radzelee@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -71,7 +80,9 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr He Jiaen
+<br>67585070 ext 234
+<br>he_jiaen@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -82,7 +93,9 @@ variant: tiptap
 <p>Dance Studio 2 (Level 2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Karthigesu s/o Chandra
+<br>67585070 ext 226
+<br>karthigesu_chandra@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -125,6 +138,9 @@ variant: tiptap
 <p>Music Room</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Tan Jo Ann</p>
+<p>67585070 ext 202</p>
+<p>tan_jo_ann@schools.gov.sg</p>
 <p></p>
 </td>
 </tr>
@@ -150,6 +166,9 @@ variant: tiptap
 <p>Air Rifle Range</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Yap Hui San</p>
+<p>67585070 ext 209</p>
+<p>yap_hui_san@schools.gov.sg</p>
 <p></p>
 </td>
 </tr>
@@ -161,6 +180,9 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Kong Tze Shiuan</p>
+<p>67585070 ext 220</p>
+<p>kong_tze_shiuan@schools.gov.sg</p>
 <p></p>
 </td>
 </tr>
@@ -194,6 +216,9 @@ variant: tiptap
 <p>Parade Square</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Wong Mun Foong</p>
+<p>67585070 ext 219</p>
+<p>wong_mun_foong@schools.gov.sg</p>
 <p></p>
 </td>
 </tr>
@@ -205,7 +230,9 @@ variant: tiptap
 <p>Parade Square</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Tan Qi Guang</p>
+<p>67585070 ext 222</p>
+<p>tan_qi_guang@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -217,7 +244,9 @@ variant: tiptap
 <p>Parade Square</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Teo Qi Wen</p>
+<p>67585070 ext 223</p>
+<p>teo_qi_wen@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -229,7 +258,9 @@ variant: tiptap
 <p>Parade Square</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Imarah Bin Abas</p>
+<p>67585070 ext 252</p>
+<p>imarah_b_abas@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
