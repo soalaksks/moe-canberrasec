@@ -2,13 +2,13 @@ collections:
   useful-links:
     output: true
     order:
-      - Guide to SLS Account Management.md
-      - Cyberwellness Guides.md
-      - Personal Learning Device & Policy.md
       - Direct School Admission (DSA) 2024.md
       - 2024 Class & Exam Timetable.md
-      - 2024 Secondary One Registration.md
       - Letters to Parents.md
+      - Guide to SLS Account Management.md
+      - Personal Learning Device & Policy.md
+      - Cyberwellness Guides.md
+      - 2024 Secondary One Registration.md
       - 2024 Booklist & Uniform Order Form.md
       - Library Online Public Access Catalogue (OPAC).md
       - Leave Of Absence (LOA).md
