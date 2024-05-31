@@ -28,8 +28,8 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="3">
 <p><strong>Sports &amp; Clubs</strong> 
-<br>Mondays 3pm – 5.30pm</p>
-<p>Wednesdays 2.30 pm - 5.30 pm</p>
+<br>Mondays 3pm – 5.30pm
+<br>Wednesdays 2.30 pm - 5.30 pm</p>
 </td>
 </tr>
 <tr>
@@ -54,9 +54,9 @@ variant: markdown
 <br>Level 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teo Jiaen</p>
-<p>67585070 ext 220</p>
-<p>teo_jiaen@schools.gov.sg</p>
+<p>Ms Teo Jiaen
+<br>67585070 ext 220
+<br>teo_jiaen@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -67,7 +67,9 @@ variant: markdown
 <p>Parade Square</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Rezkiah Binte Mohd Radzelee 67585070 ext 204 Siti_Rezkiah_Mohd_Radzelee@schools.gov.sg</p>
+<p>Ms Siti Rezkiah Binte Mohd Radzelee 
+<br>67585070 ext 204 
+<br>Siti_Rezkiah_Mohd_Radzelee@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -112,7 +114,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>Ms Goh Shu Hui
 <br>67585070 ext 257
-<br>goh_shu_hui@schools.gov.sg</p>
+<br>goh_shu_hui_b@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -136,9 +138,9 @@ variant: markdown
 <p>Music Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Jo Ann</p>
-<p>67585070 ext 202</p>
-<p>tan_jo_ann@schools.gov.sg</p>
+<p>Ms Tan Jo Ann
+<br>67585070 ext 202
+<br>tan_jo_ann@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -163,9 +165,9 @@ variant: markdown
 <p>Air Rifle Range</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yap Hui San</p>
-<p>67585070 ext 209</p>
-<p>yap_hui_san@schools.gov.sg</p>
+<p>Ms Yap Hui San
+<br>67585070 ext 209
+<br>yap_hui_san@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -176,9 +178,9 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kong Tze Shiuan</p>
-<p>67585070 ext 220</p>
-<p>kong_tze_shiuan@schools.gov.sg</p>
+<p>Mr Kong Tze Shiuan
+<br>67585070 ext 220
+<br>kong_tze_shiuan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -211,9 +213,9 @@ variant: markdown
 <p>Parade Square</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Mun Foong</p>
-<p>67585070 ext 219</p>
-<p>wong_mun_foong@schools.gov.sg</p>
+<p>Ms Wong Mun Foong
+<br>67585070 ext 219
+<br>wong_mun_foong@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -224,9 +226,9 @@ variant: markdown
 <p>Parade Square</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Qi Guang</p>
-<p>67585070 ext 222</p>
-<p>tan_qi_guang@schools.gov.sg</p>
+<p>Mr Tan Qi Guang
+<br>67585070 ext 222
+<br>tan_qi_guang@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -238,9 +240,9 @@ variant: markdown
 <p>Parade Square</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teo Qi Wen</p>
-<p>67585070 ext 223</p>
-<p>teo_qi_wen@schools.gov.sg</p>
+<p>Ms Teo Qi Wen
+<br>67585070 ext 223
+<br>teo_qi_wen@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -252,9 +254,9 @@ variant: markdown
 <p>Parade Square</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Imarah Bin Abas</p>
-<p>67585070 ext 252</p>
-<p>imarah_b_abas@schools.gov.sg</p>
+<p>Mr Imarah Bin Abas
+<br>67585070 ext 252
+<br>imarah_b_abas@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
