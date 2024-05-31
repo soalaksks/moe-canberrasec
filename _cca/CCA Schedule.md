@@ -54,7 +54,9 @@ variant: tiptap
 <br>Level 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teo Jiaen 67585070 ext 220 teo_jiaen@schools.gov.sg</p>
+<p>Ms Teo Jiaen</p>
+<p>67585070 ext 220</p>
+<p>teo_jiaen@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -137,7 +139,6 @@ variant: tiptap
 <p>Ms Tan Jo Ann</p>
 <p>67585070 ext 202</p>
 <p>tan_jo_ann@schools.gov.sg</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -178,18 +179,6 @@ variant: tiptap
 <p>Mr Kong Tze Shiuan</p>
 <p>67585070 ext 220</p>
 <p>kong_tze_shiuan@schools.gov.sg</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
