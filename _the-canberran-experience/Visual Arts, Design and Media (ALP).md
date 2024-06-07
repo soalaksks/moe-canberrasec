@@ -26,7 +26,6 @@ CCA.</p>
 with real-world applications, emphasize on relevant learning experiences
 in school, motivate skill acquisition, develop visual arts, design, photography,
 and videography skills.</p>
-<p></p>
 <h4><strong>ALP Framework</strong></h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
