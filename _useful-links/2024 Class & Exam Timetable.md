@@ -234,7 +234,8 @@ variant: tiptap
 <p>3 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/3_Empathy_Sem_2_Odd_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">3 Empathy Sem 2 Odd Wk</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -245,7 +246,8 @@ variant: tiptap
 <p>3 Honour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/3_Honour_Sem_2_Odd_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">3 Honour Sem 2 Odd Wk</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -256,7 +258,8 @@ variant: tiptap
 <p>3 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/3_Diligence_Sem_2_Odd_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">3 Diligence Sem 2 Odd Wk</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -267,7 +270,8 @@ variant: tiptap
 <p>3 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/3_Resilience_Sem_2_Odd_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">3 Resilience Sem 2 Odd Wk</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -278,7 +282,8 @@ variant: tiptap
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/3_Integrity_Sem_2_Odd_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">3 Integrity Sem 2 Odd Wk</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -289,7 +294,8 @@ variant: tiptap
 <p>3 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/3_Harmony_Sem_2_Odd_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">3 Harmony Sem 2 Odd Wk</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -300,7 +306,8 @@ variant: tiptap
 <p>3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/3_Respect_Sem_2_Odd_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">3 Respect Sem 2 Odd Wk</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -311,7 +318,8 @@ variant: tiptap
 <p>3 Kindness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/3_Kindness_Sem_2_Odd_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">3 Kindness Sem 2 Odd Wk</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -343,7 +351,8 @@ variant: tiptap
 <p>4 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/4_Empathy_Sem_2_Odd_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Empathy Sem 2 Odd Wk</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -354,7 +363,8 @@ variant: tiptap
 <p>4 Honour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/4_Honour_Sem_2_Odd_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Honour Sem 2 Odd Wk</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -365,7 +375,8 @@ variant: tiptap
 <p>4 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/4_Diligence_Sem_2_Odd_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Diligence Sem 2 Odd Wk</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -376,7 +387,8 @@ variant: tiptap
 <p>4 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/4_Resilience_Sem_2_Odd_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Resilience Sem 2 Odd Wk</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -387,7 +399,8 @@ variant: tiptap
 <p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/4_Integrity_Sem_2_Odd_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Integrity Sem 2 Odd Wk</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -398,7 +411,8 @@ variant: tiptap
 <p>4 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/4_Harmony_Sem_2_Odd_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Harmony Sem 2 Odd Wk</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -409,7 +423,8 @@ variant: tiptap
 <p>4 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/4_Respect_Sem_2_Odd_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Respect Sem 2 Odd Wk</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -420,7 +435,8 @@ variant: tiptap
 <p>4 Kindness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/4_Kindness_Sem_2_Odd_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Kindness Sem 2 Odd Wk</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -431,7 +447,8 @@ variant: tiptap
 <p>5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/5_Integrity_Sem_2_Odd_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">5 Integrity Sem 2 Odd Wk</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
