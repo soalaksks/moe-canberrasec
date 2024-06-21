@@ -135,7 +135,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/2_Empathy_Sem_2_Even_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">2 Empathy Sem 2 Even Wk</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -147,7 +148,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/2_Honour_Sem_2_Even_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">2 Honour Sem 2 Even Wk</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -159,7 +161,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/2_Diligence_Sem_2_Even_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">2 Diligence Sem 2 Even Wk</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -171,7 +174,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/2_Integrity_Sem_2_Even_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">2 Integrity Sem 2 Even Wk</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -183,7 +187,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/2_Harmony_Sem_2_Even_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">2 Harmony Sem 2 Even Wk</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -195,7 +200,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/2_Respect_Sem_2_Even_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">2 Respect Sem 2 Even Wk</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -207,7 +213,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/2_Kindness_Sem_2_Even_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">2 Kindness Sem 2 Even Wk</a>
+</p>
 </td>
 </tr>
 </tbody>
