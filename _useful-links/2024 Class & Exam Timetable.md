@@ -372,7 +372,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/4_Empathy_Sem_2_Even_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Empathy Sem 2 Even Wk</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -384,7 +385,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/4_Honour_Sem_2_Even_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Honour Sem 2 Even Wk</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -396,7 +398,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/4_Diligence_Sem_2_Even_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Diligence Sem 2 Even Wk</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -408,7 +411,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/4_Resilience_Sem_2_Even_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Resilience Sem 2 Even Wk</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -420,7 +424,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/4_Integrity_Sem_2_Even_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Integrity Sem 2 Even Wk</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -432,7 +437,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/4_Harmony_Sem_2_Even_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Harmony Sem 2 Even Wk</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -444,7 +450,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/4_Respect_Sem_2_Even_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Respect Sem 2 Even Wk</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -456,7 +463,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/4_Kindness_Sem_2_Even_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Kindness Sem 2 Even Wk</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -468,7 +476,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/5_Integrity_Sem_2_Even_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">5 Integrity Sem 2 Even Wk</a>
+</p>
 </td>
 </tr>
 </tbody>
