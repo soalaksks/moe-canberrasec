@@ -129,7 +129,8 @@ variant: tiptap
 <p>2 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/2_Empathy_Sem_2_Odd_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">2 Empathy Sem 2 Odd Wk</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -140,7 +141,8 @@ variant: tiptap
 <p>2 Honour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/2_Honour_Sem_2_Odd_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">2 Honour Sem 2 Odd Wk</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -151,7 +153,8 @@ variant: tiptap
 <p>2 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/2_Diligence_Sem_2_Odd_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">2 Diligence Sem 2 Odd Wk</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -162,7 +165,8 @@ variant: tiptap
 <p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/2_Integrity_Sem_2_Odd_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">2 Integrity Sem 2 Odd Wk</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -173,7 +177,8 @@ variant: tiptap
 <p>2 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/2_Harmony_Sem_2_Odd_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">2 Harmony Sem 2 Odd Wk</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -184,7 +189,8 @@ variant: tiptap
 <p>2 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/2_Respect_Sem_2_Odd_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">2 Respect Sem 2 Odd Wk</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -195,7 +201,8 @@ variant: tiptap
 <p>2 Kindness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024/2_Kindness_Sem_2_Odd_Wk.pdf" rel="noopener noreferrer nofollow" target="_blank">2 Kindness Sem 2 Odd Wk</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
