@@ -31,4 +31,11 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<h4>Term 3</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2024/PG_2024_Term_3_Sec_1_to_Sec_5_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 3 Letter - Sec 1 to 5</a>
+</p>
+</li>
+</ul>
 <p></p>
