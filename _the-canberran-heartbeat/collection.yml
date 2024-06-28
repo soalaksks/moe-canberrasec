@@ -1,5 +1,4 @@
 collections:
   the-canberran-heartbeat:
     output: true
-    order:
-      - Canberran Alumni.md
+    order: []
