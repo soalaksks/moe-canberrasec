@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - For Parents/Parent Support Group.md
       - For Parents/.keep
       - Canberran Alumni.md
       - Invitation to attend PSG End of Sem 1 Celebration & Bonding Activity BBQ
