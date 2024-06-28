@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - Useful Links/.keep
       - For Parents/.keep
       - For Parents/Parent Support Group.md
       - For Parents/Letters to Parents.md
