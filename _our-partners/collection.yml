@@ -2,7 +2,6 @@ collections:
   our-partners:
     output: true
     order:
-      - School Accolades.md
       - Parent Support Group/.keep
       - Parent Support Group/Parent Support Group.md
       - Parent Support Group/Invitation to attend PSG End of Sem 1 Celebration &
