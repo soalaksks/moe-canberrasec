@@ -2,4 +2,5 @@ collections:
   the-canberran-heartbeat:
     output: true
     order:
+      - CCE/Cyberwellness Guides.md
       - CCE/.keep
