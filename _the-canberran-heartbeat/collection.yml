@@ -2,6 +2,7 @@ collections:
   the-canberran-heartbeat:
     output: true
     order:
+      - Student Advocacy/.keep
       - CCE/.keep
       - CCE/Cyberwellness Guides.md
       - CCE/Sexuality Education.md
