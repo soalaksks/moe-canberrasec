@@ -2,12 +2,12 @@ collections:
   about-canberra:
     output: true
     order:
-      - School Publication/School Publications & Open House 2023.md
-      - School Publication/.keep
+      - Principal's Message & School Philosophy.md
       - Vision, Mission & Values/.keep
       - Vision, Mission & Values/Vision, Mission, Values & Motto.md
       - Vision, Mission & Values/School Crest & School Song.md
-      - Principal's Message & School Philosophy.md
       - School Advisory Committee.md
       - Our Staff.md
+      - School Publication/.keep
+      - School Publication/School Publications & Open House 2023.md
       - Locate Us.md
