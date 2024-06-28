@@ -2,12 +2,12 @@ collections:
   our-partners:
     output: true
     order:
-      - Useful Links/Frequently Asked Questions.md
-      - Useful Links/Leave Of Absence (LOA).md
+      - Useful Links/.keep
+      - Useful Links/2024 Class & Exam Timetable.md
       - Useful Links/Guide to SLS Account Management.md
       - Useful Links/Direct School Admission (DSA) 2024.md
-      - Useful Links/2024 Class & Exam Timetable.md
-      - Useful Links/.keep
+      - Useful Links/Leave Of Absence (LOA).md
+      - Useful Links/Frequently Asked Questions.md
       - For Parents/.keep
       - For Parents/Parent Support Group.md
       - For Parents/Letters to Parents.md
