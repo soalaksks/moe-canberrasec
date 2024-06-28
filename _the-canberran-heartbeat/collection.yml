@@ -2,5 +2,4 @@ collections:
   the-canberran-heartbeat:
     output: true
     order:
-      - Parent Support Group/.keep
       - Canberran Alumni.md
