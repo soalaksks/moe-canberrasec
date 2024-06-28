@@ -1,5 +1,5 @@
 collections:
-  our-partners:
+  the-canberran-heartbeat:
     output: true
     order:
       - Parent Support Group/.keep
