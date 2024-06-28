@@ -2,6 +2,7 @@ collections:
   about-canberra:
     output: true
     order:
+      - School Publication/.keep
       - Vision, Mission & Values/.keep
       - Vision, Mission & Values/Vision, Mission, Values & Motto.md
       - Vision, Mission & Values/School Crest & School Song.md
