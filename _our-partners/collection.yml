@@ -1,5 +1,5 @@
 collections:
-  useful-links:
+  our-partners:
     output: true
     order:
       - Canberran Alumni.md
