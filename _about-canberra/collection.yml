@@ -2,9 +2,9 @@ collections:
   about-canberra:
     output: true
     order:
-      - Vision, Mission & Values/School Crest & School Song.md
-      - Vision, Mission & Values/Vision, Mission & Motto.md
       - Vision, Mission & Values/.keep
+      - Vision, Mission & Values/Vision, Mission & Motto.md
+      - Vision, Mission & Values/School Crest & School Song.md
       - Principal's Message & School Philosophy.md
       - School Advisory Committee.md
       - Our Staff.md
