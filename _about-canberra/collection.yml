@@ -2,6 +2,7 @@ collections:
   about-canberra:
     output: true
     order:
+      - School Publication/School Publications & Open House 2023.md
       - School Publication/.keep
       - Vision, Mission & Values/.keep
       - Vision, Mission & Values/Vision, Mission, Values & Motto.md
