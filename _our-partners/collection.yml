@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - Useful Links/Leave Of Absence (LOA).md
       - Useful Links/Guide to SLS Account Management.md
       - Useful Links/Direct School Admission (DSA) 2024.md
       - Useful Links/2024 Class & Exam Timetable.md
