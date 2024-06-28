@@ -2,6 +2,7 @@ collections:
   the-canberran-heartbeat:
     output: true
     order:
+      - Student Advocacy/Student Suggestion Scheme (3S).md
       - Student Advocacy/Student Leadership & Recognition.md
       - Student Advocacy/.keep
       - CCE/.keep
