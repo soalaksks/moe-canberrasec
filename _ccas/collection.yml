@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Our Co Curriculum.md
+      - CCA Achievements.md
       - Sports/.keep
       - Sports/Shooting (Air Pistol) (NEW!).md
       - Sports/Taekwondo (NEW!).md
@@ -23,4 +24,3 @@ collections:
       - Visual and Performing Arts/Dance Club.md
       - Visual and Performing Arts/Concert Band.md
       - CCA Schedule.md
-      - CCA Achievements.md
