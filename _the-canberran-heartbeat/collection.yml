@@ -1,4 +1,5 @@
 collections:
   the-canberran-heartbeat:
     output: true
-    order: []
+    order:
+      - CCE/.keep
