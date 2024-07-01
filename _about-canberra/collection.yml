@@ -2,6 +2,7 @@ collections:
   about-canberra:
     output: true
     order:
+      - School Events/.keep
       - Principal's Message & School Philosophy.md
       - Vision, Mission & Values/.keep
       - Vision, Mission & Values/Vision, Mission, Values & Motto.md
