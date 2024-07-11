@@ -15,9 +15,6 @@ sections:
       image: /images/Homepage_text.png
       description: “The future belongs to those who believe in the beauty of their
         dreams.” - Eleanor Roosevelt
-  - resources:
-      title: School Corporate Videos & Special Programmes
-      button: VIEW MORE
   - announcements:
       title: Latest Happenings and Announccments
       id: announcements
@@ -30,4 +27,7 @@ sections:
             experience.
           link_text: Global Canberran Programme 2024 - Cambodia
           link_url: https://caberrasec.moe.edu.sg
+  - resources:
+      title: School Corporate Videos & Special Programmes
+      button: VIEW MORE
 ---
