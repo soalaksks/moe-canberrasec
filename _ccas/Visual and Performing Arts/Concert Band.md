@@ -60,7 +60,7 @@ while providing guidance to the new members.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Training Days / Time :</strong>
+<p><strong>Training Day / Time :</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
