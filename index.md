@@ -16,7 +16,7 @@ sections:
       description: “The future belongs to those who believe in the beauty of their
         dreams.” - Eleanor Roosevelt
   - announcements:
-      title: Latest Happenings and Announccments
+      title: Latest Happenings
       id: announcements
       announcement_items:
         - title: Global Canberran Programme 2024 - Cambodia
@@ -27,6 +27,6 @@ sections:
           link_text: Find out more about their experience.
           link_url: https://canberrasec.moe.edu.sg/gcp-2024-cambodia/
   - resources:
-      title: School Corporate Videos & Special Programmes
+      title: Announcements
       button: VIEW MORE
 ---
