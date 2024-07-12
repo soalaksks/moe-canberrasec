@@ -5,6 +5,10 @@ description: ""
 variant: tiptap
 third_nav_title: Useful Links
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_16_at_3_57_24_PM.jpg">
+</div>
 <h4>Introduction</h4>
 <p>DSA-Sec is an admission exercise which provides students with the opportunity
 to seek admission to a secondary school, based on a diverse range of specific
@@ -135,7 +139,3 @@ For more details, please refer to MOE website – <a href="https://www.moe.gov.s
 </p>
 <p>For further enquiries, please email <a href="mailto:lim_puay_ee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_puay_ee@moe.edu.sg</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_16_at_3_57_24_PM.jpg">
-</div>
-<p></p>
