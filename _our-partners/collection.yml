@@ -2,7 +2,6 @@ collections:
   our-partners:
     output: true
     order:
-      - For Parents/Education Career Guidance.md
       - For Parents/.keep
       - For Parents/Parent Support Group.md
       - For Parents/Term Letters to Parents.md
