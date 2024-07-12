@@ -2,6 +2,7 @@ collections:
   the-canberran-experience:
     output: true
     order:
+      - Student Leadership Development Programme.md
       - Academic Programmes.md
       - Personalised Learning Device Programme.md
       - Visual Arts, Design and Media (ALP).md
