@@ -83,4 +83,8 @@ a positive impact in the Cambodian community.</p>
 <p>This experience has undoubtedly broadened our students' horizons, fostering
 global awareness and a spirit of service that will stay with them long
 after their return home.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6573.jpg">
+</div>
 <p>&nbsp;</p>
