@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - For Parents/Personal Accident Insurance for Students.md
       - For Parents/.keep
       - For Parents/Parent Support Group.md
       - For Parents/Term Letters to Parents.md
