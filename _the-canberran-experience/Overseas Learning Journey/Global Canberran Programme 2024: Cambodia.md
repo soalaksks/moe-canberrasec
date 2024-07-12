@@ -69,6 +69,13 @@ Our Canberrans explored the intricate process of crafting scent candles,
 gaining insights into sustainable practices. They also learned traditional
 Cambodian craftsmanship by weaving palm leaves into beautiful boxes, connecting
 with the rich cultural heritage of the region.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WTEJ3483.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISOK2497.jpg">
+</div>
 <p>The Global Canberran Programme exemplifies our commitment to blending
 education, creativity, physical activity, and community service. It was
 inspiring to witness our students build meaningful connections and make
