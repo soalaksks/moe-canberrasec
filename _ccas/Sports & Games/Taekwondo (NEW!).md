@@ -32,7 +32,7 @@ that participants grow not only as athletes but also as well-rounded individuals
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Teachers-In-Charge :</strong>
+<p><strong>Teacher-In-Charge :</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -41,7 +41,7 @@ that participants grow not only as athletes but also as well-rounded individuals
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Training Days / Time :</strong>
+<p><strong>Training Day/Time :</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
