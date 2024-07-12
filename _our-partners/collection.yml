@@ -2,11 +2,11 @@ collections:
   our-partners:
     output: true
     order:
-      - For Parents/Personal Learning Device & Policy.md
       - For Parents/.keep
       - For Parents/Parent Support Group.md
       - For Parents/Term Letters to Parents.md
       - For Parents/Cyber Wellness.md
+      - For Parents/Personal Learning Device & Policy.md
       - For Alumni/.keep
       - For Alumni/Canberran Alumni.md
       - Useful Links/.keep
