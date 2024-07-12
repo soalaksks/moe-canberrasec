@@ -2,9 +2,9 @@ collections:
   the-canberran-experience:
     output: true
     order:
-      - Overseas Learning Journey/.keep
       - Academic Programmes.md
       - Personalised Learning Device Programme.md
       - Visual Arts, Design and Media (ALP).md
       - Learning for Life (LLP).md
+      - Overseas Learning Journey/.keep
       - Academic Achievement.md
