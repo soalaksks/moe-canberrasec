@@ -19,25 +19,47 @@ and participated in a variety of enriching activities:</p>
 <p><strong>Academic Support</strong>: Our students conducted Math, English,
 and Science lessons, sharing their knowledge and inspiring a love for learning
 among the young minds at Prolit Primary School.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English_and_Maths___Wai_Tung_Edwin_Cheong.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Lesson___Wai_Tung_Edwin_Cheong.jpg">
+</div>
 </li>
 <li>
 <p><strong>Sports and Physical Activities</strong>: The school grounds came
 alive with energy as our Canberrans organized volleyball and soccer games,
 promoting teamwork and healthy living.</p>
 </li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports_and_Games___Wai_Tung_Edwin_Cheong.jpg">
+</div>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Arts and Crafts</strong>: Creativity flourished as our students
 guided the children in making beautiful paper roses, fostering appreciation
 for arts and self-expression.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/paper_roses___Wai_Tung_Edwin_Cheong.jpg">
+</div>
 </li>
 <li>
 <p><strong>Music and Dance</strong>: The lively song and dance sessions brought
 joy to all participants, creating a harmonious atmosphere of cultural exchange.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Song_and_Dance___Wai_Tung_Edwin_Cheong.jpg">
+</div>
 </li>
 <li>
 <p><strong>Classroom Improvement</strong>: Groups took turns painting the
 external walls of classrooms, leaving a lasting, colorful impact on the
 school environment.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Painting___Wai_Tung_Edwin_Cheong.jpg">
+</div>
 </li>
 </ul>
 <h4><strong>Cultural Immersion and Sustainability</strong></h4>
