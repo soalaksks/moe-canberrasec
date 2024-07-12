@@ -2,10 +2,10 @@ collections:
   our-partners:
     output: true
     order:
-      - For Parents/Cyber Wellness.md
       - For Parents/.keep
       - For Parents/Parent Support Group.md
       - For Parents/Term Letters to Parents.md
+      - For Parents/Cyber Wellness.md
       - For Alumni/.keep
       - For Alumni/Canberran Alumni.md
       - Useful Links/.keep
