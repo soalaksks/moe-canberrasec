@@ -23,7 +23,6 @@ independent work and teamwork.</p>
 activities, which help instill our school values of Gratitude, Respect,
 and Compassion in our student athletes. This holistic approach ensures
 that participants grow not only as athletes but also as well-rounded individuals.</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -41,7 +40,7 @@ that participants grow not only as athletes but also as well-rounded individuals
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Training Day/Time :</strong>
+<p><strong>Training Day / Time :</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
