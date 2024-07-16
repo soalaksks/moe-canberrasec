@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Clubs/.keep
       - Our Co Curriculum.md
       - CCA Achievements.md
       - Sports & Games/.keep
