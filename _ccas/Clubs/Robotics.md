@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Clubs
 ---
 <h3><strong>Robotics Club: Building the Future, One Bot at a Time (New CCA in 2025!)</strong></h3>
-<h4><strong>Vision:</strong> </h4>
+<h4><strong>Vision:</strong></h4>
 <p>The Robotics Club strives to ignite a passion for Science, Technology,
 Engineering, and Mathematics (STEM) in students by providing a platform
 to design, build, and program robots. We aim to empower our members to
