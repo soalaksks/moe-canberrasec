@@ -57,8 +57,8 @@ to the test on a larger stage</p>
 exciting world of robotics.</p>
 </li>
 </ul>
-<h3><strong>Let the Robotics Club be your launchpad into the future of technology!</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_15_at_4_52_42_PM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_07_17_113629.png">
 </div>
+<h3><strong>Let the Robotics Club be your launchpad into the future of technology!</strong></h3>
 <p></p>
