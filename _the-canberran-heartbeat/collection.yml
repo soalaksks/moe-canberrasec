@@ -2,6 +2,7 @@ collections:
   the-canberran-heartbeat:
     output: true
     order:
+      - Habits of Mind & E21CC.md
       - CCE/.keep
       - CCE/Cyber Wellness Education.md
       - CCE/Sexuality Education.md
