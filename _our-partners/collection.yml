@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - For Partners/Self Help Groups.md
       - For Partners/International Partners.md
       - For Partners/.keep
       - For Parents/.keep
