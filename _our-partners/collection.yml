@@ -2,10 +2,6 @@ collections:
   our-partners:
     output: true
     order:
-      - For Partners/Local Partners.md
-      - For Partners/Self Help Groups.md
-      - For Partners/International Partners.md
-      - For Partners/.keep
       - For Parents/.keep
       - For Parents/Parent Support Group.md
       - For Parents/Term Letters to Parents.md
@@ -15,6 +11,10 @@ collections:
       - For Parents/Education Career Guidance.md
       - For Parents/Personal Accident Insurance for Students.md
       - For Parents/MOE Assistance Scheme.md
+      - For Partners/.keep
+      - For Partners/Local Partners.md
+      - For Partners/Self Help Groups.md
+      - For Partners/International Partners.md
       - For Alumni/.keep
       - For Alumni/Canberra Secondary School Alumni.md
       - Useful Links/.keep
