@@ -5,8 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: School Events
 ---
-<p></p>
-<p></p>
+<p>On 10th July 2024, we had the opportunity to host the Singapore Armed
+Forces (SAF) Central Band as a part of their outreach programme. This hybrid
+National Education and Arts Education programme exposed our students to
+various musical genres and music written by Singapore composers.</p>
 <p>Director of Music ME5 Ignatius Wang shares anedotes and the history of
 the SAF band.</p>
 <div class="isomer-image-wrapper">
@@ -21,8 +23,8 @@ the band as they perform the 2024 National Day theme song, "Not Alone".</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_10_at_8_05_02_PM___Kong_Tze_shiuan.jpg">
 </div>
-<p>We would like to thank the SAF Central Band for the unique and memoriable
-performance.</p>
+<p>The performance was enjoyed by both staff and students alike. We would
+like to thank the SAF Central Band for the unique and memorable performance.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/group_picture_1.jpg">
 </div>
