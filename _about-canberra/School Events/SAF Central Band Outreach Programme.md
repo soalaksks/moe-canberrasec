@@ -6,10 +6,13 @@ description: ""
 third_nav_title: School Events
 ---
 <p></p>
+<p></p>
+<p>Director of Music ME5 Ignatius Wang shares anedotes and the history of
+the SAF band.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_10_at_8_05_03_PM___Kong_Tze_shiuan.jpg">
 </div>
-<p></p>
+<p>The band performing the background instrumentals to a local short film.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_10_at_8_05_02_PM__2____Kong_Tze_shiuan.jpg">
 </div>
