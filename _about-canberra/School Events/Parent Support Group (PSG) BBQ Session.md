@@ -9,15 +9,24 @@ third_nav_title: School Events
 BBQ session for the End-of-Semester 1 Celebration and Bonding Activity!
 🎉
 <br>
-<br>The evening was filled with delicious food, great conversations, and meaningful
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7812.jpg">
+</div>
+<p>The evening was filled with delicious food, great conversations, and meaningful
 connections. It was truly heartwarming to see everyone come together to
-celebrate and bond in such a relaxed and enjoyable setting.
-<br>
+celebrate and bond in such a relaxed and enjoyable setting.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7808.jpg">
+</div>
+<p>
 <br>A big thank you to all the staff members who stayed back to attend the
 event. Your presence and wonderful interaction with the parents were greatly
-appreciated and played a vital role in strengthening our school community.
-<br>
-<br>We also extend our gratitude to our School Leaders for their unwavering
+appreciated and played a vital role in strengthening our school community.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7807.jpg">
+</div>
+<p>We also extend our gratitude to our School Leaders for their unwavering
 support and to our dedicated PSG leads, Ms Lim and Mdm Yong, for their
 invaluable guidance in making this event a success.
 <br>
