@@ -2,13 +2,13 @@ collections:
   the-canberran-heartbeat:
     output: true
     order:
-      - Peer Support Leaders.md
-      - Academic Excellence Programme/.keep
-      - Outdoor Adventure Learning/.keep
-      - Secondary 1 Orientation.md
-      - Habits of Mind & E21CC.md
       - CCE/.keep
       - CCE/Cyber Wellness Education.md
       - CCE/Sexuality Education.md
+      - Habits of Mind & E21CC.md
+      - Secondary 1 Orientation.md
+      - Outdoor Adventure Learning/.keep
+      - Academic Excellence Programme/.keep
       - Student Advocacy/.keep
       - Student Advocacy/Student Suggestion Scheme (3S).md
+      - Peer Support Leaders.md
