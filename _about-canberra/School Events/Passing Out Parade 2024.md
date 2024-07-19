@@ -15,7 +15,6 @@ on new responsibilities! 💪 Keep striving for excellence!
 <br>
 <br>Special thanks to AFI Fahmi from NCDCC HQ for capturing these precious
 moments! 🙏🏻</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/430183544_653635516827663_1383261625674543002_n.jpg">
 </div>
