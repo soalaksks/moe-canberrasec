@@ -5,4 +5,4 @@ variant: markdown
 description: ""
 third_nav_title: Sports & Games
 ---
-More information coming soon!
+![](/images/WIP_Bear.jpg)
