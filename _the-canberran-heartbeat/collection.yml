@@ -2,10 +2,10 @@ collections:
   the-canberran-heartbeat:
     output: true
     order:
-      - CCE/National Education.md
       - CCE/.keep
       - CCE/Cyber Wellness Education.md
       - CCE/Sexuality Education.md
+      - CCE/National Education.md
       - Habits of Mind & E21CC.md
       - Secondary 1 Orientation.md
       - Outdoor Adventure Learning/.keep
