@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Principal's Message & School Philosophy.md
-      - Vision, Mission & Values/School Rules.md
       - Vision, Mission & Values/.keep
       - Vision, Mission & Values/Vision, Mission, Values & Motto.md
+      - Vision, Mission & Values/School Rules.md
       - Vision, Mission & Values/School Crest & School Song.md
       - School Advisory Committee.md
       - Our Staff.md
