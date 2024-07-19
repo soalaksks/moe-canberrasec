@@ -5,4 +5,4 @@ variant: markdown
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-More information coming soon!
+![](/images/WIP_Bear.jpg)
