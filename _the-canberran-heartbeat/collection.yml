@@ -2,6 +2,7 @@ collections:
   the-canberran-heartbeat:
     output: true
     order:
+      - Peer Support Leaders.md
       - Academic Excellence Programme/.keep
       - Outdoor Adventure Learning/.keep
       - Secondary 1 Orientation.md
