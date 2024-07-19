@@ -2,6 +2,7 @@ collections:
   the-canberran-experience:
     output: true
     order:
+      - Applied Learning Modules (ApLM).md
       - Academic Programmes.md
       - Student Leadership Development Programme.md
       - Personalised Learning Device Programme.md
