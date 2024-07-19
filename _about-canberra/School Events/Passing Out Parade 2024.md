@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: School Events
 ---
-<h4>NCDCC</h4>
+<h4>NCDC</h4>
 <p>Our unit held our Passing Out Parade yesterday and we would like to congratulate
 the Year 4 cadets for completing their NCDCC journey! Their dedication
 and hard work have truly paid off. 🌟
@@ -27,4 +27,6 @@ moments! 🙏🏻</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/430199950_1053122469078627_1685296648971387097_n.jpg">
 </div>
+<hr>
+<h4>Boys' Brigade</h4>
 <p></p>
