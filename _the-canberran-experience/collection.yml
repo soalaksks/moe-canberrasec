@@ -2,7 +2,6 @@ collections:
   the-canberran-experience:
     output: true
     order:
-      - Graduation Ceremony/.keep
       - Academic Programmes.md
       - Student Leadership Development Programme.md
       - Personalised Learning Device Programme.md
@@ -12,4 +11,5 @@ collections:
       - Enrichment Programmes.md
       - Overseas Learning Journey/.keep
       - "Overseas Learning Journey/Global Canberran Programme 2024: Cambodia.md"
+      - Graduation Ceremony/.keep
       - Academic Achievement.md
