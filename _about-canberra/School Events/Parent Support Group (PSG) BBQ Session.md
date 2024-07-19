@@ -23,9 +23,6 @@ invaluable guidance in making this event a success.
 <br>
 <br>Thank you once again to everyone who contributed to making this event
 a memorable one! 🌟</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7807.jpg">
-</div>
 <p></p>
 <p>
 <br>
