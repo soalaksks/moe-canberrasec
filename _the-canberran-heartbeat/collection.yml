@@ -2,6 +2,7 @@ collections:
   the-canberran-heartbeat:
     output: true
     order:
+      - CCE/National Education.md
       - CCE/.keep
       - CCE/Cyber Wellness Education.md
       - CCE/Sexuality Education.md
