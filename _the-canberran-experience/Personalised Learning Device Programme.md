@@ -14,4 +14,4 @@ are available in the portal to support their own learning anytime and anywhere.<
 <p>The school's prescribed PLD is the iPad 10.9 (10th generation) that all
 Secondary 1 students should acquire as their PLD in 2024.&nbsp;</p>
 <p>More details on procurement, funding and other administrative matters
-will be provided to the 2024 Secondary 1 parents in early January 2024.</p>
+will be provided to parents during the PLD enrolment.</p>
