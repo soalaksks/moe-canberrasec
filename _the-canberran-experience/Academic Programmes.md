@@ -23,16 +23,14 @@ global community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="261px" width="363px" src="/images/english.png">
 </div>
-<p>
-<br><strong>English Language &amp; Literature</strong>
+<p><strong>English Language &amp; Literature</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="261px" width="363px" src="/images/mathematics.png">
 </div>
-<p>
-<br><strong>Mathematics</strong>
+<p><strong>Mathematics</strong>
 </p>
 </td>
 </tr>
@@ -41,15 +39,14 @@ global community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="50%" width="50%" src="/images/science.png">
 </div>
-<p>
-<br><strong>Science</strong>
+<p><strong>Science</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="50%" width="50%" src="/images/humanities.png">
 </div>
-<p><a href="/discover-canberra/our-curriculum/humanities" rel="noopener noreferrer nofollow" target="_blank"><br></a><strong>Humanities</strong>
+<p><strong>Humanities</strong>
 </p>
 </td>
 </tr>
@@ -58,16 +55,14 @@ global community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="50%" width="50%" src="/images/mother-tongue.png">
 </div>
-<p>
-<br><strong>Mother Tongue</strong>
+<p><strong>Mother Tongue</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="50%" width="50%" src="/images/craft-n-tech.png">
 </div>
-<p>
-<br><strong>Craft &amp; Technology</strong>
+<p><strong>Craft &amp; Technology</strong>
 </p>
 </td>
 </tr>
@@ -76,15 +71,13 @@ global community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="50%" width="50%" src="/images/physical-education.png">
 </div>
-<p>
-<br><strong>Physical Education</strong>
+<p><strong>Physical Education</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="50%" width="50%" src="/images/computer-application.png">
 </div>
-<p></p>
 <p><strong>Computer Applications</strong>
 </p>
 </td>
