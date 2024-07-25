@@ -31,5 +31,3 @@ and fostering a vibrant culture of creativity and self-discovery.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/r5An6zTdONM?si=hpKYeSD2NS0S55Wd"></iframe>
 </div>
 <p></p>
-<p></p>
-<p></p>
