@@ -7,9 +7,9 @@ third_nav_title: Student Advocacy
 ---
 <p><strong>The Canberra Spotlight (TCS)</strong> is a unique initiative designed
 to provide students with a platform to showcase their talents and express
-themselves through music. The programme aims to create an inclusive avenue
-for students to explore new experiences without the fear of failure, fostering
-the development of greater confidence in student performers.</p>
+themselves. The programme aims to create an inclusive avenue for students
+to explore new experiences without the fear of failure, fostering the development
+of greater confidence in student performers.</p>
 <p>By providing a platform for talent, expression, exploration, and confidence-building,
 the programme plays a pivotal role in enriching the student experience
 and fostering a vibrant culture of creativity and self-discovery.</p>
