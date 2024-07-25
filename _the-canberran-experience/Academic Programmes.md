@@ -2,14 +2,93 @@
 title: Academic Programmes
 permalink: /programmes/academic-programmes/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-Canberra Secondary offers a rigorous academic programme and comprehensive range of student development programmes that are well-aligned to MOE's Framework for 21st CC skills and values inculcation. The school develops students to be grateful, respectful and compassionate, by providing students opportunities to serve the community alongside teachers on a regular basis. Furthermore, our Global Canberran Programme\-Overseas Service Learning aims to inculcate the value of compassion through active contribution to the global community.
-
-|  |  |  
-| :--------: | :--------: | 
-| <a href="/discover-canberra/our-curriculum/english-language-n-literature"><img src="/images/english.png" width="363px" height="261px"></a><br><strong>English Language &amp; Literature</strong> | <a href="/discover-canberra/our-curriculum/mathematics"><img src="/images/mathematics.png" width="363px" height="261px"></a><br><strong>Mathematics</strong> |
-| <a href="/discover-canberra/our-curriculum/science"><img src="/images/science.png" width="50%" height="50%"></a><br><strong>Science</strong>   | <a href="/discover-canberra/our-curriculum/humanities"> <img src="/images/humanities.png" width="50%" height="50%"><br></a><strong>Humanities</strong>   |   
-| <a href="/discover-canberra/our-curriculum/mother-tongue"><img src="/images/mother-tongue.png" width="50%" height="50%"></a><br><strong>Mother Tongue</strong>   |   <a href="/discover-canberra/our-curriculum/craft-n-technology"> <img src="/images/craft-n-tech.png" width="50%" height="50%"></a><br><strong>Craft &amp; Technology</strong>   |
-|   <a href="/discover-canberra/our-curriculum/physical-education/"><img src="/images/physical-education.png" width="50%" height="50%"></a><br><strong>Physical Education</strong>   |   <a href="/discover-canberra/our-curriculum/information-n-communications-technology"> <img src="/images/infos.png" width="50%" height="50%"></a><br> <strong>Information &amp; Communications Technology</strong>   |  
-|<a href="/discover-canberra/our-curriculum/computer-applications"><img src="/images/computer-application.png" width="50%" height="50%"></a><br><strong>Computer Applications</strong>   |
+<p>Canberra Secondary offers a rigorous academic programme and comprehensive
+range of student development programmes that are well-aligned to MOE's
+Framework for 21st CC skills and values inculcation. The school develops
+students to be grateful, respectful and compassionate, by providing students
+opportunities to serve the community alongside teachers on a regular basis.
+Furthermore, our Global Canberran Programme-Overseas Service Learning aims
+to inculcate the value of compassion through active contribution to the
+global community.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="261px" width="363px" src="/images/english.png">
+</div>
+<p>
+<br><strong>English Language &amp; Literature</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="261px" width="363px" src="/images/mathematics.png">
+</div>
+<p>
+<br><strong>Mathematics</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="50%" width="50%" src="/images/science.png">
+</div>
+<p>
+<br><strong>Science</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="50%" width="50%" src="/images/humanities.png">
+</div>
+<p><a href="/discover-canberra/our-curriculum/humanities" rel="noopener noreferrer nofollow" target="_blank"><br></a><strong>Humanities</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="50%" width="50%" src="/images/mother-tongue.png">
+</div>
+<p>
+<br><strong>Mother Tongue</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="50%" width="50%" src="/images/craft-n-tech.png">
+</div>
+<p>
+<br><strong>Craft &amp; Technology</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="50%" width="50%" src="/images/physical-education.png">
+</div>
+<p>
+<br><strong>Physical Education</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="50%" width="50%" src="/images/computer-application.png">
+</div>
+<p></p>
+<p><strong>Computer Applications</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
