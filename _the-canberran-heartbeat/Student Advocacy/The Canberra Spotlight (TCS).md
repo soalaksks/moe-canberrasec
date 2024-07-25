@@ -23,6 +23,7 @@ creativity.</p>
 <p>By providing a platform for talent, expression, exploration, and confidence-building,
 the programme plays a pivotal role in enriching the student experience
 and fostering a vibrant culture of creativity and self-discovery.</p>
+<p>Enjoy the performances by our talented students:</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RQ5Ii8x2rgw?si=8vrhDlXYJ_scvBGR"></iframe>
 </div>
@@ -30,4 +31,6 @@ and fostering a vibrant culture of creativity and self-discovery.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/r5An6zTdONM?si=hpKYeSD2NS0S55Wd"></iframe>
 </div>
+<p></p>
+<p></p>
 <p></p>
