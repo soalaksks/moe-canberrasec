@@ -251,7 +251,6 @@ at enhancing the overall student experience in Canberra.</p>
 <p>This three-tiered Student Leaders Framework ensures that all students
 have opportunities to develop and apply their leadership skills, preparing
 them to be responsible and engaged Community Youth Leaders.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_Leaders_Investiture_2.jpg">
 </div>
@@ -294,6 +293,28 @@ and build up confidence to lead small teams.</p>
 <li>
 <p>Self-leadership: To enable students to appreciate that integrity, personal
 responsibility and self-discipline are vital to becoming an effective leader.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leadership_Challenge_Model_Worshop_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leadership_Challenge_Model_Workshop_2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 </li>
 </ul>
 <p><strong>ATTRIBUTES</strong>
@@ -416,8 +437,4 @@ and in turn contribute to the community</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_Leaders_Investiture_2.jpg">
-</div>
 <p></p>
