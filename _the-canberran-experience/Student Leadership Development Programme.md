@@ -4,38 +4,7 @@ permalink: /student-leadership-development-programme/
 description: ""
 variant: tiptap
 ---
-<h4>Student Leadership D</h4>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="-" src="/images/Model_The_Way.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Secondary 1 – Self-Leadership</div>
-<div class="isomer-card-description">Secondary 1 Canberrans are introduced to the fundamentals of leadership.
-They will develop personal leadership skills, learning to navigate new
-and unfamiliar environments with new friends, teachers, and situations.
-The focus is on the practice of “Model the Way”, where students set positive
-examples for others to follow, demonstrating the values and behaviours
-that reflect their character traits.</div>
-</div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a>
-</div>
-<h4>evelopment @ Canberra</h4>
+<h4>Student Leadership Development @ Canberra</h4>
 <h4>The Leadership Challenge Model</h4>
 <p>Our Student Leadership Development Programme @ Canberra aims to equip
 all Secondary 1 to 3 students with vital leadership skills, drawing inspiration
@@ -212,11 +181,8 @@ conquer their aspirations</p>
 community</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>LEARNING OUTCOMES OF STUDENT LEADERS IN CANBERRA SECONDARY SCHOOL</strong>
-</p>
+<p></p>
+<h4><strong>LEARNING OUTCOMES OF STUDENT LEADERS IN CANBERRA SECONDARY SCHOOL</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
