@@ -414,3 +414,7 @@ and in turn contribute to the community</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_Leaders_Investiture_2.jpg">
+</div>
+<p></p>
