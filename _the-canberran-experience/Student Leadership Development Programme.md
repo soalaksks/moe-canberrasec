@@ -235,7 +235,6 @@ Day Parade, and Kids Read @ North Oaks Primary School.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><strong>Tier 3: Servant Leadership (Stewardship)</strong>
 </p>
 <p>At the apex of the pyramid is Servant Leadership, where Student Council
@@ -249,10 +248,10 @@ to serve as effective ambassadors for the school community. They represent
 their peers and lead various initiatives, including the Student Suggestion
 Scheme, the Canberran Soundtrack, and the Canberran Spotlight, all aimed
 at enhancing the overall student experience in Canberra.</p>
-<p></p>
 <p>This three-tiered Student Leaders Framework ensures that all students
 have opportunities to develop and apply their leadership skills, preparing
 them to be responsible and engaged Community Youth Leaders.</p>
+<p></p>
 <p><strong>LEADERSHIP TRAITS, ATTRIBUTES, VALUES AND SKILLS</strong>
 </p>
 <p>At the end of their secondary school education, each Canberran would be
