@@ -191,7 +191,6 @@ Cheer Competition and the YOLO project, promoting unity and teamwork.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><strong>Tier 2: Team Leadership</strong>
 </p>
 <p>The next level of the pyramid focuses on Team Leadership, where Co-Curricular
@@ -200,6 +199,42 @@ shared goals. These leaders also engage in synergistic projects, coordinated
 by the Student Leadership Committee, to enrich the school experience. Uniformed
 Group Student Leaders lead and organize events like the Sports Fest, National
 Day Parade, and Kids Read @ North Oaks Primary School.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KidsRead___North_Oaks_Pri_Sch.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KidsRead___North_Oaks_Pri_Sch_3.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KidsRead___North_Oaks_Pri_Sch_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_Council_conducting_Leadership_Development_Activities_for_Naval_Base_Primary_School_Prefects.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p><strong>Tier 3: Servant Leadership (Stewardship)</strong>
 </p>
