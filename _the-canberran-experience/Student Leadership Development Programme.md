@@ -120,41 +120,24 @@ development.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Inspire_a_Shared_vision.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Encourage_The_Heart.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Secondary 3 – People Leadership</strong>
+<br>
+</p>
+<p>Our Secondary 3 Canberrans will learn more about “Inspire a Shared Vision”
+and “Encourage the Heart”.</p>
+<p>&nbsp;</p>
+<p>They develop leadership skillsets to become People Leaders by nurturing
+a collective vision and inspiring others to unite in pursuit of shared
+goals, fostering a culture of teamwork and collaborative success.</p>
 </td>
 </tr>
 </tbody>
