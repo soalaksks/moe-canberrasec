@@ -16,7 +16,7 @@ technological landscape.</p>
 <p>The Robotics Club utilizes the industry-standard VEX V5 robotics platform,
 known for its approachable design and powerful capabilities.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_15_at_4_54_04_PM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P_20240726_151504.jpg">
 </div>
 <h4><strong>VEX V5: Your Gateway to Robotics</strong></h4>
 <p>VEX V5 represents the fifth generation of educational robotics systems,
@@ -58,7 +58,12 @@ exciting world of robotics.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P_20240726_151244.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_07_17_113629.png">
 </div>
 <h3><strong>Let the Robotics Club be your launchpad into the future of technology!</strong></h3>
+<p></p>
 <p></p>
