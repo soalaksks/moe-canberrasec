@@ -86,7 +86,6 @@ their growth into future-ready leaders.</p>
 <p>Secondary 1 Canberrans are introduced to the fundamentals of leadership.
 They will develop personal leadership skills, learning to navigate new
 and unfamiliar environments with new friends, teachers, and situations.</p>
-<p>&nbsp;</p>
 <p>The focus is on the practice of “Model the Way”, where students set positive
 examples for others to follow, demonstrating the values and behaviours
 that reflect their character traits.</p>
@@ -114,7 +113,6 @@ innovative ways to solve problems, and providing support to their fellow
 students to promote collective success.</p>
 <p>This enhances their leadership capabilities and contributes to their holistic
 development.</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -134,7 +132,6 @@ development.</p>
 </p>
 <p>Our Secondary 3 Canberrans will learn more about “Inspire a Shared Vision”
 and “Encourage the Heart”.</p>
-<p>&nbsp;</p>
 <p>They develop leadership skillsets to become People Leaders by nurturing
 a collective vision and inspiring others to unite in pursuit of shared
 goals, fostering a culture of teamwork and collaborative success.</p>
@@ -144,10 +141,12 @@ goals, fostering a culture of teamwork and collaborative success.</p>
 </table>
 <hr>
 <h4><strong>Student Leadership Development Framework</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_Leadership_Development_Framework.png">
+</div>
 <p>In Canberra Secondary School, we implement a three-tiered Student Leaders
 Framework in the form of a pyramid, designed to cultivate comprehensive
 leadership skills among our Canberrans.</p>
-<p></p>
 <p><strong>Tier 1: Personal Leadership</strong>
 </p>
 <p>At the base of the pyramid, all Secondary 1 to 3 students are introduced
@@ -156,6 +155,42 @@ Class leaders are chosen to guide their peers and develop their leadership
 abilities. These leaders play a crucial role in fostering a positive class
 atmosphere and participate actively in school-wide projects such as the
 Cheer Competition and the YOLO project, promoting unity and teamwork.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_Weekly_Voices_by_Student_Council_EXCO.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Presenting_to_School_Leaders_and_Student_Council_on_Student_Suggestion_Scheme.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Sharing_on_Student_Suggestion_Scheme.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Sharing_on_Student_Suggestion_Scheme_2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p><strong>Tier 2: Team Leadership</strong>
 </p>
