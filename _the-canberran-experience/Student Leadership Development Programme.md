@@ -252,6 +252,9 @@ at enhancing the overall student experience in Canberra.</p>
 have opportunities to develop and apply their leadership skills, preparing
 them to be responsible and engaged Community Youth Leaders.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_Leaders_Investiture_2.jpg">
+</div>
 <p><strong>LEADERSHIP TRAITS, ATTRIBUTES, VALUES AND SKILLS</strong>
 </p>
 <p>At the end of their secondary school education, each Canberran would be
