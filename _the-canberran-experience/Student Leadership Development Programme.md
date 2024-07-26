@@ -142,8 +142,8 @@ goals, fostering a culture of teamwork and collaborative success.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Student Leadership Development Framework</strong>
-</p>
+<hr>
+<h4><strong>Student Leadership Development Framework</strong></h4>
 <p>In Canberra Secondary School, we implement a three-tiered Student Leaders
 Framework in the form of a pyramid, designed to cultivate comprehensive
 leadership skills among our Canberrans.</p>
