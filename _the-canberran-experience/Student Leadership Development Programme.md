@@ -57,6 +57,46 @@ their growth into future-ready leaders.</p>
 </tr>
 </tbody>
 </table>
+<hr>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Secondary 1 Canberrans are introduced to the fundamentals of leadership.
+They will develop personal leadership skills, learning to navigate new
+and unfamiliar environments with new friends, teachers, and situations.</p>
+<p>&nbsp;</p>
+<p>The focus is on the practice of “Model the Way”, where students set positive
+examples for others to follow, demonstrating the values and behaviours
+that reflect their character traits.</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>Student Leadership Development Framework</strong>
 </p>
 <p>In Canberra Secondary School, we implement a three-tiered Student Leaders
