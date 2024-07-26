@@ -58,7 +58,107 @@ their growth into future-ready leaders.</p>
 </tbody>
 </table>
 <hr>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Model_The_Way.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Secondary 1 – Self-Leadership</strong>
+<br>
+</p>
+<p>Secondary 1 Canberrans are introduced to the fundamentals of leadership.
+They will develop personal leadership skills, learning to navigate new
+and unfamiliar environments with new friends, teachers, and situations.</p>
+<p>&nbsp;</p>
+<p>The focus is on the practice of “Model the Way”, where students set positive
+examples for others to follow, demonstrating the values and behaviours
+that reflect their character traits.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Enable_Others_To_Act.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Challenge_The_Process.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Secondary 2 – Peer Leadership</strong>
+<br>
+</p>
+<p>Our Secondary 2 Canberrans delve into the themes of "Challenge the Process"
+and "Enable Others to Act."</p>
+<p>They will develop peer leadership skills by fostering teamwork, creating
+innovative ways to solve problems, and providing support to their fellow
+students to promote collective success.</p>
+<p>This enhances their leadership capabilities and contributes to their holistic
+development.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Student Leadership Development Framework</strong>
 </p>
 <p>In Canberra Secondary School, we implement a three-tiered Student Leaders
