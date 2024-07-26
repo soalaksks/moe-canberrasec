@@ -4,110 +4,262 @@ permalink: /student-leadership-development-programme/
 description: ""
 variant: tiptap
 ---
-<p><strong>STUDENT LEADERSHIP DEVELOPMENT FRAMEWORK</strong>
-</p>
-<p><strong>Introduction</strong></p>
-<p>We, in Canberra Secondary School believe that it is vital to nurture students as growing leaders for their holistic development. The Student Leadership Committee aims to offer platforms for students across the levels to develop their leadership skills and potential progressively.</p>
-<p>The student leadership development structure (Annex 1B) and framework are erected, based on the strong foundations of shared leadership where everyone pitches in their efforts to make a project possible and servant leadership where students serve, lead and excel. The student leadership development structure and framework also centre about the school core values, vision and mission statement to nurture the leadership potential of students.</p>
-<p><strong>Objectives</strong></p>
-<ul>
-<li>To look into the development of leadership potential in our students. The opportunities for leadership exposure will be:</li>
-<ul>
-<li>Student Council Executive Committee</li>
-<li>Peer Support Leaders</li>
-<li>Classroom Leaders</li>
-<li>CCA Leaders</li>
-<li>Peer Support Leader Intern</li>
-</ul>
-<li>To provide the student leaders with sufficient training, activities and programme to develop them to be good leaders.</li>
-<li>To improve the status of student leaders in the school by providing more recognition of student leaders among the student population.</li>
-</ul>
-<p><strong>SL FRAMEWORK</strong></p>
-<p><img style="width: 75%;" src="/images/sl-framework.png">
-</p><p>A framework, in the form of a concentric circle, provides the structure for leadership development. This framework assumes that every student has leadership potential, and opportunities and training in leadership will be provided for each Canberran. All the student leaders will be involved in leadership development activities which centre about the ethos of shared leadership and servant leadership. It also comprises of the leadership skills and attributes that they will develop gradually.</p>
-<p>Right in the centre is the Beginning Leaders – this comprises the Secondary One students and PSLs who will embrace self-leadership skills. This will enable students to appreciate that integrity, personal responsibility and self-discipline are vital to becoming an effective leader. At this stage, they would learn to take up a supportive role to the school.</p>
-<p>From the centre, the next circle is the Peer Leaders – this comprises the Secondary Two students and councillors. This segment focuses on peer leadership, whereby students understand the importance of teamwork and build up confidence to lead small teams. At Secondary Two, the student leaders would then challenge their potential to become a confident leader who can assist their team leaders in the planning and execution of events.</p>
-<p>From this second circle, the next circle is the Promising Leaders – this comprises the Secondary Three students, Student Council Executive Committee members and the CCA leaders. This segment pivots about project leadership, where students build up resilience, task and people management skills to solve problems positively. At Secondary Three, the student leaders would then conquer their aspirations with all the knowledge and skills they have acquired over the years. They would lead their respective teams to contribute to the school.</p>
-<p>From the third circle, the outermost circle is the Mentoring Leaders – this comprises the Secondary Four and Five students. This segment focuses on team development whereby students will be empowered with influencing and mentoring skills who would then lead the juniors to contribute to the school and community.</p>
-<p><strong>LEADERSHIP TRAITS, ATTRIBUTES, VALUES AND SKILLS</strong></p>
-<p>At the end of their secondary school education, each Canberran, whether she is a leader or otherwise, would be able to develop and manifest the following SEL competencies and leadership attributes &amp; skills:</p>
-<div>
-<ul>
-<li>Self-awareness</li>
-<li>Social awareness</li>
-<li>Self management</li>
-<li>Relationship management</li>
-<li>Responsible decision-making</li>
-</ul>
-</div>
-<p class="item-page"><strong>LEADERSHIP TRAITS</strong></p>
-<div class="item-page">
-<div>
-<ul>
-<li>Team development: To empower students with influencing and mentoring skills.</li>
-<li>Project leadership: To allow students to build up resilience, task and people management skills to solve problems positively.</li>
-<li>Peer leadership: To enable students understand the importance of teamwork and build up confidence to lead small teams.</li>
-<li>Self-leadership: To enable students to appreciate that integrity, personal responsibility and self-discipline are vital to becoming an effective leader.</li>
-</ul>
-</div>
-</div>
-
-<p class="item-page"><strong>ATTRIBUTES</strong></p>
-<div>
-<div class="item-page">
-<ul>
-<li>Confident</li>
-<li>Responsible</li>
-<li>Exemplary character</li>
-<li>Self-discipline</li>
-<li>Resilience</li>
-</ul>
-</div>
-</div>
-
-<p class="item-page"><strong>VALUES</strong></p>
-<p class="item-page">Serving with distinction, Living with integrity, Learning with passion</p>
-<p><strong>SKILLS</strong></p>
-<div>
-<div class="item-page">
-<ul>
-<li>To be a confident leader who is able to challenge their potential and conquer their aspirations</li>
-<li>Be a student leader of Exemplary character for others to emulate</li>
-<li>Be a Responsible leader who is the voice of the student body</li>
-<li>Serve the student body with distinction and in turn contribute to society</li>
-</ul>
-</div>
-</div>
-
-<div>
-<p class="item-page"><strong>LEARNING OUTCOMES OF STUDENT LEADERS</strong></p>
-</div>
-<table>
+<h4>Student Leadership Development @ Canberra</h4>
+<h4>The Leadership Challenge Model</h4>
+<p>Our Student Leadership Development Programme @ Canberra aims to equip
+all Secondary 1 to 3 students with vital leadership skills, drawing inspiration
+from the acclaimed Leadership Challenge Model developed by Jim Kouzes and
+Barry Posner. This programme is designed to empower our Canberrans, fostering
+their growth into future-ready leaders.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td><strong>Level</strong></td>
-<td><strong>Skills</strong></td>
-<td><strong>Attributes</strong></td>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Model_The_Way.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Challenge_The_Process.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Encourage_The_Heart.png">
+</div>
+</th>
 </tr>
 <tr>
-<td>&nbsp;Secondary 1: Self-Leadership</td>
-<td>&nbsp;To be a Responsible and self-directed learner, with Integrity</td>
-<td>Self-discipline Personal responsibility<br>Integrity</td>
-</tr>
-<tr>
-<td>Secondary 2: Peer Leadership</td>
-<td>Be a Confident student leader of Exemplary character who challenges their potential Exemplary character;</td>
-<td>Confident Teamwork</td>
-</tr>
-<tr>
-<td>&nbsp;Secondary 3: Project Leadership&nbsp;</td>
-<td> Be a Resilient leader who can act as the voice of the student body and conquer their aspirations to contribute to the school&nbsp;</td>
-<td>Resilience<br>Task and people management skills </td>
-</tr>
-<tr>
-<td>&nbsp;Secondary 4/5: Team development&nbsp;</td>
-<td> Be a passionate mentor who can Serve the student body with distinction; and in turn contribute to society</td>
-<td>&nbsp;Servant leadership influencing and mentoring skills</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Enable_Others_To_Act.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Inspire_a_Shared_vision.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
+<p><strong>Student Leadership Development Framework</strong>
+</p>
+<p>In Canberra Secondary School, we implement a three-tiered Student Leaders
+Framework in the form of a pyramid, designed to cultivate comprehensive
+leadership skills among our Canberrans.</p>
+<p></p>
+<p><strong>Tier 1: Personal Leadership</strong>
+</p>
+<p>At the base of the pyramid, all Secondary 1 to 3 students are introduced
+to basic leadership principles through the Leadership Challenge Model.
+Class leaders are chosen to guide their peers and develop their leadership
+abilities. These leaders play a crucial role in fostering a positive class
+atmosphere and participate actively in school-wide projects such as the
+Cheer Competition and the YOLO project, promoting unity and teamwork.</p>
+<p></p>
+<p><strong>Tier 2: Team Leadership</strong>
+</p>
+<p>The next level of the pyramid focuses on Team Leadership, where Co-Curricular
+Activity (CCA) leaders collaborate to guide their teams towards achieving
+shared goals. These leaders also engage in synergistic projects, coordinated
+by the Student Leadership Committee, to enrich the school experience. Uniformed
+Group Student Leaders lead and organize events like the Sports Fest, National
+Day Parade, and Kids Read @ North Oaks Primary School.</p>
+<p></p>
+<p><strong>Tier 3: Servant Leadership (Stewardship)</strong>
+</p>
+<p>At the apex of the pyramid is Servant Leadership, where Student Council
+members act as Community Youth Leaders, engaging in initiatives that have
+a positive impact on the school and the broader community. The Student
+Council Executive Committee Members participate in advanced leadership
+development programs, such as the Student Leaders Network organized by
+Hwa Chong Institution and the Fit to Lead Programme by Republic Polytechnic.
+These experiences further enhance their leadership skills, enabling them
+to serve as effective ambassadors for the school community. They represent
+their peers and lead various initiatives, including the Student Suggestion
+Scheme, the Canberran Soundtrack, and the Canberran Spotlight, all aimed
+at enhancing the overall student experience in Canberra.</p>
+<p></p>
+<p>This three-tiered Student Leaders Framework ensures that all students
+have opportunities to develop and apply their leadership skills, preparing
+them to be responsible and engaged Community Youth Leaders.</p>
+<p><strong>LEADERSHIP TRAITS, ATTRIBUTES, VALUES AND SKILLS</strong>
+</p>
+<p>At the end of their secondary school education, each Canberran would be
+able to develop and manifest the following SEL competencies and leadership
+attributes &amp; skills:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Self-awareness</p>
+</li>
+<li>
+<p>Social awareness</p>
+</li>
+<li>
+<p>Self management</p>
+</li>
+<li>
+<p>Relationship management</p>
+</li>
+<li>
+<p>Responsible decision-making</p>
+</li>
+</ul>
+<p><strong>LEADERSHIP TRAITS</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Team development: To empower students with influencing and mentoring skills.</p>
+</li>
+<li>
+<p>Project leadership: To allow students to build up resilience, task and
+people management skills to solve problems positively.</p>
+</li>
+<li>
+<p>Peer leadership: To enable students understand the importance of teamwork
+and build up confidence to lead small teams.</p>
+</li>
+<li>
+<p>Self-leadership: To enable students to appreciate that integrity, personal
+responsibility and self-discipline are vital to becoming an effective leader.</p>
+</li>
+</ul>
+<p><strong>ATTRIBUTES</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Confident</p>
+</li>
+<li>
+<p>Responsible</p>
+</li>
+<li>
+<p>Exemplary character</p>
+</li>
+<li>
+<p>Self-discipline</p>
+</li>
+<li>
+<p>Resilience</p>
+</li>
+</ul>
+<p><strong>VALUES</strong>
+</p>
+<p>Serving with distinction, Living with integrity, Learning with passion</p>
+<p><strong>SKILLS</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To be a confident leader who is able to challenge their potential and
+conquer their aspirations</p>
+</li>
+<li>
+<p>Be a student leader of Exemplary character for others to emulate</p>
+</li>
+<li>
+<p>Be a Responsible leader who is the voice of the student body</p>
+</li>
+<li>
+<p>Serve the student body with distinction and in turn contribute to the
+community</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>LEARNING OUTCOMES OF STUDENT LEADERS IN CANBERRA SECONDARY SCHOOL</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Skills</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Attributes</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 1</p>
+<p>Personal Leadership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To be a Responsible and self-directed learner, with Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Self-discipline</p>
+<p>Personal responsibility
+<br>Integrity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 2</p>
+<p>Team Leadership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Be a Confident student leader of Exemplary character</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Confident</p>
+<p>Teamwork</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 3</p>
+<p>Servant Leadership&nbsp;(Stewardship)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Be a Resilient leader who can act as the voice of the student body and
+conquer their aspirations to contribute to the school&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Servant leadership</p>
+<p>Resilience
+<br>Task and people management skills</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 4/5</p>
+<p>People Development&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Be a Passionate mentor who can Serve the student body with distinction;
+and in turn contribute to the community</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mentoring skills</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
