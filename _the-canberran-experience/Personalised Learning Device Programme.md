@@ -15,7 +15,11 @@ the use of applications such as ClassPoint, Kahoot, Padlet, and other simulation
 Canberrans will also experience different applications such as GarageBand
 during Music, Procreate during Art, and SketchBook during Design and Technology.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P_20231026_091343.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3730.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3716.jpg">
 </div>
 <p>Asynchronous home-based learning (HBL) is conducted easily with students
 accessing the Student Learning Space (SLS) on their PLDs. To develop digital
@@ -40,6 +44,10 @@ on their CFF knowledge from Secondary 1 and embark on the new Artificial
 Intelligence (AI) Coding pilot programme. With the advancements in AI technology,
 our students will learn how to utilize AI to help them with coding and
 digital making.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P_20231026_091343.jpg">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P_20240321_161208.jpg">
 </div>
