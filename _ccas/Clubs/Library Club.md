@@ -22,8 +22,10 @@ for learning and curiosity in every Canberran.</p>
 </div>
 <p>The Library Club offers numerous opportunities for members to develop
 essential skills such as leadership, teamwork, creativity, and communication.
-Through their involvement, student librarians grow into caring, confident
-individuals and effective reading ambassadors.</p>
+As part of the club’s VIA project, our student librarians will be part
+of the National Library Board’s kidsREAD programme. Through their involvement
+in different programmes, student librarians grow into caring, confident
+individuals and effective reading ambassadors..</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_26_at_1_04_42_PM.jpg">
 </div>
