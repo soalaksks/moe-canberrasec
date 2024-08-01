@@ -39,7 +39,7 @@ refines critical computational thinking skills crucial for success in the
 21st-century workforce and everyday life.</p>
 </li>
 </ul>
-<h4><strong>From 2025 onwards, join the Robotics Club and:</strong></h4>
+<h4><strong>Calling all 2025 Sec One students! Join our Robotics Club and:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>learn the fundamentals of robotics design, construction, and programming.</p>
