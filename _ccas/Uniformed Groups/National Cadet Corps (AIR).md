@@ -42,6 +42,9 @@ fit body, and a committed heart.</p>
 and Fitness Challenges</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Flying_of_Drone.jpg">
+</div>
 <p>These activities are designed to foster an adventurous spirit while learning
 through fun and challenging experiences.</p>
 <p>To further enrich their learning experience, cadets engage in activities
