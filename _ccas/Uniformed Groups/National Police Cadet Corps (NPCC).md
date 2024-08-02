@@ -18,11 +18,17 @@ of skills and values through a range of experiential learning opportunities:</p>
 <li>
 <p>Adventure Camps: Foster teamwork and resilience, encouraging cadets to
 step outside their comfort zones.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adventure_training_Camp_at_Pulau_Ubin.jpg">
+</div>
 </li>
 <li>
 <p>Police Youth Ambassador Initiative: Provides insights into community policing,
 enhancing understanding of police-community relations and instilling civic
 responsibility.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Police_Youth_Ambassador.jpg">
+</div>
 </li>
 <li>
 <p>Community Safety and Security Programmes: Improve cadets' awareness of
@@ -36,6 +42,9 @@ in daily life.</p>
 <li>
 <p>0.22 Revolver Shooting Competition: Offers Secondary 3 cadets the chance
 to develop focus, discipline, and precision.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/0_22_Shooting_at_HTA.jpg">
+</div>
 </li>
 <li>
 <p>Unit Hikes: Promote physical fitness, endurance, connection to nature,
@@ -44,6 +53,9 @@ and teamwork.</p>
 <li>
 <p>National Library Board's KidsRead Programme: Cultivates empathy and communication
 skills, enabling cadets to engage effectively with younger community members.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KidsRead_Program.jpg">
+</div>
 </li>
 <li>
 <p>Kayaking: Fosters physical activity while promoting leadership and decision-making
@@ -59,10 +71,6 @@ police procedures, and basic laws, critical for any future career in law
 enforcement.</p>
 </li>
 </ul>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Police_Youth_Ambassador.jpg">
-</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_Equiping_exercise.jpg">
 </div>
@@ -71,6 +79,9 @@ key values like integrity, responsibility, and respect. Our programmes
 empower cadets with the skills necessary to contribute positively to society
 and navigate the challenges of the ever-evolving landscape of public safety
 and community engagement.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Area_POP.jpg">
+</div>
 <p>We are also proud to announce that our unit achieved the Distinction Award
 for Unit Overall Proficiency Award (UOPA) 2023!</p>
 <table style="minWidth: 50px">
