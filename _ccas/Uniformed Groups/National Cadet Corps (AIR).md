@@ -26,7 +26,9 @@ fit body, and a committed heart.</p>
 <p>Air activities such as drone flying and the Flight Experience Programme</p>
 </li>
 </ul>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Precision_Drills.jpg">
+</div>
 <p>Cadets also participate in various programmes organized by NCC HQ:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -131,6 +133,5 @@ to receive the prestigious NCC Outstanding Cadet Award 2023</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <p></p>
