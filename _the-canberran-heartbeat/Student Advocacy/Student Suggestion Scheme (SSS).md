@@ -38,9 +38,6 @@ are put into action, and updates are shared with the school.</p>
 <p><strong>Review of Implementations</strong>: The effectiveness of implemented
 suggestions is assessed to decide if they should continue long-term.</p>
 </li>
-<li>
-<p></p>
-</li>
 </ol>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5__22nd_EXCO_FRC_Presentation.jpg">
@@ -75,11 +72,9 @@ led by student leaders.</p>
 visibility of stall information.</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/7__23rd_EXCO_FRC_Presentation_1.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/9__23rd_EXCO_FRC_Presentation_3.jpg">
 </div>
