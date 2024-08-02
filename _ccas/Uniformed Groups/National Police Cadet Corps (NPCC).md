@@ -9,6 +9,9 @@ variant: tiptap
 <p><strong>The National Police Cadet Corps (NPCC)</strong> aims to develop
 our members into active citizens and community leaders. We work in partnership
 with the Singapore Police Force to fight crime and keep Singapore safe.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Unit_Photo.jpg">
+</div>
 <p>At Canberra Secondary School, our NPCC unit emphasises the development
 of skills and values through a range of experiential learning opportunities:</p>
 <ul data-tight="true" class="tight">
@@ -54,9 +57,15 @@ the importance of being prepared to assist others in emergencies.</p>
 <p>Police Knowledge Training: Cadets gain essential knowledge on crime prevention,
 police procedures, and basic laws, critical for any future career in law
 enforcement.</p>
-<p></p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Police_Youth_Ambassador.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_Equiping_exercise.jpg">
+</div>
 <p>These diverse experiences help cultivate well-rounded individuals, instilling
 key values like integrity, responsibility, and respect. Our programmes
 empower cadets with the skills necessary to contribute positively to society
