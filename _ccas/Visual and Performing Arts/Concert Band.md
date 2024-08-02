@@ -35,7 +35,6 @@ such as the Open House 2023 and Lunar New Year celebration concert 2024.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lunar_New_Year_celebrations_2024_min.jpg">
 </div>
-<p></p>
 <p>We also offer Junior Band Training Programme for all new Secondary 1 recruits.
 Our Junior Band conductor, Mr. Bernard Ong, trains all new members, even
 if they do not have any musical background. Additionally, the band seniors
