@@ -5,6 +5,10 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_08_at_13_15_51.jpg">
+</div>
 <h4><strong>Vision</strong></h4>
 <p>Canberra Secondary’s Girls’ Brigade (GB) company seeks to develop every
 girl to her fullest potential by equipping, empowering and enabling “Every
@@ -16,6 +20,9 @@ independence and leadership within the girls as they grow with activities,
 and with mentorship from their seniors and alumni. Additionally, by working
 together with one another, we hope to strengthen the sense of belonging
 and togetherness among the girls, ensuring no one is left behind.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_08_at_13_15_55.jpg">
+</div>
 <h4><strong>Highlights and Achievements</strong></h4>
 <p>Every year in the month of March, our girls go through the "Passing On
 Parade" (POP), where the next batch of executive committee is appointed,
@@ -27,6 +34,18 @@ the new Secondary 1 students into our company. Adventure Camps, where our
 girls try new activities such as roller skating and rock climbing. Lastly,
 our Day Camps where our girls spend time with their squads throughout the
 day.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_08_at_13_12_03__1_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_08_at_13_12_03.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_08_at_13_12_04.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_08_at_13_10_48.jpg">
+</div>
 <p>Our Company has also achieved the Gold Company Award in 2017 for the fourth
 consecutive year. In 2018, our sec 4 girls took part in the Drill Competition,
 in which our company clinched the Bronze award. In 2023, we got the Silver
@@ -37,6 +56,15 @@ Award. We would like to congratulate the company and thank the teachers
 and officers for their effort, hard work and support. We will continue
 to work hard to blossom into resilient and exemplary servant leaders who
 will leave a lasting positive legacy on our society.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_08_at_13_10_47.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_08_at_13_15_20.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_08_at_13_07_37.jpg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
