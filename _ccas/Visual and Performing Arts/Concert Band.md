@@ -14,12 +14,12 @@ potential of our members.</p>
 <p>Under the baton of Mr Xaven Chng, the Canberra Secondary School Concert
 Band participated in the Singapore Youth Festival Art Presentation 2023
 and achieved a Certificate of Commendation. The pieces played were <em>Tanah di Bawah Angin</em> and <em>Terracotta Warriors</em>.
-Through this SYF experience, the band realized that every practice must
-be taken seriously in order for us to accomplish greater heights in the
-future. As a result, we learned to be more tenacious and rigorous in our
-practices through these performances and the process of going through several
-practices.&nbsp; Through conversations about how to execute our SYF compositions,
-the band also developed its ability to function effectively as a team.</p>
+Through this SYF experience, the band realised that every practice session
+must be taken seriously for us to accomplish greater heights in the future.
+As a result, we learned to be more tenacious and rigorous in our practices
+and learning processes. Through conversations such as how to execute our
+SYF compositions, the band also developed its ability to function effectively
+as a team.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF_1.jpg">
 </div>
@@ -38,9 +38,9 @@ such as the Open House 2023 and Lunar New Year celebration concert 2024.</p>
 <p>We also offer Junior Band Training Programme for all new Secondary 1 recruits.
 Our Junior Band conductor, Mr. Bernard Ong, trains all new members, even
 if they do not have any musical background. Additionally, the band seniors
-also take on the responsibility of training the Secondary Ones. Such experiences
-allows our senior members to build up their level of confidence and proficiency,
-while providing guidance to the new members.</p>
+take on the responsibility of training the Secondary Ones. Such experiences
+allow our senior members to build up their level of confidence and proficiency,
+while providing leadership and guidance to the new members.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
