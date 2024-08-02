@@ -24,11 +24,32 @@ Canberra Zone 2 Residents' Network Chinese New Year Lo-Hei Celebration.
 Based on our longstanding participation in the Singapore Youth Festival
 Guzheng Competition, we were specifically invited to perform for the Guest-of-Honour,
 Dr Lim Wee Kiak, Member of Parliament for Sembawang GRC.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20240217_WA0003.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20240217_WA0002.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20240217_WA0005.jpg">
+</div>
 <p>The ensemble also performed at the Hari Raya Celebration@Bukit Canberra
 in May 2024. Members of Parliament for Sembawang GRC, Health Minister Ong
 Ye Kung, Dr Lim Wee Kiak, and Mdm Mariam binte Jaafar graced the event
 as the Guests-of-Honour.&nbsp; On 27 July 2024, we performed at the FAM
 K@North West CDC National Day Celebrations.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20240505_WA0006.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20240505_WA0020.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20240505_WA0025.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20240505_WA0026.jpg">
+</div>
 <p></p>
 <p>For the remainder of 2024, we aim to strengthen our ties with the local
 community by continuing to perform at various events.</p>
