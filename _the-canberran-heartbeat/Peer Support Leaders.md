@@ -80,22 +80,9 @@ Wellness Week (Mental health awareness and celebrating inclusivity)</p>
 <p>&nbsp;</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>
-<br>
-</p>
-<p>&nbsp;</p>
-<p>Photo annexes:</p>
+<p></p>
 <p><strong>1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PSL Trainings (Empowering PSLs to help others)</strong>
 </p>
 <p>&nbsp;&nbsp;</p>
