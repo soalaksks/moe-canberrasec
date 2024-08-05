@@ -190,8 +190,6 @@ through works done during regular CCA training sessions and competitions.
 This year, our upper secondary students participated in the Singapore Polytechnic
 MAD Grad Experience, where they learned to improve their e-portfolios for
 admission to the media and design course at the polytechnic.</p>
-<p>&nbsp;</p>
-<p>&nbsp; &nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -201,6 +199,7 @@ admission to the media and design course at the polytechnic.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><em>DMA students gaining insights from the film crew during a behind-the-scenes session for a CNA documentary.</em>
 </p>
 </td>
