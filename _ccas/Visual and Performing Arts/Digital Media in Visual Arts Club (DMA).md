@@ -55,10 +55,8 @@ and the elderly participants.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p><strong>Achievements:</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -178,8 +176,6 @@ and the elderly participants.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Opportunities:</strong>
 <br>Members of DMA have numerous opportunities to enhance their skills and
 gain real-world experience. They can serve as official student photographers
@@ -200,22 +196,31 @@ admission to the media and design course at the polytechnic.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_6.jpg">
+</div>
 <p><em>DMA students gaining insights from the film crew during a behind-the-scenes session for a CNA documentary.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_7.jpg">
+</div>
 <p><em>DMA students participating in the Singapore Polytechnic MAD Grad Experience.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_8.jpg">
+</div>
 <p><em>Learning about acting techniques from local actress Julie Tan, gaining valuable performance skills.</em>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Workshops:</strong>
 <br>To further enrich our students' learning experience, we offer special
 workshops, including:</p>
@@ -242,8 +247,6 @@ and educators at the Science Centre to create artworks incorporating digital
 fabrication.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -252,19 +255,24 @@ fabrication.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_9.jpg">
+</div>
 <p><em>DMA students learning the art of product photography during a workshop conducted by Canon.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_10.jpg">
+</div>
 <p><em>DMA students with the talented content creators behind the digital publisher, Our Grandfather Story.</em>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -273,38 +281,68 @@ fabrication.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_11.jpg">
+</div>
 <p><em>DMA students creating their unique fashion pieces as part of the <br>DFS X Artist programme.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_12.jpg">
+</div>
 <p><em>DMA students mastering drone flying for aerial cinematography.</em>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Learning Journeys:</strong>
 <br>Our students have the opportunity to go on multiple learning journeys,
 including visits to the Singapore Botanic Gardens and the ArtScience Museum
 for photography sessions and to learn about immersive technology. These
 excursions allow students to apply their skills in real-world settings
 and gain inspiration from their surroundings.</p>
-<p>&nbsp;</p>
-<p>&nbsp; &nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_13.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_14.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_15.jpg">
+</div>
 <p>
 <br><strong>Julian from class 4 Diligence’24, shares his experience:</strong>
 <br><em>"My experience in DMA is one that I cherish and appreciate deeply. During my time in this CCA, I’ve made many friends and precious memories. I had a lot of fun with the people I’ve met in DMA, just by working or talking with them. This CCA allowed me to connect with people with similar interests and hobbies as well as further develop and broaden my own interests. I came to this CCA with a strong interest in drawing, however, I ended up learning so much more. I’ve learned how to use several software like Photoshop, Premiere, and After Effects, as well as how to operate and set up professional cameras and tripods. Thanks to this CCA I’ve been given many opportunities to participate and even win in several art and film competitions and be a part of several film projects with my friends. This CCA has allowed me to make close friends, learn new skills, and take part in new and exciting opportunities. I sincerely hope that DMA would be as meaningful to others as it was to me. I feel that DMA is something truly special and I hope many more people can experience it."</em>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Teachers-In-Charge:</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms. Goh Shu Hui</p>
 <p>Ms. Yusra Abd Razak</p>
-<p><strong>&nbsp;</strong>
-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Training Schedule:</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Wednesdays, 2:30 pm to 6:00 pm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
