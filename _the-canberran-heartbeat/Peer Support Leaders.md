@@ -4,11 +4,11 @@ permalink: /peer-support-leaders/
 variant: tiptap
 description: ""
 ---
-<p><strong><u>Peer Support Leaders</u></strong>
-</p>
 <p><em>Bond, Help, Influence</em>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/PSL1.jpg">
+</div>
 <p><strong>Peer Support Relations (PSR) at Canberra Secondary School</strong>
 </p>
 <p>Our Vision: To create an enabling and caring environment where students
