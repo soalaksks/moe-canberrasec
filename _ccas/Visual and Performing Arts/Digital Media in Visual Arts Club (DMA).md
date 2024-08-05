@@ -14,7 +14,6 @@ variant: tiptap
 Media Designer into a competent individual with a creative mind to create
 and appreciate art. We strive to nurture lifelong learners with a heart
 to serve the community.</p>
-<p></p>
 <p><strong>Focus Areas:</strong>
 <br>In the DMA, we concentrate on three main areas: digital illustration,
 photography, and videography. Our students delve into the world of digital
@@ -22,19 +21,14 @@ art, mastering tools and techniques to create stunning illustrations. They
 use a variety of industry-standard tools and software, including Photoshop,
 Procreate, and Adobe After Effects, to develop professional-quality digital
 media content and enhance their technical skills.</p>
-<p>&nbsp;</p>
 <p>Students are trained to capture compelling images using DSLR (EOS) and
 mirrorless (EOS) cameras, honing both their technical skills and artistic
 vision. Additionally, they learn to produce engaging videos, from storyboarding
 and filming to editing and post-production.</p>
-<p>&nbsp;</p>
 <p>In addition to their artistic pursuits, DMA members volunteer at the Sunlove
 Senior Activity Centre. They plan and conduct art-related activities to
 befriend and engage the seniors, enriching the lives of both the students
 and the elderly participants.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp; &nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -43,10 +37,18 @@ and the elderly participants.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_2.jpg">
+</div>
 <p><em>DMA members in action behind the scenes, capturing a video to acknowledge and celebrate the invaluable efforts of educators.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_3.jpg">
+</div>
 <p><em>DMA members with seniors from Sunlove Senior Activity Centre, displaying the art piece they completed together during a heartwarming befriending session.</em>
 </p>
 </td>
@@ -56,12 +58,29 @@ and the elderly participants.</p>
 <p>&nbsp;</p>
 <p><strong>Achievements:</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Photo_4.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_5.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
