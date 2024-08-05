@@ -20,7 +20,7 @@ of belonging to the school community (peer bonding), provide practical
 help and social-emotional support to one another (peer helping) and promote
 positive mindsets, pro-social behaviours (both online and offline), well-being
 and role model good character (peer influencing) <a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses/cce/2021-character-and-citizenship-education-syllabus-secondary.pdf" rel="noopener noreferrer nofollow" target="_blank">(CCE Student Development Curriculum Division, 2020)</a>.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Peer Support Leaders (PSLs) are selected students who take on a more active
 role in supporting their peers. Their responsibilities include monthly
 training sessions where they develop skills to listen actively, respond
@@ -51,20 +51,41 @@ enabling and caring environment.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1)&nbsp;&nbsp;&nbsp;&nbsp; Monthly PSL Trainings</p>
-<p>2)&nbsp;&nbsp;&nbsp;&nbsp; Student Leaders Affirmation Ceremony</p>
-<p>3)&nbsp;&nbsp;&nbsp;&nbsp; Tier 1 Peer Support Education</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Monthly PSL Trainings</p>
+</li>
+<li>
+<p>Student Leaders Affirmation Ceremony</p>
+</li>
+<li>
+<p>Tier 1 Peer Support Education</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>1)&nbsp;&nbsp;&nbsp;&nbsp; Events:</p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp; Termly Birthday Celebration</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp; Advocacy campaigns (e.g. Canberrans Care Campaign
-(Cyber wellness), Wellness Week (Mental health awareness and celebrating
-inclusivity)</p>
-<p>c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Youth Day</p>
-<p>d.&nbsp;&nbsp;&nbsp;&nbsp; GRC Celebration Week</p>
-<p>2)&nbsp;&nbsp;&nbsp;&nbsp; PSL-Gear UP interactions</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Events:</p>
+<p>a. Termly Birthday Celebration</p>
+<p>b. Advocacy campaigns (e.g. Canberrans Care Campaign (Cyber wellness),
+Wellness Week (Mental health awareness and celebrating inclusivity)</p>
+<p>c. Youth Day</p>
+<p>d. GRC Celebration Week</p>
+</li>
+<li>
+<p>PSL-Gear UP interactions</p>
+</li>
+</ol>
 <p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
