@@ -330,8 +330,8 @@ on behalf of Class PSLs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>I) Cyber Wellness Campaign in collaboration with Cyber Security Agency Singapore to raise awareness on being safe online.</strong>
-</p>
+<p>I) Cyber Wellness Campaign in collaboration with Cyber Security Agency
+Singapore to raise awareness on being safe online.</p>
 </td>
 </tr>
 </tbody>
