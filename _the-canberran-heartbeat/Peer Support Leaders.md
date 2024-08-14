@@ -96,12 +96,28 @@ Wellness Week (Mental health awareness and celebrating inclusivity)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSL2.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSL3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSL4.jpg">
+</div>
 <p>Monthly training conducted by SWB Teachers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSL3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSL5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSL6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSL7.jpg">
 </div>
 <p>Trainings conducted by external vendors on specific themes (e.g. Touch
 Cyber Wellness on cyber wellness advocacy)</p>
@@ -109,13 +125,52 @@ Cyber Wellness on cyber wellness advocacy)</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p>&nbsp;</p>
-<p></p>
 <p><strong>2)&nbsp;&nbsp;&nbsp;&nbsp; Student Leaders Affirmation Ceremony 2024</strong>
 </p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <p>4<sup>th</sup> Peer Support Leaders Exco</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
 <p>Adam Jeremy from 3 Integrity (Head of PSL) receiving Certificate of Appointment
 on behalf of Class PSLs.</p>
