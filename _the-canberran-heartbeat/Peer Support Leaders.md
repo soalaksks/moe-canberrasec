@@ -301,9 +301,42 @@ on behalf of Class PSLs.</p>
 </table>
 <p><strong>B)&nbsp;Advocacy campaigns (Peer-influencing)</strong>
 </p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSL24.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSL25.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSL26.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
 <p><strong>I) Cyber Wellness Campaign in collaboration with Cyber Security Agency Singapore to raise awareness on being safe online.</strong>
 </p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
 <p><strong>II)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bully-free campaign.</strong>
 </p>
