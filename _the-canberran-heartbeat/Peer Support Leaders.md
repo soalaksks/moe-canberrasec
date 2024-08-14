@@ -253,9 +253,8 @@ on behalf of Class PSLs.</p>
 </p>
 <p><strong>A) Class-based Birthday Celebrations (Peer Bonding)</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -273,10 +272,18 @@ on behalf of Class PSLs.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSL20.jpg">
 </div>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSL21.jpg">
+</div>
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSL21.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSL22.jpg">
 </div>
 </td>
 </tr>
@@ -284,13 +291,7 @@ on behalf of Class PSLs.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSL22.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSL22.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSL23.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
