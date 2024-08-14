@@ -49,6 +49,9 @@ to develop focus, discipline, and precision.</p>
 <li>
 <p>Unit Hikes: Promote physical fitness, endurance, connection to nature,
 and teamwork.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Group_Photo_before_Unit_Hike_min.jpg">
+</div>
 </li>
 <li>
 <p>National Library Board's KidsRead Programme: Cultivates empathy and communication
@@ -84,6 +87,13 @@ and community engagement.</p>
 </div>
 <p>We are also proud to announce that our unit achieved the Distinction Award
 for Unit Overall Proficiency Award (UOPA) 2023!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Water_Parade_before_Unit_Hike_min.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Heritage_Centre_Visit_min.jpg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
