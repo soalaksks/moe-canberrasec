@@ -82,7 +82,7 @@ Wellness Week (Mental health awareness and celebrating inclusivity)</p>
 </tr>
 </tbody>
 </table>
-<p><strong>1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PSL Trainings (Empowering PSLs to help others)</strong>
+<p><strong>1) PSL Trainings (Empowering PSLs to help others)</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -125,7 +125,7 @@ Cyber Wellness on cyber wellness advocacy)</p>
 </tr>
 </tbody>
 </table>
-<p><strong>2)&nbsp;&nbsp;&nbsp;&nbsp; Student Leaders Affirmation Ceremony 2024</strong>
+<p><strong>2) Student Leaders Affirmation Ceremony 2024</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -214,17 +214,6 @@ on behalf of Class PSLs.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -239,29 +228,20 @@ on behalf of Class PSLs.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSL16.jpg">
+</div>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="3">
+<p>Class Leaders Presentation Ceremony 2024</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>Class Leaders Presentation Ceremony 2024</p>
-<p>
-<br>
-</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>3)&nbsp;&nbsp;&nbsp;&nbsp; Tier 1 Peer Support Education (Termly Mental Wellness Talk by Specialists)</strong>
+<p><strong>3) Tier 1 Peer Support Education (Termly Mental Wellness Talk by Specialists)</strong>
 </p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -322,3 +302,4 @@ Finalists as part of Youth Day Concert.</p>
 <p></p>
 <p>Bi-weekly interactions with GEAR UP during After School Engagement Program
 to promote peer bonding and peer influencing among students.</p>
+<p></p>
