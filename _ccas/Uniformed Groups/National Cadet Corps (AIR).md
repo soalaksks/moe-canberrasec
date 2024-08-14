@@ -11,24 +11,36 @@ responsible, resilient, and loyal leaders and team players through engaging
 and challenging military-related activities. Our "Cadet Strong" framework
 embodies the core values we instill in our cadets: a resilient mind, a
 fit body, and a committed heart.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC__Air__min.jpg">
+</div>
 <p>Our NCC (Air) programme offers a range of exciting activities, including:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Regular training sessions</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_Day_Parade_min.jpg">
+</div>
 </li>
 <li>
 <p>Precision drills</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Precision_Drills_min.jpg">
+</div>
 </li>
 <li>
 <p>Marksmanship</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Individual_Field_Craft_min.jpg">
+</div>
 </li>
 <li>
 <p>Air activities such as drone flying and the Flight Experience Programme</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Flying_of_Drone.jpg">
+</div>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Precision_Drills.jpg">
-</div>
 <p>Cadets also participate in various programmes organized by NCC HQ:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -42,9 +54,6 @@ fit body, and a committed heart.</p>
 and Fitness Challenges</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Flying_of_Drone.jpg">
-</div>
 <p>These activities are designed to foster an adventurous spirit while learning
 through fun and challenging experiences.</p>
 <p>To further enrich their learning experience, cadets engage in activities
