@@ -391,26 +391,112 @@ SHINE.</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSL31.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSL32.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-<p><strong>IV)&nbsp;&nbsp; Wellness Week in conjunction with Purple Parade conducted by PSLs. Raising awareness on the importance of total wellness and celebrating inclusivity.</strong>
-</p>
-<p>&nbsp;</p>
-<p>
-<br>
-</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSL33.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>IV) Wellness Week in conjunction with Purple Parade conducted by PSLs.
+Raising awareness on the importance of total wellness and celebrating inclusivity.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>C)&nbsp;&nbsp;&nbsp;&nbsp; Youth Day Celebration</strong>
 </p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSL34.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSL35.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSL36.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
 <p>Concert conducted by Sec 3 PSLs.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSL37.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSL38.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSL39.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
 <p>Collaborated with Aesthetic Department to have The Canberra Spotlight
 Finalists as part of Youth Day Concert.</p>
-<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>D)&nbsp;&nbsp;&nbsp;&nbsp; GRC Celebration Week</strong>
 </p>
 <p></p>
