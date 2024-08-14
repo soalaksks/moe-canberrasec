@@ -499,15 +499,41 @@ Finalists as part of Youth Day Concert.</p>
 </table>
 <p><strong>D)&nbsp;&nbsp;&nbsp;&nbsp; GRC Celebration Week</strong>
 </p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
-<p><strong>Class-based activities conducted by PSLs to enhance peer bonding.</strong>
-</p>
-<p>
-<br>
-</p>
-<p>&nbsp;</p>
-<p><strong>2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PSL-GEAR UP Interactions</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSL40.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSL41.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSL42.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Class-based activities conducted by PSLs to enhance peer bonding.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>2) PSL-GEAR UP Interactions</strong></h4>
 <p></p>
 <p>Bi-weekly interactions with GEAR UP during After School Engagement Program
 to promote peer bonding and peer influencing among students.</p>
