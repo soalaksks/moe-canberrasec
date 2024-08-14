@@ -114,4 +114,55 @@ and the importance of empathy and compassion.</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cohort_1.jpg">
+</div>
+<p></p>
+<p><em>A student reflects on the importance of cherishing moments with the family.</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cohort_2.jpg">
+</div>
+<p></p>
+<p><em>A student gains insight into the physical challenges the elderly encounter in their daily lives.</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cohort_3.jpg">
+</div>
+<p></p>
+<p><em>Secondary 3 students and the elderly at Sunlove Senior Activity Centre create lanterns together, sharing creativity and joy.</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cohort_4.jpg">
+</div>
+<p></p>
+<p><em>Students engage with patients at HCA Hospice, learning and connecting through meaningful dialogue.</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
