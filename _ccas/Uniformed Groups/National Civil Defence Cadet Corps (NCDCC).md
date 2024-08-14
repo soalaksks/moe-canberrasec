@@ -66,7 +66,7 @@ and making their journey in NCDCC more fulfilling:</p>
 <p>Through its motto, "We Learn. We Lead. We Serve.", the Canberra NCDCC
 unit aims to prepare cadets to be capable, compassionate leaders who are
 ready to face any challenges and contribute positively to society.</p>
-<h4><strong>Latest Achievements</strong></h4>
+<h4>Latest Achievements</h4>
 <p>Precision Drill Challenge (PDC) The PDC is a competition designed to showcase
 the discipline, coordination, and teamwork of cadets through precise and
 synchronized drill movements. Participants are judged on their ability
