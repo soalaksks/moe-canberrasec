@@ -53,7 +53,6 @@ experience, marking a key moment in the students' musical development.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir1.jpg">
 </div>
-<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
