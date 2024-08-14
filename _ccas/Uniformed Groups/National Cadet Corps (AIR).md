@@ -56,6 +56,9 @@ and Fitness Challenges</p>
 </ul>
 <p>These activities are designed to foster an adventurous spirit while learning
 through fun and challenging experiences.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Individual_Field_Craft_2_min.jpg">
+</div>
 <p>To further enrich their learning experience, cadets engage in activities
 like the Precision Drill Squad (PDS), Kayaking, and Drone Workshops. These
 activities not only build their future-ready skillsets but also strengthen
@@ -63,6 +66,9 @@ camaraderie among the cadets, making their NCC journey more fulfilling.</p>
 <p>Through this diverse array of programmes and activities, we aim to develop
 strong, well-rounded and future-ready cadets who embody the "Cadet Strong"
 spirit and are prepared to face the challenges of the future.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Balsa_Wood_Glider_min.jpg">
+</div>
 <h4><strong>Latest Achievements</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
