@@ -241,16 +241,17 @@ on behalf of Class PSLs.</p>
 <p></p>
 <p><strong>3) Tier 1 Peer Support Education (Termly Mental Wellness Talk by Specialists)</strong>
 </p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>
-<br>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSL17.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSL18.jpg">
+</div>
+<hr>
+<p><strong>1) Events:</strong>
 </p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>1)&nbsp;&nbsp;&nbsp;&nbsp; Events:</strong>
-</p>
-<p><strong>A)&nbsp;&nbsp;&nbsp; Class-based Birthday Celebrations (Peer Bonding)</strong>
+<p><strong>A) Class-based Birthday Celebrations (Peer Bonding)</strong>
 </p>
 <p></p>
 <p>
