@@ -249,8 +249,7 @@ on behalf of Class PSLs.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSL18.jpg">
 </div>
 <hr>
-<p><strong>1) Events:</strong>
-</p>
+<h4><strong>1) Events:</strong></h4>
 <p><strong>A) Class-based Birthday Celebrations (Peer Bonding)</strong>
 </p>
 <table style="minWidth: 50px">
@@ -300,15 +299,10 @@ on behalf of Class PSLs.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>B)&nbsp;&nbsp;&nbsp; </strong>&nbsp;<strong>Advocacy campaigns (Peer-influencing)</strong>
+<p><strong>B)&nbsp;Advocacy campaigns (Peer-influencing)</strong>
 </p>
 <p></p>
-<p><strong>I)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cyber Wellness Campaign in collaboration with Cyber Security Agency Singapore to raise awareness on being safe online.</strong>
+<p><strong>I) Cyber Wellness Campaign in collaboration with Cyber Security Agency Singapore to raise awareness on being safe online.</strong>
 </p>
 <p></p>
 <p><strong>II)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bully-free campaign.</strong>
