@@ -68,10 +68,16 @@ that included the observance ceremony, a CarniVIAl focused on educating
 participants about active aging, and various student performances. The
 celebration fostered a sense of national pride and unity, encouraging students
 to reflect on Singapore's journey as a nation and their role in its future.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CarniVIAl_min.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ND_Concert.jpg">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Observance_Ceremony_min.jpg">
+</div>
 <p>This year, our students can look forward to an exciting National Day celebration
 with the theme "Onward As One," which promises to inspire and unite our
 school community once again.</p>
