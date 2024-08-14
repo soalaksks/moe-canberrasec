@@ -25,7 +25,13 @@ ties and enhancing the cultural fabric of the celebration. The experience
 was both rewarding for the choir members and enriching for the community,
 as it highlighted the power of music in bringing people together and celebrating
 shared values.</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir4.jpg">
+</div>
 <p>The Catholic High School Choir's Limelight Concert, held on 11 March 2024
 at the Esplanade Concert Hall, provided students with a significant opportunity
 for growth and development. The event exposed students to a prestigious
@@ -35,13 +41,18 @@ their technical skills and stage presence, while offering valuable insights
 into the professional music world. The exposure inspired students, boosted
 their confidence, and contributed substantially to their artistic and personal
 growth.</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir2.jpg">
+</div>
 <p>In a notable milestone for 2024, Canberra Secondary School successfully
 hosted its Day Camp on the 28th and 29th of May. The event focused on improving
 vocal skills and choral techniques, enhancing group cohesion and teamwork,
 and preparing students for upcoming performances, including SYF2025. The
 camp was not only highly educational but also an enjoyable and memorable
 experience, marking a key moment in the students' musical development.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir1.jpg">
+</div>
 <p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -72,3 +83,4 @@ experience, marking a key moment in the students' musical development.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
+<p></p>
