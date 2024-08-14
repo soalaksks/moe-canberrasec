@@ -5,4 +5,70 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<h4><strong>Vision</strong></h4><p>Canberra Secondary School Choir aims to enable students (ranging from no musical background to advanced musicians) to learn and apply knowledge and skills in Vocal and Choral techniques. Through the incorporation of personal and creative expression in individual, small group and large group performances, this would encourage students and build their self-confidence. We provide opportunities for the development of leadership potential in our members. The choir has also participated in VIA with All Saints’ Home (Yishun) to instill the values of Gratitude, Respect and Compassion in our students.</p><h4><strong>Highlights and Achievements</strong></h4><p>This year the Canberra School Choir is honored to perform and be a part of the school’s GRC Banquet which was held for the first time to launch the values -Grateful, Respectful &amp; Compassionate @Canberra Community and engage parents, partners and alumni as our very&nbsp;important partners (VIPs) in embracing GRC culture.</p><p>The Choir also served the elderly in All Saints’ Home (Yishun) through our involvement in the VIA where we prepared the elderly for a combined performance. The preparation for the performance&nbsp;encouraged the elderly to be more mobile through the use of music.</p><p>We also performed for the public on Wednesday, 08 August 2018 at the National Day Dinner Performance at Canberra Park.</p><table><tbody><tr><td rowspan="1" colspan="1"><p><strong>Teachers-In-Charge</strong></p></td><td rowspan="1" colspan="1"><p>Mrs Hee-Lim</p><p>Mr Quek Yeow Chong</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Training Days / Time</strong></p></td><td rowspan="1" colspan="1"><p>Wednesday 2.30 pm - 6 pm</p></td></tr></tbody></table><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/choir.png"></div><p></p>
+<h4><strong>Vision</strong></h4>
+<p>Our choir enables students, from beginners to advanced musicians, to learn
+and apply vocal and choral techniques. Through personal and creative expression
+in individual, small group, and large group performances, we build students'
+self-confidence and leadership potential. By participating in Values in
+Action (VIA) activities with Canberra Elderly RN Zone 3, we instill the
+values of Gratitude, Respect, and Compassion in our students. We are committed
+to fostering a supportive and enriching environment where every member
+can grow musically and personally, contributing positively to the community.</p>
+<h4><strong>Highlights and Achievements</strong></h4>
+<p>The choir's participation in Canberra Day on 10 March 2024 presented a
+vibrant opportunity to engage with the community through music and celebration
+with the Sound of Music Medley. By performing at this significant event,
+the choir not only showcased their musical talents but also fostered a
+deeper connection with residents. This engagement allowed the choir to
+contribute to the festive atmosphere of Canberra Day, strengthening community
+ties and enhancing the cultural fabric of the celebration. The experience
+was both rewarding for the choir members and enriching for the community,
+as it highlighted the power of music in bringing people together and celebrating
+shared values.</p>
+<p>&nbsp;</p>
+<p>The Catholic High School Choir's Limelight Concert, held on 11 March 2024
+at the Esplanade Concert Hall, provided students with a significant opportunity
+for growth and development. The event exposed students to a prestigious
+performance environment, allowing them to experience the dynamics of a
+major concert venue. Performing at such a distinguished location enhanced
+their technical skills and stage presence, while offering valuable insights
+into the professional music world. The exposure inspired students, boosted
+their confidence, and contributed substantially to their artistic and personal
+growth.</p>
+<p>&nbsp;</p>
+<p>In a notable milestone for 2024, Canberra Secondary School successfully
+hosted its Day Camp on the 28th and 29th of May. The event focused on improving
+vocal skills and choral techniques, enhancing group cohesion and teamwork,
+and preparing students for upcoming performances, including SYF2025. The
+camp was not only highly educational but also an enjoyable and memorable
+experience, marking a key moment in the students' musical development.</p>
+<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers-In-Charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Hee-Lim GK</p>
+<p>&nbsp;</p>
+<p>Mr Quek Yeow Chong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Training Days / Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesday 2:30 pm – 5:30 pm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
