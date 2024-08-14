@@ -12,6 +12,9 @@ Canberra Secondary School's NCDCC seeks to nurture and develop our youths
 into resilient and responsible citizens through innovative and challenging
 Civil Defence activities. It is a choice Uniformed Group (UG) that equips
 our youths with life-saving skills for challenging times ahead.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC_Open_House_2024.jpg">
+</div>
 <p>NCDCC's curriculum focuses mainly on the Triangle of Life Skills, which
 includes basic firefighting, first aid, and CPR+AED. These are important
 lifesaving skills that can make a difference in saving lives during emergencies.</p>
@@ -19,6 +22,9 @@ lifesaving skills that can make a difference in saving lives during emergencies.
 and dynamic platform to nurture character and leadership development for
 our students. The objectives are to teach cadets life skills while instilling
 the values of discipline and togetherness in the Uniformed Group.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC_Day_2024.jpg">
+</div>
 <p>Our cadets can look forward to a plethora of enriching activities including:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -46,6 +52,10 @@ the values of discipline and togetherness in the Uniformed Group.</p>
 <p>Leadership Camp</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC_Sec_1_Affirmation_Day_2024.jpg">
+</div>
+<p></p>
 <p>Cadets also participate in activities held by HQ NCDCC that help them
 develop valuable competencies, moulding them into future-ready contributors
 and making their journey in NCDCC more fulfilling:</p>
@@ -66,6 +76,9 @@ and making their journey in NCDCC more fulfilling:</p>
 <p>Through its motto, "We Learn. We Lead. We Serve.", the Canberra NCDCC
 unit aims to prepare cadets to be capable, compassionate leaders who are
 ready to face any challenges and contribute positively to society.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC_VIA_2024.jpg">
+</div>
 <h4>Latest Achievements</h4>
 <p>Precision Drill Challenge (PDC) The PDC is a competition designed to showcase
 the discipline, coordination, and teamwork of cadets through precise and
@@ -82,7 +95,9 @@ In recent years, we clinched the following ranking nationwide:</p>
 </p>
 </li>
 </ul>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC_PDC_2024.jpg">
+</div>
 <p><strong>2024 SCDF-NCDCC Pinnacle Award</strong>
 </p>
 <p>This is the highest accolade that a cadet may receive in NCDCC. It is
@@ -97,6 +112,9 @@ year, the award is conferred to:</p>
 <p><strong>Warrant Officer Adam Rushdiy Bin Mohammed Fadly, 4 Harmony</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC_Pinnacle_Award.jpg">
+</div>
 </li>
 </ul>
 <p><strong>2024 Footdrill Gold Course, Best in Commanding</strong>
@@ -109,6 +127,10 @@ our following cadet for clinching the Best in Commanding:</p>
 <li>
 <p><strong>Staff Sergeant Muhammad Noor Danish Bin Abdullah, 3 Respect</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC_Best_in_Commanding.jpg">
+</div>
 <p></p>
 </li>
 </ul>
