@@ -4,7 +4,7 @@ permalink: /discover-canberra/our-curriculum/physical-education/
 description: ""
 variant: tiptap
 ---
-<h4>Department Vision: </h4>
+<h4>Department Vision:</h4>
 <h4>Canberrans with the Knowledge, Skills and Attitude to lead a Physically Healthy and Active life.</h4>
 <p></p>
 <h4>About the Department:</h4>
