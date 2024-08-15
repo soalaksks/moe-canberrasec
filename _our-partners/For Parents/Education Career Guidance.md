@@ -6,7 +6,7 @@ description: ""
 third_nav_title: For Parents
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WIP_Bear.jpg">
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1tU4OoHpEyFKrqGcvTskPv28l8m0-iA8o/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
