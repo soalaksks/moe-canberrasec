@@ -19,36 +19,24 @@ and Enterprising Learners</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/button-art.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://canberrasec.moe.edu.sg/craft-n-technology/art/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/button-art.jpg"></a>
 <p><strong>Arts</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/button-dt.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://canberrasec.moe.edu.sg/craft-n-technology/design-and-technology/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/button-dt.jpg"></a>
 <p><strong>Design &amp; Technology</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/button-music.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://canberrasec.moe.edu.sg/craft-n-technology/music/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/button-music.jpg"></a>
 <p><strong>Music</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/button-nfs.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://canberrasec.moe.edu.sg/craft-n-technology/nutrition-and-food-science/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/button-nfs.jpg"></a>
 <p><strong>Nutrition &amp; Food Science</strong>
 </p>
 </td>
