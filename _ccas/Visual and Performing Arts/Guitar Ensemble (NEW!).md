@@ -51,7 +51,6 @@ journey.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
