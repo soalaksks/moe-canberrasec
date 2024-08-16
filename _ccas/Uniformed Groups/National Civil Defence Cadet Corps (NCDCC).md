@@ -105,7 +105,7 @@ also awarded to the most outstanding cadet in the uniformed group. This
 year, the award is conferred to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Warrant Officer Nur Emilya Binte Mohamed Riaj, 4 Honour</strong>
+<p><strong>Warrant Officer Nur Emilya Binte Mohamed Riaj, 4 Empathy</strong>
 </p>
 </li>
 <li>
