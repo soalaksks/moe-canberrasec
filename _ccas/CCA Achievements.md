@@ -65,6 +65,17 @@ description: ""
 <p>Unit Overall Proficiency Award – Distinction</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Digital Media in Visual Arts (DMA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Schools Digital Media Awards – Finalist</p>
+<p></p>
+<p>Live On Festival Design Competition by National Organ Transplant Unit
+– Top 5</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>2023</h3>
@@ -168,12 +179,7 @@ description: ""
 <p>Digital Media in Visual Arts (DMA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2022 Infocomm Media Club Youth Award - Certificate of Distinction
-<br>
-<br>Schools Digital Media Awards – Finalist</p>
-<p></p>
-<p>Live On Festival Design Competition by National Organ Transplant Unit
-– Top 5</p>
+<p>2022 Infocomm Media Club Youth Award - Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>
