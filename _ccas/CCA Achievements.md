@@ -168,7 +168,12 @@ description: ""
 <p>Digital Media in Visual Arts (DMA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2022 Infocomm Media Club Youth Award - Certificate of Distinction</p>
+<p>2022 Infocomm Media Club Youth Award - Certificate of Distinction
+<br>
+<br>Schools Digital Media Awards – Finalist</p>
+<p></p>
+<p>Live On Festival Design Competition by National Organ Transplant Unit
+– Top 5</p>
 </td>
 </tr>
 </tbody>
