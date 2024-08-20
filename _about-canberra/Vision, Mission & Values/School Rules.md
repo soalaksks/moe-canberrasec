@@ -24,9 +24,9 @@ over the heart.</p>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>Students are to uphold school values at all times.</p>
+<p></p>
 </li>
 </ol>
-<p>&nbsp;</p>
 <p><strong>Attendance and Punctuality</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -51,9 +51,9 @@ required for absence from school.</p>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Students are not allowed to leave the school premises during school hours.</p>
+<p></p>
 </li>
 </ol>
-<p>&nbsp;</p>
 <p>&nbsp;<strong>School Attire</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -175,6 +175,7 @@ approval from the Character Coaches before coming to school in slippers.</p>
 <p><strong>The school reserves the right to confiscate accessories deemed inappropriate by the school. Students may&nbsp;also be requested to purchase a new set of uniform or shoes should the uniform or shoes not meet the school’s standards.&nbsp;</strong>
 </p>
 <p>&nbsp;</p>
+<p></p>
 <p><strong>Lockers outside the Classroom</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -205,6 +206,7 @@ or possession that are placed in the school lockers.</p>
 <p></p>
 </li>
 </ol>
+<p></p>
 <p><strong>Conduct in the Classroom</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -256,6 +258,7 @@ and classroom tone at the end of curriculum time.</p>
 <p></p>
 </li>
 </ol>
+<p></p>
 <p><strong>Restricted Use of Items</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -300,6 +303,7 @@ the Student Handbook.</p>
 <p></p>
 </li>
 </ol>
+<p></p>
 <p><strong>Public Behaviour</strong>
 </p>
 <ol data-tight="true" class="tight">
