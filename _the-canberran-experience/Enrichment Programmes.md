@@ -34,6 +34,9 @@ but also experience the cultural aspects first-hand. At the end of the
 programme, Canberrans will be equipped with basic conversational skills
 to enable them to interact with native speakers confidently.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_08_20_at_3_57_22_PM__1_.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
