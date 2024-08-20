@@ -4,7 +4,7 @@ permalink: /enrichment-programmes/
 variant: tiptap
 description: ""
 ---
-<p><strong>Sec 1 and 2 Science Busking</strong>
+<p><strong>Sec 1 and 2 Science Buskers</strong>
 </p>
 <p>Each year, our students have the opportunity to take part in Science Buskers,
 an annual competition organised by A*STAR and Science Centre Singapore.
