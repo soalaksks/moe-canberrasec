@@ -4,7 +4,7 @@ permalink: /enrichment-programmes/
 variant: tiptap
 description: ""
 ---
-<p><strong>Sec 1 and 2 Science Buskers</strong>
+<p><strong>Secondary 1 and 2 Science Buskers</strong>
 </p>
 <p>Each year, our students have the opportunity to take part in Science Buskers,
 an annual competition organised by A*STAR and Science Centre Singapore.
@@ -21,7 +21,7 @@ communication skills through expressions of science in a creative manner.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/scibuskers3.jpg">
 </div>
 <p></p>
-<p></p>
+<p>________________________________________________________________</p>
 <p><strong>Conversational Chinese and Malay Language (CCM) Programme</strong>
 </p>
 <p>The Conversational Chinese/Malay (CCM) Programme is an enrichment programme
@@ -35,11 +35,13 @@ programme, Canberrans will be equipped with basic conversational skills
 to enable them to interact with native speakers confidently.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_08_20_at_3_57_22_PM__1_.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_08_20_at_3_57_22_PM__1_.jpg">
 </div>
 <p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_08_20_at_3_57_20_PM__2_.jpg">
+</div>
+<p>________________________________________________________________</p>
 <p><strong>Secondary 1 and 2 English Oratorical Programme</strong>
 </p>
 <p>In this Oratorical workshop for Cohort 1 and 2 Canberrans, students learn
