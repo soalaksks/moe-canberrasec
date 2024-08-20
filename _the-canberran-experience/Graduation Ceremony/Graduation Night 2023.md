@@ -36,14 +36,30 @@ bonds among students</p>
 all in attendance</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6412_compressed.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_08_20_at_9_53_11_PM.jpg">
+</div>
 <p>Graduation Night 2023 was more than just a formal event; it was a joyous
 celebration of achievements, friendships, and shared experiences cultivated
 at Canberra Secondary School. We extend our heartfelt appreciation to our
 dedicated student councillors for organizing such a memorable evening.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6417_compressed.jpg">
+</div>
 <p>As we bid farewell to the Class of 2023, we recognize that this night
 marks not an end, but a promising new beginning. We are proud of our graduates
 and eagerly anticipate the remarkable journeys that lie ahead for each
 of them.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6272_compressed.jpg">
+</div>
 <p>&nbsp;</p>
 <p></p>
 <p></p>
