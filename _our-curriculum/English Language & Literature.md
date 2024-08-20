@@ -4,7 +4,7 @@ permalink: /english-language-n-literature/
 description: ""
 variant: tiptap
 ---
-<h4>Department Vision: </h4>
+<h4>Department Vision:</h4>
 <h4>Empathetic Communicator, Discerning Reader &amp; Creative Inquirer</h4>
 <p>&nbsp;</p>
 <blockquote>
@@ -31,9 +31,9 @@ alternative forms of assessment involving ICT tools. Students have rich
 opportunities to apply their language learning in authentic, real-world
 tasks through performance tasks and projects. To develop fluency in writing
 and a reflective mindset, students engage in journal writing and maintain
-writing portfolios. All Lower Secondary students participate in a speech
-and drama programme to build greater confidence in projecting their voice
-and using body language effectively.</p>
+writing portfolios. All Lower Secondary students participate in an Oratorical
+Programme to build greater confidence in projecting their voice and using
+body language effectively.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Oratorical_Programme_2.jpg">
 </div>
