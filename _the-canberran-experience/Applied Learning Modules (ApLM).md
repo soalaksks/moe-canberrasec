@@ -13,8 +13,6 @@ These experience help Canberrans discover their strengths and interests,
 experience ITE/polytechnic life, and expose them to possible post-secondary
 courses and careers.</p>
 <p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ApLM.png">
 </div>
