@@ -5,19 +5,136 @@ description: ""
 variant: tiptap
 third_nav_title: For Parents
 ---
-<h3><strong>GRC Quotes from PSG&nbsp;</strong></h3>
-<p><strong>Ms Gwen Tok <br></strong><strong>Advisor&nbsp;<br></strong>感恩，回报和付出是对家庭，国家和世界和平重要的一把锁</p>
-<p><strong>Ms Lamphan Phumurai<br></strong><strong>Advisor<br></strong>GRC are core values that our children should have to grow into good people</p>
-<p><strong>Mr Neo Swee Pheow&nbsp;<br></strong><strong>Chairman<br></strong>When you practice gratefulness, there is a sense of respect towards others</p>
-<p><strong>Mr Jeffery Wong&nbsp;<br></strong><strong>Vice Chairman<br></strong>I would like all students of Canberra Sec to be Grateful, Respectful and Compassionate.</p>
-<p><strong>Mdm Soh Chya Cheyu<br></strong><strong>Treasurer<br></strong>Practice a Grateful, Respectful and Compassionate mindset.</p>
-<p><strong>Mr Alec Chow&nbsp;<br></strong><strong>Vice Treasurer<br></strong>Let GRC be the North Star and shape the character of future pillars.</p>
-<p><strong>Ms Emily Tan<br></strong><strong>VIA / Community Planner<br></strong>Cultivate the habit of being grateful and respectful as it will enable you to be a more compassionate individual.</p>
-<p><strong>Mr Steven Yeoh<br></strong><strong>Event Planner<br></strong>Practising gratitude and being grateful are keys to a happier life.</p>
-<p><strong>Mrs Bernnise Yeoh<br></strong><strong>Event Planner<br></strong>Always be like-minded, be sympathetic, love one another, be compassionate and humble. Let us be the example and Impress these qualities on our children to build a mighty generation to come.</p>
-<p><strong>Ms Wang Hsin Miao<br></strong><strong>Event Planner<br></strong>感恩是一种美德是建立在爱与善的基础上，爱让人感到温暖，有颗善良的心，也会让爱不停转，唯有懂得感恩才能遇到所有的美好也是幸福的泉源。</p>
-<p><strong>Ms Sheena Yiu<br></strong><strong>Event Planner<br></strong>Gratitude, Respect, and Compassion are important values that we need to have in our daily lives and want to impart to our children.</p>
-<p><strong>Mrs Veronica Lim<br></strong><strong>Event Planner<br></strong>Grateful, Respectful and Compassion are the greatest of virtues to cultivate on.</p>
-<p><strong>Ms Christy Shih<br></strong><strong>Event Planner<br></strong>Gratitude, Respect and Compassion are values for a better future</p>
-<p><strong>Mdm Vivian Tan<br></strong><strong>Event Planner<br></strong>Planting the seeds of GRC in everyone will lead to a better future</p>
-<p><strong>Mdm Lim Poh Huang<br></strong><strong>Event Planner<br></strong>Gratitude is being thankful, show appreciation and return kindness.</p>
+<h3>Welcome to PSG @ Canberra Secondary!</h3>
+<p>We're thrilled to start a new year with you, parents of Canberran students.
+Your active involvement in the Parent Support Group (PSG) strengthens the
+school-home partnership, benefiting your child, enriching your parenting
+journey, and enhancing our school community.</p>
+<p></p>
+<p>Our Objectives</p>
+<p>PSG @ Canberra Secondary aims to inspire and empower parents as positive
+role models. Through collaboration, we create a supportive environment
+nurturing every student's holistic development.</p>
+<p></p>
+<p>As a PSG member, you play a vital role in supporting school activities.
+You can:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Volunteer in school programs and projects: Participate in various school
+initiatives in a structured and coordinated manner, contributing your time
+and talents to enhance our students' experiences.</p>
+</li>
+<li>
+<p>Build a community with like-minded parents: Together, we form a village
+where we learn from one another, helping to raise our kids with shared
+values and support.</p>
+</li>
+<li>
+<p>Be a Voice for Parents: Provide constructive feedback on school policies
+and initiatives. As a PSG member, you represent the parent community, ensuring
+that our collective voices are heard and considered in school decisions.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>We welcome your involvement based on your availability, interests, and
+expertise:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Attend PSG Meetings: Share your ideas and talents, whether through arts
+and crafts or other creative contributions.</p>
+</li>
+<li>
+<p>Provide Feedback: Offer suggestions on how parents can be more effectively
+involved in school activities.</p>
+</li>
+<li>
+<p>Support School Events: Attend and assist in school functions, helping
+to create a vibrant school culture.</p>
+</li>
+<li>
+<p>Recruit Volunteers: Help expand our community by encouraging other parents
+to join the PSG.</p>
+</li>
+<li>
+<p>Sharing Expertise: Offer your professional or personal skills to help
+the PSG improve its processes and effectiveness.</p>
+</li>
+<li>
+<p>Advocating for the School: Support and promote the school’s mission, vision,
+and directions.</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<p>Recent PSG Activities</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>PSG welcome Party</p>
+</li>
+<li>
+<p>CNY baking session</p>
+</li>
+<li>
+<p>Raya baking and bonding with child</p>
+</li>
+<li>
+<p>BBQ nite with Parents</p>
+</li>
+<li>
+<p>Breakfast with School Leaders</p>
+</li>
+<li>
+<p>Sports Fest @ Canberra Sec</p>
+</li>
+<li>
+<p>Badminton sessions @ Canberra</p>
+</li>
+<li>
+<p>Teachers’ Day celebration</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><em>In the words of PSG Chairman Steven Yeoh - The benefits of joining PSG  </em></strong>
+</p>
+<p></p>
+<p><strong><em>I have heard that many parents, like you, are coming forward to take a more active role in your child's education in school.</em></strong>
+</p>
+<p><strong><em>&nbsp;</em></strong>
+</p>
+<p><strong><em>With this increased interest in school-home partnerships, Parent Support Groups (PSGs) play a key role in inspiring and guiding parents who wish to contribute to the school's efforts, coordinating their time and effort effectively to give our children the best educational experience.</em></strong>
+</p>
+<p></p>
+<p><strong><em>The Parent Support Group (PSG) is a great opportunity for us to be closer to our children, understand them better, and help them in their education journey.</em></strong>
+</p>
+<p></p>
+<p><strong><em>Our children also benefit when we are more active in their school environment.</em></strong>
+</p>
+<p></p>
+<p><strong><em>They tend to:</em></strong>
+</p>
+<p><strong><em>- show more positive attitudes</em></strong>
+</p>
+<p><strong><em>- have better school attendance and complete homework more consistently</em></strong>
+</p>
+<p><strong><em>- be able to bridge the cultural gap between school and home</em></strong>
+</p>
+<p><strong><em>- be less anti-social and less prone to behavioural issues* (Olsen, Glenn W., and Fuller, Mary Lou. Home-School Relations: Working Successfully with Parents and Families. (Pearson: Allyn and Bacon, 2008), 129-130.)</em></strong>
+</p>
+<p></p>
+<p><strong><em>Research has shown that children whose parents are involved in their educational journey have been found&nbsp; to have better self-esteem, are more self-disciplined, show positive attitudes, and exhibit higher aspirations and motivation towards school.</em></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Join Us Today! Become part of the PSG @ Canberra Secondary and help create
+a nurturing environment where every child thrives. Together, we can make
+a positive impact on our children's education and well-being.</p>
+<p>&nbsp;</p>
