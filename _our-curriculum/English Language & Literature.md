@@ -7,8 +7,8 @@ variant: tiptap
 <h4>Department Vision:</h4>
 <h4>Empathetic Communicator, Discerning Reader &amp; Creative Inquirer</h4>
 <p>&nbsp;</p>
+<p></p>
 <blockquote>
-<p>About the Department:</p>
 <p><em>“One child, one teacher, one book, and one pen can change the world” -&nbsp;Malala Yousafzai.</em>
 </p>
 </blockquote>
@@ -21,10 +21,10 @@ interest in the language. Our students participate in various activities
 designed to prepare them to be effective communicators who read widely
 and think creatively and critically.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The_Paper_Menagerie.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/The_Paper_Menagerie.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guest_Speaker_Boom_actor.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Guest_Speaker_Boom_actor.jpg">
 </div>
 <p>Beyond traditional pen-and-paper assessments and assignments, we incorporate
 alternative forms of assessment involving ICT tools. Students have rich
@@ -35,10 +35,10 @@ writing portfolios. All Lower Secondary students participate in an Oratorical
 Programme to build greater confidence in projecting their voice and using
 body language effectively.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Oratorical_Programme_2.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Oratorical_Programme_2.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Oratorical_Programme_3.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Oratorical_Programme_3.jpg">
 </div>
 <p>Our Literature programme is equally exciting, aiming to cultivate a keen
 and critical appreciation of literature and literary language. Through
