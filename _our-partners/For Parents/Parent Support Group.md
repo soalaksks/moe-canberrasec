@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: For Parents
 ---
-<h3>Welcome to PSG @ Canberra Secondary!</h3>
+<h4>Welcome to PSG @ Canberra Secondary!</h4>
 <p>We're thrilled to start a new year with you, parents of Canberran students.
 Your active involvement in the Parent Support Group (PSG) strengthens the
 school-home partnership, benefiting your child, enriching your parenting
@@ -99,6 +99,7 @@ and directions.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<blockquote>
 <p><strong><em>In the words of PSG Chairman Steven Yeoh, on the benefits of joining PSG</em></strong>
 </p>
 <p></p>
@@ -128,6 +129,7 @@ and directions.</p>
 <p></p>
 <p><strong><em>Research has shown that children whose parents are involved in their educational journey have been found&nbsp; to have better self-esteem, are more self-disciplined, show positive attitudes, and exhibit higher aspirations and motivation towards school.</em></strong>
 </p>
+</blockquote>
 </td>
 </tr>
 </tbody>
