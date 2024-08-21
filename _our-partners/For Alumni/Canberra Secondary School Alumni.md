@@ -5,77 +5,162 @@ description: ""
 variant: tiptap
 third_nav_title: For Alumni
 ---
-<img src="/images/calogo.jpg" style="width:60%">
-
-<p>Canberran Alumni plays an important role in enhancing the overall quality of education in Canberra Secondary School. The school collaborates with Canberran Alumni in order to leverage on their resources to create more opportunities to develop the potential of our students.</p>
-<p>The Alumni members have been very supportive of the school activities. They provided great support to Sports Fest and Good Health, Great Living @ Canberra as game officials and participants. The Alumni members had organised the Prom Night 2015 for the graduating students and were involved in major school events, such as Lunar New Year celebrations, Sports Fest and Canberran Nights.</p>
-<p>The Alumni members have also been actively reaching out to graduates so as to tap on them to boost the strength of the Alumni. The aim is to instil a sense of belonging and pride in Canberra.</p>
+<div class="isomer-image-wrapper">
+<img style="width:60%" height="auto" width="100%" src="/images/calogo.jpg">
+</div>
+<p>The Canberran Alumni plays a vital role in enhancing the quality of education
+at Canberra Secondary School. By collaborating with alumni, the school
+leverages their resources and experiences to create more opportunities
+for student development.</p>
+<p>Our alumni have been exceptionally supportive of school activities. They've
+contributed significantly to events such as Sports Fest and Good Health,
+Great Living @ Canberra, serving as game officials and active participants.
+In 2015, alumni members organized the Prom Night for graduating students
+and were involved in major school events including Lunar New Year celebrations,
+Sports Fest, and Canberran Nights.</p>
+<p>The Alumni Association actively reaches out to recent graduates, aiming
+to strengthen its membership and expand its impact. Through these efforts,
+we aim to instill a lasting sense of belonging and pride in Canberra Secondary
+School among all our graduates.</p>
 <h4><strong>GRC Quotes from Canberra Alumni</strong></h4>
-<div>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th><strong>Name</strong></th>
-<th><strong>Position</strong></th>
-<th><strong>Quote</strong></th>
+<th rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Position</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Quote</strong>
+</p>
+</th>
 </tr>
 <tr>
-<td>Dennis Goh Jiong Yu</td>
-<td>President &amp; Community Service, Head</td>
-<td>GRC are values that are ageless and important for one’s moral compass.</td>
-</tr>
-<tr>
-<td>Joseph Quek Jie Hui</td>
-<td>Vice-President</td>
-<td>To me, GRC means We live life not only for ourselves but for others.</td>
-</tr>
-<tr>
-<td>Nur Aziera Bte Khairolazati</td>
-<td>Secretary &amp; Human Resource Head</td>
-<td>To be Grateful for the people in your life and the little things, be Respectful to everyone no matter their background and show Compassion with no boundaries. When you do, you will see the beauty in every little thing.</td>
-</tr>
-<tr>
-<td>Thor Zi Qing, Coleen</td>
-<td>Treasurer</td>
-<td>GRC is the basis of morality.</td>
-</tr>
-<tr>
-<td>Alex Tay Teck Ghee</td>
-<td>Assets Head</td>
-<td>
-<div>GRC are important values that everyone should strive to have</div>
+<td rowspan="1" colspan="1">
+<p>Dennis Goh Jiong Yu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>President &amp; Community Service, Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GRC are values that are ageless and important for one’s moral compass.</p>
 </td>
 </tr>
 <tr>
-<td>Lewis Poh Yu Gui</td>
-<td>Welfare Head</td>
-<td>GRC means being an example of what it means to serve others.</td>
-</tr>
-<tr>
-<td>Anne Meenakshi Rajendran</td>
-<td>Marketing Executive</td>
-<td>When one possesses these values, you know that their heart is pure.</td>
-</tr>
-<tr>
-<td>Cheyenne Yam</td>
-<td>Marketing Executive</td>
-<td>
-<div>GRC are a set of values that lies close to my heart. Ever since it has been introduced in the school, I’ve been applying it into my daily life.</div>
+<td rowspan="1" colspan="1">
+<p>Joseph Quek Jie Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-President</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To me, GRC means We live life not only for ourselves but for others.</p>
 </td>
 </tr>
 <tr>
-<td>Ang Zi Yi</td>
-<td>Marketing Executive</td>
-<td>GRC are the values that I live by.</td>
+<td rowspan="1" colspan="1">
+<p>Nur Aziera Bte Khairolazati</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secretary &amp; Human Resource Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To be Grateful for the people in your life and the little things, be Respectful
+to everyone no matter their background and show Compassion with no boundaries.
+When you do, you will see the beauty in every little thing.</p>
+</td>
 </tr>
 <tr>
-<td>Joseph Ong Zhi Sheng</td>
-<td>Event Manager</td>
-<td>
-<div>Grateful is recognition of other people, what they do, how the think and how their feelings are sometimes affected by our actions.</div>
-<div>Respect for other people and respect for yourself leads to others respecting you. Compassion is to recognize the suffering of others and then take action to help.</div>
+<td rowspan="1" colspan="1">
+<p>Thor Zi Qing, Coleen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Treasurer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GRC is the basis of morality.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Alex Tay Teck Ghee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assets Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GRC are important values that everyone should strive to have</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lewis Poh Yu Gui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Welfare Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GRC means being an example of what it means to serve others.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Anne Meenakshi Rajendran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Marketing Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>When one possesses these values, you know that their heart is pure.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cheyenne Yam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Marketing Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GRC are a set of values that lies close to my heart. Ever since it has
+been introduced in the school, I’ve been applying it into my daily life.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ang Zi Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Marketing Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GRC are the values that I live by.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Joseph Ong Zhi Sheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Event Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grateful is recognition of other people, what they do, how the think and
+how their feelings are sometimes affected by our actions.</p>
+<p>Respect for other people and respect for yourself leads to others respecting
+you. Compassion is to recognize the suffering of others and then take action
+to help.</p>
 </td>
 </tr>
 </tbody>
 </table>
-</div>
+<p></p>
