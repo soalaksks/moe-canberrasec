@@ -136,4 +136,12 @@ and directions.</p>
 <p>Join Us Today! Become part of the PSG @ Canberra Secondary and help create
 a nurturing environment where every child thrives. Together, we can make
 a positive impact on our children's education and well-being.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_PSG_CNY_baing.jpg">
+</div>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_4.jpg">
+</div>
+<p></p>
