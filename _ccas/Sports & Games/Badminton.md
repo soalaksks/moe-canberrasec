@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Sports & Games
 variant: tiptap
 ---
+<h4>Vision</h4>
 <p>Here in Canberra Secondary School, the Badminton CCA strives to create
 a challenging yet safe and enjoyable environment for students. In addition
 to focusing on the technical aspects of the sport, the CCA aims to offer
@@ -46,7 +47,7 @@ coaches, who closely with the teachers in charge.</p>
 <p>&nbsp;Mid-Year &amp; Year-end Bonding Activities</p>
 </li>
 </ul>
-<p><strong><u>Achievements (2023)</u></strong>
+<p><strong><u>Highlights and Achievements </u></strong>
 </p>
 <p>Both B Boys &amp; Girls have qualified for Quarter Finals in the NZ Badminton
 NSG B Division Tournament.</p>
