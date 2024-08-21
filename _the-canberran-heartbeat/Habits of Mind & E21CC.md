@@ -4,8 +4,7 @@ permalink: /habits-of-mind-e21cc/
 variant: tiptap
 description: ""
 ---
-<p><strong>Unlock Your Potential with Habits of Mind (HOM)</strong>
-</p>
+<h4><strong>Unlock Your Potential with Habits of Mind (HOM)</strong></h4>
 <p>At Canberra, we believe in preparing students not just for exams, but
 for life. Habits of Mind (HOM) is a program that empowers students to think
 critically, creatively, and wisely, especially when faced with challenges
