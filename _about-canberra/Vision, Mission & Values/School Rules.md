@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Vision, Mission & Values
 ---
-<p><strong>The school rules provide guidelines for acceptable students’ behaviour and conduct. They are designed to help students cultivate a set of positive behaviour that will empower them to learn in a safe and conducive environment.</strong>
-</p>
-<p><strong>&nbsp;Respect for our Nation and School</strong>
+<h4><strong>The school rules provide guidelines for acceptable students’ behaviour and conduct. They are designed to help students cultivate a set of positive behaviour that will empower them to learn in a safe and conducive environment.</strong></h4>
+<p><strong><u>&nbsp;Respect for our Nation and School</u></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -27,7 +26,7 @@ over the heart.</p>
 <p></p>
 </li>
 </ol>
-<p><strong>Attendance and Punctuality</strong>
+<p><strong><u>Attendance and Punctuality</u></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -54,7 +53,7 @@ required for absence from school.</p>
 <p></p>
 </li>
 </ol>
-<p>&nbsp;<strong>School Attire</strong>
+<p><u>&nbsp;</u><strong><u>School Attire</u></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -98,10 +97,10 @@ allowed.</p>
 </li>
 <li>
 <p>No forms of personal accessories are to be worn with the school uniform.</p>
+<p></p>
 </li>
 </ol>
-<p>&nbsp;</p>
-<p><strong>Personal Grooming</strong>
+<p><strong><u>Personal Grooming</u></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -157,26 +156,24 @@ at all times.</p>
 <li>
 <p>Only <strong>one</strong> small, plain and simple ear stud of the same design
 is allowed on each earlobe. No other earrings are allowed.</p>
+<p></p>
 </li>
 </ol>
-<p></p>
-<p><strong>Shoes and Socks</strong>
+<p><strong><u>Shoes and Socks</u></strong>
 </p>
 <p>&nbsp;1. Only white canvas/track shoes with shoe laces are allowed. Socks
 must be plain white and visibly worn. No high-cut or velcro shoes are permitted.</p>
 <p>&nbsp;2. Students are allowed to wear track shoes during sports-related
 activities during their CCA.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who are unable to wear
-school shoes due to injury must produce a medical certificate and seek
-approval from the Character Coaches before coming to school in slippers.</p>
-<p></p>
+<p>3.&nbsp;&nbsp;Students who are unable to wear school shoes due to injury
+must produce a medical certificate and seek approval from the Character
+Coaches before coming to school in slippers.</p>
 <p><strong>For inappropriate grooming, the school reserves the right to contact and request the parents to fetch the student from the school for follow up actions.</strong>
 </p>
 <p><strong>The school reserves the right to confiscate accessories deemed inappropriate by the school. Students may&nbsp;also be requested to purchase a new set of uniform or shoes should the uniform or shoes not meet the school’s standards.&nbsp;</strong>
 </p>
-<p>&nbsp;</p>
 <p></p>
-<p><strong>Lockers outside the Classroom</strong>
+<p><strong><u>Lockers outside the Classroom</u></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -206,8 +203,7 @@ or possession that are placed in the school lockers.</p>
 <p></p>
 </li>
 </ol>
-<p></p>
-<p><strong>Conduct in the Classroom</strong>
+<p><strong><u>Conduct in the Classroom</u></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -258,8 +254,7 @@ and classroom tone at the end of curriculum time.</p>
 <p></p>
 </li>
 </ol>
-<p></p>
-<p><strong>Restricted Use of Items</strong>
+<p><strong><u>Restricted Use of Items</u></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -303,8 +298,7 @@ the Student Handbook.</p>
 <p></p>
 </li>
 </ol>
-<p></p>
-<p><strong>Public Behaviour</strong>
+<p><strong><u>Public Behaviour</u></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
