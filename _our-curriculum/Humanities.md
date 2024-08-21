@@ -40,6 +40,7 @@ and draw evidence-based conclusions. This approach deepens their understanding
 of historical contexts, geographical landscapes, and societal complexities
 while developing essential 21st-century skills such as critical thinking
 and problem-solving.</p>
+<p></p>
 <p>In the teaching and learning of humanities at Canberra, we integrate educational
 technology purposefully: to augment existing instructional strategies,
 modify tasks, and even redefine conventional way to teaching and learning
@@ -72,7 +73,42 @@ literacy and effective online research skills.</p>
 Personal Learning Devices effectively and responsibly, fostering autonomous
 learners with essential digital skills for lifelong learning beyond their
 secondary education.</p>
+<p></p>
 <p>At Canberra Secondary School's Humanities Department, we are committed
 to the holistic growth of our students, continuously exploring new platforms
 and methodologies to enhance their learning experience and prepare them
 for the challenges of the future.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="History Gamification" src="/images/History_Gamification.jpg">
+</div>
+<p>History Gamification</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/History_Gamification_3.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Geographical Investigation @ Jelutung Harbour Park" src="/images/Geographical_Investigation___Jelutung_Harbour_Park.jpg">
+</div>
+<p>Geographical Investigation @ Jelutung Harbour Park</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Geographical_Investigation___Jelutung_Harbour_Park_2.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="One Stop Geo portal" src="/images/One_Stop_Geo_portal.png">
+</div>
+<p>One Stop Geo portal</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Social Studies Issue Investigation Poster" src="/images/Social_Studies_Issue_Investigation_Poster.jpg">
+</div>
+<p>Social Studies Issue Investigation Poster</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Social_Studies_Issue_Investigation_Poster_2.png">
+</div>
+<p></p>
+<p></p>
