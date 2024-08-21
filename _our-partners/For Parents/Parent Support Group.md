@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: For Parents
 ---
-<h4>Welcome to PSG @ Canberra Secondary!</h4>
+<h4><strong>Welcome to PSG @ Canberra Secondary!</strong></h4>
 <p>We're thrilled to start a new year with you, parents of Canberran students.
 Your active involvement in the Parent Support Group (PSG) strengthens the
 school-home partnership, benefiting your child, enriching your parenting
@@ -100,34 +100,33 @@ and directions.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <blockquote>
-<p><strong><em>In the words of PSG Chairman Steven Yeoh, on the benefits of joining PSG</em></strong>
+<p><em>The benefits of joining PSG, by PSG Chairman Steven Yeoh</em>
 </p>
 <p></p>
-<p><strong><em>I have heard that many parents, like you, are coming forward to take a more active role in your child's education in school.</em></strong>
-</p>
-<p><strong><em>&nbsp;</em></strong>
-</p>
-<p><strong><em>With this increased interest in school-home partnerships, Parent Support Groups (PSGs) play a key role in inspiring and guiding parents who wish to contribute to the school's efforts, coordinating their time and effort effectively to give our children the best educational experience.</em></strong>
+<p><em>I have heard that many parents, like you, are coming forward to take a more active role in your child's education in school.</em>
 </p>
 <p></p>
-<p><strong><em>The Parent Support Group (PSG) is a great opportunity for us to be closer to our children, understand them better, and help them in their education journey.</em></strong>
+<p><em>With this increased interest in school-home partnerships, Parent Support Groups (PSGs) play a key role in inspiring and guiding parents who wish to contribute to the school's efforts, coordinating their time and effort effectively to give our children the best educational experience.</em>
 </p>
 <p></p>
-<p><strong><em>Our children also benefit when we are more active in their school environment.</em></strong>
+<p><em>The Parent Support Group (PSG) is a great opportunity for us to be closer to our children, understand them better, and help them in their education journey.</em>
 </p>
 <p></p>
-<p><strong><em>They tend to:</em></strong>
-</p>
-<p><strong><em>- show more positive attitudes</em></strong>
-</p>
-<p><strong><em>- have better school attendance and complete homework more consistently</em></strong>
-</p>
-<p><strong><em>- be able to bridge the cultural gap between school and home</em></strong>
-</p>
-<p><strong><em>- be less anti-social and less prone to behavioural issues* (Olsen, Glenn W., and Fuller, Mary Lou. Home-School Relations: Working Successfully with Parents and Families. (Pearson: Allyn and Bacon, 2008), 129-130.)</em></strong>
+<p><em>Our children also benefit when we are more active in their school environment.</em>
 </p>
 <p></p>
-<p><strong><em>Research has shown that children whose parents are involved in their educational journey have been found&nbsp; to have better self-esteem, are more self-disciplined, show positive attitudes, and exhibit higher aspirations and motivation towards school.</em></strong>
+<p><em>They tend to:</em>
+</p>
+<p><em>- show more positive attitudes</em>
+</p>
+<p><em>- have better school attendance and complete homework more consistently</em>
+</p>
+<p><em>- be able to bridge the cultural gap between school and home</em>
+</p>
+<p><em>- be less anti-social and less prone to behavioural issues* (Olsen, Glenn W., and Fuller, Mary Lou. Home-School Relations: Working Successfully with Parents and Families. (Pearson: Allyn and Bacon, 2008), 129-130.)</em>
+</p>
+<p></p>
+<p><em>Research has shown that children whose parents are involved in their educational journey have been found&nbsp; to have better self-esteem, are more self-disciplined, show positive attitudes, and exhibit higher aspirations and motivation towards school.</em>
 </p>
 </blockquote>
 </td>
