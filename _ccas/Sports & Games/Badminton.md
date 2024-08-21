@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Sports & Games
 variant: tiptap
 ---
-<h4><strong><u>Introduction</u></strong></h4>
 <p>Here in Canberra Secondary School, the Badminton CCA strives to create
 a challenging yet safe and enjoyable environment for students. In addition
 to focusing on the technical aspects of the sport, the CCA aims to offer
