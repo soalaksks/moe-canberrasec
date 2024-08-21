@@ -100,22 +100,16 @@ and directions.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <blockquote>
-<p><em>The benefits of joining PSG, by PSG Chairman Steven Yeoh</em>
+<p><em>The Benefits of Joining PSG, by PSG Chairman Steven Yeoh</em>
 </p>
 <p></p>
-<p><em>I have heard that many parents, like you, are coming forward to take a more active role in your child's education in school.</em>
-</p>
-<p></p>
-<p><em>With this increased interest in school-home partnerships, Parent Support Groups (PSGs) play a key role in inspiring and guiding parents who wish to contribute to the school's efforts, coordinating their time and effort effectively to give our children the best educational experience.</em>
+<p><em>I have heard that many parents, like you, are coming forward to take a more active role in your child's education in school. With this increased interest in school-home partnerships, Parent Support Groups (PSGs) play a key role in inspiring and guiding parents who wish to contribute to the school's efforts, coordinating their time and effort effectively to give our children the best educational experience.</em>
 </p>
 <p></p>
 <p><em>The Parent Support Group (PSG) is a great opportunity for us to be closer to our children, understand them better, and help them in their education journey.</em>
 </p>
 <p></p>
-<p><em>Our children also benefit when we are more active in their school environment.</em>
-</p>
-<p></p>
-<p><em>They tend to:</em>
+<p><em>Our children also benefit when we are more active in their school environment. They tend to:</em>
 </p>
 <p><em>- show more positive attitudes</em>
 </p>
@@ -139,10 +133,10 @@ a nurturing environment where every child thrives. Together, we can make
 a positive impact on our children's education and well-being.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_PSG_CNY_baing.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_PSG_CNY_baing.jpg">
 </div>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_4.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Image_4.jpg">
 </div>
 <p></p>
