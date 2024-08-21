@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: For Parents
 ---
-<p><strong>Empowering parents to raise happy, successful children.</strong>
-</p>
+<h4><strong>Empowering parents to raise happy, successful children.</strong></h4>
 <p>As parents, we all want the best for our children - to set them up for
 success and create a happier, calmer family life. But parenting skills
 aren't always intuitive, especially when it comes to managing teenagers
