@@ -13,14 +13,14 @@ third_nav_title: Clubs
 librarians who are not only passionate readers but also enthusiastic advocates
 for the joy of reading among their peers.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_26_at_1_04_43_PM__1_.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_26_at_1_04_43_PM__1_.jpg">
 </div>
 <p></p>
 <p><strong>Vision</strong>: To transform our school library into a thriving
 community hub that inspires, empowers, and enlightens, fostering a love
 for learning and curiosity in every Canberran.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_26_at_1_06_39_PM.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_26_at_1_06_39_PM.jpg">
 </div>
 <p>The Library Club offers numerous opportunities for members to develop
 essential skills such as leadership, teamwork, creativity, and communication.
@@ -29,7 +29,7 @@ of the National Library Board’s kidsREAD programme. Through their involvement
 in different programmes, student librarians grow into caring, confident
 individuals and effective reading ambassadors..</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_26_at_1_04_42_PM.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_26_at_1_04_42_PM.jpg">
 </div>
 <p>Join the Library Club in 2025 to be part of a community that's passionate
 about reading, learning, and sharing knowledge. Together, we'll create
