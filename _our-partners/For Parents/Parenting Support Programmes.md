@@ -40,3 +40,12 @@ your children's overall well-being and success.</p>
 <p>For more information on how to access these parenting support resources,
 you can visit <a href="https://www.carecorner.org.sg/services/parenting-support/" rel="noopener noreferrer nofollow" target="_blank">Care Corner's website.</a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parenting_Consultation_Clinic.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thriving_Teens.png">
+</div>
+<p></p>
