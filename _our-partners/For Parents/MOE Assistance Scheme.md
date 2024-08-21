@@ -35,7 +35,7 @@ will be pro-rated accordingly from the month after your application is
 approved to December of the same year.</p>
 <p><sup># </sup>Subsidies for school meals purchased and consumed in school.</p>
 <p></p>
-<p><strong><u>Criteria for Eligibility </u></strong>
+<p><strong><u>Criteria for Eligibility</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
