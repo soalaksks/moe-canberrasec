@@ -39,7 +39,7 @@ that our collective voices are heard and considered in school decisions.</p>
 </ul>
 <p>We welcome your involvement based on your availability, interests, and
 expertise:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Attend PSG Meetings: Share your ideas and talents, whether through arts
 and crafts or other creative contributions.</p>
@@ -64,8 +64,7 @@ the PSG improve its processes and effectiveness.</p>
 <p>Advocating for the School: Support and promote the school’s mission, vision,
 and directions.</p>
 </li>
-</ol>
-<p></p>
+</ul>
 <p>Recent PSG Activities</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -93,7 +92,6 @@ and directions.</p>
 <p>Teachers’ Day celebration</p>
 </li>
 </ol>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
