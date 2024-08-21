@@ -11,7 +11,8 @@ Your active involvement in the Parent Support Group (PSG) strengthens the
 school-home partnership, benefiting your child, enriching your parenting
 journey, and enhancing our school community.</p>
 <p></p>
-<p>Our Objectives</p>
+<p><strong>Our Objectives</strong>
+</p>
 <p>PSG @ Canberra Secondary aims to inspire and empower parents as positive
 role models. Through collaboration, we create a supportive environment
 nurturing every student's holistic development.</p>
@@ -33,10 +34,9 @@ values and support.</p>
 <p>Be a Voice for Parents: Provide constructive feedback on school policies
 and initiatives. As a PSG member, you represent the parent community, ensuring
 that our collective voices are heard and considered in school decisions.</p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>We welcome your involvement based on your availability, interests, and
 expertise:</p>
 <ol data-tight="true" class="tight">
@@ -65,7 +65,7 @@ the PSG improve its processes and effectiveness.</p>
 and directions.</p>
 </li>
 </ol>
-<p>&nbsp;</p>
+<p></p>
 <p>Recent PSG Activities</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -93,7 +93,7 @@ and directions.</p>
 <p>Teachers’ Day celebration</p>
 </li>
 </ol>
-<p>&nbsp;</p>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -134,6 +134,7 @@ and directions.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>Join Us Today! Become part of the PSG @ Canberra Secondary and help create
 a nurturing environment where every child thrives. Together, we can make
 a positive impact on our children's education and well-being.</p>
