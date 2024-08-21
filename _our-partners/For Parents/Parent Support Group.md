@@ -101,7 +101,7 @@ and directions.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>In the words of PSG Chairman Steven Yeoh - The benefits of joining PSG  </em></strong>
+<p><strong><em>In the words of PSG Chairman Steven Yeoh - The benefits of joining PSG</em></strong>
 </p>
 <p></p>
 <p><strong><em>I have heard that many parents, like you, are coming forward to take a more active role in your child's education in school.</em></strong>
