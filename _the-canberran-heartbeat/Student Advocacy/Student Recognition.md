@@ -129,8 +129,6 @@ in character. By acknowledging and celebrating our students' achievements
 across various domains, we reinforce our commitment to holistic education
 and inspire our students to embody our school values and vision.</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <hr>
 <p><strong>Edusave Character Award (ECHA)</strong>
 </p>
