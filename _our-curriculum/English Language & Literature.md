@@ -4,9 +4,9 @@ permalink: /english-language-n-literature/
 description: ""
 variant: tiptap
 ---
-<h4>Department Vision:</h4>
-<h4>Empathetic Communicator, Discerning Reader &amp; Creative Inquirer</h4>
-<p>&nbsp;</p>
+<h4><strong>Vision:</strong></h4>
+<p><strong>Empathetic Communicator, Discerning Reader &amp; Creative Inquirer</strong>
+</p>
 <p></p>
 <blockquote>
 <p><em>“One child, one teacher, one book, and one pen can change the world” -&nbsp;Malala Yousafzai.</em>
