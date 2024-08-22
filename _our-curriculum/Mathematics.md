@@ -4,13 +4,9 @@ permalink: /mathematics/
 description: ""
 variant: tiptap
 ---
-<blockquote>
-<p><strong>Department Vision:&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>Every child a self-directed problem solver with
-a passion for Mathematics.</p>
+<h4><strong>Vision:</strong></h4>
+<h4>Every child a self-directed problem solver with a passion for Mathematics.</h4>
 <p></p>
-</blockquote>
 <h4><strong>About The Department:</strong></h4>
 <p><em>“We can calculate but we are not calculative!”</em>
 </p>
