@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Clubs
 ---
-<h3><strong>Eco Science Club (New CCA in 2025!)</strong></h3>
+<h3><strong>Environmental and Science Club (New CCA in 2025!)</strong></h3>
 <p>Launching in 2025, our Environmental and Science Club is an exciting addition
 to Canberra Secondary School's CCA offerings – a thriving hub of sustainability,
 innovation, and eco-consciousness!</p>
