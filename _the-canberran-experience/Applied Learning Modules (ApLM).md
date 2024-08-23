@@ -12,6 +12,9 @@ doing and applying, learning about the real world, and learning for life.
 These experiences help Canberrans discover their strengths and interests,
 experience ITE/polytechnic life, and expose them to possible post-secondary
 courses and careers.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/1__2_.jpg">
+</div>
 <p>In Canberra Secondary School, we are committed to providing a unique opportunity
 for all Secondary 2 &amp; 3 NA/NT students to gain hands-on experience
 at a post-secondary institution. This was made possible through Applied
@@ -24,4 +27,8 @@ to complement their existing secondary school curriculum by emphasizing
 the practical application of knowledge. We hope to empower our students
 to explore their individual interests and strengths, equipping them to
 make informed decisions about their educational paths and future careers.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/1__10_.jpg">
+</div>
 <p>&nbsp;</p>
