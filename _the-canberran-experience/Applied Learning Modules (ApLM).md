@@ -27,7 +27,6 @@ to complement their existing secondary school curriculum by emphasizing
 the practical application of knowledge. We hope to empower our students
 to explore their individual interests and strengths, equipping them to
 make informed decisions about their educational paths and future careers.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/1__10_.jpg">
 </div>
