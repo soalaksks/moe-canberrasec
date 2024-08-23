@@ -5,6 +5,68 @@ description: ""
 variant: tiptap
 third_nav_title: Useful Links
 ---
+<h4>2024 End-Of-Year Exam Time Table</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Secondary 1</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Secondary 2</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Secondary 3</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024/Sec_1_EYE_Time_table_2024.pdf" rel="noopener nofollow" target="_blank">Sec 1 EYE Time Table</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024/2E_EYE_Time_table_2024.pdf" rel="noopener nofollow" target="_blank">Sec 2 EXP EYE Time Table</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024/3E_EYE_Time_table_2024V2.pdf" rel="noopener nofollow" target="_blank">Sec 3 EXP EYE Time Table</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024/2NA_EYE_Time_table_2024.pdf" rel="noopener nofollow" target="_blank">Sec 2 NA EYE Time Table</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024/3NA_EYE_Time_table_2024V2.pdf" rel="noopener nofollow" target="_blank">Sec 3 NA EYE Time Table</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024/2NT_EYE_Time_table_2024.pdf" rel="noopener nofollow" target="_blank">Sec 2 NT EYE Time Table</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024/3NT_EYE_Time_table_2024V2.pdf" rel="noopener nofollow" target="_blank">Sec 3 NT EYE Time Table</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4>2024 Sec 4/5 Prelim Exam Time Table</h4>
 <p><a href="/files/2024/Preliminary_Examination_TT_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Secondary 4/5 Preliminary Exam Time Table</a>
 </p>
