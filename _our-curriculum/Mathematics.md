@@ -24,8 +24,6 @@ Room challenges, performance tasks, maths video presentations, the Maths
 Excellence Programme, and e-learning initiatives. The department is now
 working on exploring the infusion of computational thinking in the mathematics
 classroom.</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Using_ICT_in_maths_class.jpg">
 </div>
