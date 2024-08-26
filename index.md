@@ -26,6 +26,13 @@ sections:
             Canberran Programme (GCP).
           link_text: Find out more about their experience.
           link_url: https://canberrasec.moe.edu.sg/gcp-2024-cambodia/
+        - title: International Bi-cultural Exchange Programme
+          date: 26 August 2024
+          announcement: Recently, our Secondary 3 students had the honor of hosting a
+            group from Haikou No. One Middle School (海口市第一中学), marking our
+            school's first international exchange since the pandemic.
+          link_text: Click here to view more
+          link_url: https://canberrasec.moe.edu.sg/intl-bicultural-exchange-programme/
   - resources:
       title: Announcements
       button: VIEW MORE
