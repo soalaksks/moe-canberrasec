@@ -2,7 +2,7 @@
 title: CCA Schedule
 permalink: /cca/cca-schedule/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <table style="minWidth: 75px">
 <colgroup>
@@ -67,8 +67,8 @@ variant: markdown
 <p>Parade Square</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Rezkiah Binte Mohd Radzelee 
-<br>67585070 ext 204 
+<p>Ms Siti Rezkiah Binte Mohd Radzelee
+<br>67585070 ext 204
 <br>Siti_Rezkiah_Mohd_Radzelee@schools.gov.sg</p>
 </td>
 </tr>
