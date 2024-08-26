@@ -22,7 +22,6 @@ to ensure a holistic development of our members.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/f990f598_848e_4f51_8ff6_98ed3dd387d3.jpg">
 </div>
-<p></p>
 <h4><strong>Highlights and Achievements</strong></h4>
 <p>In 2023, we were honoured to have five of our graduating members receive
 the Founder's Award, the highest and most prestigious recognition in the
@@ -54,14 +53,6 @@ Poh Yu Xuan Benjamin, 4 Empathy</p>
 <p>Mr Jeremy Tng</p>
 <p>Mr Simon Tay</p>
 <p>Mr Benjamin Chong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
