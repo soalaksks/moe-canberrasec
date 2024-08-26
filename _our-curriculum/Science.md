@@ -4,9 +4,7 @@ permalink: /science/
 description: ""
 variant: tiptap
 ---
-<p>Science Department @ Canberra Secondary School – An extraordinary world
-where curiosity flourishes and innovation thrives!</p>
-<p></p>
+<h4>Science Department @ Canberra Secondary School – An extraordinary world where curiosity flourishes and innovation thrives!</h4>
 <p>Our thoughtfully crafted curriculum nurtures a love for inquiry-based
 learning, inspiring your child to explore, question, and discover. We place
 emphasis not only on scientific knowledge but also on cultivating values
