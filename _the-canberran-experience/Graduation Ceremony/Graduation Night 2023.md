@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Graduation Ceremony
 ---
-<p></p>
 <p>On 10 November 2023, Canberra Secondary School celebrated its Graduation
 Night with great enthusiasm. Our student councillors transformed the school
 hall into an enchanting masquerade ball, creating an unforgettable evening
@@ -35,8 +34,10 @@ bonds among students</p>
 <p>Special performances by our talented teachers, inspiring and entertaining
 all in attendance</p>
 </li>
-</ul>
+<li>
 <p></p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6412_compressed.jpg">
 </div>
@@ -48,7 +49,6 @@ all in attendance</p>
 celebration of achievements, friendships, and shared experiences cultivated
 at Canberra Secondary School. We extend our heartfelt appreciation to our
 dedicated student councillors for organizing such a memorable evening.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6417_compressed.jpg">
 </div>
