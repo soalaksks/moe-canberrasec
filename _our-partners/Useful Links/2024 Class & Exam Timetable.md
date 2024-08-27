@@ -34,7 +34,7 @@ third_nav_title: Useful Links
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024/3E_EYE_Time_table_2024V2.pdf" rel="noopener nofollow" target="_blank">Sec 3 EXP EYE Time Table</a>
+<p><a href="/files/2024/3E_EYE_Time_table_2024V3.pdf" rel="noopener nofollow" target="_blank">Sec 3 EXP EYE Time Table</a>
 </p>
 </td>
 </tr>
@@ -47,7 +47,7 @@ third_nav_title: Useful Links
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024/3NA_EYE_Time_table_2024V3.pdf" rel="noopener nofollow" target="_blank">Sec 3 NA EYE Time Time</a>
+<p><a href="/files/2024/3NA_EYE_Time_table_2024V3.pdf" rel="noopener nofollow" target="_blank">Sec 3 NA EYE Time Table</a>
 </p>
 </td>
 </tr>
