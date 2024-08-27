@@ -26,6 +26,13 @@ sections:
             Canberran Programme (GCP).
           link_text: Find out more about their experience.
           link_url: https://canberrasec.moe.edu.sg/gcp-2024-cambodia/
+        - title: Hosting of Twinning School ( 广州大学附属中学南沙实验学校 ) Principal
+          date: 12 July 2024
+          announcement: On 12 July, the school leaders had the honor of hosting Mr. Chen
+            Wen Xue, Principal of Nansha Experimental Middle School affiliated
+            with the Middle School attached to Guangzhou University.
+          link_text: ""
+          link_url: ""
         - title: International Bi-cultural Exchange Programme
           date: 26 August 2024
           announcement: Recently, our Secondary 3 students had the honor of hosting a
