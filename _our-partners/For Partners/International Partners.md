@@ -33,4 +33,7 @@ adaptability, and a global mindset.</p>
 <p>Nansha Experimental Middle School, China</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PXL_20240710_033225298_MP.jpg">
+</div>
 <p></p>
