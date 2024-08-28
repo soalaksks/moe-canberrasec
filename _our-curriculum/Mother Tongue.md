@@ -188,7 +188,7 @@ on empathy, compassion and love.</p>
 </div>
 <p><em>A funny and engaging skit by our students and teachers during the Hari Raya celebrations.</em>
 </p>
-<p>&nbsp;</p>
+<p></p>
 <p>The event unfolded with a skit performed by students, capturing the essence
 of family bonds and the importance of understanding and forgiveness during
 the festive season. This heartwarming portrayal sets the tone for an afternoon
@@ -196,9 +196,9 @@ filled with cultural richness and togetherness. Adding to the festivities,
 the hall resonated with melodious tunes as the choir delivered a captivating
 performance. The Teachers' Band also took the stage, infusing energy and
 joy into the celebration with their musical talents.</p>
-<p>&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Raya_2.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Raya_2.jpg">
 </div>
 <p><em>Choir and The Teachers’ Band showcasing their musical talents.</em>
 </p>
@@ -227,16 +227,16 @@ of Hari Raya. Moreover, the music video brought a surprising and humorous
 element - students saw their teachers and peers in a different light as
 they danced and sang, adding a delightful twist to the celebration and
 creating memorable moments for everyone present.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><em>Pengalaman ini ialah sebuah pengalaman yang bermakna bagi saya. Ini kerana saya dapat menjadi lebih yakin selepas berlakon pada hari itu. Saya juga rasa gembira apabila mendapat watak Ahmad kerana itu kali pertama saya berlakon di depan penonton yang ramai.</em>
 </p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Muhammad Nazri Bin Muhammad Afendi, 3 Diligence</em>
+<p><em>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Muhammad Nazri Bin Muhammad Afendi, 3 Diligence</em>
 </p>
-<p><em>&nbsp;</em>
-</p>
+<p></p>
 <p><em>Sebagai ahli pembantu pentas, pengalaman ini amat bermakna dan menyeronokkan. Melalui tugas-tugas yang harus dilakukan, saya dapat melihat betapa pentingnya kerjasama dan komunikasi dalam menjayakan setiap persembahan. Saya berasa amat bangga melihat semua para pelakon, pengacara dan kumpulan ahli pembantu pentas menyumbangkan tenaga dan kemahiran mereka demi mencipta pengalaman yang indah untuk seluruh warga sekolah!</em>
 </p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Puteri Binte Md Rizal, 3 Resilience</p>
+<p><em>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Puteri Binte Md Rizal, 3 Resilience</em>
+</p>
 <p>&nbsp;</p>
 </li>
 <li>
