@@ -179,7 +179,65 @@ of Gratitude, Respect and Compassion.</p>
 <li>
 <p><strong>Hari Raya</strong>
 </p>
+<p>Canberra Secondary School's Hari Raya Aidilfitri Celebration on 24 April
+2024, brought to life the spirit of the night before Hari Raya with a focus
+on empathy, compassion and love.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Raya_1.jpg">
+</div>
+<p><em>A funny and engaging skit by our students and teachers during the Hari Raya celebrations.</em>
+</p>
+<p>&nbsp;</p>
+<p>The event unfolded with a skit performed by students, capturing the essence
+of family bonds and the importance of understanding and forgiveness during
+the festive season. This heartwarming portrayal sets the tone for an afternoon
+filled with cultural richness and togetherness. Adding to the festivities,
+the hall resonated with melodious tunes as the choir delivered a captivating
+performance. The Teachers' Band also took the stage, infusing energy and
+joy into the celebration with their musical talents.</p>
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Raya_2.jpg">
+</div>
+<p><em>Choir and The Teachers’ Band showcasing their musical talents.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Raya_3.jpg">
+</div>
+<p></p>
+<p>An interactive and engaging game segment "Do-It Raya" also allowed students
+to enthusiastically participate, testing their hands-on skills under a
+time crunch. This segment not only entertained but also value-added to
+educating and fostering a deeper connection with the cultural aspects of
+the celebration.</p>
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Raya_4.jpg">
+</div>
+<p><em>Students enjoying the interactive game segment ‘Do-it Raya’.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Raya_5.jpg">
+</div>
+<p></p>
+<p>The highlight of the afternoon was the screening of our annual Hari Raya
+Music Video, featuring the school's staff and students embodying the spirit
+of Hari Raya. Moreover, the music video brought a surprising and humorous
+element - students saw their teachers and peers in a different light as
+they danced and sang, adding a delightful twist to the celebration and
+creating memorable moments for everyone present.</p>
+<p>&nbsp;</p>
+<p><em>Pengalaman ini ialah sebuah pengalaman yang bermakna bagi saya. Ini kerana saya dapat menjadi lebih yakin selepas berlakon pada hari itu. Saya juga rasa gembira apabila mendapat watak Ahmad kerana itu kali pertama saya berlakon di depan penonton yang ramai.</em>
+</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Muhammad Nazri Bin Muhammad Afendi, 3 Diligence</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>Sebagai ahli pembantu pentas, pengalaman ini amat bermakna dan menyeronokkan. Melalui tugas-tugas yang harus dilakukan, saya dapat melihat betapa pentingnya kerjasama dan komunikasi dalam menjayakan setiap persembahan. Saya berasa amat bangga melihat semua para pelakon, pengacara dan kumpulan ahli pembantu pentas menyumbangkan tenaga dan kemahiran mereka demi mencipta pengalaman yang indah untuk seluruh warga sekolah!</em>
+</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Puteri Binte Md Rizal, 3 Resilience</p>
+<p>&nbsp;</p>
 </li>
 <li>
 <p><strong>Mid-Autumn Festival</strong>
@@ -223,9 +281,24 @@ preparing them for success in a globalized world.</p>
 </div>
 <p><em>Our students proudly receiving their awards from Create Your Own Newspaper Competition全国学生编采比赛, showcasing their hardwork and creativity.</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MT_12.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Malay_Competition_1.jpg">
+</div>
+<p><em>Our Canberrans in action at the Bahas4PM Debate Competition 2024</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Malay_Competition_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Competition_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Competition_4.jpg">
 </div>
 <h4><strong>Student Achievements</strong></h4>
 <p><u>2024:</u>
