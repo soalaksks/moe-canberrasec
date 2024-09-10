@@ -10,6 +10,7 @@ third_nav_title: Overseas Learning Journey
 journey to Siem Reap, Cambodia, as part of the Global Canberran Programme
 (GCP). This marks our first international trip since the onset of the COVID-19
 pandemic, making it an especially significant experience for our students.</p>
+<h4><a href="https://sites.google.com/moe.edu.sg/globalcanberranprogramme/" rel="noopener nofollow" target="_blank">View the Global Canberran Programme website here</a></h4>
 <h4><strong>Service Learning at Prolit Primary School</strong></h4>
 <p>Divided into five dynamic groups, our Canberrans enthusiastically engaged
 in a service learning project at Prolit Primary School. They organized
@@ -83,7 +84,6 @@ a positive impact in the Cambodian community.</p>
 <p>This experience has undoubtedly broadened our students' horizons, fostering
 global awareness and a spirit of service that will stay with them long
 after their return home.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6573.jpg">
 </div>
