@@ -22,4 +22,23 @@ sessions on career guidance and National Service (NS) talks.</p>
 to be more strategic in supporting the school's efforts. Stay tuned to
 find out more!</p>
 <p>-Dennis Goh, President, Canberran Alumni</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Alumni_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Alumni_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Alumni_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Alumni_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Alumni_5.jpg">
+</div>
 <p></p>
