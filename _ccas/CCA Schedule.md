@@ -109,7 +109,7 @@ variant: tiptap
 <p>Digital Media Design in Visual Arts Club (DMA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DMA Studio / Computer Lab 3</p>
+<p>Computer Lab 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Shu Hui
