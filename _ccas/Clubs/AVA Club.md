@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Clubs
 ---
-<h3><strong>AVA Club (New CCA in 2025!)</strong></h3>
+<h3><strong>Audio-visual Innovators (AI) Club (New CCA in 2025!)</strong></h3>
 <p>A new CCA in 2025, our Audio Visual Aid (AVA) Club is a unique CCA at
 Canberra Secondary School. As a service CCA, our members are focused on
 providing essential support for school events and the daily operations
