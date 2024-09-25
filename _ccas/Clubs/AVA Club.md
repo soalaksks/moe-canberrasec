@@ -6,15 +6,15 @@ description: ""
 third_nav_title: Clubs
 ---
 <h3><strong>Audio-visual Innovators (AI) Club (New CCA in 2025!)</strong></h3>
-<p>A new CCA in 2025, our Audio Visual Aid (AVA) Club is a unique CCA at
-Canberra Secondary School. As a service CCA, our members are focused on
-providing essential support for school events and the daily operations
-of the school. This includes using the public announcement system, providing
-sound support during sports events, and more.</p>
-<p>Through the demands of servicing school events, AVA club members will
-learn the importance of responsibility, punctuality, and teamwork. Leadership
+<p>A new CCA in 2025, our Audio-visual Innovators (AI)<strong> </strong>Club
+is a unique CCA at Canberra Secondary School. As a service CCA, our members
+are focused on providing essential support for school events and the daily
+operations of the school. This includes using the public announcement system,
+providing sound support during sports events, and more.</p>
+<p>Through the demands of servicing school events, AI club members will learn
+the importance of responsibility, punctuality, and teamwork. Leadership
 skills will also be developed as they learn to communicate effectively,
-manage events, and delegate roles to different members. As a result, AVA
+manage events, and delegate roles to different members. As a result, AI
 members will become a closely-knit group, demonstrating strong teamwork
 to ensure each event flows seamlessly.</p>
 <p>The weekly technical equipment training will allow the students to hone
