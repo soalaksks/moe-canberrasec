@@ -42,6 +42,26 @@ chocolate eclairs, fried mee siam, and pineapple fried rice.</p>
 memories of their 4/5 year journey and will continue to live by the school's
 motto, "I can, I will, I did it!"</p>
 <div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Graduation_2024_8.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Graduation_2024_6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Graduation_2024_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Graduation_2024_5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Graduation_2024_7.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Graduation_2024_3.jpg">
 </div>
 <p></p>
