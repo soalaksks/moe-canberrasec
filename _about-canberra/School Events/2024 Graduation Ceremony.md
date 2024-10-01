@@ -15,7 +15,7 @@ montage, and a Guitar Ensemble performance.</p>
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Graduation_2024_2.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graduation_2024_3.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Graduation_2024_3.jpg">
 </div>
 <p>Students received special gifts, including a Canberran Graduation Bear
 and customized items from Character Coaches. The Principal and Year Head
