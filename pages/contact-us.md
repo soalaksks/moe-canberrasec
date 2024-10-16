@@ -6,7 +6,7 @@ agency_name: Canberra Secondary School
 locations:
   - address:
       - 51 Sembawang Drive
-      - "  "
+      - ""
       - Singapore 757699
     operating_hours: []
     maps_link: https://www.onemap.gov.sg/main/v2/?lat=1.45322492445716&lng=103.814194898113
@@ -17,4 +17,11 @@ contacts:
       - email: canberra_ss@moe.edu.sg
       - other: ""
     title: Contact Details
+  - content:
+      - phone: +65 9643 4591
+      - email: ""
+      - other: Contact Detail for After-School Hours During Overseas Learning Journeys
+          (OLJ)
+    title: Overseas Learning Journeys
+feedback: ""
 ---
