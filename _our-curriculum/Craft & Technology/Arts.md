@@ -5,11 +5,30 @@ description: ""
 third_nav_title: Craft & Technology
 variant: tiptap
 ---
-<div class="pagecontent_box">
-<div id="_ptod_61353" class="description ive_editable ive_ptod ive_content">
-<p>At the Lower Secondary level, students are provided the opportunities to explore a range of media. The basic knowledge of drawing, colouring, painting and sculpture enhance students' understanding and appreciation of art in different perspectives.</p>
-<p>Upper Secondary Art Elective Programme aims to provide a comprehensive and exciting Art education, which helps to nurture students' creative and critical thinking skills as well as to develop their sense of confidence through self-expression and involvement in exploration through experimentations.</p>
-<p>In the four-five years of Art education, students have the chance to be exposed to experiences beyond the classroom through activities such as:</p>
+<p>At the Lower Secondary level, students are provided the opportunities
+to explore a range of media. The basic knowledge of drawing, colouring,
+painting and sculpture enhance students' understanding and appreciation
+of art in different perspectives.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Art_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Art_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Art_6.jpg">
+</div>
+<p>Upper Secondary Art Elective Programme aims to provide a comprehensive
+and exciting Art education, which helps to nurture students' creative and
+critical thinking skills as well as to develop their sense of confidence
+through self-expression and involvement in exploration through experimentations.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Art_9.jpg">
+</div>
+<p>In the four-five years of Art education, students have the chance to be
+exposed to experiences beyond the classroom through activities such as:</p>
 <blockquote>
 <ul>
 <li>
@@ -35,12 +54,14 @@ variant: tiptap
 </li>
 <li>
 <p>5th CAE Art Auction 2014 -Art Exhibition cum Art Auction&nbsp;</p>
-</li>
 <ul>
 <li>
-<p>Raised a total of $1000 towards ChildAid, distributed equally between The Strait Times School Pocket Money Fund as well as The Business Times Budding Artists Fund</p>
+<p>Raised a total of $1000 towards ChildAid, distributed equally between
+The Strait Times School Pocket Money Fund as well as The Business Times
+Budding Artists Fund</p>
 </li>
 </ul>
+</li>
 <li>
 <p>Visit to Singapore Youth Festival 2014 Art Exhibition</p>
 </li>
@@ -48,8 +69,8 @@ variant: tiptap
 <p>Void Deck Revamp @ Teck Ghee</p>
 </li>
 <li>
-<p>Yellowren Canvas Art School Competition; Inter-School (On-the-spot Art competition)</p>
-</li>
+<p>Yellowren Canvas Art School Competition; Inter-School (On-the-spot Art
+competition)</p>
 <ul>
 <li>
 <p>Honorable Mention Award ($20 Starbucks Gift Card X5) &amp;</p>
@@ -58,17 +79,32 @@ variant: tiptap
 <p>Gold Award (Trophy and $1500 cash)</p>
 </li>
 </ul>
+</li>
 <li>
 <p>Batik painting (Enrichment Programme for Sec 3)</p>
 </li>
 </ul>
 </blockquote>
+<p></p>
+<h3><strong>Canberran Artists in Action</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Art_8.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Art_7.jpg">
 </div>
-<div id="_ptoo_61369" class="pageblock_box">
-<h3 id="_ptoh_61369" class="ive_editable ive_ptoh"><strong>Achievement:</strong></h3>
+<p></p>
+<h3><strong>Here are some of our Achievements:</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/art1.png">
 </div>
-
-![](/images/art1.png)
-![](/images/art2.png)
-![](/images/art3.png)
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/art2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/art3.png">
+</div>
+<p></p>
