@@ -4,15 +4,56 @@ permalink: /computer-applications/
 description: ""
 variant: tiptap
 ---
-<div>
-<div>
-<p>The CPA unit aims to develop our students to acquire in-depth knowledge and understanding of computing concepts, enhance their proficiency in using a range of application software, strengthen their computational thinking and problem solving skills and educate them on the safe use of technology in everyday life.</p>
-<p>Students are taught a repertoire of IT skills and tools that present a natural fit into Baseline ICT Skill areas of word processing, spreadsheet, multimedia, animation and game-making.</p>
-<p>Different pedagogical approaches are used by teachers including designing lessons in the Student Learning Space (SLS) that makes students’ thinking visible and facilitate teachers in assessing students’ understanding. Students are constantly encouraged to be creative and exploratory when engaging in both self-directed and collaborative learning activities.</p>
-<p>Coursework projects are conducted to enhance the students learning and hands-on skills, which require students to apply skills from different application software. To recognize the effort put in by the students, outstanding work pieces are selected to participate in the annual Media Computing competition organized by MOE CPDD.</p>
-<p>As part of the efforts to promote the inculcation of values in the students, lessons are designed for each Secondary level with different tasks that require students to think deeply about gratitude, respect and compassion through reflections. When students go through these authentic tasks, they also reinforce their conceptual understandings of key knowledge and skills required for the subject by applying what they have been taught.</p>
+<p>The Computer Applications (CPA) department is committed to empowering
+students with a comprehensive understanding of computing concepts, proficiency
+in a range of application software, and expertise in computational thinking
+and problem-solving. We prioritize the responsible use of technology in
+everyday life, ensuring students are well-equipped for the digital age.</p>
+<p></p>
+<p>The CPA curriculum encompasses a broad spectrum of IT skills and tools,
+aligning with Baseline ICT Skill areas in word processing, spreadsheet,
+multimedia, animation, and game-making. Teachers employ diverse pedagogical
+approaches, including visible thinking strategies through the Student Learning
+Space (SLS), to assess student understanding and facilitate deeper learning.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Gamified_learning_using_Blooket.jpg">
 </div>
+<blockquote>
+<p><em>Gamified learning using Blooket</em>
+</p>
+</blockquote>
+<p>Lessons are intentionally designed to incorporate authentic tasks that
+mirror real-world scenarios, allowing students to apply their learning
+in meaningful ways. Through these tasks, students not only deepen their
+technical understanding but also develop important values such as gratitude,
+respect, and compassion through structured reflections.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Creating_a_multimedia_presentation_on_an_authentic_task.jpg">
 </div>
-<p><strong>Samples of students work churned out during Computer Application</strong></p>
-
-![](/images/computer.png)
+<blockquote>
+<p><em>Students create multimedia presentations on authentic tasks</em>
+</p>
+<p></p>
+</blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Creating_a_drawing_on_a_real_world_task.jpg">
+</div>
+<blockquote>
+<p><em>Creating a drawing for a real-world task</em>
+</p>
+</blockquote>
+<p>Students engage in both self-directed and collaborative activities, developing
+essential skills in a supportive environment. Coursework projects integrate
+multiple software applications, allowing students to enhance their practical
+skills and creativity. Outstanding student work is selected for participation
+in the annual Media Computing competition organized by MOE Curriculum Planning
+and Development Division, recognizing the dedication and talent of our
+students.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/AGM_Competition_Ceremony.jpg">
+</div>
+<blockquote>
+<p><em>Our CPA students at the AGM Competition Ceremony</em>
+</p>
+</blockquote>
+<p></p>
