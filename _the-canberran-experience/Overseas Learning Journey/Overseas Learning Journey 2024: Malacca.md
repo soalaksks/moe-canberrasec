@@ -31,7 +31,7 @@ in unfamiliar settings.</p>
 <p><em>For more information about the Secondary 2 OLJ itinerary and reflections, please visit our </em>
 <a href="https://sites.google.com/moe.edu.sg/cohort2malacca2024/about-johore-malacca" rel="noopener nofollow" target="_blank"><u>Malacca OLJ portal</u>
 </a><em>. We will be sharing regular highlights from their journey.</em>
-</p>
-<p></p>
-<p><a href="https://www.canberrasec.moe.edu.sg/enrichment-programmes/" class="is-half is-left is-full-height" rel="noopener noreferrer nofollow" target="_blank"><br></a>
+<a href="https://www.canberrasec.moe.edu.sg/enrichment-programmes/" class="is-half is-left is-full-height" rel="noopener noreferrer nofollow" target="_blank">
+<br>
+</a>
 </p>
