@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Recently, a group of our secondary 2 students participated in a humanities
+<p>Recently, two groups of our Secondary 2 students participated in a Humanities
 competition, ‘Prove It! 2024, organised by the National Library Board (NLB).
 They wrote an essay and created an eye-opening video that dives into the
 importance of using digital devices wisely using credible research sources.
@@ -17,8 +17,7 @@ sources using the "S.U.R.E framework.</p>
 <p>Our 2 teams were awarded 1st Place for the Written Category, and 3rd Place
 for the Video Category. Congratulations CANberrans!</p>
 <p></p>
-<p><strong>Essay Category – Faiza, Zyshea, Alisha, and Luzaina. 1st Place</strong>
-</p>
+<h4><strong>Essay Category – Faiza, Zyshea, Alisha, and Luzaina. 1st Place</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_21_at_4_19_18_PM.jpg">
 </div>
@@ -27,8 +26,7 @@ for the Video Category. Congratulations CANberrans!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prove_It__2024_Digital_Wellibeing_Poster_Essay_Team_Canberra_Secondary_School.png">
 </div>
 <p></p>
-<p><strong>Video Category - Jason, Desiree, Alyssa, and Humairah. 3rd Place</strong>
-</p>
+<h4><strong>Video Category - Jason, Desiree, Alyssa, and Humairah. 3rd Place</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_21_at_4_18_38_PM.jpg">
