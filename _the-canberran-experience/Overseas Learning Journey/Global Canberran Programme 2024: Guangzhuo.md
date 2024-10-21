@@ -10,11 +10,12 @@ third_nav_title: Overseas Learning Journey
 Canberra Programme (GCP) journey to Guangzhuo, China from 24 to 30 October
 2024.</p>
 <p></p>
-<p>GCP encourages students to critically engage with key topics such as community
-engagement, cultural diversity, sustainability, and active citizenship.
-By exploring these areas, the programme aims to strengthen students' commitment
-to and rootedness in Singapore while broadening their global perspectives.</p>
+<p>Through this programme, students are nurtured to become confident and
+competent global citizens, adept in navigating and appreciating diverse
+cultures. GCP prepares our students for meaningful engagement with the
+local communities, fostering a deeper understanding of both global and
+regional issues.</p>
 <p></p>
-<p><em>We will be sharing regular highlights from their journey.</em>
+<p><em>Stay tuned as we will be sharing regular highlights from their journey.</em>
 </p>
 <p></p>
