@@ -10,7 +10,7 @@ thinking, and self-expression through a dynamic and comprehensive art curriculum
 Our programmes are designed to nurture students' artistic abilities while
 developing their appreciation of art in its various forms and mediums.</p>
 <p></p>
-<h2>Lower Secondary Curriculum </h2>
+<h2>Lower Secondary Curriculum</h2>
 <p>At the Lower Secondary level, students embark on an exciting journey of
 exploration across diverse artistic media through:</p>
 <p><strong>Core Skills Development:</strong>
@@ -63,7 +63,7 @@ exploration across diverse artistic media through:</p>
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Art_6.jpg">
 </div>
 <p></p>
-<h2>Upper Secondary Curriculum </h2>
+<h2>Upper Secondary Curriculum</h2>
 <p>Our Upper Secondary Art Programme is tailored to meet the requirements
 of different academic streams while nurturing each student's artistic potential.</p>
 <p><strong>Express Stream (O-Level Art)</strong>
