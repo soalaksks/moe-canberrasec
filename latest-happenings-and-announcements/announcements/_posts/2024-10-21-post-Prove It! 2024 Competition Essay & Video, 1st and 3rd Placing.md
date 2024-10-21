@@ -35,7 +35,7 @@ for the Video Category. Congratulations CANberrans!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prove_It__2024_Digital_Well_being_Poster_Video_Team_Canberra_Secondary_School.png">
 </div>
-<p>You can watch their video submission here -</p>
+<p>You can also watch their video submission here -</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oMaLpisB3LI?si=4YjG8UGGRoOtyzJH"></iframe>
 </div>
