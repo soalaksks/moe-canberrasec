@@ -29,7 +29,7 @@ and problem-solving skills, preparing them to face and overcome challenges
 in unfamiliar settings.</p>
 <p></p>
 <p><em>For more information about the Secondary 2 OLJ itinerary and reflections, please visit our </em>
-<a href="https://sites.google.com/moe.edu.sg/ cohort2malacca2024" rel="noopener nofollow" target="_blank"><u>Malacca OLJ portal</u>
+<a href="https://sites.google.com/moe.edu.sg/cohort2malacca2024/about-johore-malacca" rel="noopener nofollow" target="_blank"><u>Malacca OLJ portal</u>
 </a><em>. We will be sharing regular highlights from their journey.</em>
 </p>
 <p></p>
