@@ -20,7 +20,7 @@ represented our school in the Word for Word Contest, organized by the Associatio
 of Singapore Tamil Writers. These achievements reflect not just our students'
 language abilities, but their courage to step out of their comfort zone.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website_1.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Website_1.jpg">
 </div>
 <p>These platforms allowed students to go beyond traditional classroom learning,
 applying the knowledge gained from textbooks in creative and exciting ways.
