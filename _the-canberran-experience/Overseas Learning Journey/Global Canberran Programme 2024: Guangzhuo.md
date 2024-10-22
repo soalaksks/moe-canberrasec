@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Overseas Learning Journey
 ---
-<h2>Global Canberran Programme 2024: Guangzhuo</h2>
+<h2>Global Canberran Programme 2024: Guangzhou</h2>
 <p>Selected Secondary 3 Canberrans will be embarking on an exciting Global
-Canberra Programme (GCP) journey to Guangzhuo, China from 24 to 30 October
+Canberra Programme (GCP) journey to Guangzhou, China from 24 to 30 October
 2024.</p>
 <p></p>
 <p>Through this programme, students are nurtured to become confident and
