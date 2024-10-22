@@ -57,3 +57,28 @@ students.</p>
 </p>
 </blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Silver_award_presented_in_HQ___2.jpg">
+</div>
+<blockquote>
+<p>Silver Award presented at HQ</p>
+</blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Silver_award_presented_in_HQ___1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Award_in_school.jpg">
+</div>
+<blockquote>
+<p>Presenting the award in school</p>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/COP_award_in_school.jpg">
+</div>
+<blockquote>
+<p><em>COP award presentation in school</em>
+</p>
+</blockquote>
+<p></p>
