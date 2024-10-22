@@ -13,3 +13,7 @@ Tel: 6758 5070<br>
 Fax: 6758 3110<br>
 Email: [canberra_ss@moe.edu.sg](mailto:canberra_ss@moe.edu.sg)<br>
 Nearest MRT Station: Sembawang MRT Station
+
+
+
+Contact Detail for After-School Hours During Overseas Learning Journeys (OLJ) :[+65 9643 4591](tel:+6596434591)
