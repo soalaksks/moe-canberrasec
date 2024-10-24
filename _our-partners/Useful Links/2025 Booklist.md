@@ -25,7 +25,8 @@ third_nav_title: Useful Links
 <p>Secondary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2025/S1_2025_Booklist.pdf" rel="noopener nofollow" target="_blank">Secondary 1</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -33,7 +34,8 @@ third_nav_title: Useful Links
 <p>Secondary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2025/S2_2025_Booklist.pdf" rel="noopener nofollow" target="_blank">Secondary 2</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -41,7 +43,12 @@ third_nav_title: Useful Links
 <p>Secondary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2025/S3__EXP__2025_Booklist.pdf" rel="noopener nofollow" target="_blank">3 Empathy, 3 Honour, 3 Diligence</a>
+</p>
+<p><a href="/files/2025/S3__NA__2025_Booklist.pdf" rel="noopener nofollow" target="_blank">3 Harmony, 3 Integrity</a>
+</p>
+<p><a href="/files/2025/S3__NT__2025_Booklist.pdf" rel="noopener nofollow" target="_blank">3 Respect, 3 Kindness</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -49,7 +56,12 @@ third_nav_title: Useful Links
 <p>Secondary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2025/S4__EXP__2025_Booklist.pdf" rel="noopener nofollow" target="_blank">4 Empathy, 4 Honour, 4 Diligence, 4 Resilience</a>
+</p>
+<p><a href="/files/2025/S4__NA__2025_Booklist.pdf" rel="noopener nofollow" target="_blank">4 Harmony, 4 Integrity</a>
+</p>
+<p><a href="/files/2025/S4__NT__2025_Booklist.pdf" rel="noopener nofollow" target="_blank">4 Respect, 4 Kindness</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +69,8 @@ third_nav_title: Useful Links
 <p>Secondary 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2025/S5__NA__2025_Booklist.pdf" rel="noopener nofollow" target="_blank">5 Integrity</a>
+</p>
 </td>
 </tr>
 </tbody>
