@@ -1,19 +1,66 @@
 ---
 title: 2024 Booklist & Uniform Order Form
 permalink: /useful-links/2024-booklist-uniform/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Useful Links
 ---
-#### 2024 Booklist
-
-| Level | Class |
-| -------- | -------- | 
-|Secondary 1|[Secondary 1](/files/2024/S1_2024.pdf) |
-|Secondary 2|[2 Empathy/Honour/Diligence](/files/2024/S2_Empathy_Honour_Diligence_2024.pdf)<br>[2 Integrity/Harmony](/files/2024/S2_Intergity_Harmony_2024.pdf)<br>[2 Respect/Kindness](/files/2024/S2_Respect_Kindness_2024.pdf)|
-|Secondary 3| [3 Empathy/Honour/Diligence/Resilience](/files/2024/S3_Empathy_Honour_Diligence_Resilience_2024.pdf)<br>[3 Integrity/Harmony](/files/2024/S3_Integrity_Harmony_2024.pdf)<br>[3 Respect/Kindness](/files/2024/S3_Respect_Kindness_2024.pdf)|
-|Secondary 4| [4 Empathy/Honour/Diligence/Resilience](/files/2024/S4_Empathy_Honour_Diligence_Resilience_2024.pdf)<br>[4 Integrity/Harmony](/files/2024/S4_Inegrity_Harmony_2024.pdf)<br>[4 Respect/Kindness](/files/2024/S4_Respect_Kindness_2024.pdf)|
-|Secondary 5|[5 Integrity](/files/2024/S5_Integrity_2024.pdf) |
-
-#### 2024 School Uniform Order Form
-* [2024 School Uniform Order Form](/files/2024/CBRSS_UNIFORM_ORDER_FORM_2024.pdf)
+<h4>2025 Booklist</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Level</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4></h4>
+<p></p>
