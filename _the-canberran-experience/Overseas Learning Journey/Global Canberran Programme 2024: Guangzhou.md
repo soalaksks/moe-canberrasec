@@ -22,7 +22,7 @@ regional issues.</p>
 <p><em>Stay tuned as we will be sharing regular highlights from their journey.</em>
 </p>
 <p></p>
-<p><strong><em>Day 1 (24 October 2024) - </em></strong>
+<p><strong><em>Day 1 (24 October 2024) -</em></strong>
 </p>
 <p>Greetings from Guangzhou!</p>
 <p>On our first day, we visited Museum of the Mausoleum of the Nanyue King,Yuexiu
