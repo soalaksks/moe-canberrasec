@@ -7,21 +7,18 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Over the past 4 months, our Secondary Two Canberrans have been participating
-in two of National Library Board’s competitions, <strong>Historical Scene Investigation (HSI), </strong>and <strong>Prove It!</strong> Our
-participants were selected via a qualifying process by assessing the quality
-of the Secondary Two History cohort’s Historical Investigation projects.
-They wrote an essay and created an eye-opening video that dives into the
-importance of using digital devices wisely using credible research sources.
-They also shared tips during the school assembly on how to evaluate online
-sources using the "S.U.R.E framework.</p>
+<p>Over the past four months, our Secondary Two Canberrans have participated
+in two National Library Board competitions: Historical Scene Investigation
+(HSI) and Prove It! Participants were selected through a qualifying process
+that evaluated the quality of their Secondary Two History cohort's Historical
+Investigation projects. They wrote an essay and created an engaging video
+exploring the importance of using digital devices wisely, utilizing credible
+research sources. The students also shared tips during school assembly
+on evaluating online sources using the S.U.R.E. framework.</p>
+<p>Two teams participated in each competition, achieving remarkable results:</p>
 <p></p>
-<p>2 teams of students took part in the HSI Competition and Prove It! Competition
-respectively. Our HSI Teams achieved a Bronze and Silver award, while our
-Prove It! Video Team finished as the Third Runner Up and our Prove It!
-Essay Team emerged as Champions. Congratulations CANberrans!</p>
-<p></p>
-<h4><strong>Essay Category: 1st Place – </strong>Liew Zhen Xi, Zyshea, Alisha Binte Azahar, Luzaina Khalil Baig and Faiza Tahia.<strong> </strong></h4>
+<h4><strong>Prove It! Competition:</strong></h4>
+<h4><strong>Essay Category: 1st Place – </strong>Liew Zhen Xi, Zyshea, Alisha Binte Azahar, Luzaina Khalil Baig and Faiza Tahia.</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_21_at_4_19_18_PM.jpg">
 </div>
@@ -44,7 +41,7 @@ Essay Team emerged as Champions. Congratulations CANberrans!</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oMaLpisB3LI?si=4YjG8UGGRoOtyzJH"></iframe>
 </div>
 <p></p>
-<h4><strong>HSI</strong></h4>
+<h4><strong>Historical Scene Investigation (HSI):</strong></h4>
 <h4><strong>Team A: Bronze Award - </strong>Delisha Narain, Balagot Mary Ancheska, Siew Ying Ying and Su Yee Llarenas Minn</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Team_A_Bronze_Award.png">
@@ -55,3 +52,9 @@ Essay Team emerged as Champions. Congratulations CANberrans!</p>
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Team_B_Silver_Award.png">
 </div>
 <p></p>
+<p>The HSI and Prove It! competitions are annual events organized by the
+National Library Board that enable students to develop their communication,
+research, and presentation skills. Our students represented the school
+with distinction, and we believe their accomplishments will inspire more
+students to participate in humanities-related events and activities. Congratulations,
+CANberrans!</p>
