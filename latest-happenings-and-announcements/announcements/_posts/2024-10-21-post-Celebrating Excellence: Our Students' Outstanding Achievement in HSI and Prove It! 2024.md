@@ -25,7 +25,7 @@ using the S.U.R.E. framework.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prove_It__2024_Digital_Wellibeing_Poster_Essay_Team_Canberra_Secondary_School.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Prove_It__2024_Digital_Wellibeing_Poster_Essay_Team_Canberra_Secondary_School.png">
 </div>
 <p></p>
 <h4><strong>Video Category: 3rd Place - </strong>Jason Lai Zheng Feng, Choy Si Xuan, Desiree, Tan Pei En, Alyssa and Nur Hasya Humairah</h4>
@@ -35,7 +35,7 @@ using the S.U.R.E. framework.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prove_It__2024_Digital_Well_being_Poster_Video_Team_Canberra_Secondary_School.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Prove_It__2024_Digital_Well_being_Poster_Video_Team_Canberra_Secondary_School.png">
 </div>
 <p>You can also watch their video submission here -</p>
 <div class="iframe-wrapper">
