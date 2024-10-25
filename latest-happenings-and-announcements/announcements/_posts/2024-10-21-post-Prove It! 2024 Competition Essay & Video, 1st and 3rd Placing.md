@@ -8,13 +8,13 @@ image: ""
 variant: tiptap
 ---
 <p>Over the past four months, our Secondary Two Canberrans have participated
-in two National Library Board competitions: Historical Scene Investigation
-(HSI) and Prove It! Participants were selected through a qualifying process
-that evaluated the quality of their Secondary Two History cohort's Historical
-Investigation projects. They wrote an essay and created an engaging video
-exploring the importance of using digital devices wisely, utilizing credible
-research sources. The students also shared tips during school assembly
-on evaluating online sources using the S.U.R.E. framework.</p>
+in two National Library Board competitions: <strong>Historical Scene Investigation (HSI)</strong> and <strong>Prove It!</strong> Participants
+were selected through a qualifying process that evaluated the quality of
+their Secondary Two History cohort's Historical Investigation projects.
+They wrote an essay and created an engaging video exploring the importance
+of using digital devices wisely, utilizing credible research sources. The
+students also shared tips during school assembly on evaluating online sources
+using the S.U.R.E. framework.</p>
 <p>Two teams participated in each competition, achieving remarkable results:</p>
 <p></p>
 <h4><strong>Prove It! Competition:</strong></h4>
