@@ -25,8 +25,8 @@ regional issues.</p>
 <p><strong><em>Day 1 (24 October 2024) -</em></strong>
 </p>
 <p>Greetings from Guangzhou!</p>
-<p>On our first day, we visited Museum of the Mausoleum of the Nanyue King,Yuexiu
-Park and the Five Rams Statue. After dinner, we enjoyed the spectacular
+<p>On our first day, we visited Museum of the Mausoleum of the Nanyue King,
+Yuexiu Park and the Five Rams Statue. After dinner, we enjoyed the spectacular
 night scenery from Canton Tower.</p>
 <p></p>
 <div class="isomer-image-wrapper">
