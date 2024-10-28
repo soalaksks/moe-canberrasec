@@ -80,3 +80,13 @@ dance moves and theatrical displays.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_28_at_8_22_38_AM.jpg">
 </div>
 <p></p>
+<hr>
+<p><strong><em>Day 3 (26 October 2024) - </em></strong>
+</p>
+<p>We put our creativity to the test with round fan painting today at Lingnan
+Impression Park. We finally did some shopping as we had a walking tour
+at Shamian Island, Yongqingfang and Shangxiajiu Pedestrain Street. We admired
+the local streets - the old and the refurbished ones. There were also architectural
+buildings built from the British, French and colonial influences. We ended
+our day immersing in the splendid night scenery of Guangzhou on a night
+cruise.</p>
