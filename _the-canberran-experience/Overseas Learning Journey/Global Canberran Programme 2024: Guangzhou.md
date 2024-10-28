@@ -1,7 +1,7 @@
 ---
 title: "Global Canberran Programme 2024: Guangzhou"
 permalink: /global-canberran-programme-2024-guangzhou/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Overseas Learning Journey
 ---
@@ -41,3 +41,14 @@ night scenery from Canton Tower.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_25_at_7_44_41_AM.jpg">
 </div>
+<p></p>
+<hr>
+<p><strong><em>Day 2 (25 October 2024) -</em></strong>
+</p>
+<p>We had a ‘Shenzhen-paced’ day today. Noted for its efficiency and speed,
+we visited Shen Zhen on high speed train. The visit to Shen Zhen Museum
+was informative. The highlight for the day was the cultural performances
+at Splendid China Folk Cultural Village. Our five senses were continuously
+stimulated by the colourful costumes, ear-splitting explosions, synchronised
+dance moves and theatrical displays.</p>
+<p></p>
