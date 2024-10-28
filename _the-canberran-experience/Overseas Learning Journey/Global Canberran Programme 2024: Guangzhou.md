@@ -41,6 +41,3 @@ night scenery from Canton Tower.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_25_at_7_44_41_AM.jpg">
 </div>
-<hr>
-<hr>
-<p></p>
