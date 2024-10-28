@@ -106,4 +106,11 @@ cruise.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_28_at_8_23_53_AM.jpg">
 </div>
-<p></p>
+<hr>
+<p><strong><em>Day 4 (27 October 2024) -</em></strong>
+</p>
+<p>A walk along Beijing Road kickstarted our day. Though it is a bustling
+shopping district now, it was a thousand year old lane with remnants of
+an ancient building. Next, we learnt how to make chinese pancake and how
+to weave using a loom. Our patience was put to the test and we gained a
+deeper respect for the ancient people for their wisdom and handicraft.</p>
