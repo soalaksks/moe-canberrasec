@@ -149,5 +149,50 @@ deeper respect for the ancient people for their wisdom and handicraft.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_28_at_8_24_37_AM.jpg">
 </div>
+<hr>
+<p><strong>Day 5 (28 October 2024) -</strong>
+</p>
+<p>The highlight of today is our visit to Nansha Experimental Middle School
+affiliated to the Guangzhou University. We witnessed the signing of the
+Memorandum of Understanding between the two schools, cementing our twinning
+schools status. We got a chance to attend lessons and interact with the
+students and staff. We were awestruck by the massive campus, amenities
+and teaching and learning activities. The meaningful exchange amongst the
+students marks the start of a close relationship between Singapore and
+China.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_29_at_8_40_29_AM.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_29_at_8_40_30_AM__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_29_at_8_40_30_AM__2_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_29_at_8_40_30_AM.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_29_at_8_41_14_AM.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_29_at_8_41_40_AM.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_29_at_8_41_41_AM.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_29_at_8_41_41_AM__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_29_at_8_41_41_AM__2_.jpg">
+</div>
 <p></p>
