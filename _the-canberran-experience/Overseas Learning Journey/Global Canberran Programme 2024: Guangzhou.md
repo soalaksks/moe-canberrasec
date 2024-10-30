@@ -195,4 +195,18 @@ China.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_10_29_at_8_41_41_AM__2_.jpg">
 </div>
-<p></p>
+<hr>
+<p><strong>Day 6 (29 October 2024) -</strong>
+</p>
+<p>It’s our second day at our sister school in Nansha. We were envious of
+the well-equipped science laboratories, music rooms, art rooms and computer
+laboratories. We learnt to appreciate chinese tea culture and some of us
+even learnt to brew fruit tea for ourselves. From our chinese calligraphy
+class, we appreciated the significance of perseverance, precision and patience
+as we wrote chinese calligraphy with ink and brush. After immersing ourselves
+in chinese culture, we visited GAC Technology Museum. We were captivated
+by how technology has really evolved and we will look forward to more technologically
+advanced cars which are made and designed in Guangzhou in future. Today
+marks the end of our learning journey. It is an extremely enriching experience
+and we are really honoured to be the first group from our school to visit
+Nansha, Guangzhou.</p>
