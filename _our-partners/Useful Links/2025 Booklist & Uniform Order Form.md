@@ -75,5 +75,5 @@ third_nav_title: Useful Links
 </tr>
 </tbody>
 </table>
-<h4></h4>
+<h4><a href="/files/2025/2025_CBRSS_UNIFORM_ORDER_FORM.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Uniform Order Form</a></h4>
 <p></p>
