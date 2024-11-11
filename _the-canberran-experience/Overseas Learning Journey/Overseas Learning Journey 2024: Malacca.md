@@ -39,6 +39,7 @@ hosts</p>
 <p><strong><em>Visiting Historical Landmarks in Malacca on Trip 2, 4 November 2024</em></strong>
 </p>
 </blockquote>
+<p></p>
 <p>Throughout the journey, students developed essential life skills including:</p>
 <ul data-tight="true" class="tight">
 <li>
