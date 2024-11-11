@@ -9,7 +9,7 @@ third_nav_title: Overseas Learning Journey
 <p>Our school recently organized an enriching two-day, one-night educational
 expedition to Malaysia, with two separate groups experiencing the journey.
 A total of 127 students and 20 staff members participated in this carefully
-planned adventure through Johor and Malacca City.</p>
+planned adventure through Johore and Malacca City.</p>
 <p>The itinerary included visits to:</p>
 <ul data-tight="true" class="tight">
 <li>
