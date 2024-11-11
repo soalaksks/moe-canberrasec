@@ -23,6 +23,23 @@ planned adventure through Johore and Malacca City.</p>
 hosts</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OLJ_to_Msia___Trip_1.jpg">
+</div>
+<blockquote>
+<p><strong><em>Visiting SMK Padang Temu on Trip 1, 29 October 2024</em></strong>
+</p>
+</blockquote>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OLJ_to_Msia___Trip_2.jpg">
+</div>
+<blockquote>
+<p><strong><em>Visiting Historical Landmarks in Malacca on Trip 2, 4 November 2024</em></strong>
+</p>
+</blockquote>
 <p>Throughout the journey, students developed essential life skills including:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -46,3 +63,4 @@ understanding.</p>
 <a href="https://sites.google.com/moe.edu.sg/cohort2malacca2024/about-johore-malacca" rel="noopener nofollow" target="_blank"><u>Malacca OLJ portal</u>
 </a><em>. </em><a href="https://www.canberrasec.moe.edu.sg/enrichment-programmes/" class="is-half is-left is-full-height" rel="noopener noreferrer nofollow" target="_blank"><br></a>
 </p>
+<p></p>
