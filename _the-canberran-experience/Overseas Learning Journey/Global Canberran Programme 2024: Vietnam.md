@@ -6,16 +6,16 @@ description: ""
 third_nav_title: Overseas Learning Journey
 ---
 <h2>Global Canberran Programme 2024: Vietnam</h2>
-<p>Selected Secondary 3 Canberrans will be embarking on an exciting Global
-Canberra Programme (GCP) journey to Ho Chi Minh City, Vietnam from 24 to
-29 October 2024.</p>
-<p></p>
+<p>Selected Secondary 3 Canberrans participated in an enriching educational
+journey to Ho Chi Minh City, Vietnam, from 24 to 29 October 2024 as part
+of our Global Canberra Programme (GCP). This cultural exchange program
+provided students with immersive learning experiences in one of Southeast
+Asia's most dynamic cities.</p>
 <p>GCP encourages students to critically engage with key topics such as community
 engagement, cultural diversity, sustainability, and active citizenship.
 By exploring these areas, the programme aims to strengthen students' commitment
 to and rootedness in Singapore while broadening their global perspectives.</p>
-<p></p>
-<p><em>For more information about the Vietnam GCP itinerary and objectives, please visit our </em>
-<a href="https://sites.google.com/moe.edu.sg/gcpvietnam/home" rel="noopener nofollow" target="_blank">Vietnam Global Canberra Programme portal</a><em>. We will be sharing regular highlights from their journey.</em>
+<p>For a detailed overview of the Vietnam GCP experience, including photos
+and student reflections, please visit our<em> </em><a href="https://sites.google.com/moe.edu.sg/gcpvietnam/home" rel="noopener nofollow" target="_blank">Vietnam Global Canberra Programme portal</a><em>. </em>
 </p>
 <p></p>
