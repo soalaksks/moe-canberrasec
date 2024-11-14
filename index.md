@@ -20,7 +20,7 @@ sections:
       id: announcements
       announcement_items:
         - title: "Overseas Learning Journey 2024: Johore-Malacca, Malaysia"
-          date: 11 November 2024
+          date: 29 October 2024
           announcement: Our school recently organized an enriching two-day, one-night
             educational expedition to Malaysia, with two separate groups
             experiencing the journey. A total of 127 students and 20 staff
