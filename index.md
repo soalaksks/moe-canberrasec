@@ -28,6 +28,20 @@ sections:
             Johore and Malacca City.
           link_text: Find out more about their experience
           link_url: https://www.canberrasec.moe.edu.sg/overseas-learning-journey-2024-malacca/
+        - title: "Global Canberran Programme 2024: Guangzhou"
+          date: 24 October 2024
+          announcement: Selected Secondary 3 Canberrans participated in an enriching
+            Global Canberra Programme (GCP) journey to Guangzhou, China from 24
+            to 30 October 2024.
+          link_text: Recap their journey here
+          link_url: https://www.canberrasec.moe.edu.sg/global-canberran-programme-2024-guangzhou/
+        - title: "Global Canberran Programme 2024: Vietnam"
+          date: 24 October 2024
+          announcement: Selected Secondary 3 Canberrans participated in an enriching
+            educational journey to Ho Chi Minh City, Vietnam, from 24 to 29
+            October 2024 as part of our Global Canberra Programme (GCP).
+          link_text: Find out more about their experience
+          link_url: https://www.canberrasec.moe.edu.sg/global-canberran-programme-2024-vietnam/
         - title: International Bi-cultural Exchange Programme
           date: 26 August 2024
           announcement: Recently, our Secondary 3 students had the honor of hosting a
@@ -42,13 +56,6 @@ sections:
             with the Middle School attached to Guangzhou University.
           link_text: Click here to view more
           link_url: https://canberrasec.moe.edu.sg/hosting-of-twinning-school-principal/
-        - title: Global Canberran Programme 2024 - Cambodia
-          date: 12 July 2024
-          announcement: This past May, our Secondary 3 Canberrans embarked on an
-            unforgettable journey to Siem Reap, Cambodia, as part of the Global
-            Canberran Programme (GCP).
-          link_text: Find out more about their experience.
-          link_url: https://canberrasec.moe.edu.sg/gcp-2024-cambodia/
   - resources:
       title: Announcements
       button: VIEW MORE
