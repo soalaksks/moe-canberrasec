@@ -60,7 +60,6 @@ for all participants. This educational expedition, months in the planning,
 proved to be an invaluable opportunity for both personal growth and cultural
 understanding.</p>
 <p><em>For more stories, photos and reflections from our journey, please visit our </em>
-<a href="https://sites.google.com/moe.edu.sg/cohort2malacca2024/about-johore-malacca" rel="noopener nofollow" target="_blank"><u>Malacca OLJ portal</u>
-</a><em>.</em>
+<a href="https://sites.google.com/moe.edu.sg/cohort2malacca2024/home" rel="noopener nofollow" target="_blank">Malacca OLJ portal.</a>
 </p>
 <p></p>
