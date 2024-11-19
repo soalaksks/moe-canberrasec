@@ -8,33 +8,36 @@ third_nav_title: Clubs
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Canberra_Reads_Logo.png">
 </div>
-<h3><strong>Library Club (New CCA in 2025!)</strong></h3>
-<p>As a new CCA in 2025, the Library Club is dedicated to nurturing student
-librarians who are not only passionate readers but also enthusiastic advocates
-for the joy of reading among their peers.</p>
+<h3>Library and Media Club (New CCA in 2025!)</h3>
+<p>The Library and Media Club is an exciting new CCA that combines library
+stewardship with student journalism. We are dedicated to nurturing student
+librarians who not only care for our library but also serve as the authentic
+voice of our school community through reporting and storytelling.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_26_at_1_04_43_PM__1_.jpg">
 </div>
 <p></p>
-<p><strong>Vision</strong>: To transform our school library into a thriving
-community hub that inspires, empowers, and enlightens, fostering a love
-for learning and curiosity in every Canberran.</p>
+<p><strong>Vision</strong>: To transform our school library into a dynamic
+hub where students become both knowledge keepers and storytellers, bringing
+school events and student experiences to life through meaningful reporting.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_26_at_1_06_39_PM.jpg">
 </div>
-<p>The Library Club offers numerous opportunities for members to develop
-essential skills such as leadership, teamwork, creativity, and communication.
-As part of the club’s VIA project, our student librarians will be part
-of the National Library Board’s kidsREAD programme. Through their involvement
-in different programmes, student librarians grow into caring, confident
-individuals and effective reading ambassadors..</p>
+<p>In the Library and Media Club, students will take on meaningful roles
+as both library stewards and school journalists. Members will develop essential
+skills in news writing, interviewing, and event coverage while maintaining
+their responsibilities as custodians of our library resources. They will
+be the eyes and ears of our school community, providing thoughtful coverage
+of school events and bringing student perspectives to life through their
+reporting. Members will also have the opportunity to participate in the
+National Library Board's kidsREAD programme, enriching their experience
+as ambassadors of reading and storytelling.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_26_at_1_04_42_PM.jpg">
 </div>
-<p>Join the Library Club in 2025 to be part of a community that's passionate
-about reading, learning, and sharing knowledge. Together, we'll create
-a library that's not just a place for books, but a space where curiosity
-comes alive and learning thrives.</p>
+<p>Join us in 2025 to be part of a dynamic community that values both literary
+appreciation and authentic student journalism, where every story matters
+and every voice counts.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_26_at_1_06_10_PM.jpg">
 </div>
