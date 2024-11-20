@@ -71,8 +71,8 @@ decision—perhaps even a selfish one. I wanted to surround myself with like-min
 parents who are striving just as I am. There are times when we feel unsure
 of what we're doing, but we choose to show up and stay present. Through
 this shared camaraderie, I feel more empowered to support our secondary
-school children on their journey to becoming their best selves." - Cecilia,
-Parent of Secondary 1 student</p>
+school children on their journey to becoming their best selves." - <em>Cecilia, Parent of Secondary 1 student</em>
+</p>
 <p>"Being part of the parent support group allows me to contribute to her
 educational environment and overall well-being. It provides an opportunity
 to build connections with other parents, teachers, and staff while collaborating
@@ -81,7 +81,8 @@ an active role in enhancing school programs, addressing shared concerns,
 and celebrating milestones together. Most importantly, it demonstrates
 to my daughter the value of involvement, the importance of fostering relationships,
 and the commitment to supporting her growth both in and out of the classroom."
-- Rasimah, PSG Event Planner</p>
+- <em>Rasimah, PSG Event Planner</em>
+</p>
 <p>&nbsp;</p>
 <p><em>Interested in joining our PSG community? Contact us to learn more about how you can get involved and make a difference in our school community</em>
 </p>
