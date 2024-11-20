@@ -83,5 +83,5 @@ to my daughter the value of involvement, the importance of fostering relationshi
 and the commitment to supporting her growth both in and out of the classroom."
 - Rasimah, PSG Event Planner</p>
 <p>&nbsp;</p>
-<p><em>Interested in joining our PSG community? Contact us to learn more about how you can get involved and make a difference in our school community.</em>
+<p><em>Interested in joining our PSG community? Contact us to learn more about how you can get involved and make a difference in our school community</em>
 </p>
