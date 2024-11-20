@@ -74,7 +74,7 @@ decision—perhaps even a selfish one. I wanted to surround myself with like-min
 parents who are striving just as I am. There are times when we feel unsure
 of what we're doing, but we choose to show up and stay present. Through
 this shared camaraderie, I feel more empowered to support our secondary
-school children on their journey to becoming their best selves." - <em>Cecilia, Parent of Secondary 1 student</em>
+school children on their journey to becoming their best selves." - <em>Cecilia, mother of Secondary 1 student</em>
 </p>
 <p>"I joined the PSG to actively contribute to my children's education and
 to meaningfully support the school community. Staying engaged in their
@@ -85,7 +85,19 @@ strong relationships with teachers and fellow parents while helping to
 organize events and initiatives that benefit the students. It is incredibly
 rewarding to support the school’s efforts in nurturing well-rounded learners
 and to be part of a community that values teamwork and shared responsibility."
-- <em>Kiran, mother of Secondary 1 student</em>
+- <em>Kiran, mother of Secondary 1 boy</em>
+<br>
+<br>"I joined the PSG to actively contribute to my child’s educational journey
+and overall well-being during her teenage years. This is a crucial stage
+when children face academic challenges, develop their identity, and navigate
+social dynamics. Being part of the PSG allows me to stay connected with
+the school, understand its initiatives, and collaborate with other parents
+to create a supportive environment.</p>
+<p>I believe I can support my teenage child by being more involved in their
+school community, fostering open communication, and better understanding
+their needs. Through PSG activities, I hope to set a positive example of
+participation and teamwork while also building a network of resources to
+guide and support them through this important phase of life." - <em>Athena Wong, mother of Secondary 1 girl</em>
 </p>
 <p>"Being part of the parent support group allows me to contribute to her
 educational environment and overall well-being. It provides an opportunity
