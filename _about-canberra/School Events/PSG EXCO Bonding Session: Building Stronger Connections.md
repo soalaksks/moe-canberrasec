@@ -15,6 +15,13 @@ itself. Just as each lamp showed its own creative flair, the PSG members
 bring diverse strengths and insights to their shared mission of supporting
 the school, with each contribution enhancing the partnership in unique
 ways.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_Picture1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_Picture2.jpg">
+</div>
 <p>Throughout the past year, the PSG has organized several successful events
 and initiatives. Our quarterly dialogues with school leaders have fostered
 open communication and understanding between parents and the school administration.
@@ -45,22 +52,18 @@ the school community. We emphasized our four key roles:</p>
 <p>We also discussed the importance of our level-based WhatsApp chat groups,
 including guidelines for maintaining these as positive and supportive communication
 channels.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_Picture4.jpg">
+</div>
 <p>The session concluded with a delicious lunch, providing another opportunity
 for informal conversations and further bonding among participants. The
 day was filled with laughter and camaraderie, reaffirming the PSG's shared
 commitment to enriching the home-school partnership.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>
-<br>
-</p>
-<p></p>
-<p>&nbsp;</p>
-<p><strong>Parent Reflections</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_Picture3.jpg">
+</div>
+<h4><strong>Parent Reflections</strong></h4>
 <p>"When I noticed my child embarking on their teenage journey, I realized
 that I, too, needed to grow as a parent. I needed to listen more and respond
 thoughtfully. Joining the Parent Support Group (PSG) was, in part, a personal
