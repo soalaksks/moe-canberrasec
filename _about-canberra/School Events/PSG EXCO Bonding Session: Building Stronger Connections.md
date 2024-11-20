@@ -52,7 +52,6 @@ the school community. We emphasized our four key roles:</p>
 <p>We also discussed the importance of our level-based WhatsApp chat groups,
 including guidelines for maintaining these as positive and supportive communication
 channels.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_Picture4.jpg">
 </div>
