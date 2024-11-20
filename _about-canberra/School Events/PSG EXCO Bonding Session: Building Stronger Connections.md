@@ -99,6 +99,16 @@ their needs. Through PSG activities, I hope to set a positive example of
 participation and teamwork while also building a network of resources to
 guide and support them through this important phase of life." - <em>Athena Wong, mother of Secondary 1 girl</em>
 </p>
+<p>"I joined the PSG to actively contribute to my children's education and
+to meaningfully support the school community. Staying engaged in their
+educational journey is important to me. Over the years, I have witnessed
+how partnerships between parents and the school can create a positive and
+enriching environment for students. Through the PSG at CBSS, I enjoy building
+strong relationships with teachers and fellow parents while helping to
+organize events and initiatives that benefit the students. It is incredibly
+rewarding to support the school’s efforts in nurturing well-rounded learners
+and to be part of a community that values teamwork and shared responsibility."
+- Aniruddha, Alumni PSG</p>
 <p>"Being part of the parent support group allows me to contribute to her
 educational environment and overall well-being. It provides an opportunity
 to build connections with other parents, teachers, and staff while collaborating
