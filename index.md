@@ -11,11 +11,6 @@ sections:
       background: /images/2024_June_banner_merged_v2.gif
       variant: center
   - infopic:
-      alt: Image alt text
-      image: /images/Homepage_text.png
-      description: “The future belongs to those who believe in the beauty of their
-        dreams.” - Eleanor Roosevelt
-  - infopic:
       title: Secondary One Registration 2025
       id: infopic
       description: Please click on the link below for details on Secondary One
@@ -24,6 +19,11 @@ sections:
       url: https://canberrasec.moe.edu.sg/sec-1-registration/
       image: /images/Sec_1_Registration_2025.png
       alt: Image alt text
+  - infopic:
+      alt: Image alt text
+      image: /images/Homepage_text.png
+      description: “The future belongs to those who believe in the beauty of their
+        dreams.” - Eleanor Roosevelt
   - announcements:
       title: Latest Happenings
       id: announcements
