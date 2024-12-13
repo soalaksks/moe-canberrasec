@@ -30,14 +30,14 @@ child’s school posting.</p>
 </li>
 <li>
 <p>You should receive notification on the Parents Gateway app to complete
-the Sec 1 registration. <strong><em>(More details will be made available on 22nd December 2023 on Parents Gateway)</em></strong>
+the Sec 1 registration. <strong><em>(More details will be made available on 23rd December 2024 on Parents Gateway)</em></strong>
 </p>
 </li>
 <li>
 <p>Students with Posting Group 1 and 2 will be able to take English Language,
 Mathematics, Science and Mother Tongue Language, at G2 or G3 level when
 they enter Secondary 1 based on their performance in these subjects at
-the PSLE.&nbsp; <strong><em>(More details will be made available on 22nd December 2023 on Parents Gateway)</em></strong>
+the PSLE.&nbsp; <strong><em>(More details will be made available on 23rd December 2024 on Parents Gateway)</em></strong>
 </p>
 </li>
 </ol>
@@ -65,15 +65,15 @@ and uniform purchase can be found in the documents below:</p>
 <p></p>
 <p><strong><u>3.</u></strong><u>&nbsp;</u><strong><u>MOE Financial Assistance Scheme (MOE FAS) Application</u></strong>
 </p>
-<p>Students whose MOE FAS application was approved before 16 December 2023
+<p>Students whose MOE FAS application was approved before 16 December 2024
 by their primary schools will receive a notification from us through Parents
-Gateway by 26th December 2023. You <strong>need not</strong> order the books
-and uniforms online.&nbsp;</p>
-<p>You and your child must report to the General Office at the assigned timing
-(refer to Table 1) before going to the bookshop to collect the books and
-uniforms.&nbsp;You may contact the General Office at 6758 5070 if you do
-not receive the Parents Gateway notification by the evening of 26th December
-2023.</p>
+Gateway by 26<sup>th</sup> December 2024.</p>
+<p>You <strong>need not</strong> order the books and uniforms online. You and
+your child must report to the General Office at the assigned timing (refer
+to Table 1) for administrative purposes before going to the bookshop to
+collect the books and uniforms. You may contact the General Office at 6758
+5070 if you do not receive the Parents Gateway notification by the evening
+of 26<sup>th</sup> December 2024.</p>
 <p>For students who have yet to apply for MOE FAS and wish to do so, you
 may obtain a copy of the application form from the General Office. Upon
 completion, please submit the application form and the required supporting
@@ -107,7 +107,7 @@ we will notify you of the status accordingly.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27th December 2023 (Wednesday)</p>
+<p>26<sup>th </sup>December 2024 (Thursday)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9 am – 3 pm</p>
@@ -118,7 +118,7 @@ we will notify you of the status accordingly.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28th December 2023 (Thursday)</p>
+<p>27<sup>th</sup> December 2024 (Friday)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9 am – 3 pm</p>
@@ -290,10 +290,6 @@ us at canberra_ss@moe.edu.sg.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/2024/3_PSG_Recruitment_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">PSG Recruitment Form</a>
-</p>
-</li>
-<li>
-<p>For those interested to sign up for the Triple P Seminar, <a href="/files/2024/4_PSG_A_FSS_Introduction_letter_2024_by_Care_Corner.pdf" rel="noopener noreferrer nofollow" target="_blank">please click here.</a>
 </p>
 </li>
 </ul>
