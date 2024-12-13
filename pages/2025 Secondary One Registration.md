@@ -129,7 +129,7 @@ we will notify you of the status accordingly.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>Bookshop will be closed for lunch from 12pm - 1 pm.</p>
 <p><strong><u>4. Appeal Process</u></strong>
 </p>
 <p>If you assess that Canberra Secondary School is unable to accommodate
