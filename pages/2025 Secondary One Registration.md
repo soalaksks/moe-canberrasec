@@ -179,7 +179,7 @@ is approved.</p>
 </p>
 <p>If you are seeking a transfer due to other reasons, you&nbsp;<strong>may</strong>&nbsp;approach
 the school of your choice directly.</p>
-<p>It’s important to keep the following in mind:</p>
+<p>It is important to keep the following in mind:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Your child’s Achievement Level score should meet the school’s cut-off
@@ -220,7 +220,7 @@ to help your child with the transition.</p>
 <p>Your child has spent the last 6 years getting used to their Primary School,
 and now they will be going to a new school. Moreover, many of your child’s
 Primary School friends may be posted to different Secondary Schools.</p>
-<p>Meeting new people can be difficult, but it’s also an opportunity for
+<p>Meeting new people can be difficult, but it is also an opportunity for
 them to form new, long-lasting friendships.</p>
 <p>Your child will also be learning new subjects, including Geography, History,
 Literature, Food and Consumer Education, as well as Design and Technology.
@@ -232,9 +232,9 @@ and aspirations.</p>
 <p></p>
 <p><strong>Support your child’s development and interests</strong>
 </p>
-<p>It’s important that you pick a school where your child’s development and
-interests will be supported. Generally, Secondary School students do best
-when they:</p>
+<p>It is important that you select a school where your child’s development
+and interests will be supported. Generally, Secondary School students do
+best when they:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Feel a sense of belonging, with their friends and at the school.</p>
