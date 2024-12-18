@@ -30,19 +30,18 @@ child’s school posting.</p>
 </li>
 <li>
 <p>You should receive notification on the Parents Gateway app to complete
-the Sec 1 registration. <strong><em>(More details will be made available by 20th December 2024* on Parents Gateway)</em></strong>
+the Sec 1 registration. <strong><em>(More details will be made available on 18th December 2024 on Parents Gateway)</em></strong>
 </p>
 </li>
 <li>
 <p>Students with Posting Group 1 and 2 will be able to take English Language,
 Mathematics, Science and Mother Tongue Language, at G2 or G3 level when
 they enter Secondary 1 based on their performance in these subjects at
-the PSLE. <strong><em>(More details will be made available by 20th December 2024* on Parents Gateway)</em></strong>
+the PSLE. <strong><em>(More details will be made available on 18th December 2024 on Parents Gateway)</em></strong>
 </p>
 </li>
 </ol>
 </blockquote>
-<p>*Due to Parents Gateway system maintainence.</p>
 <p></p>
 <p><strong><u>2.</u></strong><u> </u><strong><u>Purchase of Books and Sale of Uniforms</u></strong>
 </p>
