@@ -339,6 +339,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ang_ai_pang_margaret@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Margaret Ang</a>
 </p>
+<p>Ms Christine Chua</p>
 </td>
 </tr>
 <tr>
