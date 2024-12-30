@@ -73,8 +73,8 @@ variant: tiptap
 <p>HOD CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheong_wai_tung_edwin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Edwin Cheong</a> (ext
-107)</p>
+<p><a href="mailto:cheong_wai_tung_edwin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Edwin Cheong</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -237,15 +237,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:raudhah_abdul_rahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Raudhah A R</a> (ext
 205)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH PE/CCA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:whelan_chen_jianming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Whelan Chen</a> (ext
-239)</p>
 </td>
 </tr>
 <tr>
