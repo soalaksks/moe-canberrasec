@@ -40,9 +40,7 @@ variant: tiptap
 <p>School Hall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lok Chee How
-<br>67585070 ext 241
-<br>lok_chee_how@schools.gov.sg</p>
+<p>Mr Lok Chee How</p>
 </td>
 </tr>
 <tr>
@@ -54,9 +52,7 @@ variant: tiptap
 <br>Level 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teo Jiaen
-<br>67585070 ext 220
-<br>teo_jiaen@schools.gov.sg</p>
+<p>Ms Victoria Teo</p>
 </td>
 </tr>
 <tr>
@@ -67,9 +63,7 @@ variant: tiptap
 <p>Parade Square</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Rezkiah Binte Mohd Radzelee
-<br>67585070 ext 204
-<br>Siti_Rezkiah_Mohd_Radzelee@schools.gov.sg</p>
+<p>Ms Siti Rezkiah</p>
 </td>
 </tr>
 <tr>
@@ -80,9 +74,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr He Jiaen
-<br>67585070 ext 234
-<br>he_jiaen@schools.gov.sg</p>
+<p>Mr He Jiaen</p>
 </td>
 </tr>
 <tr>
@@ -93,9 +85,7 @@ variant: tiptap
 <p>Dance Studio 2 (Level 2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Karthigesu s/o Chandra
-<br>67585070 ext 226
-<br>karthigesu_chandra@schools.gov.sg</p>
+<p>Mr Mohd Yazid</p>
 </td>
 </tr>
 <tr>
@@ -112,9 +102,7 @@ variant: tiptap
 <p>Computer Lab 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Shu Hui
-<br>67585070 ext 257
-<br>goh_shu_hui_b@schools.gov.sg</p>
+<p>Ms Goh Shu Hui</p>
 </td>
 </tr>
 <tr>
@@ -125,9 +113,7 @@ variant: tiptap
 <p>AVA Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Hee-Lim Gee Kheng
-<br>67585070 ext 212
-<br>hee_lim_gee_kheng@schools.gov.sg</p>
+<p>Ms Nurul Diyana Hashim</p>
 </td>
 </tr>
 <tr>
@@ -138,9 +124,7 @@ variant: tiptap
 <p>Music Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Jo Ann
-<br>67585070 ext 202
-<br>tan_jo_ann@schools.gov.sg</p>
+<p>Mr Imarah Bin Abas</p>
 </td>
 </tr>
 <tr>
@@ -152,9 +136,7 @@ variant: tiptap
 <br>(Level 1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chen Jialiang
-<br>67585070 ext 222
-<br>chen_jialiang@schools.gov.sg</p>
+<p>Mr Chen Jialiang</p>
 </td>
 </tr>
 <tr>
@@ -165,9 +147,7 @@ variant: tiptap
 <p>Air Rifle Range</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yap Hui San
-<br>67585070 ext 209
-<br>yap_hui_san@schools.gov.sg</p>
+<p>Ms Chow Cai Wen</p>
 </td>
 </tr>
 <tr>
@@ -178,9 +158,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kong Tze Shiuan
-<br>67585070 ext 220
-<br>kong_tze_shiuan@schools.gov.sg</p>
+<p>Miss Tan Ying Jo-Anne</p>
 </td>
 </tr>
 <tr>
@@ -199,9 +177,7 @@ variant: tiptap
 <p>Parade Square</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jeremy Tng
-<br>67585070 ext 231
-<br>jeremy_tng_ying_xiang@schools.gov.sg</p>
+<p>Mr Preston Tay</p>
 </td>
 </tr>
 <tr>
@@ -213,9 +189,7 @@ variant: tiptap
 <p>Parade Square</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Mun Foong
-<br>67585070 ext 219
-<br>wong_mun_foong@schools.gov.sg</p>
+<p>Ms Adeline Fam</p>
 </td>
 </tr>
 <tr>
@@ -226,9 +200,7 @@ variant: tiptap
 <p>Parade Square</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Qi Guang
-<br>67585070 ext 222
-<br>tan_qi_guang@schools.gov.sg</p>
+<p>Mr Jeremy Tng</p>
 </td>
 </tr>
 <tr>
@@ -240,9 +212,7 @@ variant: tiptap
 <p>Parade Square</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teo Qi Wen
-<br>67585070 ext 223
-<br>teo_qi_wen@schools.gov.sg</p>
+<p>Mr Rudy Swandi</p>
 </td>
 </tr>
 <tr>
@@ -254,9 +224,7 @@ variant: tiptap
 <p>Parade Square</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Imarah Bin Abas
-<br>67585070 ext 252
-<br>imarah_b_abas@schools.gov.sg</p>
+<p>Mr Jeremiah Tan</p>
 </td>
 </tr>
 </tbody>
