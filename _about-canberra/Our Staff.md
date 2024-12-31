@@ -541,7 +541,7 @@ variant: tiptap
 <p>3 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Vishnu Preyei</p>
 </td>
 </tr>
 <tr>
@@ -549,7 +549,7 @@ variant: tiptap
 <p>3 Honour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ginny Teh</p>
 </td>
 </tr>
 <tr>
@@ -557,7 +557,7 @@ variant: tiptap
 <p>3 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Imarah Bin Abas</p>
 </td>
 </tr>
 <tr>
@@ -565,7 +565,7 @@ variant: tiptap
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Adeline Fam</p>
 </td>
 </tr>
 <tr>
@@ -573,7 +573,8 @@ variant: tiptap
 <p>3 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Ho Ngiap Tuan</p>
+<p>Mrs Chan Boon Hwee</p>
 </td>
 </tr>
 <tr>
@@ -581,7 +582,7 @@ variant: tiptap
 <p>3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Shaik Allauddin</p>
 </td>
 </tr>
 <tr>
@@ -589,7 +590,7 @@ variant: tiptap
 <p>3 Kindness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Irving Long</p>
 </td>
 </tr>
 </tbody>
