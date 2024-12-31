@@ -4,8 +4,9 @@ permalink: /cca/cca-schedule/
 description: ""
 variant: tiptap
 ---
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -24,12 +25,15 @@ variant: tiptap
 <p><strong>Teacher IC</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Remarks</strong>
+</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="4">
 <p><strong>Sports &amp; Clubs</strong> 
-<br>Mondays 3pm – 5.30pm
-<br>Wednesdays 2.30 pm - 5.30 pm</p>
+<br>Mondays and Wednesday 3 pm – 5.30 pm</p>
 </td>
 </tr>
 <tr>
@@ -41,6 +45,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lok Chee How</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -54,6 +61,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Victoria Teo</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -65,33 +75,46 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Siti Rezkiah</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Shooting (Air Pistol)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SAFRA Yishun</p>
+<p>Indoor Air Weapons Range</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr He Jiaen</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Members will need to pay for SAFRA Shooting Club membership &amp; book
+training range on their own.</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Taekwondo (Wednesdays only)</p>
+<p>Taekwondo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dance Studio 2 (Level 2)</p>
+<p>Studio 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohd Yazid</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Members will need to pay for personal set of training attire and grading.</p>
+<p>&nbsp;</p>
+<p>Wednesday only</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="4">
 <p><strong>Visual and Performing Arts</strong> 
-<br>Wednesdays 2.30pm – 5.30pm</p>
+<br>Mondays and Wednesdays 2.30pm – 5.30pm</p>
 </td>
 </tr>
 <tr>
@@ -99,10 +122,13 @@ variant: tiptap
 <p>Digital Media Design in Visual Arts Club (DMA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Computer Lab 3</p>
+<p>Computer Lab 2-1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Shu Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -115,16 +141,22 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Nurul Diyana Hashim</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Concert Band</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Music Room</p>
+<p>Music Room/ Resource Room 2/ Cosmix</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Imarah Bin Abas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -132,11 +164,13 @@ variant: tiptap
 <p>Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dance Studio 1
-<br>(Level 1)</p>
+<p>Dance Studio</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chen Jialiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -149,22 +183,28 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Chow Cai Wen</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Guitar Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Studio 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Tan Ying Jo-Anne</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="4">
 <p><strong>Uniformed Groups</strong> 
-<br>NCC, NCDCC, NPCC - Wednesday 2.30pm – 6pm
+<br>Wednesday 3pm - 6pm
 <br>BB and GB - Saturday 8.30am – 12.30pm</p>
 </td>
 </tr>
@@ -179,6 +219,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Preston Tay</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -191,6 +234,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Adeline Fam</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -201,6 +247,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Jeremy Tng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -214,6 +263,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Rudy Swandi</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -225,6 +277,16 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Jeremiah Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p><strong>Clubs &amp; Societies</strong>
+<br>Wednesdays 3 pm - 6 pm
+<br>Robotics - Friday 2.30 pm - 5.30 pm</p>
 </td>
 </tr>
 </tbody>
