@@ -595,4 +595,94 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h3>Cohort 4 &amp; 5</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Form Teacher(s)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Empathy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nurul Diyanah Misdi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Honour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sumaya Jahan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Diligence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Diyanah Yunos</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Soo Jun Hao</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Joann Ganesan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Harmony</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Rebecca Ng
+<br>Mr Jeremy Tng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Janet Peh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Kindness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Uvarani Munusamy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chen Jialiang</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
