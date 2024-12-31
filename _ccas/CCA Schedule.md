@@ -289,6 +289,62 @@ training range on their own.</p>
 <br>Robotics - Friday 2.30 pm - 5.30 pm</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Robotics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Computer Lab 1-2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Wong Hui Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ECO Warriors</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Biology Lab 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cheak Su Peng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Library &amp; Media</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cosmix</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Vishnu Preyei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Audio-visual Innovators (AI)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Computer Lab 1-1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Jacqueline Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
