@@ -380,4 +380,80 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h3>Cohort 1</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Form Teacher(s)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Ying Jo-Anne
+<br>Mr He Jiaen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Honour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Simon Tay</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Diligence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Kalaivani</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lau Sou Fong
+<br>Ms Siti Aisyah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Kamal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Kindness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yusra Abd Razak
+<br>Mr Koh Tze Hou</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Empathy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Preston Tay</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
