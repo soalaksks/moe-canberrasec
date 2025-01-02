@@ -114,7 +114,8 @@ training range on their own.</p>
 <tr>
 <td rowspan="1" colspan="4">
 <p><strong>Visual and Performing Arts</strong> 
-<br>Mondays and Wednesdays 2.30pm – 5.30pm</p>
+<br>Mondays and Wednesdays 3 pm – 5.30 pm
+<br>Dance 3 pm - 5 pm</p>
 </td>
 </tr>
 <tr>
@@ -167,7 +168,8 @@ training range on their own.</p>
 <p>Dance Studio</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chen Jialiang</p>
+<p>Mr Chen Jialiang
+<br>Ms Fang Xiaolu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
