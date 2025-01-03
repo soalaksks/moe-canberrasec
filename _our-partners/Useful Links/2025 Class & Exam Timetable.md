@@ -284,7 +284,8 @@ third_nav_title: Useful Links
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2025/3_Integrity_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">3 Integrity Sem 1 Even Wk</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -296,7 +297,8 @@ third_nav_title: Useful Links
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2025/3_Harmony_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">3 Harmony Sem 1 Even Wk</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -308,7 +310,8 @@ third_nav_title: Useful Links
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2025/3_Respect_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">3 Respect Sem 1 Even Wk</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -320,7 +323,8 @@ third_nav_title: Useful Links
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2025/3_Kindness_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">3 Kindness Sem 1 Even Wk</a>
+</p>
 </td>
 </tr>
 </tbody>
