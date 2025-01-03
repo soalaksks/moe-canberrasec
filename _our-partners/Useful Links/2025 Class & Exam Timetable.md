@@ -245,7 +245,8 @@ third_nav_title: Useful Links
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2025/3_Empathy_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">3 Empathy Sem 1 Even Wk</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -257,7 +258,8 @@ third_nav_title: Useful Links
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2025/3_Honour_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">3 Honour Sem 1 Even Wk</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -269,7 +271,8 @@ third_nav_title: Useful Links
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2025/3_Diligence_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">3 Diligence Sem 1 Even Wk</a>
+</p>
 </td>
 </tr>
 <tr>
