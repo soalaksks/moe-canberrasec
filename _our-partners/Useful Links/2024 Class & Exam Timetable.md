@@ -26,7 +26,8 @@ third_nav_title: Useful Links
 <p>1 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2025/1_Diligence_Sem_1_Odd_Wk.pdf" rel="noopener nofollow" target="_blank">1 Diligence Sem 1 Odd Wk</a>
+</p>
 </td>
 </tr>
 <tr>
