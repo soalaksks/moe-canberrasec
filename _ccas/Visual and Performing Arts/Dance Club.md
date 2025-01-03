@@ -124,7 +124,7 @@ Function (23<sup>rd</sup> Feb 2024)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chen Jialiang</p>
-<p>Ms Nurul Diyana Binte Hashim</p>
+<p>Ms Fang Xiaolu</p>
 </td>
 </tr>
 <tr>
@@ -133,7 +133,8 @@ Function (23<sup>rd</sup> Feb 2024)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday: 2:30pm – 5:30pm</p>
+<p>Monday &amp; Wednesday
+<br>3 pm - 5 pm</p>
 </td>
 </tr>
 </tbody>
