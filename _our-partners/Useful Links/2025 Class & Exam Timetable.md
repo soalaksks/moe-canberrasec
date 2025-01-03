@@ -34,7 +34,8 @@ third_nav_title: Useful Links
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2025/1_Diligence_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">1 Diligence Sem 1 Even Wk</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +47,8 @@ third_nav_title: Useful Links
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2025/1_Empathy_Sem_1_Even_Wk.pdf" rel="noopener nofollow" target="_blank">1 Empathy Sem 1 Even Wk</a>
+</p>
 </td>
 </tr>
 <tr>
