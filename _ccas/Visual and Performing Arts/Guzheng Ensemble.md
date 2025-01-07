@@ -65,7 +65,7 @@ community by continuing to perform at various events.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yap Hui San</p>
+<p>Ms Chow Cai Wen</p>
 <p>Mr Mohamed Nor Ariffin Ismail</p>
 </td>
 </tr>
@@ -75,7 +75,7 @@ community by continuing to perform at various events.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday 2.30 pm – 5.30 pm</p>
+<p>Wednesday 3 pm – 6 pm</p>
 </td>
 </tr>
 </tbody>
