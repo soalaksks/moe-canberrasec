@@ -37,7 +37,7 @@ journey.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tang Ying Jo-Anne</p>
+<p>Ms Tan Ying Jo-Anne</p>
 </td>
 </tr>
 <tr>
