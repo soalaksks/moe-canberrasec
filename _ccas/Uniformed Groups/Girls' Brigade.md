@@ -78,8 +78,7 @@ will leave a lasting positive legacy on our society.</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Ms Adeline Fam</p>
-<p>Ms Wong Mun Foong</p>
-<p>Ms Vishnu Preyei</p>
+<p>Ms Siti Aisyah</p>
 </td>
 </tr>
 <tr>
