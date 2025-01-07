@@ -322,7 +322,7 @@ and gain inspiration from their surroundings.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms. Goh Shu Hui</p>
-<p>Ms. Yusra Abd Razak</p>
+<p>Ms. Jamilene Tan</p>
 </td>
 </tr>
 <tr>
