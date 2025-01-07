@@ -47,7 +47,7 @@ coaches, who closely with the teachers in charge.</p>
 <p>&nbsp;Mid-Year &amp; Year-end Bonding Activities</p>
 </li>
 </ul>
-<p><strong><u>Highlights and Achievements </u></strong>
+<p><strong><u>Highlights and Achievements</u></strong>
 </p>
 <p>Both B Boys &amp; Girls have qualified for Quarter Finals in the NZ Badminton
 NSG B Division Tournament.</p>
@@ -60,7 +60,7 @@ NSG Tournament.</p>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; Mr Ho Ngiap Tuan</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp; Mr Lok Chee How</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp; Ms Joann David</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp; Mrs Chan Boon Hwee</p>
 <p></p>
 <p><strong><u>Training Days &amp; Time</u></strong>
 </p>
