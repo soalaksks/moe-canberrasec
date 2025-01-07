@@ -53,8 +53,8 @@ while providing leadership and guidance to the new members.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Jo Ann</p>
-<p>Mr Seth Lim</p>
+<p>Mr Imarah Bin Abas
+<br>Mrs Cheung - Sim Yi Lian</p>
 </td>
 </tr>
 <tr>
@@ -63,7 +63,7 @@ while providing leadership and guidance to the new members.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday 2.30 pm - 5.30 pm</p>
+<p>Wednesday 3 pm - 5.30 pm</p>
 </td>
 </tr>
 </tbody>
