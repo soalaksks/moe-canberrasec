@@ -37,7 +37,8 @@ journey.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Ying Jo-Anne</p>
+<p>Ms Tan Ying Jo-Anne
+<br>Mrs Zoanne Tay</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +47,7 @@ journey.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesdays 2.30 pm - 5.30 pm</p>
+<p>Wednesdays 3 pm - 5.30 pm</p>
 </td>
 </tr>
 </tbody>
