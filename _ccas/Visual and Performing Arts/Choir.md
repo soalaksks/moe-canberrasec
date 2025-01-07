@@ -65,9 +65,8 @@ experience, marking a key moment in the students' musical development.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Hee-Lim GK</p>
-<p>&nbsp;</p>
-<p>Mr Quek Yeow Chong</p>
+<p>Ms Nurul Diyana Hashim
+<br>Ms Wong Mun Foong</p>
 </td>
 </tr>
 <tr>
@@ -76,7 +75,7 @@ experience, marking a key moment in the students' musical development.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday 2:30 pm – 5:30 pm</p>
+<p>Wednesday 3 pm – 5:30 pm</p>
 </td>
 </tr>
 </tbody>
