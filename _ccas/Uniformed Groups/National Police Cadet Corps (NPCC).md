@@ -106,9 +106,7 @@ for Unit Overall Proficiency Award (UOPA) 2023!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Imarah Abas</p>
 <p>Mr Jeremiah Tan</p>
-<p>Mr Shaik Allauddin</p>
 <p>Mrs Ho Liting Olivia</p>
 <p>Ms Ma Lijuan</p>
 </td>
