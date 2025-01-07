@@ -50,9 +50,8 @@ Poh Yu Xuan Benjamin, 4 Empathy</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jeremy Tng</p>
-<p>Mr Simon Tay</p>
-<p>Mr Benjamin Chong</p>
+<p>Mr Preston Tay
+<br>Mr Koh Tze Hou</p>
 </td>
 </tr>
 <tr>
