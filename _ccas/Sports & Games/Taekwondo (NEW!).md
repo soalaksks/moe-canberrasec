@@ -35,7 +35,7 @@ that participants grow not only as athletes but also as well-rounded individuals
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Karthigesu Chandra</p>
+<p>Mr Mohd Yazid</p>
 </td>
 </tr>
 <tr>
@@ -44,7 +44,7 @@ that participants grow not only as athletes but also as well-rounded individuals
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday: 2.30 pm - 5.30 pm</p>
+<p>Wednesday: 3 pm - 5.30 pm</p>
 </td>
 </tr>
 </tbody>
