@@ -133,11 +133,10 @@ to receive the prestigious NCC Outstanding Cadet Award 2023</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Qi Guang</p>
+<p>Mr Jeremy Tng</p>
 <p>Mr Soo Jun Hao</p>
 <p>Mdm Sanismah</p>
-<p>Mdm Sumaya Jahan</p>
-<p>Ms Rebecca Ng</p>
+<p>Mr Javier Chew</p>
 </td>
 </tr>
 <tr>
