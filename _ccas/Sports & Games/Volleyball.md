@@ -89,10 +89,7 @@ discipline, and sportsmanship.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Victoria Teo Jiaen</p>
-<p>Miss Uvarani Munusamy</p>
-<p>Miss Michelle Tham</p>
 <p>Mr Alan Lim</p>
-<p>Mr Javier Chew</p>
 </td>
 </tr>
 <tr>
