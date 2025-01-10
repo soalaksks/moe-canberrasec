@@ -32,7 +32,7 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Amanda Tan</p>
+<p>Mrs Tye-Ong Lay Yen</p>
 </td>
 </tr>
 <tr>
@@ -48,7 +48,7 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tye-Ong Lay Yen</p>
+<p>Mrs Amanda Tan</p>
 </td>
 </tr>
 </tbody>
@@ -223,7 +223,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Geography</p>
+<p>SH Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheak_su_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cheak Su Peng</a> (ext
