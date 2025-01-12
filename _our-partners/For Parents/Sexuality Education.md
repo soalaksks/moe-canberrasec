@@ -494,10 +494,11 @@ and others</p>
 <p>know that grief and loss due to rejections and broken relationships is
 normal and one can recover from the experience</p>
 </li>
+<li>
+<p>know there are healthy ways of coping with broken relationships, and family
+and friends are important pillars of support</p>
+</li>
 </ul>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know there are
-healthy ways of coping with broken relationships, and family and friends
-are important pillars of support</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 2</p>
@@ -521,14 +522,18 @@ also learn that sexting, voyeurism and other related sexual offences are
 never justifiable and they can seek help in times of need.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise
-the importance of being informed of social and moral issues of the day
-and the need to reflect on these issues, and weigh them against our own
-moral standpoints as we form our perspectives about them</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand
-that we strengthen our character when we commit to sound values-based viewpoints
-(e.g. respect for life) and decisions, and speak and act in alignment with
-our beliefs</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>recognise the importance of being informed of social and moral issues
+of the day and the need to reflect on these issues, and weigh them against
+our own moral standpoints as we form our perspectives about them</p>
+</li>
+<li>
+<p>understand that we strengthen our character when we commit to sound values-based
+viewpoints (e.g. respect for life) and decisions, and speak and act in
+alignment with our beliefs</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 4</p>
