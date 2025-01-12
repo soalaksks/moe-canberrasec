@@ -481,13 +481,20 @@ and that family and friends are important pillars of support.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that relationship-building
-involves personal emotions and vulnerabilities, and changes and challenges</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that a decision
-to end a relationship will have consequences on oneself and others</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that grief
-and loss due to rejections and broken relationships is normal and one can
-recover from the experience</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>know that relationship-building involves personal emotions and vulnerabilities,
+and changes and challenges</p>
+</li>
+<li>
+<p>know that a decision to end a relationship will have consequences on oneself
+and others</p>
+</li>
+<li>
+<p>know that grief and loss due to rejections and broken relationships is
+normal and one can recover from the experience</p>
+</li>
+</ul>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know there are
 healthy ways of coping with broken relationships, and family and friends
 are important pillars of support</p>
