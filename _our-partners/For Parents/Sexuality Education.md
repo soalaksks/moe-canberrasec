@@ -332,7 +332,6 @@ influence. The lesson encourages the safe and responsible use of social
 media, and aims to deepen students’ conviction, and extend a call to action
 to students to taking appropriate decisions to safeguard their well-being
 and safety.</p>
-<p>&nbsp;</p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
 </td>
@@ -820,8 +819,7 @@ family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 </li>
 </ol>
-<p><strong>At Canberra Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong>
-</p>
+<h4><strong>At Canberra Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
