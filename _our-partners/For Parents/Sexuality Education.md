@@ -294,7 +294,6 @@ by gender stereotypes, for example women can be pilots, while men can be
 nurses.</p>
 <p>Students learn to focus on their personal strengths to pursue their interests
 and build their self- confidence.</p>
-<p>&nbsp;</p>
 <p>Students will also learn about the definitions of biological sex, gender
 identity, gender expression and sexual orientation. They will learn to
 treat everyone with respect and empathy.</p>
