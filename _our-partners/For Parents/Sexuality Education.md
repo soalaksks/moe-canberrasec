@@ -597,12 +597,17 @@ to reframe their perspectives and not judge others based on their own or
 others’ values and principles, with regard to gender stereotypes.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand what gender stereotypes
-comprise, e.g. notions of masculinity and femininity vary over time and
-space, and are shaped by societal expectations</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that imposing gender
-stereotypes on oneself and others can limit one’s experiences, cause harm
-to the self-esteem of oneself and others and should be avoided</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>understand what gender stereotypes comprise, e.g. notions of masculinity
+and femininity vary over time and space, and are shaped by societal expectations</p>
+</li>
+<li>
+<p>know that imposing gender stereotypes on oneself and others can limit
+one’s experiences, cause harm to the self-esteem of oneself and others
+and should be avoided</p>
+</li>
+</ul>
 <p><em>&nbsp;</em>
 </p>
 </td>
@@ -629,19 +634,27 @@ or their friends are involved in an unhealthy relationship.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know there are healthy ways
-of coping with broken relationships, and family and friends are important
-pillars of support</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise emotions caused
-by traumatic situations, e.g. bullying, abuse and dating violence, and
-understand the physiological and psychological, social impact on victims</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that we need moral
-courage and wisdom to recognise and end relationships that are unhealthy
-and cause harm to our mental and emotional well-being</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand the importance
-of ensuring that non-verbal messages match with verbal ones, when communicating
-personal and emotional boundaries in a relationship</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>know there are healthy ways of coping with broken relationships, and family
+and friends are important pillars of support</p>
+</li>
+<li>
+<p>recognise emotions caused by traumatic situations, e.g. bullying, abuse
+and dating violence, and understand the physiological and psychological,
+social impact on victims</p>
+</li>
+<li>
+<p>understand that we need moral courage and wisdom to recognise and end
+relationships that are unhealthy and cause harm to our mental and emotional
+well-being</p>
+</li>
+<li>
+<p>understand the importance of ensuring that non-verbal messages match with
+verbal ones, when communicating personal and emotional boundaries in a
+relationship</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 1 Week 5</p>
