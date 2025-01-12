@@ -289,8 +289,8 @@ pornography access and acting irresponsibly or maliciously when online
 <td rowspan="1" colspan="1">
 <p>This lesson focus on how the family, culture and society can influence
 one’s perception of their gender roles. Students will learn what gender
-stereotypes are (e.g. males traditionally as breadwinners and females traditionally
-as doing household chores) and how gender stereotypes are formed. &nbsp;Students
+stereotypes are (e.g. males traditionally as breadwinners and females traditionallyas
+doing household chores) and how gender stereotypes are formed. Students
 will discuss how one’s understanding of gender roles should not be limited
 by gender stereotypes, for example women can be pilots, while men can be
 nurses.</p>
