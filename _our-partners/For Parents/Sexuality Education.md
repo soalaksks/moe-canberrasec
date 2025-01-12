@@ -803,19 +803,25 @@ alignment with our beliefs</p>
 </table>
 <p></p>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme developed
-by Health Promotion Board, in collaboration with the Ministry of Education,
-to provide Secondary 3 students with accurate information on STIs, HIV
-and protection from a health perspective. <em>eTeens</em> is conducted in
-two segments – a mass talk segment and a classroom-based programme. The
-desired outcome of the <em>eTeens</em> programme is that students are empowered
-to make wise, informed and sensible decisions.</p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught skills such
-as decision-making, assertiveness and negotiation to say “no” to sex and
-negative peer pressure. They also learn that the impact of STIs/HIV extends
-beyond themselves and involves their family, and the importance of responsible
-decision-making and seeking help. Abstinence and upholding family values
-are the key messages.</p>
+<ol start="8" data-tight="true" class="tight">
+<li>
+<p><em>eTeens</em> is a programme developed by Health Promotion Board, in
+collaboration with the Ministry of Education, to provide Secondary 3 students
+with accurate information on STIs, HIV and protection from a health perspective. <em>eTeens</em> is
+conducted in two segments – a mass talk segment and a classroom-based programme.
+The desired outcome of the <em>eTeens</em> programme is that students are
+empowered to make wise, informed and sensible decisions.
+<br>
+</p>
+</li>
+<li>
+<p>Students are taught skills such as decision-making, assertiveness and
+negotiation to say “no” to sex and negative peer pressure. They also learn
+that the impact of STIs/HIV extends beyond themselves and involves their
+family, and the importance of responsible decision-making and seeking help.
+Abstinence and upholding family values are the key messages.</p>
+</li>
+</ol>
 <p><strong>At Canberra Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong>
 </p>
 <table style="minWidth: 75px">
@@ -847,11 +853,10 @@ are the key messages.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Raise awareness and provide knowledge on:</p>
-<p>a)&nbsp;&nbsp;&nbsp;&nbsp; Infectious diseases (STIs and HIV): what it
-is, how it spreads, how to prevent infection mainly through ABC (abstinence,
-being faithful, correct, and consistent condom use).</p>
-<p>b)&nbsp;&nbsp;&nbsp;&nbsp; Managing relationships and risky situations
-in a healthy way.</p>
+<p>a)&nbsp;Infectious diseases (STIs and HIV): what it is, how it spreads,
+how to prevent infection mainly through ABC (abstinence, being faithful,
+correct, and consistent condom use).</p>
+<p>b) Managing relationships and risky situations in a healthy way.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 5</p>
