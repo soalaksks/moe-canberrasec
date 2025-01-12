@@ -337,12 +337,15 @@ and safety.</p>
 <p>&nbsp;</p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; recognise one’s vulnerability to risky situations
-and the importance of exercising discretion to reduce risks and avoid negative
-consequences, both online and offline</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>recognise one’s vulnerability to risky situations and the importance of
+exercising discretion to reduce risks and avoid negative consequences,
+both online and offline</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 8</p>
@@ -362,14 +365,19 @@ This lesson emphasises the importance of responsible decision-making, the
 value of sexual abstinence, the need for help seeking. Students will be
 aware of Singapore laws protecting minors, such as the legal consequences
 of having sex with a minor, abortion and the abandonment of babies.&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance of self-respect
-and respect for others in relating to members of the opposite sex</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise one’s vulnerability to risky
-situations and the importance of exercising discretion to reduce risks
-and avoid negative consequences, both offline and online</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>recognise the importance of self-respect and respect for others in relating
+to members of the opposite sex</p>
+</li>
+<li>
+<p>recognise one’s vulnerability to risky situations and the importance of
+exercising discretion to reduce risks and avoid negative consequences,
+both offline and online</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 9</p>
@@ -378,46 +386,7 @@ and avoid negative consequences, both offline and online</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p></p>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Secondary 3</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <table style="minWidth: 125px">
 <colgroup>
