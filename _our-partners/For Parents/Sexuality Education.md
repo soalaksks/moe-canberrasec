@@ -46,12 +46,11 @@ ones.
 <br>
 </p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information on MOE Sexuality Education</p>
+	more information on MOE Sexuality Education</p></li>
 <p></p>
 <h3><strong>Overview of Canberra Secondary School’s Sexuality Education Programme for 2025</strong></h3>
-</li>
 <li>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
+<p>Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
 Education is grouped into five main themes: Human Development, Interpersonal
 Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and
