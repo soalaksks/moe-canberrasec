@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: For Parents
 ---
-<h3><strong>Moe Sexuality Education in Schools</strong></h3>
+<h3><strong>MOE Sexuality Education in Schools</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>&nbsp;Sexuality Education (SEd) in schools aims to enable students to
