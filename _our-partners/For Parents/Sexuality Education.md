@@ -301,7 +301,6 @@ and build their self- confidence.</p>
 <p>Students will also learn about the definitions of biological sex, gender
 identity, gender expression and sexual orientation. They will learn to
 treat everyone with respect and empathy.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
