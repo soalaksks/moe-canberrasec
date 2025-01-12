@@ -191,9 +191,13 @@ of self.&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that physical and
-psychological abuse from others, especially those we know and trust, can
-have strong negative effects on a person’s self-concept</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>understand that physical and psychological abuse from others, especially
+those we know and trust, can have strong negative effects on a person’s
+self-concept</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 5</p>
@@ -217,14 +221,18 @@ will learn that it could lead to addiction and/or other risky sexual behaviours.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand and accept that
-as we work towards becoming our best self, there will be times when we
-make mistakes, and recognise the importance of exercising moral courage
-in facing up to consequences</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise that there are moral
-and legal consequences of risky sexual behaviours, pornography access and
-acting irresponsibly or maliciously when online (e.g. spreading of online
-falsehoods, flouting copyright laws, etc.)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>understand and accept that as we work towards becoming our best self,
+there will be times when we make mistakes, and recognise the importance
+of exercising moral courage in facing up to consequences</p>
+</li>
+<li>
+<p>recognise that there are moral and legal consequencesof risky sexual behaviours,
+pornography access and acting irresponsibly or maliciously when online
+(e.g. spreading of online falsehoods, floutingcopyright laws, etc.)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 6</p>
@@ -233,13 +241,7 @@ falsehoods, flouting copyright laws, etc.)</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Secondary 2</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <table style="minWidth: 125px">
 <colgroup>
