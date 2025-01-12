@@ -228,7 +228,7 @@ of exercising moral courage in facing up to consequences</p>
 <li>
 <p>recognise that there are moral and legal consequencesof risky sexual behaviours,
 pornography access and acting irresponsibly or maliciously when online
-(e.g. spreading of online falsehoods, floutingcopyright laws, etc.)</p>
+(e.g. spreading of online falsehoods, flouting copyright laws, etc.)</p>
 </li>
 </ul>
 </td>
