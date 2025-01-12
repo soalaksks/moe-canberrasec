@@ -444,16 +444,21 @@ entering into a dating relationship.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that self-perception
-and identity have an impact on our self-esteem and how we interact with
-others and the choices we make, both online and offline</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that
-expectations of oneself and others may differ and can affect one’s emotions,
-thoughts and behaviours</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise what
-healthy dating relationships involve and know that readiness is important
-when entering into a dating relationship</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>know that self-perception and identity have an impact on our self-esteem
+and how we interact with others and the choices we make, both online and
+offline</p>
+</li>
+<li>
+<p>understand that expectations of oneself and others may differ and can
+affect one’s emotions, thoughts and behaviours</p>
+</li>
+<li>
+<p>recognise what healthy dating relationships involve and know that readiness
+is important when entering into a dating relationship</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 1 Week 9</p>
