@@ -667,24 +667,33 @@ relationship</p>
 <p>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">This lesson focuses on building a positive relationship with one’s partner in a marriage. Students will understand that while a marriage, defined in Singapore as a union between a man and a woman, requires mutual commitment and effort like the other relationships in their lives, what sets a marriage apart is its lifelong commitment.</a>
-</p>
-<p>&nbsp;Students will learn that what really matters in &nbsp;sustaining
-and maintaining a long-term romantic relationship that leads to marriage,
-is understanding the other person’s perspective and effectively communicating
-with each other.&nbsp;</p>
+<p>This lesson focuses on building a positive relationship with one’s partner
+in a marriage. Students will understand that while a marriage, defined
+in Singapore as a union between a man and a woman, requires mutual commitment
+and effort like the other relationships in their lives, what sets a marriage
+apart is its lifelong commitment.</p>
+<p>Students will learn that what really matters in sustaining and maintaining
+a long-term romantic relationship that leads to marriage, is understanding
+the other person’s perspective and effectively communicating with each
+other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that long-term romantic
-relationships leading to marriage involve understanding oneself and others
-in the intellectual, emotional, social and moral dimensions</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that marriage entails
-a union between a man and a woman based on love, trust, commitment, and
-requires mutual effort</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that conflicts
-are normal in any relationship, including marriage, and the way in which
-a couple handles conflict is critical to the success of their marriage</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>know that long-term romantic relationships leading to marriage involve
+understanding oneself and others in the intellectual, emotional, social
+and moral dimensions</p>
+</li>
+<li>
+<p>know that marriage entails a union between a man and a woman based on
+love, trust, commitment, and requires mutual effort</p>
+</li>
+<li>
+<p>understand that conflicts are normal in any relationship, including marriage,
+and the way in which a couple handles conflict is critical to the success
+of their marriage</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 1 Week 7</p>
