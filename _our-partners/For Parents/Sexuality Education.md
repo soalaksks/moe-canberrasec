@@ -157,8 +157,8 @@ online and offline.</p>
 in helpful ways that are reflective of our values and principles</p>
 </li>
 <li>
-<p>recognise that there are different forms of love (e.g. familial,platonic,romantic
-love)</p>
+<p>recognise that there are different forms of love (e.g. familial, platonic,
+romantic love)</p>
 </li>
 <li>
 <p>recognise the importance of, and understand what builds healthy and supportive
