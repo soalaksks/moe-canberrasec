@@ -62,7 +62,7 @@ variant: tiptap
 <br>Level 1 &amp; Level 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teo Jiaen, Victoria</p>
+<p>Ms Victoria Teo</p>
 <p>67585070 ext 220</p>
 <p><a href="mailto:teo_jiaen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_jiaen@schools.gov.sg</a>
 </p>
@@ -250,7 +250,7 @@ training range on their own.</p>
 <p>Parade Square</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tay Tzu-Lin, Preston</p>
+<p>Mr Preston Tay</p>
 <p>67585070 ext 242</p>
 <p><a href="mailto:Preston_Tay_Tzu_Lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Preston_Tay_Tzu_Lin@schools.gov.sg</a>
 </p>
@@ -268,7 +268,7 @@ training range on their own.</p>
 <p>Parade Square</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Fam Rong'en, Adeline</p>
+<p>Ms Adeline Fam</p>
 <p>67585070 ext 203</p>
 <p><a href="mailto:fam_rongen_adeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fam_rongen_adeline@schools.gov.sg</a>
 </p>
@@ -285,7 +285,7 @@ training range on their own.</p>
 <p>Parade Square</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jeremy Tng Ying Xiang</p>
+<p>Mr Jeremy Tng</p>
 <p>67585070 ext 231</p>
 <p><a href="mailto:Jeremy_Tng_Ying_Xiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jeremy_Tng_Ying_Xiang@schools.gov.sg</a>
 </p>
