@@ -98,6 +98,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr He Jiaen</p>
+<p>67585070 ext 234</p>
+<p><a href="mailto:he_jiaen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">he_jiaen@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Members will need to pay for SAFRA Shooting Club membership &amp; book
@@ -113,11 +116,15 @@ training range on their own.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohd Yazid</p>
+<p>67585070 ext 210</p>
+<p><a href="mailto:Mohd_Yazid_Md_Yatim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mohd_Yazid_Md_Yatim@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Members will need to pay for personal set of training attire and grading.</p>
 <p>&nbsp;</p>
-<p>Wednesday only</p>
+<p><strong>Wednesday only</strong>
+</p>
 </td>
 </tr>
 <tr>
