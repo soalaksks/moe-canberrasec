@@ -75,7 +75,8 @@ experience, marking a key moment in the students' musical development.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday 3 pm – 5:30 pm</p>
+<p>Monday 3pm - 5pm</p>
+<p>Wednesday 3pm – 6pm</p>
 </td>
 </tr>
 </tbody>
