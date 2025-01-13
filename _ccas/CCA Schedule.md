@@ -142,6 +142,9 @@ training range on their own.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Shu Hui</p>
+<p>67585070 ext 257</p>
+<p><a href="mailto:goh_shu_hui_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_shu_hui_b@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -155,7 +158,10 @@ training range on their own.</p>
 <p>AVA Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurul Diyana Hashim</p>
+<p>Ms Nurul Diyana Binte Hashim</p>
+<p>67585070 ext 205</p>
+<p><a href="mailto:Nurul_diyana_hashim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nurul_diyana_hashim@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -170,6 +176,9 @@ training range on their own.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Imarah Bin Abas</p>
+<p>67585070 ext 252</p>
+<p><a href="mailto:Imarah_B_Abas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Imarah_B_Abas@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -183,8 +192,10 @@ training range on their own.</p>
 <p>Dance Studio</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chen Jialiang
-<br>Ms Fang Xiaolu</p>
+<p>Mr Chen Jialiang</p>
+<p>67585070 ext 222</p>
+<p><a href="mailto:chen_jialiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_jialiang@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 pm - 5 pm</p>
@@ -199,6 +210,9 @@ training range on their own.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chow Cai Wen</p>
+<p>67585070 ext 213</p>
+<p><a href="mailto:Chow_Cai_Wen@schools.gov.sg" rel="noopener nofollow" target="_blank">Chow_Cai_Wen@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -212,7 +226,10 @@ training range on their own.</p>
 <p>Studio 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Tan Ying Jo-Anne</p>
+<p>Ms Tan Ying Jo-Anne</p>
+<p>67585070 ext 201</p>
+<p><a href="mailto:Tan_Ying_Jo-Anne@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Ying_Jo-Anne@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3pm - 6 pm</p>
