@@ -350,7 +350,7 @@ training range on their own.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday
+<p><strong>Friday</strong> 
 <br>2.30 pm - 5.30 pm</p>
 </td>
 </tr>
