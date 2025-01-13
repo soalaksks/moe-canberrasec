@@ -303,7 +303,10 @@ training range on their own.</p>
 <p>Parade Square</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Rudy Swandi</p>
+<p>Mr Rudy Bin Swandi</p>
+<p>67585070 ext 219</p>
+<p><a href="mailto:Rudy_Swandi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Rudy_Swandi@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -319,6 +322,9 @@ training range on their own.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Jeremiah Tan</p>
+<p>67585070 ext 211</p>
+<p><a href="mailto:Jeremiah_Tan_Teck_Xuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jeremiah_Tan_Teck_Xuan@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
