@@ -250,10 +250,13 @@ training range on their own.</p>
 <p>Parade Square</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Preston Tay</p>
+<p>Mr Tay Tzu-Lin, Preston</p>
+<p>67585070 ext 242</p>
+<p><a href="mailto:Preston_Tay_Tzu_Lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Preston_Tay_Tzu_Lin@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Saturday 8.30am – 12.30pm</p>
+<p><strong>Saturday</strong> 8.30am – 12.30pm</p>
 </td>
 </tr>
 <tr>
@@ -268,7 +271,7 @@ training range on their own.</p>
 <p>Ms Adeline Fam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Saturday 8.30am – 12.30pm</p>
+<p><strong>Saturday</strong> 8.30am – 12.30pm</p>
 </td>
 </tr>
 <tr>
