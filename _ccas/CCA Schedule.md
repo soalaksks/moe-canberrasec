@@ -44,7 +44,10 @@ variant: tiptap
 <p>School Hall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lok Chee How</p>
+<p>Mr Ho Ngiap Tuan</p>
+<p>67585070 ext 231</p>
+<p><a href="mailto:ho_ngiap_tuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_ngiap_tuan@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -56,10 +59,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Indoor Sports Hall
-<br>Level 1</p>
+<br>Level 1 &amp; Level 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Victoria Teo</p>
+<p>Ms Teo Jiaen, Victoria</p>
+<p>67585070 ext 220</p>
+<p><a href="mailto:teo_jiaen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_jiaen@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
