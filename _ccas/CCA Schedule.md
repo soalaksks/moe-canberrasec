@@ -344,7 +344,10 @@ training range on their own.</p>
 <p>Computer Lab 1-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Hui Yi</p>
+<p>Mdm Wong Hui Yi
+<br>67585070 ext 202</p>
+<p><a href="mailto:Wong_Hui_Yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Wong_Hui_Yi@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Friday
@@ -359,7 +362,10 @@ training range on their own.</p>
 <p>Biology Lab 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cheak Su Peng</p>
+<p>Ms Cheak Su Peng
+<br>67585070 ext 210</p>
+<p><a href="mailto:Cheak_Su_Peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Cheak_Su_Peng@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -373,7 +379,10 @@ training range on their own.</p>
 <p>Cosmix</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Vishnu Preyei</p>
+<p>Ms Vishnu Preyei
+<br>67585070 ext 208</p>
+<p><a href="mailto:Vishnu_Preyei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Vishnu_Preyei@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -387,7 +396,10 @@ training range on their own.</p>
 <p>Computer Lab 1-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Jacqueline Koh</p>
+<p>Miss Jacqueline Koh
+<br>62571915</p>
+<p><a href="mailto:Koh_Mei_Fang_Jacqueline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Koh_Mei_Fang_Jacqueline@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
