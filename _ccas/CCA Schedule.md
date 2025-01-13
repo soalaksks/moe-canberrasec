@@ -79,7 +79,10 @@ variant: tiptap
 <p>Parade Square</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Rezkiah</p>
+<p>Ms Siti Rezkiah Bte Mohd Radzelee</p>
+<p>67585070 ext 204</p>
+<p><a href="mailto:siti_rezkiah_mohd_radzelee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_rezkiah_mohd_radzelee@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
