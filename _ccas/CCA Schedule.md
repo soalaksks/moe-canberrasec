@@ -268,7 +268,10 @@ training range on their own.</p>
 <p>Parade Square</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Adeline Fam</p>
+<p>Ms Fam Rong'en, Adeline</p>
+<p>67585070 ext 203</p>
+<p><a href="mailto:fam_rongen_adeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fam_rongen_adeline@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Saturday</strong> 8.30am – 12.30pm</p>
@@ -282,7 +285,10 @@ training range on their own.</p>
 <p>Parade Square</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jeremy Tng</p>
+<p>Mr Jeremy Tng Ying Xiang</p>
+<p>67585070 ext 231</p>
+<p><a href="mailto:Jeremy_Tng_Ying_Xiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jeremy_Tng_Ying_Xiang@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
