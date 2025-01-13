@@ -114,8 +114,7 @@ training range on their own.</p>
 <tr>
 <td rowspan="1" colspan="4">
 <p><strong>Visual and Performing Arts</strong> 
-<br>Mondays and Wednesdays 3 pm – 5.30 pm
-<br>Dance 3 pm - 5 pm</p>
+<br>Mondays and Wednesdays 3 pm – 5.30 pm</p>
 </td>
 </tr>
 <tr>
@@ -172,7 +171,7 @@ training range on their own.</p>
 <br>Ms Fang Xiaolu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3 pm - 5 pm</p>
 </td>
 </tr>
 <tr>
@@ -200,14 +199,13 @@ training range on their own.</p>
 <p>Miss Tan Ying Jo-Anne</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3pm - 6 pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
 <p><strong>Uniformed Groups</strong> 
-<br>Wednesday 3pm - 6pm
-<br>BB and GB - Saturday 8.30am – 12.30pm</p>
+<br>Wednesday 3pm - 6pm</p>
 </td>
 </tr>
 <tr>
@@ -222,7 +220,7 @@ training range on their own.</p>
 <p>Mr Preston Tay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Saturday 8.30am – 12.30pm</p>
 </td>
 </tr>
 <tr>
@@ -237,7 +235,7 @@ training range on their own.</p>
 <p>Ms Adeline Fam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Saturday 8.30am – 12.30pm</p>
 </td>
 </tr>
 <tr>
@@ -287,8 +285,7 @@ training range on their own.</p>
 <tr>
 <td rowspan="1" colspan="4">
 <p><strong>Clubs &amp; Societies</strong>
-<br>Wednesdays 3 pm - 6 pm
-<br>Robotics - Friday 2.30 pm - 5.30 pm</p>
+<br>Wednesdays 3 pm - 6 pm</p>
 </td>
 </tr>
 <tr>
@@ -302,7 +299,8 @@ training range on their own.</p>
 <p>Mdm Wong Hui Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Friday
+<br>2.30 pm - 5.30 pm</p>
 </td>
 </tr>
 <tr>
