@@ -47,7 +47,7 @@ journey.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesdays 3 pm - 5.30 pm</p>
+<p>Wednesdays 3 pm - 6 pm</p>
 </td>
 </tr>
 </tbody>
