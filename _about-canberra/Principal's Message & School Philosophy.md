@@ -7,61 +7,64 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="max-width: 240px; height: auto;" height="auto" width="100%" src="/images/MR%20LEONG%20KOK%20KEE_cropped.jpg">
 </div>
-<p>I am both honoured and excited to commence my role as the Principal of
-Canberra Secondary School. Embarking on this journey with each of you is
-a privilege, and I am committed to steering our school with purpose and
-passion. Education, to me, is not just a destination but an ongoing expedition
-of growth and discovery. Our collective journey at Canberra is one of continuous
-learning, adaptation, and progress.</p>
-<p>In my leadership journey, I firmly adhere to the belief that we should
-be "First to SERVE, then to LEAD." Leadership, in its truest form, is a
-commitment to serving others before oneself. Through service, we will build
-a foundation of trust, collaboration, and mutual respect. Together, we
-will continue to foster a culture where Gratitude, Respect, and Compassion
-are lived experiences for all our students and staff.</p>
-<p>Moreover, I am guided by the conviction that we must always leave a place
-better than we found it, ensuring that our actions contribute to the continual
-improvement and enrichment of our students and staff. In Canberra, we are
-anchored in values and purpose, recognising that the foundation of our
-educational community lies in the shared commitment to uphold essential
-principles. These values will serve as the compass directing our actions
-and decisions.</p>
-<p>At the heart of our mission are the beliefs that we value every student.
-We firmly acknowledge that every student wants to learn and that, indeed,
-all can learn. It is our duty to foster an environment where these aspirations
-can flourish, creating a culture of curiosity, engagement, and achievement.</p>
-<p>As we navigate the changing landscape for our students, characterised
-by accelerated technological changes, an increasingly fragmented world,
-and an evolving social fabric, we must prepare our students to connect,
-create, and collaborate. It is our responsibility to equip them with the
-skills and mindset necessary to thrive in this dynamic environment.</p>
-<p>Our school programmes are designed with a clear focus to instil in our
-students a passion for lifelong learning, equipping them with the skills
-and knowledge necessary to thrive in an ever-evolving world. Our programmes
-are inclusive and tailored to meet the needs of every Canberran, recognizing
-and celebrating their unique perspectives, abilities, and backgrounds.
-The well-being of our students is paramount. We are dedicated to creating
-a supportive and nurturing environment that promotes not only academic
-success but also the overall health and happiness of each student.</p>
-<p>Recognising the rapid evolution of our education landscape and workplaces,
-we are preparing our students for the dynamic future that awaits them.
-Our teachers, the guiding forces in this journey, will embark on Professional
-Development programmes, including the Teacher Work Attachment Plus (TWA+)
-programme. This aims to equip our educators to guide students through the
-volatile, uncertain, complex, and ambiguous (VUCA) challenges that lie
-ahead. The TWA+ programme, with its learning journeys and work attachments
-in diverse sectors, will broaden our teachers' perspectives, enriching
-their teaching and empowering them to guide students in making informed
-choices about their educational and career pathways.</p>
-<p>I am excited about the promising future awaiting Canberra Secondary School.
-As we embark on this collective journey, let us embrace the path ahead
-with open hearts and minds. Our shared commitment to service, leadership,
-and leaving a lasting impact will serve as our guiding light, leading us
-towards new horizons of achievement. Together,&nbsp; we will seize these
-opportunities for growth, learning, and collaboration, navigating the ever-changing
-landscape of education to prepare our students for success in the world
-beyond.</p>
-<p>&nbsp;</p>
+<p>I am filled with immense pride and excitement as we embark on another
+chapter of our shared journey at Canberra Secondary School. This year,
+we embark on a bold new chapter guided by the theme “Envisioning 2030 –
+Charting &amp; Setting Directions for the Next Lap”. Together, we aim to
+nurture Future-Ready Canberrans who are global-minded, resilient, and equipped
+to thrive in a dynamic world.</p>
+<p>At Canberra, our vision is clear: Nurturing Future-Ready Canberrans. Our
+mission, Growing Minds, Glowing Hearts, and core values of Gratitude, Respect,
+and Compassion remain steadfast as the foundation of our educational community.
+These principles drive our efforts to ensure every student is prepared
+not only academically but also as a valued creator, connector, and contributor
+to society.</p>
+<p>In line with this vision, our strategic focus this year is anchored in
+three key areas that will guide our efforts to shape a dynamic and future-ready
+school environment. The first area of focus is Developing a Rigorous Curriculum,
+where our aim is to nurture Grateful Creators through cognitive excellence
+and mastery of nine essential digital competencies. These competencies
+are crucial for equipping our students to thrive in a rapidly evolving
+world shaped by technological advancements, ensuring they are well-prepared
+to face future challenges.</p>
+<p>The second focus is Enhancing the Co-Curriculum, which centers on fostering
+Respectful Connectors and Compassionate Contributors. By building character
+and leadership excellence through a holistic co-curricular experience,
+we are committed to helping our students grow not only intellectually but
+also as empathetic, socially responsible individuals who can positively
+impact their communities. Finally, we are committed to Empowering Staff
+Capacity and Capabilities. Our dedicated educators play a pivotal role
+in this transformative journey. Through initiatives such as the Teacher
+Growth Model (2024), we aim to support our teachers in developing future-ready
+learners and innovators. This investment in professional growth ensures
+our educators continue to inspire and equip students to achieve their fullest
+potential.</p>
+<p>This year, we are also refreshing our 21st Century Competencies (21CC)
+framework, focusing on the emerging priority competencies of Adaptive Thinking,
+Communication, Civic Literacy, and Inventive Thinking. By emphasizing these
+skills, we prepare our students to navigate the evolving educational and
+global landscapes with confidence and agility. Reflecting our belief in
+the adage “From the School as Our World to the World as Our School,” our
+students will embrace opportunities for authentic, real-world learning
+beyond the classroom.</p>
+<p>Central to our mission is our commitment to technology and innovation.
+The “Transforming Education through Technology” Masterplan 2030 sets the
+stage for integrating advanced digital tools into our teaching and learning
+processes. A key initiative under this plan is strengthening Student Cyber
+Wellness, ensuring our students are empowered to navigate the digital sphere
+responsibly and ethically.</p>
+<p>The path ahead is not without challenges, but with challenges come opportunities.
+To succeed, we must embody the spirit of collaboration and service. Every
+student, educator, and stakeholder in our community has a vital role in
+shaping a culture where aspirations flourish. For our students to thrive
+in this landscape, they must be creators of solutions, connectors who build
+bridges, and contributors who leave a meaningful impact on the world.</p>
+<p>As we look ahead to 2030 and beyond, let us remain united in our pursuit
+of excellence. Together, we will forge pathways of learning, growth, and
+discovery that reflect our shared commitment to service, leadership, and
+transformation.</p>
 <p>Yours faithfully</p>
-<p>Mr Leong Kok Kee</p>
-<p>Principal</p>
+<p><strong>Mr Leong Kok Kee</strong>
+</p>
+<p><strong>Principal</strong>
+</p>
