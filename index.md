@@ -19,6 +19,13 @@ sections:
       title: Latest Happenings
       id: announcements
       announcement_items:
+        - title: Canberra PSG Welcome-Connect cum Lohei 2025
+          date: 22 January 2025
+          announcement: A welcome cum orientation meeting where you can meet with fellow
+            parents and find out how we can support our children in their 4 to 5
+            years stay in Canberra Secondary School.
+          link_text: Click here for more information
+          link_url: https://canberrasec.moe.edu.sg/canberra-psg-welcome-connect-cum-lohei-2025/
         - title: 2025 Termly Breakfast Dialogue sessions with School Leaders
           date: 22 January 2025
           announcement: Invitation to attend 1st Breakfast Dialogue Session with School
