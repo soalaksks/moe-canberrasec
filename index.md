@@ -19,6 +19,12 @@ sections:
       title: Latest Happenings
       id: announcements
       announcement_items:
+        - title: 2025 Termly Breakfast Dialogue sessions with School Leaders
+          date: 22 January 2025
+          announcement: Invitation to attend 1st Breakfast Dialogue Session with School
+            Leaders on Tuesday, 18 February 2025 from 8am to 9.30am
+          link_text: Click here for more information
+          link_url: https://canberrasec.moe.edu.sg/termly-breakfast-dialogues/
         - title: "Overseas Learning Journey 2024: Johore-Malacca, Malaysia"
           date: 29 October 2024
           announcement: Our school recently organized an enriching two-day, one-night
@@ -42,20 +48,6 @@ sections:
             October 2024 as part of our Global Canberra Programme (GCP).
           link_text: Find out more about their experience
           link_url: https://www.canberrasec.moe.edu.sg/global-canberran-programme-2024-vietnam/
-        - title: International Bi-cultural Exchange Programme
-          date: 26 August 2024
-          announcement: Recently, our Secondary 3 students had the honor of hosting a
-            group from Haikou No. One Middle School (海口市第一中学), marking our
-            school's first international exchange since the pandemic.
-          link_text: Click here to view more
-          link_url: https://canberrasec.moe.edu.sg/intl-bicultural-exchange-programme/
-        - title: Hosting of Twinning School ( 广州大学附属中学南沙实验学校 ) Principal
-          date: 12 July 2024
-          announcement: On 12 July, the school leaders had the honor of hosting Mr. Chen
-            Wen Xue, Principal of Nansha Experimental Middle School affiliated
-            with the Middle School attached to Guangzhou University.
-          link_text: Click here to view more
-          link_url: https://canberrasec.moe.edu.sg/hosting-of-twinning-school-principal/
   - resources:
       title: Announcements
       button: VIEW MORE
