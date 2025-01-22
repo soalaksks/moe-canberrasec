@@ -38,6 +38,6 @@ stay in Canberra Secondary School.
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PSL_Lohei.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/PSL_Lohei.png">
 </div>
 <p></p>
