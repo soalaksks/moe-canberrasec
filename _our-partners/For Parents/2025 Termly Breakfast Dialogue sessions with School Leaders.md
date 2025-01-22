@@ -32,6 +32,6 @@ with School Leaders will be held on the following dates:</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_BF_Dialogue_QR_Code.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/PSG_BF_Dialogue_QR_Code.png">
 </div>
 <p></p>
