@@ -2,7 +2,8 @@ collections:
   our-partners:
     output: true
     order:
-      - For Parents/PSG Breakfast Dialogues.md
+      - For Parents/2025 Termly Breakfast Dialogue sessions with School
+        Leaders.md
       - For Parents/.keep
       - For Parents/Parent Support Group.md
       - For Parents/2025 Term Letters to Parents.md
