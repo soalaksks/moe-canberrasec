@@ -33,3 +33,68 @@ encouraged them to <strong>appreciate diversity, express gratitude, and celebrat
 <p>从校园布置到活动策划，家长、学生与老师齐心协力，将校园装点成一片五彩缤纷的花海，洋溢着浓厚的新年气息。结合母语双周，传统游戏如扯铃、书法挥春、投壶、滚铁环等项目让学生们乐在其中，深入感受中华文化的深厚底蕴。</p>
 <p>以蛇年为主题的新春课室布置比赛中，各班级尽显创意与巧思，呈现了别具一格的节日风采。1月28日除夕庆祝活动将活动推向高潮：班级Lohei笑声不断，礼堂里的现代舞、古筝演奏、舞狮、杂耍及节令鼓等表演轮番上演，精彩绝伦。校长致辞中特别感谢校工的辛勤付出，并代表学校赠送家长会制作的年饼，表达诚挚的感恩之情。</p>
 <p>活动在观赏2025年农历新年MTV特辑及颁发新春课室布置比赛奖状中圆满落幕。本次活动不仅让全校师生感受到中华文化的魅力，更在感恩与惜福中携手开启了新一年的美好篇章！</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Calligraphy</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY2025_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fan Painting</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY2025_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mandarin Orange Craft</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY2025_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>LNY Display Craft</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY2025_4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Clay Making</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY2025_5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ink and Wash Painting</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY2025_6.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LNY Celebration: Lion Dance</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY2025_7.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>LNY Celebration: Blessings by the God of Fortune</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY2025_8.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
