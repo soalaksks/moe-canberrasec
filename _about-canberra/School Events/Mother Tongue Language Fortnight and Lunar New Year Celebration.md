@@ -5,28 +5,33 @@ variant: tiptap
 description: ""
 third_nav_title: School Events
 ---
-<p>The Mother Tongue Department recently organized the <strong>Mother Tongue Language Fortnight</strong> and <strong>Lunar New Year Celebration</strong>,
-giving students the chance to learn about Chinese culture in a fun and
-interactive way.</p>
-<p>During <strong>Mother Tongue Language Fortnight</strong>, students explored <strong>cultural booths</strong> where
-they tried <strong>calligraphy, fan painting, lantern making, and Mandarin orange craft</strong>.
-They also played <strong>traditional games</strong> such as <strong>spinning top, pitch-the-pot, pick-up sticks, and five stones</strong>.
-To bring festive cheer to the school, students took part in the <strong>Classroom Decoration Competition</strong>,
-using <strong>Lunar New Year ornaments and recycled materials</strong> to
-decorate their classrooms. This year, their decorations were inspired by
-the <strong>zodiac animal—the Snake</strong>.</p>
-<p>The <strong>Lunar New Year Celebration</strong> was a lively and meaningful
-event. It started with <strong>Lo Hei sessions</strong>, where students
-and their form teachers tossed the festive dish while exchanging good wishes.
-After that, they took part in <strong>craft activities</strong>, such as <strong>clay modeling, lantern painting, ink and wash painting, terracotta warrior making, and traditional Chinese architecture crafting</strong>.
-They also had fun playing classic <strong>traditional games</strong> like <strong>iron-hoop rolling and Chinese yoyo</strong>.</p>
-<p>The celebration ended with <strong>exciting performances</strong>. Our
-talented <strong>Guzheng Ensemble and Dance Club</strong> performed, followed
-by thrilling acts from <strong>external performers</strong>, including the <strong>Festival Drums, an acrobatic show, a Lion Dance, and a special appearance by the God of Fortune</strong>,
-who brought blessings and joy to everyone.</p>
-<p>Through these activities, students not only <strong>learned more about Chinese culture and traditions</strong> but
-also <strong>bonded with their friends and teachers</strong>. The event
-encouraged them to <strong>appreciate diversity, express gratitude, and celebrate the Lunar New Year in a meaningful way</strong>.</p>
+<p>In January 2025, the Mother Tongue Department organized the Mother Tongue
+Language Fortnight and Lunar New Year Celebration, giving our Canberrans
+the chance to learn about Chinese culture in a fun and interactive way.</p>
+<p>During Mother Tongue Language Fortnight, Canberrans explored cultural
+booths where they tried calligraphy, fan painting, lantern making, and
+Mandarin orange craft. They also played traditional games such as spinning
+top, pitch-the-pot, pick-up sticks, and five stones. To bring festive cheer
+to the school, students took part in the Classroom Decoration Competition,
+using Lunar New Year ornaments and recycled materials to decorate their
+classrooms. This year, their decorations were inspired by the zodiac animal—the
+Snake.</p>
+<p>The Lunar New Year Celebration was a lively and meaningful event. It started
+with Lo Hei sessions (the traditional prosperity toss salad ritual), where
+our Canberrans and their form teachers tossed the festive dish while exchanging
+good wishes. They also took part in craft activities, such as clay modeling,
+lantern painting, ink and wash painting, terracotta warrior making, and
+traditional Chinese architecture crafting. They also had fun playing classic
+traditional games like iron-hoop rolling and Chinese yoyo.</p>
+<p>The celebration ended with exciting performances. Our talented Guzheng
+Ensemble and Dance Club performed, followed by thrilling acts from external
+performers, including the Festival Drums, an acrobatic show, a Lion Dance,
+and a special appearance by the God of Fortune, who brought blessings and
+joy to everyone.</p>
+<p>Through these activities, our Canberrans not only learned more about Chinese
+culture and traditions but also bonded with their friends and teachers.
+The event encouraged them to appreciate diversity, express gratitude, and
+celebrate the Lunar New Year in a meaningful way.</p>
 <p><strong>感恩惜福迎新春，携手共创2025新篇章</strong>
 </p>
 <p>为迎接2025年农历新年，我校于1月20日至28日举办了一系列精彩纷呈的庆祝活动，全校师生与家长群策群力，共同营造了一个充满感恩与喜悦的校园氛围。</p>
