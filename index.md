@@ -19,13 +19,13 @@ sections:
       title: Latest Happenings
       id: announcements
       announcement_items:
-        - title: Canberra PSG Welcome-Connect cum Lohei 2025
-          date: 22 January 2025
-          announcement: A welcome cum orientation meeting where you can meet with fellow
-            parents and find out how we can support our children in their 4 to 5
-            years stay in Canberra Secondary School.
-          link_text: Click here for more information
-          link_url: https://canberrasec.moe.edu.sg/canberra-psg-welcome-connect-cum-lohei-2025/
+        - title: Robotics Team Clinches Create Award at National Championship
+          date: 08 February 2025
+          announcement: Canberra Secondary School's Robotics team has achieved a
+            remarkable milestone by winning the Create Award at the Singapore
+            VEX V5RC National Championship 2025.
+          link_text: Click here to read more
+          link_url: https://canberrasec.moe.edu.sg/student-innovation-shines-robotics-team-clinches-create-award-at-national-championship/
         - title: 2025 Termly Breakfast Dialogue sessions with School Leaders
           date: 22 January 2025
           announcement: Invitation to attend 1st Breakfast Dialogue Session with School
